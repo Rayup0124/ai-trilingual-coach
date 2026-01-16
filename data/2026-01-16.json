@@ -2,110 +2,113 @@
   "theme": "Daily Life",
   "vocabulary_focus": [
     {
-      "concept": "Asking for assistance",
+      "concept": "How are you? / How's it going?",
       "expressions": {
-        "en": "Could you help me?",
-        "cn": "你能帮我吗？",
-        "bm_formal": "Boleh anda bantu saya?",
-        "bm_casual": "Boleh tolong tak?"
+        "en": "How are you? / How's it going?",
+        "cn": "你好吗？/ 最近怎么样？",
+        "bm_formal": "Apa khabar?",
+        "bm_casual": "Apa cerita? / Camne?"
       }
     },
     {
-      "concept": "Expressing understanding/agreement",
+      "concept": "Thank you",
       "expressions": {
-        "en": "I understand. / Got it. / That's right.",
-        "cn": "我明白了。/ 懂了。/ 对了。",
-        "bm_formal": "Saya faham. / Betul.",
-        "bm_casual": "Faham. / Ngam. / Okay."
+        "en": "Thank you",
+        "cn": "谢谢",
+        "bm_formal": "Terima kasih",
+        "bm_casual": "Mekasih / TQ"
       }
     },
     {
-      "concept": "Requesting repetition/clarification",
+      "concept": "Excuse me / Pardon me (to get attention or pass)",
       "expressions": {
-        "en": "Could you repeat that? / What was that?",
-        "cn": "你能再说一遍吗？/ 你说什么？",
-        "bm_formal": "Boleh anda ulangi semula?",
-        "bm_casual": "Boleh ulang balik? / Apa dia?"
+        "en": "Excuse me / Pardon me",
+        "cn": "不好意思 / 借过",
+        "bm_formal": "Maafkan saya / Tumpang lalu",
+        "bm_casual": "Sorry / Tumpang"
       }
     },
     {
-      "concept": "Apologizing",
+      "concept": "Sorry / My apologies",
       "expressions": {
-        "en": "I am sorry. / Excuse me.",
-        "cn": "对不起。/ 不好意思。",
-        "bm_formal": "Saya memohon maaf. / Maafkan saya.",
-        "bm_casual": "Maaf. / Sorry."
+        "en": "Sorry / My apologies",
+        "cn": "对不起",
+        "bm_formal": "Saya minta maaf",
+        "bm_casual": "Sorry / Maaf"
       }
     },
     {
-      "concept": "Expressing strong gratitude",
+      "concept": "Can I help you? / Is there anything I can help with?",
       "expressions": {
-        "en": "Thank you very much.",
-        "cn": "非常感谢。",
-        "bm_formal": "Terima kasih banyak-banyak.",
-        "bm_casual": "Terima kasih banyak. / TQ."
+        "en": "Can I help you? / Is there anything I can help with?",
+        "cn": "我能帮你吗？/ 有什么我可以帮忙的吗？",
+        "bm_formal": "Ada apa yang boleh saya bantu?",
+        "bm_casual": "Boleh saya tolong? / Nak saya tolong?"
       }
     },
     {
-      "concept": "Seeking permission",
+      "concept": "No problem / It's okay",
       "expressions": {
-        "en": "May I ask a question?",
-        "cn": "我可以问个问题吗？",
-        "bm_formal": "Boleh saya ajukan soalan?",
-        "bm_casual": "Boleh tanya soalan?"
+        "en": "No problem / It's okay",
+        "cn": "没问题 / 没关系",
+        "bm_formal": "Tiada masalah / Tidak mengapa",
+        "bm_casual": "Takpe / No hal / Okay je"
       }
     }
   ],
   "practice_scenarios": {
     "work": {
-      "scenario": "You're at a team meeting. Your manager explains a new project, and you want to ensure you understand, or you need to ask a clarifying question.",
+      "scenario": "You meet a new colleague, Amir, on his first day. You want to make him feel welcome and offer assistance.",
       "key_phrases": [
-        "Saya faham.",
-        "Boleh saya ajukan soalan?",
-        "Boleh anda ulangi semula?"
+        "Apa khabar?",
+        "Ada apa yang boleh saya bantu?",
+        "Terima kasih",
+        "Tiada masalah"
       ]
     },
     "life": {
-      "scenario": "You're at a local hawker centre ordering food, but the vendor speaks quickly. You also need to ask for a plastic bag and thank them.",
+      "scenario": "You're at a busy pasar malam (night market) and accidentally bump into someone. You also need to ask a vendor for help.",
       "key_phrases": [
-        "Maaf, boleh ulang balik?",
-        "Boleh tolong tak?",
-        "Terima kasih banyak."
+        "Sorry",
+        "Tumpang lalu",
+        "Boleh saya tolong?",
+        "Takpe"
       ]
     },
     "tech": {
-      "scenario": "You're troubleshooting an internet issue with a customer service representative over the phone. You need to confirm steps or apologize for a misunderstanding.",
+      "scenario": "Your laptop isn't connecting to the Wi-Fi. You call tech support and need to explain the issue and respond to their help.",
       "key_phrases": [
-        "Boleh anda bantu saya?",
-        "Saya faham.",
-        "Maaf."
+        "Apa khabar?",
+        "Saya minta maaf",
+        "Ada apa yang boleh saya bantu?",
+        "Takpe"
       ]
     }
   },
   "quiz_toggle": [
     {
-      "question": "How do you say 'Could you help me?' (formal) in Malay?",
-      "answer": "Boleh anda bantu saya?"
+      "question": "How do you formally ask 'How are you?' in Malay?",
+      "answer": "Apa khabar?"
     },
     {
-      "question": "What is the casual Malay for '我明白了' (I understand)?",
-      "answer": "Faham."
+      "question": "What's a casual way to say 'Thank you' in Malay?",
+      "answer": "Mekasih"
     },
     {
-      "question": "How do you ask 'Could you repeat that?' (casual) in Malay?",
-      "answer": "Boleh ulang balik?"
+      "question": "How do you say 'Excuse me' when trying to pass through a crowded area?",
+      "answer": "Tumpang lalu"
     },
     {
-      "question": "Translate '非常感谢' (Thank you very much) into formal Malay.",
-      "answer": "Terima kasih banyak-banyak."
+      "question": "If you accidentally bump into someone, how do you apologize formally?",
+      "answer": "Saya minta maaf"
     },
     {
-      "question": "What is the casual Malay equivalent for 'I am sorry'?",
-      "answer": "Maaf."
+      "question": "How would you casually offer help to someone in Malay? (我能帮你吗？)",
+      "answer": "Nak saya tolong?"
     },
     {
-      "question": "How to say '我可以问个问题吗？' (May I ask a question?) in casual Malay?",
-      "answer": "Boleh tanya soalan?"
+      "question": "What's a casual Malay expression for 'No problem' or 'It's okay'?",
+      "answer": "Takpe"
     }
   ]
 }
