@@ -1,0 +1,18 @@
+:root{
+  --bg:#fff;
+  --fg:#111;
+  --muted:#666;
+  --accent:#d23f57;
+  --card:#f8f9fb;
+}
+body{font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; margin:0; color:var(--fg); background:var(--bg)}
+.page{max-width:900px;margin:32px auto;padding:20px}
+header h1{font-size:28px;margin:0 0 12px}
+.vocab ul{list-style:none;padding:0}
+.vocab li{background:var(--card);padding:12px;border-radius:8px;margin-bottom:8px}
+.expr{margin-top:8px;color:var(--muted);display:flex;gap:12px;flex-wrap:wrap}
+.scenarios article{background:#fff;padding:12px;border-left:3px solid #eee;margin-bottom:10px}
+.quiz details{background:#fff;padding:8px;border-radius:6px;margin-bottom:8px}
+footer{margin-top:30px;color:var(--muted)}
+
+
