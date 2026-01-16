@@ -8,6 +8,9 @@ import logging
 import re
 from datetime import datetime
 from typing import Dict, List, Optional, Any
+import os
+import time
+import pathlib
 
 from google import genai
 from google.genai import types
@@ -31,6 +34,12 @@ class AIContentGenerator:
         """Initialize Gemini client"""
         self.client = genai.Client(api_key=GEMINI_API_KEY)
         logger.info(f"Initialized Gemini client with model: {GEMINI_MODEL}")
+        # prepare raw response dir
+        try:
+            self._raw_dir = pathlib.Path("logs/raw_responses")
+            self._raw_dir.mkdir(parents=True, exist_ok=True)
+        except Exception:
+            self._raw_dir = None
 
     def select_daily_theme(self) -> str:
         """
@@ -127,10 +136,67 @@ class AIContentGenerator:
         json_text = re.sub(r'```\w*\n?', '', json_text)
         json_text = re.sub(r'```', '', json_text)
 
+        # Normalize quotes
+        json_text = json_text.replace('“', '"').replace('”', '"').replace('“', '"')
+        json_text = json_text.replace("’", "'").replace("‘", "'")
+
+        # Remove ellipses which often break JSON ("..." or "…")
+        json_text = json_text.replace("...", "").replace("…", "")
+
         # Remove trailing commas before closing braces/brackets
         json_text = re.sub(r',(\s*[}\]])', r'\1', json_text)
 
+        # Remove control chars
+        json_text = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f]', '', json_text)
+
+        # Attempt to balance braces/brackets if truncated
+        open_braces = json_text.count('{')
+        close_braces = json_text.count('}')
+        if open_braces > close_braces:
+            json_text = json_text + ('}' * (open_braces - close_braces))
+        open_brackets = json_text.count('[')
+        close_brackets = json_text.count(']')
+        if open_brackets > close_brackets:
+            json_text = json_text + (']' * (open_brackets - close_brackets))
+
         return json_text.strip()
+
+    def _save_raw_response(self, text: str) -> Optional[str]:
+        """Save raw model response for debugging. Returns path or None."""
+        try:
+            if not self._raw_dir:
+                return None
+            ts = datetime.utcnow().strftime("%Y%m%dT%H%M%SZ")
+            path = self._raw_dir / f"resp_{ts}.txt"
+            path.write_text(text, encoding="utf-8")
+            return str(path)
+        except Exception:
+            return None
+
+    def _call_model(self, prompt: str, temperature: float = 0.7, max_output_tokens: int = 4000) -> Optional[str]:
+        """Call model and return response text (or None)."""
+        try:
+            resp = self.client.models.generate_content(
+                model=GEMINI_MODEL,
+                contents=prompt,
+                config=types.GenerateContentConfig(temperature=temperature, max_output_tokens=max_output_tokens)
+            )
+            if not resp.candidates:
+                return None
+            # concatenate parts safely
+            parts = []
+            for p in resp.candidates[0].content.parts:
+                text = getattr(p, "text", None)
+                if text is None:
+                    try:
+                        text = str(p)
+                    except Exception:
+                        text = ""
+                parts.append(text)
+            return "".join(parts)
+        except Exception as e:
+            logger.error(f"Model call error: {e}")
+            return None
 
     def validate_response_data(self, data: Dict[str, Any]) -> bool:
         """
@@ -191,29 +257,34 @@ class AIContentGenerator:
             # Generate prompt
             prompt = self.generate_prompt(theme)
 
-            # Call Gemini API
-            logger.info("Calling Gemini API...")
-            response = self.client.models.generate_content(
-                model=GEMINI_MODEL,
-                contents=prompt,
-                config=types.GenerateContentConfig(
-                    temperature=0.7,
-                    max_output_tokens=4000,
-                )
-            )
+            # Call Gemini API with retries and stricter fallback
+            attempts = 3
+            data = None
+            last_raw = None
+            for attempt in range(1, attempts + 1):
+                temp = 0.7 if attempt == 1 else 0.0
+                logger.info(f"Calling Gemini API (attempt {attempt}, temp={temp})...")
+                response_text = self._call_model(prompt, temperature=temp, max_output_tokens=4000)
+                if not response_text:
+                    logger.error("No response from model")
+                    continue
+                last_raw = response_text
+                logger.info(f"Received response ({len(response_text)} chars)")
+                # try parse
+                data = self.extract_json_from_response(response_text)
+                if data:
+                    break
+                # save raw for debugging
+                raw_path = self._save_raw_response(response_text)
+                if raw_path:
+                    logger.info(f"Saved raw response to {raw_path}")
+                # tweak prompt for next attempt
+                prompt = prompt + "\n\nReturn ONLY valid JSON between <<<JSON_START>>> and <<<JSON_END>>> with no extra text."
 
-            # Extract response text
-            if not response.candidates:
-                logger.error("No candidates in Gemini response")
-                return None
-
-            response_text = response.candidates[0].content.parts[0].text
-            logger.info(f"Received response ({len(response_text)} chars)")
-
-            # Parse JSON
-            data = self.extract_json_from_response(response_text)
             if not data:
                 logger.error("Failed to parse JSON from response")
+                if last_raw:
+                    logger.error(f"Raw response text: {last_raw[:2000]}")
                 return None
 
             # Validate structure
