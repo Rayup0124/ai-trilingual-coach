@@ -14,6 +14,8 @@ export default function Home() {
   const [data, setData] = useState(null)
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(null)
+  const [lang, setLang] = useState('en') // en | cn | bm
+  const [learned, setLearned] = useState(new Set())
 
   useEffect(() => {
     const date = formatMYDate()
@@ -36,6 +38,37 @@ export default function Home() {
       })
   }, [])
 
+  // load learned items from localStorage per date
+  useEffect(() => {
+    const date = formatMYDate()
+    const key = `learned_${date}`
+    try {
+      const raw = localStorage.getItem(key)
+      if (raw) {
+        const arr = JSON.parse(raw)
+        setLearned(new Set(arr))
+      }
+    } catch (e) {
+      // ignore
+    }
+  }, [])
+
+  const toggleLearned = (concept) => {
+    const date = formatMYDate()
+    const key = `learned_${date}`
+    const next = new Set(learned)
+    if (next.has(concept)) next.delete(concept)
+    else next.add(concept)
+    setLearned(next)
+    try {
+      localStorage.setItem(key, JSON.stringify(Array.from(next)))
+    } catch (e) {}
+  }
+
+  const exportPDF = () => {
+    window.print()
+  }
+
   if (loading) return <div className="page"><h2>Loading today's lesson...</h2></div>
   if (error) return <div className="page"><h3>Error</h3><pre>{error}</pre></div>
 
@@ -44,7 +77,17 @@ export default function Home() {
   return (
     <div className="page">
       <header>
-        <h1>📚 {new Date().toLocaleDateString()} - {theme}</h1>
+        <div className="header-row">
+          <h1>📚 {new Date().toLocaleDateString()} - {theme}</h1>
+          <div className="controls">
+            <div className="lang-switch">
+              <button className={lang==='en'?'active':''} onClick={()=>setLang('en')}>EN</button>
+              <button className={lang==='cn'?'active':''} onClick={()=>setLang('cn')}>中文</button>
+              <button className={lang==='bm'?'active':''} onClick={()=>setLang('bm')}>BM</button>
+            </div>
+            <button className="export-btn" onClick={exportPDF}>Export / Print</button>
+          </div>
+        </div>
       </header>
 
       <section className="vocab">
@@ -52,13 +95,20 @@ export default function Home() {
         <ul>
           {vocabulary_focus.map((v, i) => {
             const e = v.expressions || {}
+            const concept = v.concept || `item-${i}`
+            const isLearned = learned.has(concept)
             return (
-              <li key={i}>
-                <strong>{v.concept}</strong>
+              <li key={i} className={isLearned ? 'learned' : ''}>
+                <div className="vocab-row">
+                  <strong>{v.concept}</strong>
+                  <button className="learn-toggle" onClick={()=>toggleLearned(concept)}>{isLearned ? '✓ Learned' : 'Mark learned'}</button>
+                </div>
                 <div className="expr">
-                  <span className="en">{e.en}</span>
-                  <span className="cn">{e.cn}</span>
-                  <span className="bm">{e.bm_formal} / {e.bm_casual}</span>
+                  <span className="en" style={{display: lang==='en' ? 'inline' : 'none'}}>{e.en}</span>
+                  <span className="cn" style={{display: lang==='cn' ? 'inline' : 'none'}}>{e.cn}</span>
+                  <span className="bm" style={{display: lang==='bm' ? 'inline' : 'none'}}>{e.bm_formal || e.bm_casual}</span>
+                  {/* show condensed multilingual line when all selected */}
+                  <div className="multilang" style={{display: lang==='all' ? 'block' : 'none'}}>{e.en} · {e.cn} · {e.bm_formal || e.bm_casual}</div>
                 </div>
               </li>
             )
