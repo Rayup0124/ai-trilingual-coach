@@ -71,6 +71,11 @@ if not THEME_ROTATION:
     THEME_ROTATION = ['work', 'life', 'tech']
     print("THEME_ROTATION was empty; defaulting to: work,life,tech")
 
+# Ensure GEMINI_MODEL is not empty (handle case where secret exists but is empty string)
+if GEMINI_MODEL is None or str(GEMINI_MODEL).strip() == '':
+    GEMINI_MODEL = 'models/gemini-1.5-flash'
+    print("GEMINI_MODEL was empty; defaulting to 'models/gemini-1.5-flash'")
+
 # Application constants
 APP_NAME = "AI Trilingual Coach"
 APP_VERSION = "1.0.0"
