@@ -66,6 +66,10 @@ except ValueError:
 # Parse THEME_ROTATION into a cleaned list and filter out empty entries
 _themes_raw = get_env_var('THEME_ROTATION', 'work,life,tech')
 THEME_ROTATION = [t.strip() for t in str(_themes_raw).split(',') if t.strip()]
+# If THEME_ROTATION ended up empty (e.g. secret set but empty), fall back to defaults
+if not THEME_ROTATION:
+    THEME_ROTATION = ['work', 'life', 'tech']
+    print("THEME_ROTATION was empty; defaulting to: work,life,tech")
 
 # Application constants
 APP_NAME = "AI Trilingual Coach"
