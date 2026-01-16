@@ -1,0 +1,52 @@
+name: Daily Trilingual Lesson
+
+on:
+  schedule:
+    # Run daily at 8:00 AM Malaysia time (UTC+8)
+    # 8 AM Malaysia = 12 AM UTC (24:00 - 8 = 16:00 previous day in UTC)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  generate-lesson:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Cache pip dependencies
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run AI Trilingual Coach
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+        NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+        GEMINI_MODEL: ${{ secrets.GEMINI_MODEL }}
+        MAX_VOCABULARY: ${{ secrets.MAX_VOCABULARY }}
+        THEME_ROTATION: ${{ secrets.THEME_ROTATION }}
+      run: |
+        echo "🚀 Starting daily lesson generation..."
+        python main.py
+
+    - name: Notify on failure
+      if: failure()
+      run: |
+        echo "❌ Daily lesson generation failed"
+        echo "Check the logs above for details"
