@@ -42,9 +42,27 @@ jobs:
         GEMINI_MODEL: ${{ secrets.GEMINI_MODEL }}
         MAX_VOCABULARY: ${{ secrets.MAX_VOCABULARY }}
         THEME_ROTATION: ${{ secrets.THEME_ROTATION }}
+        WRITE_JSON: '1'
       run: |
         echo "🚀 Starting daily lesson generation..."
-        python main.py
+        python main.py --write-json
+
+    - name: Commit generated JSON
+      run: |
+        git status --porcelain
+        if [ -n "$(git status --porcelain)" ]; then
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/*.json || true
+          if [ -n "$(git diff --staged --name-only)" ]; then
+            git commit -m "chore: add generated lesson $(date -u +%Y-%m-%d)"
+            git push origin main
+          else
+            echo "No staged changes to commit"
+          fi
+        else
+          echo "No changes to commit"
+        fi
 
     - name: Notify on failure
       if: failure()

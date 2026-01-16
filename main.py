@@ -7,6 +7,8 @@ Generates daily trilingual vocabulary lessons and publishes to Notion
 import sys
 import logging
 from datetime import datetime
+import os
+import json
 
 from config import validate_config, APP_NAME, APP_VERSION
 from worker_lang import generate_content
@@ -68,6 +70,21 @@ def run() -> int:
         logger.info(f"Quiz questions: {len(content_data.get('quiz_toggle', []))}")
         logger.info(f"Notion page ID: {page_id}")
         logger.info(f"Total time: {duration.total_seconds():.2f} seconds")
+        # Optionally write generated JSON to repository (workflow can commit it)
+        write_json_flag = os.getenv("WRITE_JSON", "0") == "1"
+        if "--write-json" in sys.argv:
+            write_json_flag = True
+
+        if write_json_flag and content_data:
+            try:
+                os.makedirs("data", exist_ok=True)
+                date_str = datetime.now().strftime("%Y-%m-%d")
+                filename = f"data/{date_str}.json"
+                with open(filename, "w", encoding="utf-8") as fh:
+                    json.dump(content_data, fh, ensure_ascii=False, indent=2)
+                logger.info(f"Wrote generated JSON to {filename}")
+            except Exception as e:
+                logger.error(f"Failed to write JSON file: {e}")
 
         return 0
 
