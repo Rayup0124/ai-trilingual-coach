@@ -3,8 +3,9 @@ name: Daily Trilingual Lesson
 on:
   schedule:
     # Run daily at 8:00 AM Malaysia time (UTC+8)
-    # 8 AM Malaysia = 12 AM UTC (24:00 - 8 = 16:00 previous day in UTC)
-    - cron: '0 0 * * *'
+    # Run daily at 07:00 AM Malaysia time (UTC+8)
+    # 07:00 MYT = 23:00 UTC (previous day)
+    - cron: '0 23 * * *'
   workflow_dispatch: # Allow manual trigger
 
 jobs:
