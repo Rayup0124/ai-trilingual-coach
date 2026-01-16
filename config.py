@@ -51,8 +51,21 @@ NOTION_DATABASE_ID = require_env_var('NOTION_DATABASE_ID')
 
 # Optional environment variables with defaults
 GEMINI_MODEL = get_env_var('GEMINI_MODEL', 'models/gemini-1.5-flash')
-MAX_VOCABULARY = int(get_env_var('MAX_VOCABULARY', '6'))
-THEME_ROTATION = get_env_var('THEME_ROTATION', 'work,life,tech').split(',')
+
+# Parse MAX_VOCABULARY safely: handle None or empty-string from environment (e.g. GitHub Actions empty secrets)
+_max_vocab_raw = get_env_var('MAX_VOCABULARY', None)
+try:
+    if _max_vocab_raw is None or str(_max_vocab_raw).strip() == '':
+        MAX_VOCABULARY = 6
+    else:
+        MAX_VOCABULARY = int(str(_max_vocab_raw).strip())
+except ValueError:
+    print(f"Invalid MAX_VOCABULARY value '{_max_vocab_raw}', falling back to 6")
+    MAX_VOCABULARY = 6
+
+# Parse THEME_ROTATION into a cleaned list and filter out empty entries
+_themes_raw = get_env_var('THEME_ROTATION', 'work,life,tech')
+THEME_ROTATION = [t.strip() for t in str(_themes_raw).split(',') if t.strip()]
 
 # Application constants
 APP_NAME = "AI Trilingual Coach"
