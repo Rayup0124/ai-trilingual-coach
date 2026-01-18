@@ -18,24 +18,39 @@ export default function Home() {
   const [learned, setLearned] = useState(new Set())
 
   useEffect(() => {
-    const date = formatMYDate()
     const owner = 'Rayup0124'
     const repo = 'ai-trilingual-coach'
-    const url = `https://raw.githubusercontent.com/${owner}/${repo}/main/data/${date}.json`
 
-    fetch(url)
-      .then((res) => {
-        if (!res.ok) throw new Error(`Failed to fetch lesson JSON: ${res.status}`)
-        return res.json()
-      })
-      .then((j) => {
-        setData(j)
-        setLoading(false)
-      })
-      .catch((e) => {
-        setError(e.message)
-        setLoading(false)
-      })
+    // Try today's date first, then fallback up to 6 previous days
+    const tryFetch = async () => {
+      const today = new Date()
+      for (let offset = 0; offset < 7; offset++) {
+        const d = new Date(today)
+        d.setDate(today.getDate() - offset)
+        const dateStr = formatMYDate(d)
+        const url = `https://raw.githubusercontent.com/${owner}/${repo}/main/data/${dateStr}.json`
+        try {
+          const res = await fetch(url)
+          if (!res.ok) {
+            // try previous day
+            continue
+          }
+          const j = await res.json()
+          setData(j)
+          setLoading(false)
+          // store which date we loaded
+          setLoadedDate(dateStr)
+          return
+        } catch (e) {
+          // continue to previous date
+          continue
+        }
+      }
+      setError('Failed to fetch lesson JSON: 404 (no recent data)')
+      setLoading(false)
+    }
+
+    tryFetch()
   }, [])
 
   // load learned items from localStorage per date
@@ -74,11 +89,13 @@ export default function Home() {
 
   const { theme, vocabulary_focus = [], practice_scenarios = {}, quiz_toggle = [] } = data
 
+  const [loadedDate, setLoadedDate] = useState(null)
+
   return (
     <div className="page">
       <header>
         <div className="header-row">
-          <h1>📚 {new Date().toLocaleDateString()} - {theme}</h1>
+          <h1>📚 {loadedDate ? loadedDate : new Date().toLocaleDateString()} - {theme}</h1>
           <div className="controls">
             <div className="lang-switch">
               <button className={lang==='en'?'active':''} onClick={()=>setLang('en')}>EN</button>
@@ -92,6 +109,9 @@ export default function Home() {
 
       <section className="vocab">
         <h2>🎯 Key Vocabulary</h2>
+        {loadedDate && loadedDate !== formatMYDate() && (
+          <div style={{color:'#b33',marginBottom:8}}>Note: showing most recent available lesson ({loadedDate})</div>
+        )}
         <ul>
           {vocabulary_focus.map((v, i) => {
             const e = v.expressions || {}
