@@ -17,6 +17,8 @@ export default function Home() {
   const [lang, setLang] = useState('en') // en | cn | bm
   const [learned, setLearned] = useState(new Set())
   const [loadedDate, setLoadedDate] = useState(null)
+  const [availableDates, setAvailableDates] = useState([])
+  const [selectedDate, setSelectedDate] = useState(null)
 
   useEffect(() => {
     const owner = 'Rayup0124'
@@ -76,6 +78,21 @@ export default function Home() {
     tryFetch()
   }, [])
 
+  // load list of available dates for dropdown
+  useEffect(() => {
+    const fetchList = async () => {
+      try {
+        const r = await fetch('/api/latest')
+        if (!r.ok) return
+        const info = await r.json()
+        if (info && Array.isArray(info.files)) {
+          setAvailableDates(info.files.map(f => f.replace('.json', '')))
+        }
+      } catch (e) {}
+    }
+    fetchList()
+  }, [])
+
   // load learned items from localStorage per date
   useEffect(() => {
     const date = formatMYDate()
@@ -107,6 +124,39 @@ export default function Home() {
     window.print()
   }
 
+  const gotoDate = async (dateStr) => {
+    setLoading(true)
+    setError(null)
+    try {
+      const owner = 'Rayup0124'
+      const repo = 'ai-trilingual-coach'
+      const url = `https://raw.githubusercontent.com/${owner}/${repo}/main/data/${dateStr}.json`
+      const res = await fetch(url)
+      if (!res.ok) {
+        throw new Error(`Failed to fetch lesson JSON: ${res.status}`)
+      }
+      const j = await res.json()
+      setData(j)
+      setLoadedDate(dateStr)
+      setSelectedDate(dateStr)
+    } catch (e) {
+      setError(e.message)
+    } finally {
+      setLoading(false)
+    }
+  }
+
+  const prevDate = () => {
+    if (!loadedDate) return
+    const idx = availableDates.indexOf(loadedDate)
+    if (idx > 0) gotoDate(availableDates[idx - 1])
+  }
+  const nextDate = () => {
+    if (!loadedDate) return
+    const idx = availableDates.indexOf(loadedDate)
+    if (idx >= 0 && idx < availableDates.length - 1) gotoDate(availableDates[idx + 1])
+  }
+
   if (loading) return <div className="page"><h2>Loading today's lesson...</h2></div>
   if (error) return <div className="page"><h3>Error</h3><pre>{error}</pre></div>
 
@@ -122,6 +172,15 @@ export default function Home() {
         <div className="header-row">
           <h1>📚 {loadedDate ? loadedDate : new Date().toLocaleDateString()} - {theme}</h1>
           <div className="controls">
+            <div className="date-controls">
+              <button onClick={prevDate} className="date-btn">◀</button>
+              <input type="date" value={selectedDate || ''} onChange={(e)=>{ setSelectedDate(e.target.value); gotoDate(e.target.value)}} />
+              <button onClick={nextDate} className="date-btn">▶</button>
+              <select value={selectedDate||''} onChange={(e)=>{ setSelectedDate(e.target.value); gotoDate(e.target.value)}}>
+                <option value="">Recent lessons</option>
+                {availableDates.map(d=> <option key={d} value={d}>{d}</option>)}
+              </select>
+            </div>
             <div className="lang-switch">
               <button className={lang==='en'?'active':''} onClick={()=>setLang('en')}>EN</button>
               <button className={lang==='cn'?'active':''} onClick={()=>setLang('cn')}>中文</button>
