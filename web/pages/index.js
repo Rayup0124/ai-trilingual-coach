@@ -16,6 +16,7 @@ export default function Home() {
   const [error, setError] = useState(null)
   const [lang, setLang] = useState('en') // en | cn | bm
   const [learned, setLearned] = useState(new Set())
+  const [loadedDate, setLoadedDate] = useState(null)
 
   useEffect(() => {
     const owner = 'Rayup0124'
@@ -109,9 +110,11 @@ export default function Home() {
   if (loading) return <div className="page"><h2>Loading today's lesson...</h2></div>
   if (error) return <div className="page"><h3>Error</h3><pre>{error}</pre></div>
 
-  const { theme, vocabulary_focus = [], practice_scenarios = {}, quiz_toggle = [] } = data
-
-  const [loadedDate, setLoadedDate] = useState(null)
+  // defensive access to avoid runtime errors if data shape is unexpected
+  const theme = (data && data.theme) || 'Daily Lesson'
+  const vocabulary_focus = Array.isArray(data && data.vocabulary_focus) ? data.vocabulary_focus : []
+  const practice_scenarios = (data && data.practice_scenarios) || {}
+  const quiz_toggle = Array.isArray(data && data.quiz_toggle) ? data.quiz_toggle : []
 
   return (
     <div className="page">
