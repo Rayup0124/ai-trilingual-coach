@@ -1,0 +1,47 @@
+name: Manual Backfill Lessons
+
+on:
+  workflow_dispatch:
+    inputs:
+      start_date:
+        description: 'Start date (YYYY-MM-DD)'
+        required: true
+        default: '2026-01-12'
+      end_date:
+        description: 'End date (YYYY-MM-DD)'
+        required: true
+        default: '2026-01-15'
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Run backfill script
+        env:
+          INPUT_START_DATE: ${{ github.event.inputs.start_date }}
+          INPUT_END_DATE: ${{ github.event.inputs.end_date }}
+        run: |
+          python -m pip install --upgrade pip
+          python scripts/backfill_copy.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/*.json || true
+          if [ -n "$(git diff --staged --name-only)" ]; then
+            git commit -m "chore: backfill lessons ${{ github.event.inputs.start_date }}..${{ github.event.inputs.end_date }}"
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
+
+
