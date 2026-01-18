@@ -46,6 +46,28 @@ export default function Home() {
           continue
         }
       }
+
+      // fallback: ask server for latest file name
+      try {
+        const r = await fetch('/api/latest')
+        if (r.ok) {
+          const info = await r.json()
+          if (info && info.latest) {
+            const url2 = `https://raw.githubusercontent.com/${owner}/${repo}/main/data/${info.latest}`
+            const res2 = await fetch(url2)
+            if (res2.ok) {
+              const j2 = await res2.json()
+              setData(j2)
+              setLoading(false)
+              setLoadedDate(info.latest.replace('.json', ''))
+              return
+            }
+          }
+        }
+      } catch (er) {
+        // ignore
+      }
+
       setError('Failed to fetch lesson JSON: 404 (no recent data)')
       setLoading(false)
     }
