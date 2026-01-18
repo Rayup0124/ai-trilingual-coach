@@ -1,5 +1,3 @@
-import fetch from 'node-fetch'
-
 export default async function handler(req, res) {
   const owner = 'Rayup0124'
   const repo = 'ai-trilingual-coach'
