@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting Information/Document",
+      "expressions": {
+        "en": "Please send me",
+        "cn": "请发给我",
+        "bm_formal": "Sila hantar kepada saya",
+        "bm_casual": "Boleh hantar kat saya?"
+      }
+    },
+    {
+      "concept": "Taking Action/Responsibility",
+      "expressions": {
+        "en": "I will follow up.",
+        "cn": "我会跟进。",
+        "bm_formal": "Saya akan susulan.",
+        "bm_casual": "Saya akan *follow up*."
+      }
+    },
+    {
+      "concept": "Offering Help/Support",
+      "expressions": {
+        "en": "Let me know if you need anything.",
+        "cn": "如果您需要什么，请告诉我。",
+        "bm_formal": "Maklumkan kepada saya jika ada apa-apa yang diperlukan.",
+        "bm_casual": "Bagitahu je kalau perlukan apa-apa."
+      }
+    },
+    {
+      "concept": "Acknowledging Comprehension",
+      "expressions": {
+        "en": "I understand. / Got it.",
+        "cn": "我明白了。",
+        "bm_formal": "Saya faham. / Baik, saya faham.",
+        "bm_casual": "Faham. / Okay, faham."
+      }
+    },
+    {
+      "concept": "Apologizing for Delay",
+      "expressions": {
+        "en": "I apologize for the delay.",
+        "cn": "抱歉迟了。",
+        "bm_formal": "Saya mohon maaf atas kelewatan ini.",
+        "bm_casual": "Maaf lambat."
+      }
+    },
+    {
+      "concept": "Seeking Clarification",
+      "expressions": {
+        "en": "Could you please clarify?",
+        "cn": "您能再解释一下吗？",
+        "bm_formal": "Boleh anda jelaskan semula?",
+        "bm_casual": "Boleh terangkan balik?"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You need to request the latest sales report from a colleague and offer assistance if they face issues.",
+      "key_phrases": [
+        "Sila hantar kepada saya laporan jualan terkini.",
+        "Saya akan susulan jika belum terima.",
+        "Maklumkan kepada saya jika ada apa-apa yang diperlukan."
+      ]
+    },
+    "life": {
+      "scenario": "You're planning an outing with friends and need to confirm details, apologizing for your late reply.",
+      "key_phrases": [
+        "Maaf lambat balas.",
+        "Boleh terangkan balik detailnya?",
+        "Bagitahu je kalau ada apa-apa soalan."
+      ]
+    },
+    "tech": {
+      "scenario": "You've reported a bug to the IT support and want to confirm they understood, offering more details if needed.",
+      "key_phrases": [
+        "Baik, saya faham isu tersebut.",
+        "Saya akan *follow up* dengan pasukan teknikal.",
+        "Bagitahu kalau perlukan maklumat lanjut."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally say 'Please send me the report'?",
+      "answer": "Sila hantar kepada saya laporan itu."
+    },
+    {
+      "question": "How do you casually say 'I will follow up'?",
+      "answer": "Saya akan *follow up*."
+    },
+    {
+      "question": "请告诉我，如果你需要什么 (Let me know if you need anything) - Formal.",
+      "answer": "Maklumkan kepada saya jika ada apa-apa yang diperlukan."
+    },
+    {
+      "question": "How do you casually acknowledge 'Got it'?",
+      "answer": "Faham. / Okay, faham."
+    },
+    {
+      "question": "How do you formally apologize for a delay?",
+      "answer": "Saya mohon maaf atas kelewatan ini."
+    },
+    {
+      "question": "您能再解释一下吗？ (Could you please clarify?) (Casual)",
+      "answer": "Boleh terangkan balik?"
+    }
+  ]
+}
