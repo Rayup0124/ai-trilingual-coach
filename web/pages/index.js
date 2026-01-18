@@ -86,7 +86,18 @@ export default function Home() {
         if (!r.ok) return
         const info = await r.json()
         if (info && Array.isArray(info.files)) {
-          setAvailableDates(info.files.map(f => f.replace('.json', '')))
+          const dates = info.files.map(f => f.replace('.json', ''))
+          setAvailableDates(dates)
+          // if user hasn't selected a date, prefer 2026-01-16 when available
+          if (!selectedDate) {
+            const preferred = '2026-01-16'
+            if (dates.includes(preferred)) {
+              setSelectedDate(preferred)
+              gotoDate(preferred)
+            } else if (dates.length) {
+              setSelectedDate(dates[0])
+            }
+          }
         }
       } catch (e) {}
     }
