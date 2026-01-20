@@ -1,0 +1,119 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To update / To upgrade (software/system)",
+      "expressions": {
+        "en": "To update / To upgrade",
+        "cn": "更新 / 升级 (gēngxīn / shēngjí)",
+        "bm_formal": "Mengemaskini / Menaiktaraf",
+        "bm_casual": "Update / Upgrade / Kemas kini"
+      }
+    },
+    {
+      "concept": "Digital transformation",
+      "expressions": {
+        "en": "Digital transformation",
+        "cn": "数字化转型 (shùzìhuà zhuǎnxíng)",
+        "bm_formal": "Transformasi digital",
+        "bm_casual": "Transformasi digital"
+      }
+    },
+    {
+      "concept": "To troubleshoot / To resolve an issue",
+      "expressions": {
+        "en": "To troubleshoot / To resolve an issue",
+        "cn": "排除故障 / 解决问题 (páichú gùzhàng / jiějué wèntí)",
+        "bm_formal": "Menyelesaikan masalah / Mengatasi isu",
+        "bm_casual": "Betulkan masalah / Settle masalah / Troubleshoot"
+      }
+    },
+    {
+      "concept": "Online platform / Digital system",
+      "expressions": {
+        "en": "Online platform / Digital system",
+        "cn": "在线平台 / 数字系统 (zàixiàn píngtái / shùzì xìtǒng)",
+        "bm_formal": "Platform dalam talian / Sistem digital",
+        "bm_casual": "Platform online / Sistem digital"
+      }
+    },
+    {
+      "concept": "Data security / Data privacy",
+      "expressions": {
+        "en": "Data security / Data privacy",
+        "cn": "数据安全 / 数据隐私 (shùjù ānquán / shùjù yǐnsī)",
+        "bm_formal": "Keselamatan data / Privasi data",
+        "bm_casual": "Data security / Privasi data"
+      }
+    },
+    {
+      "concept": "Artificial Intelligence (AI)",
+      "expressions": {
+        "en": "Artificial Intelligence (AI)",
+        "cn": "人工智能 (réngōng zhìnéng)",
+        "bm_formal": "Kecerdasan Buatan (AI)",
+        "bm_casual": "AI / Kecerdasan Buatan"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Your team is discussing the need to update the company's internal system and the ongoing digital transformation project.",
+      "key_phrases": [
+        "Kita perlu mengemaskini sistem kita secepat mungkin.",
+        "Projek transformasi digital ini sangat penting untuk syarikat.",
+        "Ada masalah teknikal dengan perisian baru, kita perlu menyelesaikannya."
+      ]
+    },
+    "life": {
+      "scenario": "You're talking to a friend about updating phone apps, using a new online service, and concerns about personal data privacy.",
+      "key_phrases": [
+        "Saya kena update semua apps dalam telefon ni.",
+        "Platform online baru ni senang sangat nak guna untuk beli-belah.",
+        "Saya risau pasal privasi data bila guna aplikasi baru."
+      ]
+    },
+    "tech": {
+      "scenario": "You're at a tech conference, discussing the advancements in AI and how to troubleshoot common software issues.",
+      "key_phrases": [
+        "Teknologi Kecerdasan Buatan (AI) semakin maju dan mengubah banyak industri.",
+        "Bagaimana cara terbaik untuk troubleshoot isu sambungan internet ini?",
+        "Sistem lama kita perlu dinaiktaraf untuk menyokong ciri-ciri baru."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'To update the system' (formal Malay)?",
+      "answer": "Mengemaskini sistem"
+    },
+    {
+      "question": "How do you say 'Digital transformation' (casual Malay)?",
+      "answer": "Transformasi digital"
+    },
+    {
+      "question": "How do you say 'To troubleshoot a problem' (casual Malay)?",
+      "answer": "Betulkan masalah"
+    },
+    {
+      "question": "How do you say 'Online platform' (formal Malay)?",
+      "answer": "Platform dalam talian"
+    },
+    {
+      "question": "How do you say 'Data security' (casual Malay)?",
+      "answer": "Data security"
+    },
+    {
+      "question": "How do you say 'Artificial Intelligence' (formal Malay)?",
+      "answer": "Kecerdasan Buatan"
+    },
+    {
+      "question": "How do you say 'To upgrade the software' (casual Malay)?",
+      "answer": "Upgrade software"
+    },
+    {
+      "question": "How do you say 'To resolve an issue' (formal Malay)?",
+      "answer": "Mengatasi isu"
+    }
+  ]
+}
