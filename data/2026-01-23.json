@@ -1,0 +1,114 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "Innovation / To innovate",
+      "expressions": {
+        "en": "Innovation / To innovate",
+        "cn": "创新 / 创新 (chuàngxīn)",
+        "bm_formal": "Inovasi / Berinovasi",
+        "bm_casual": "Idea baru / Cipta benda baru"
+      }
+    },
+    {
+      "concept": "Digital transformation",
+      "expressions": {
+        "en": "Digital transformation",
+        "cn": "数字化转型 (shùzìhuà zhuǎnxíng)",
+        "bm_formal": "Transformasi digital",
+        "bm_casual": "Tukar ke digital / Guna digital"
+      }
+    },
+    {
+      "concept": "To update / To upgrade (system/software)",
+      "expressions": {
+        "en": "To update / To upgrade",
+        "cn": "更新 / 升级 (gēngxīn / shēngjí)",
+        "bm_formal": "Mengemas kini / Menaik taraf",
+        "bm_casual": "Update / Upgrade"
+      }
+    },
+    {
+      "concept": "User-friendly",
+      "expressions": {
+        "en": "User-friendly",
+        "cn": "用户友好 (yònghù yǒuhǎo) / 方便使用 (fāngbiàn shǐyòng)",
+        "bm_formal": "Mesra pengguna",
+        "bm_casual": "Senang guna / Mudah pakai"
+      }
+    },
+    {
+      "concept": "Data analysis",
+      "expressions": {
+        "en": "Data analysis",
+        "cn": "数据分析 (shùjù fēnxī)",
+        "bm_formal": "Analisis data",
+        "bm_casual": "Kaji data / Cek data"
+      }
+    },
+    {
+      "concept": "Solution / To provide a solution",
+      "expressions": {
+        "en": "Solution / To provide a solution",
+        "cn": "解决方案 / 提供解决方案 (jiějué fāng'àn / tígōng jiějué fāng'àn)",
+        "bm_formal": "Penyelesaian / Memberikan penyelesaian",
+        "bm_casual": "Jalan keluar / Bagi solution"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "In a project meeting, your manager emphasizes the need for digital transformation and innovative solutions to improve workflow efficiency. They also stress that any new system must be user-friendly.",
+      "key_phrases": [
+        "Kita perlu fokus pada **transformasi digital**.",
+        "Cari **inovasi** yang boleh tingkatkan kecekapan.",
+        "Sistem baru mesti **mesra pengguna**.",
+        "Kita kena bagi **penyelesaian** yang efektif."
+      ]
+    },
+    "life": {
+      "scenario": "You're chatting with a friend about a new app for public transport. They complain about needing to update it frequently but like how easy it is to use. You then talk about how new ideas are changing daily life.",
+      "key_phrases": [
+        "App ni selalu kena **update**.",
+        "Tapi memang **senang guna**.",
+        "Banyak **idea baru** keluar sekarang.",
+        "Macam mana diorang **kaji data** untuk buat app ni?"
+      ]
+    },
+    "tech": {
+      "scenario": "Two IT colleagues are discussing how to improve their company's internal system. They talk about upgrading the existing platform, analyzing performance data, and brainstorming innovative approaches to provide better solutions.",
+      "key_phrases": [
+        "Kita patut **menaiktaraf** sistem ni.",
+        "Perlu buat **analisis data** dulu.",
+        "Kena **berinovasi** untuk cari cara baru.",
+        "Macam mana kita nak **memberikan penyelesaian** terbaik?"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'innovation' in formal Malay?",
+      "answer": "Inovasi"
+    },
+    {
+      "question": "我们正在进行数字化转型。(We are undergoing digital transformation.) How do you say 'digital transformation' casually?",
+      "answer": "Tukar ke digital"
+    },
+    {
+      "question": "What's the formal Malay for 'to update' (a system)?",
+      "answer": "Mengemas kini"
+    },
+    {
+      "question": "这个应用程序非常方便使用。(This app is very user-friendly.) How do you say 'user-friendly' casually?",
+      "answer": "Senang guna"
+    },
+    {
+      "question": "What is 'data analysis' in formal Malay?",
+      "answer": "Analisis data"
+    },
+    {
+      "question": "我们需要提供一个解决方案。(We need to provide a solution.) How do you say 'to provide a solution' casually?",
+      "answer": "Bagi solution"
+    }
+  ]
+}
