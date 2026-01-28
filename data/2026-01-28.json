@@ -1,0 +1,111 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for assistance",
+      "expressions": {
+        "en": "Can you help me?",
+        "cn": "你能帮我吗？",
+        "bm_formal": "Boleh anda bantu saya?",
+        "bm_casual": "Boleh tolong tak?"
+      }
+    },
+    {
+      "concept": "Understanding/Clarification",
+      "expressions": {
+        "en": "Do you understand?",
+        "cn": "你明白吗？",
+        "bm_formal": "Adakah anda faham?",
+        "bm_casual": "Faham tak?"
+      }
+    },
+    {
+      "concept": "Expressing agreement/affirmation",
+      "expressions": {
+        "en": "Okay / Alright",
+        "cn": "好的 / 没问题",
+        "bm_formal": "Baik / Baiklah",
+        "bm_casual": "Okay / Boleh"
+      }
+    },
+    {
+      "concept": "Apology/Excuse me",
+      "expressions": {
+        "en": "Excuse me / Sorry",
+        "cn": "对不起 / 不好意思",
+        "bm_formal": "Maafkan saya",
+        "bm_casual": "Maaf / Minta maaf"
+      }
+    },
+    {
+      "concept": "Asking for availability",
+      "expressions": {
+        "en": "Are you free? / Do you have time?",
+        "cn": "你有空吗？",
+        "bm_formal": "Adakah anda lapang?",
+        "bm_casual": "Ada masa tak? / Free tak?"
+      }
+    },
+    {
+      "concept": "Expressing gratitude",
+      "expressions": {
+        "en": "Thank you very much",
+        "cn": "非常感谢",
+        "bm_formal": "Terima kasih banyak-banyak",
+        "bm_casual": "Terima kasih banyak / Mekasih"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "During a team meeting, your manager explains a new process. You need to confirm your understanding and agree to the next steps. Later, a colleague asks for your help with a related task.",
+      "key_phrases": [
+        "Adakah anda faham?",
+        "Baiklah.",
+        "Boleh anda bantu saya?"
+      ]
+    },
+    "life": {
+      "scenario": "You're at a busy hawker center. You accidentally bump into someone, then need help carrying your tray, and finally thank them for their assistance.",
+      "key_phrases": [
+        "Maaf.",
+        "Boleh tolong tak?",
+        "Terima kasih banyak."
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a software issue with a colleague over a video call. You explain the steps and need to confirm if they understand. If the issue persists, you might ask if they are free for a face-to-face meeting later.",
+      "key_phrases": [
+        "Faham tak?",
+        "Okay.",
+        "Ada masa tak?"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask 'Can you help me?' in Malay?",
+      "answer": "Boleh anda bantu saya?"
+    },
+    {
+      "question": "What is the casual Malay equivalent for '你明白吗？' (Do you understand?)?",
+      "answer": "Faham tak?"
+    },
+    {
+      "question": "If you want to formally express 'Okay' or 'Agreed' in Malay, what would you say?",
+      "answer": "Baiklah."
+    },
+    {
+      "question": "How do you casually say 'Excuse me / Sorry' in Malay when bumping into someone?",
+      "answer": "Maaf."
+    },
+    {
+      "question": "What is the formal Malay way to ask '你有空吗？' (Are you free?)?",
+      "answer": "Adakah anda lapang?"
+    },
+    {
+      "question": "What's a casual way to express 'Thank you very much' in Malay?",
+      "answer": "Terima kasih banyak."
+    }
+  ]
+}
