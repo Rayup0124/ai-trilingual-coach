@@ -1,0 +1,112 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To innovate / To develop something new",
+      "expressions": {
+        "en": "To innovate / To develop something new",
+        "cn": "创新 / 开发新东西",
+        "bm_formal": "Menginovasi / Membangunkan sesuatu yang baharu",
+        "bm_casual": "Cipta benda baru / Buat benda baru"
+      }
+    },
+    {
+      "concept": "Digital transformation / Digitalization",
+      "expressions": {
+        "en": "Digital transformation / Digitalization",
+        "cn": "数字化转型 / 数字化",
+        "bm_formal": "Transformasi digital / Pendigitalan",
+        "bm_casual": "Tukar jadi digital / Guna digital"
+      }
+    },
+    {
+      "concept": "Online platform / Digital platform",
+      "expressions": {
+        "en": "Online platform / Digital platform",
+        "cn": "在线平台 / 数字平台",
+        "bm_formal": "Platform dalam talian / Platform digital",
+        "bm_casual": "Platform online / Platform digital"
+      }
+    },
+    {
+      "concept": "User-friendly / Easy to use",
+      "expressions": {
+        "en": "User-friendly / Easy to use",
+        "cn": "用户友好 / 容易使用",
+        "bm_formal": "Mesra pengguna / Mudah digunakan",
+        "bm_casual": "Senang guna / Mesra pengguna"
+      }
+    },
+    {
+      "concept": "To troubleshoot / To solve technical issues",
+      "expressions": {
+        "en": "To troubleshoot / To solve technical issues",
+        "cn": "排除故障 / 解决技术问题",
+        "bm_formal": "Menyelesaikan masalah teknikal / Mengatasi isu teknikal",
+        "bm_casual": "Selesaikan masalah teknikal / Betulkan masalah"
+      }
+    },
+    {
+      "concept": "Internet connection / Network access",
+      "expressions": {
+        "en": "Internet connection / Network access",
+        "cn": "互联网连接 / 网络连接",
+        "bm_formal": "Sambungan internet / Akses rangkaian",
+        "bm_casual": "Line internet / Internet connection"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Our company needs to embrace **digital transformation** to stay competitive. We should **innovate new solutions** and ensure our new **digital platform** is **user-friendly** for all employees.",
+      "key_phrases": [
+        "transformasi digital",
+        "menginovasi penyelesaian baharu",
+        "platform digital",
+        "mesra pengguna"
+      ]
+    },
+    "life": {
+      "scenario": "My **internet connection** at home is slow. I need to **troubleshoot it** or call the support line. This new e-wallet app is quite **user-friendly**, I don't have to **solve many issues**.",
+      "key_phrases": [
+        "sambungan internet",
+        "menyelesaikan masalah teknikal",
+        "mesra pengguna"
+      ]
+    },
+    "tech": {
+      "scenario": "Our team is **developing a new online platform**. We aim for it to be very **user-friendly**. If users face any issues, our support team will help **troubleshoot them** quickly.",
+      "key_phrases": [
+        "membangunkan platform dalam talian",
+        "mesra pengguna",
+        "menyelesaikan masalah teknikal"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'digital transformation' (数字化转型) in formal Malay?",
+      "answer": "Transformasi digital"
+    },
+    {
+      "question": "What's the casual Malay for 'to create something new' (创造新东西)?",
+      "answer": "Cipta benda baru"
+    },
+    {
+      "question": "How would you say 'user-friendly' (用户友好) in Malay?",
+      "answer": "Mesra pengguna"
+    },
+    {
+      "question": "What is the formal Malay for 'to solve technical issues' (解决技术问题)?",
+      "answer": "Menyelesaikan masalah teknikal"
+    },
+    {
+      "question": "What is the casual Malay for 'internet connection' (互联网连接)?",
+      "answer": "Line internet"
+    },
+    {
+      "question": "How do you say 'online platform' (在线平台) in formal Malay?",
+      "answer": "Platform dalam talian"
+    }
+  ]
+}
