@@ -1,0 +1,138 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "How are you? / What's up?",
+      "expressions": {
+        "en": "How are you? / What's up?",
+        "cn": "你好吗？/ 怎么样？ (Nǐ hǎo ma? / Zěnmeyàng?)",
+        "bm_formal": "Apa khabar?",
+        "bm_casual": "Apa cerita? / Camne?"
+      }
+    },
+    {
+      "concept": "Thank you / Thanks a lot",
+      "expressions": {
+        "en": "Thank you / Thanks a lot",
+        "cn": "谢谢 / 非常感谢 (Xièxie / Fēicháng gǎnxiè)",
+        "bm_formal": "Terima kasih",
+        "bm_casual": "Mekasih / TQ"
+      }
+    },
+    {
+      "concept": "Excuse me / Sorry",
+      "expressions": {
+        "en": "Excuse me / Sorry",
+        "cn": "对不起 / 不好意思 (Duìbuqǐ / Bù hǎoyìsi)",
+        "bm_formal": "Maafkan saya / Mohon maaf",
+        "bm_casual": "Sori / Maaf"
+      }
+    },
+    {
+      "concept": "Can I help you? / Need any help?",
+      "expressions": {
+        "en": "Can I help you? / Need any help?",
+        "cn": "我能帮你吗？/ 需要帮忙吗？(Wǒ néng bāng nǐ ma? / Xūyào bāngmáng ma?)",
+        "bm_formal": "Boleh saya bantu? / Adakah anda memerlukan bantuan?",
+        "bm_casual": "Nak saya tolong? / Perlu tolong apa-apa?"
+      }
+    },
+    {
+      "concept": "No problem / It's okay",
+      "expressions": {
+        "en": "No problem / It's okay",
+        "cn": "没问题 / 没关系 (Méi wèntí / Méi guānxi)",
+        "bm_formal": "Tiada masalah / Tidak mengapa",
+        "bm_casual": "Takpe / Okay je"
+      }
+    },
+    {
+      "concept": "I understand / Got it",
+      "expressions": {
+        "en": "I understand / Got it",
+        "cn": "我明白了 / 懂了 (Wǒ míngbái le / Dǒng le)",
+        "bm_formal": "Saya faham / Saya mengerti",
+        "bm_casual": "Faham / Ngerti"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're starting a team meeting. A new colleague looks a bit lost. You want to check in and offer support.",
+      "key_phrases": [
+        "Apa khabar?",
+        "Boleh saya bantu?",
+        "Saya faham",
+        "Terima kasih"
+      ]
+    },
+    "life": {
+      "scenario": "You accidentally bump into someone at the supermarket, causing them to drop their groceries. You quickly apologize and offer to help.",
+      "key_phrases": [
+        "Maafkan saya",
+        "Nak saya tolong?",
+        "Takpe",
+        "Terima kasih"
+      ]
+    },
+    "tech": {
+      "scenario": "Your friend is struggling to set up a new smart home device. You call them to ask what's going on and offer your tech-savvy assistance.",
+      "key_phrases": [
+        "Apa cerita?",
+        "Perlu tolong apa-apa?",
+        "Faham",
+        "Mekasih"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask 'How are you?' in Malay?",
+      "answer": "Apa khabar?"
+    },
+    {
+      "question": "What's a casual way to ask 'What's up?' in Malay?",
+      "answer": "Apa cerita?"
+    },
+    {
+      "question": "How do you say 'Thank you' formally in Malay?",
+      "answer": "Terima kasih"
+    },
+    {
+      "question": "What's a very casual, short form for 'Thank you' often used in chats?",
+      "answer": "TQ / Mekasih"
+    },
+    {
+      "question": "How do you formally say 'Excuse me' or 'Sorry' in Malay?",
+      "answer": "Maafkan saya"
+    },
+    {
+      "question": "What's the casual Malay equivalent for 'Sorry'?",
+      "answer": "Sori / Maaf"
+    },
+    {
+      "question": "How do you formally offer help with 'Can I help you?' in Malay?",
+      "answer": "Boleh saya bantu?"
+    },
+    {
+      "question": "What's a casual way to ask 'Need any help?' in Malay?",
+      "answer": "Nak saya tolong?"
+    },
+    {
+      "question": "How do you formally say 'No problem' in Malay?",
+      "answer": "Tiada masalah"
+    },
+    {
+      "question": "What's a common casual expression for 'It's okay' in Malay?",
+      "answer": "Takpe"
+    },
+    {
+      "question": "How do you formally state 'I understand' in Malay?",
+      "answer": "Saya faham"
+    },
+    {
+      "question": "What's a casual and short way to say 'Got it' or 'I understand'?",
+      "answer": "Faham / Ngerti"
+    }
+  ]
+}

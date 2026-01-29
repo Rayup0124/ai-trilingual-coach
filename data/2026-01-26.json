@@ -1,0 +1,120 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To innovate / Innovation",
+      "expressions": {
+        "en": "To innovate / Innovation",
+        "cn": "创新 (chuàngxīn) / 革新 (géxīn)",
+        "bm_formal": "Berinovasi / Inovasi",
+        "bm_casual": "Cipta benda baru / Idea baru"
+      }
+    },
+    {
+      "concept": "Digital transformation",
+      "expressions": {
+        "en": "Digital transformation",
+        "cn": "数字化转型 (shùzìhuà zhuǎnxíng)",
+        "bm_formal": "Transformasi digital",
+        "bm_casual": "Tukar ke digital / Jadi digital"
+      }
+    },
+    {
+      "concept": "To develop (a system/product)",
+      "expressions": {
+        "en": "To develop (a system/product)",
+        "cn": "开发 (kāifā) / 研发 (yánfā)",
+        "bm_formal": "Membangunkan (sistem/produk)",
+        "bm_casual": "Buat (sistem/produk) / Siapkan (sistem/produk)"
+      }
+    },
+    {
+      "concept": "Data analysis",
+      "expressions": {
+        "en": "Data analysis",
+        "cn": "数据分析 (shùjù fēnxī)",
+        "bm_formal": "Analisis data",
+        "bm_casual": "Kaji data / Tengok data"
+      }
+    },
+    {
+      "concept": "User-friendly",
+      "expressions": {
+        "en": "User-friendly",
+        "cn": "用户友好 (yònghù yǒuhǎo) / 易于使用 (yì yú shǐyòng)",
+        "bm_formal": "Mesra pengguna",
+        "bm_casual": "Senang guna / Mudah guna"
+      }
+    },
+    {
+      "concept": "Online platform",
+      "expressions": {
+        "en": "Online platform",
+        "cn": "在线平台 (zàixiàn píngtái)",
+        "bm_formal": "Platform dalam talian",
+        "bm_casual": "App online / Website"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're in a team meeting discussing a new project to streamline operations. Your manager emphasizes the need for a fresh approach.",
+      "key_phrases": [
+        "Kita perlu **berinovasi** dalam proses kerja kita.",
+        "Projek ini penting untuk **transformasi digital** syarikat.",
+        "Pasukan akan **membangunkan sistem** baru untuk automasi.",
+        "Kita akan buat **analisis data** untuk faham masalah pengguna."
+      ]
+    },
+    "life": {
+      "scenario": "You're chatting with a friend about a new government service or e-wallet application you recently used.",
+      "key_phrases": [
+        "**App online** baru ni memang **mudah guna**.",
+        "**Platform dalam talian** dia sangat **mesra pengguna**, tak susah nak daftar.",
+        "Diorang dah **tukar ke digital** semua servis, senang sikit sekarang."
+      ]
+    },
+    "tech": {
+      "scenario": "At a tech meetup, you're discussing a startup's new product with another developer.",
+      "key_phrases": [
+        "Startup ni fokus pada **inovasi** dalam AI.",
+        "Mereka sedang **membangunkan produk** yang boleh buat **analisis data** secara real-time.",
+        "Kunci kejayaan mereka adalah memastikan **platform dalam talian** tu **mesra pengguna**."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'Innovation' in formal Malay?",
+      "answer": "Inovasi"
+    },
+    {
+      "question": "What is the casual Malay for 'Digital transformation'?",
+      "answer": "Tukar ke digital"
+    },
+    {
+      "question": "Translate 'To develop a system' (开发系统) into formal Malay.",
+      "answer": "Membangunkan sistem"
+    },
+    {
+      "question": "How would you casually say 'Data analysis' in Malay?",
+      "answer": "Kaji data"
+    },
+    {
+      "question": "What is the formal Malay term for 'User-friendly'?",
+      "answer": "Mesra pengguna"
+    },
+    {
+      "question": "What is a casual Malay term for 'Online platform' (在线平台)?",
+      "answer": "App online"
+    },
+    {
+      "question": "What is the formal Malay for 'We need to innovate'?",
+      "answer": "Kita perlu berinovasi"
+    },
+    {
+      "question": "How to say 'This app is easy to use' (这个应用程式易于使用) in casual Malay?",
+      "answer": "App ni senang guna"
+    }
+  ]
+}

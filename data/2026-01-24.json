@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "To confirm / Please confirm",
+      "expressions": {
+        "en": "Please confirm.",
+        "cn": "请确认 (Qǐng quèrèn)",
+        "bm_formal": "Mohon pengesahan. / Sila sahkan.",
+        "bm_casual": "Tolong sahkan. / Boleh sahkan?"
+      }
+    },
+    {
+      "concept": "I'll get back to you / I will revert",
+      "expressions": {
+        "en": "I'll get back to you.",
+        "cn": "我会回复你 (Wǒ huì huífù nǐ)",
+        "bm_formal": "Saya akan maklumkan semula. / Saya akan kembali semula kepada anda.",
+        "bm_casual": "Nanti saya *get back*. / Nanti saya bagi tahu."
+      }
+    },
+    {
+      "concept": "Thank you for your understanding",
+      "expressions": {
+        "en": "Thank you for your understanding.",
+        "cn": "感谢您的理解 (Gǎnxiè nín de lǐjiě)",
+        "bm_formal": "Terima kasih atas kefahaman anda.",
+        "bm_casual": "Terima kasih faham. / Thanks faham."
+      }
+    },
+    {
+      "concept": "Please inform me / Let me know",
+      "expressions": {
+        "en": "Please inform me. / Let me know.",
+        "cn": "请告诉我 (Qǐng gàosù wǒ)",
+        "bm_formal": "Mohon maklumkan saya. / Sila beritahu saya.",
+        "bm_casual": "Tolong bagi tahu saya. / *Inform* saya."
+      }
+    },
+    {
+      "concept": "I apologize for the inconvenience",
+      "expressions": {
+        "en": "I apologize for the inconvenience.",
+        "cn": "我为造成的不便道歉 (Wǒ wèi zàochéng de bùbiàn dàoqiàn)",
+        "bm_formal": "Saya memohon maaf atas kesulitan yang berlaku.",
+        "bm_casual": "Maaf sangat atas kesulitan. / Sorry sangat susahkan."
+      }
+    },
+    {
+      "concept": "Could you please assist? / Can you help?",
+      "expressions": {
+        "en": "Could you please assist? / Can you help?",
+        "cn": "你能帮忙吗？ (Nǐ néng bāngmáng ma?)",
+        "bm_formal": "Bolehkah anda membantu? / Mohon bantuan anda.",
+        "bm_casual": "Boleh tolong? / Tolong sikit."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're coordinating a team project. You need to confirm a task's completion with a colleague and apologize for a slight delay in providing some resources, promising an update soon.",
+      "key_phrases": [
+        "Mohon pengesahan status tugas.",
+        "Saya memohon maaf atas kesulitan kelewatan bahan.",
+        "Saya akan maklumkan semula secepat mungkin."
+      ]
+    },
+    "life": {
+      "scenario": "You're organizing a surprise birthday party for a friend. You need to confirm attendance with guests and apologize for a last-minute change in venue, promising to update them with the new location.",
+      "key_phrases": [
+        "Tolong sahkan kehadiran anda.",
+        "Maaf sangat atas kesulitan perubahan lokasi.",
+        "Nanti saya bagi tahu lokasi baru."
+      ]
+    },
+    "tech": {
+      "scenario": "You're experiencing a critical software bug during a presentation. You need to ask a tech support agent for immediate help, thank them for their patience, and ask them to keep you informed about the fix.",
+      "key_phrases": [
+        "Bolehkah anda membantu dengan isu ini?",
+        "Terima kasih atas kefahaman anda, ini mendesak.",
+        "Mohon maklumkan saya tentang penyelesaiannya."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask 'Please confirm' in Malay?",
+      "answer": "Mohon pengesahan."
+    },
+    {
+      "question": "What's a casual way to say 'I'll get back to you' in Malay?",
+      "answer": "Nanti saya *get back*."
+    },
+    {
+      "question": "Translate 'Thank you for your understanding' (formal) to Malay.",
+      "answer": "Terima kasih atas kefahaman anda."
+    },
+    {
+      "question": "How would you casually ask 'Please inform me' in Malay?",
+      "answer": "Tolong bagi tahu saya."
+    },
+    {
+      "question": "What's the formal Malay for 'I apologize for the inconvenience'?",
+      "answer": "Saya memohon maaf atas kesulitan yang berlaku."
+    },
+    {
+      "question": "你能帮忙吗？ (Nǐ néng bāngmáng ma?) - How to say this casually in Malay?",
+      "answer": "Boleh tolong?"
+    }
+  ]
+}
