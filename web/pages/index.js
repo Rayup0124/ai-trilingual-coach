@@ -187,7 +187,16 @@ export default function Home() {
               <button onClick={prevDate} className="date-btn">◀</button>
               <input type="date" value={selectedDate || ''} onChange={(e)=>{ setSelectedDate(e.target.value); gotoDate(e.target.value)}} />
               <button onClick={nextDate} className="date-btn">▶</button>
-              <select value={selectedDate||''} onChange={(e)=>{ setSelectedDate(e.target.value); gotoDate(e.target.value)}}>
+              <select value={selectedDate||''} onChange={(e)=>{
+                const val = e.target.value
+                setSelectedDate(val)
+                if (val) {
+                  gotoDate(val)
+                } else if (availableDates.length > 0) {
+                  // When "Recent lessons" is selected, go to the most recent date
+                  gotoDate(availableDates[0])
+                }
+              }}>
                 <option value="">Recent lessons</option>
                 {availableDates.map(d=> <option key={d} value={d}>{d}</option>)}
               </select>
