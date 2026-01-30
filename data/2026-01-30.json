@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Please confirm / Can you confirm?",
+      "expressions": {
+        "en": "Please confirm / Can you confirm?",
+        "cn": "请确认 (Qǐng quèrèn)",
+        "bm_formal": "Sila sahkan. / Bolehkah anda sahkan?",
+        "bm_casual": "Boleh tolong confirm? / Tolong confirmkan."
+      }
+    },
+    {
+      "concept": "I'll get back to you / I will revert",
+      "expressions": {
+        "en": "I'll get back to you / I will revert",
+        "cn": "我会回复你 (Wǒ huì huífù nǐ)",
+        "bm_formal": "Saya akan maklumkan semula. / Saya akan kembali kepada anda.",
+        "bm_casual": "Nanti saya reply. / Nanti saya bagi tahu."
+      }
+    },
+    {
+      "concept": "Let me know / Please inform me",
+      "expressions": {
+        "en": "Let me know / Please inform me",
+        "cn": "告诉我 (Gàosù wǒ)",
+        "bm_formal": "Sila maklumkan saya. / Mohon maklumkan.",
+        "bm_casual": "Bagitahu saya. / Nanti inform."
+      }
+    },
+    {
+      "concept": "I understand / Got it",
+      "expressions": {
+        "en": "I understand / Got it",
+        "cn": "我明白了 (Wǒ míngbái le)",
+        "bm_formal": "Saya faham.",
+        "bm_casual": "Faham. / Okay. / Got it."
+      }
+    },
+    {
+      "concept": "Could you please elaborate? / Can you explain more?",
+      "expressions": {
+        "en": "Could you please elaborate? / Can you explain more?",
+        "cn": "你能详细说明一下吗？ (Nǐ néng xiángxì shuōmíng yīxià ma?)",
+        "bm_formal": "Bolehkah anda huraikan dengan lebih lanjut? / Mohon perincikan.",
+        "bm_casual": "Boleh explain lagi? / Boleh cerita lebih sikit?"
+      }
+    },
+    {
+      "concept": "Apologies for the delay / Sorry for the delay",
+      "expressions": {
+        "en": "Apologies for the delay / Sorry for the delay",
+        "cn": "抱歉延迟了 (Bàoqiàn yánchí le)",
+        "bm_formal": "Mohon maaf atas kelewatan ini. / Saya minta maaf atas kelewatan.",
+        "bm_casual": "Sorry lambat. / Maaf lambat."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're coordinating a project deadline with a colleague. You need to confirm their progress and inform them about a slight delay from your end.",
+      "key_phrases": [
+        "Sila sahkan kemajuan anda.",
+        "Mohon maaf atas kelewatan ini.",
+        "Nanti saya maklumkan semula."
+      ]
+    },
+    "life": {
+      "scenario": "You're planning a weekend outing with friends. One friend is asking for details, and you need to tell them you'll share more info later after checking with everyone.",
+      "key_phrases": [
+        "Nanti saya bagi tahu.",
+        "Bagitahu saya kalau ada cadangan lain.",
+        "Faham."
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a software bug with a support agent. They've given you some steps, but you need them to explain one step in more detail. You also need to confirm if they've received your error logs.",
+      "key_phrases": [
+        "Boleh explain lagi langkah ini?",
+        "Sila sahkan penerimaan log ralat.",
+        "Saya faham."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask 'Please confirm' in Malay?",
+      "answer": "Sila sahkan."
+    },
+    {
+      "question": "What's a casual way to say 'I'll get back to you' in Malay?",
+      "answer": "Nanti saya reply."
+    },
+    {
+      "question": "To say 'Let me know' casually to a friend, you might say",
+      "answer": "Bagitahu saya."
+    },
+    {
+      "question": "How do you formally express 'I understand'?",
+      "answer": "Saya faham."
+    },
+    {
+      "question": "你如何用马来语礼貌地问 'Can you explain more?'?",
+      "answer": "Bolehkah anda huraikan dengan lebih lanjut?"
+    },
+    {
+      "question": "What's a casual Malay expression for 'Sorry for the delay'?",
+      "answer": "Sorry lambat."
+    }
+  ]
+}
