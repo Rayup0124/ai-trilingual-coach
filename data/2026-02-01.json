@@ -1,0 +1,111 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for help with a specific task",
+      "expressions": {
+        "en": "Can you help me with this?",
+        "cn": "你能帮我这个吗？",
+        "bm_formal": "Boleh anda bantu saya dengan ini?",
+        "bm_casual": "Boleh tolong saya yang ni tak?"
+      }
+    },
+    {
+      "concept": "Expressing gratitude for a favor/service",
+      "expressions": {
+        "en": "Thank you for your help.",
+        "cn": "谢谢你的帮助。",
+        "bm_formal": "Terima kasih atas bantuan anda.",
+        "bm_casual": "Terima kasih banyak-banyak tolong."
+      }
+    },
+    {
+      "concept": "Asking for repetition or clarification (polite)",
+      "expressions": {
+        "en": "Could you please say that again?",
+        "cn": "你能再说一遍吗？",
+        "bm_formal": "Boleh anda ulang semula apa yang dikatakan tadi?",
+        "bm_casual": "Boleh ulang balik tak apa cakap tadi?"
+      }
+    },
+    {
+      "concept": "Apologizing for an inconvenience",
+      "expressions": {
+        "en": "I apologize for the inconvenience.",
+        "cn": "很抱歉造成不便。",
+        "bm_formal": "Saya memohon maaf atas kesulitan ini.",
+        "bm_casual": "Minta maaf la susah-susah."
+      }
+    },
+    {
+      "concept": "Confirming understanding",
+      "expressions": {
+        "en": "I understand what you mean.",
+        "cn": "我明白你的意思。",
+        "bm_formal": "Saya faham maksud anda.",
+        "bm_casual": "Saya faham apa awak maksud."
+      }
+    },
+    {
+      "concept": "Asking if something is ready/done",
+      "expressions": {
+        "en": "Is it ready yet?",
+        "cn": "好了吗？",
+        "bm_formal": "Adakah ia sudah siap?",
+        "bm_casual": "Dah siap ke belum?"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're collaborating on a project. You need to ask a colleague for help with a specific task, confirm understanding of instructions from your manager, and apologize for a slight delay in your part.",
+      "key_phrases": [
+        "Boleh anda bantu saya dengan ini?",
+        "Saya faham maksud anda.",
+        "Saya memohon maaf atas kesulitan ini."
+      ]
+    },
+    "life": {
+      "scenario": "You're at a busy hawker center. You need to ask the vendor if your food order is ready, thank them when you receive it, and politely apologize if you accidentally bump into someone.",
+      "key_phrases": [
+        "Dah siap ke belum?",
+        "Terima kasih banyak-banyak tolong.",
+        "Minta maaf la susah-susah."
+      ]
+    },
+    "tech": {
+      "scenario": "You're on a video call with technical support. You need to ask them to repeat a complex instruction, confirm that you understand the next step, and ask if the software update is complete.",
+      "key_phrases": [
+        "Boleh anda ulang semula apa yang dikatakan tadi?",
+        "Saya faham maksud anda.",
+        "Adakah ia sudah siap?"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'Can you help me with this?' (formal) in Malay?",
+      "answer": "Boleh anda bantu saya dengan ini?"
+    },
+    {
+      "question": "谢谢你的帮助。(casual) How do you say this in Malay?",
+      "answer": "Terima kasih banyak-banyak tolong."
+    },
+    {
+      "question": "How do you say 'Could you please say that again?' (casual) in Malay?",
+      "answer": "Boleh ulang balik tak apa cakap tadi?"
+    },
+    {
+      "question": "我明白你的意思。(formal) How do you say this in Malay?",
+      "answer": "Saya faham maksud anda."
+    },
+    {
+      "question": "How do you say 'Is it ready yet?' (casual) in Malay?",
+      "answer": "Dah siap ke belum?"
+    },
+    {
+      "question": "很抱歉造成不便。(formal) How do you say this in Malay?",
+      "answer": "Saya memohon maaf atas kesulitan ini."
+    }
+  ]
+}
