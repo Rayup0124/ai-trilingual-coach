@@ -1,0 +1,110 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To update (information/software)",
+      "expressions": {
+        "en": "To update / To refresh",
+        "cn": "更新 (gēngxīn)",
+        "bm_formal": "Mengemaskini",
+        "bm_casual": "Update / Kemaskini"
+      }
+    },
+    {
+      "concept": "Internet connection / Signal",
+      "expressions": {
+        "en": "Internet connection / Signal (strength)",
+        "cn": "网络连接 / 信号 (wǎngluò liánjiē / xìnhào)",
+        "bm_formal": "Sambungan internet / Isyarat",
+        "bm_casual": "Line internet / Signal"
+      }
+    },
+    {
+      "concept": "Digital transformation / To digitize",
+      "expressions": {
+        "en": "Digital transformation / To digitize",
+        "cn": "数字化转型 / 实现数字化 (shùzìhuà zhuǎnxíng / shíxiàn shùzìhuà)",
+        "bm_formal": "Transformasi digital / Mendigitalkan",
+        "bm_casual": "Jadi digital / Guna digital"
+      }
+    },
+    {
+      "concept": "Online transaction / Payment",
+      "expressions": {
+        "en": "Online transaction / Payment",
+        "cn": "在线交易 / 付款 (zàixiàn jiāoyì / fùkuǎn)",
+        "bm_formal": "Urusan dalam talian / Pembayaran dalam talian",
+        "bm_casual": "Bayar online / Beli online"
+      }
+    },
+    {
+      "concept": "Technical support / Assistance",
+      "expressions": {
+        "en": "Technical support / Assistance",
+        "cn": "技术支持 / 协助 (jìshù zhīchí / xiézhù)",
+        "bm_formal": "Sokongan teknikal / Bantuan teknikal",
+        "bm_casual": "Tolong teknikal / Support teknikal"
+      }
+    },
+    {
+      "concept": "System error / Malfunction",
+      "expressions": {
+        "en": "System error / Malfunction",
+        "cn": "系统错误 / 故障 (xìtǒng cuòwù / gùzhàng)",
+        "bm_formal": "Ralat sistem / Kerosakan sistem",
+        "bm_casual": "Sistem error / Rosak"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Your manager asks for an update on the project's progress and mentions a new digital initiative. You also need a stable internet connection for the upcoming video conference.",
+      "key_phrases": [
+        "Saya akan **mengemaskini** status projek.",
+        "Kita perlu memastikan **sambungan internet** stabil untuk mesyuarat.",
+        "Syarikat sedang melalui proses **transformasi digital**."
+      ]
+    },
+    "life": {
+      "scenario": "You're trying to pay your utilities bill online, but your internet connection is very slow. You consider calling customer service for technical assistance.",
+      "key_phrases": [
+        "Saya nak **bayar online** bil elektrik tapi **line internet** saya slow sangat.",
+        "Mungkin saya kena hubungi **support teknikal**."
+      ]
+    },
+    "tech": {
+      "scenario": "You're a developer troubleshooting a system error that occurred after a recent software update. The client wants to ensure the new digitized process runs smoothly.",
+      "key_phrases": [
+        "Ada **ralat sistem** selepas kita **mengemaskini** perisian.",
+        "Kita perlu pastikan sistem yang telah **didigitalkan** ini berfungsi tanpa masalah.",
+        "Saya dah hubungi **sokongan teknikal** untuk bantuan."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally say 'To update' (e.g., a report or software) in Malay?",
+      "answer": "Mengemaskini"
+    },
+    {
+      "question": "What is a casual Malay term for 'internet connection'?",
+      "answer": "Line internet / Signal"
+    },
+    {
+      "question": "How do you formally express 'Digital transformation' in Malay?",
+      "answer": "Transformasi digital"
+    },
+    {
+      "question": "You want to say 'online payment' casually in Malay. What would you use?",
+      "answer": "Bayar online"
+    },
+    {
+      "question": "What is the formal Malay term for 'Technical support'?",
+      "answer": "Sokongan teknikal / Bantuan teknikal"
+    },
+    {
+      "question": "How would you casually refer to a 'system error' in Malay?",
+      "answer": "Sistem error / Rosak"
+    }
+  ]
+}
