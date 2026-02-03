@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting Information/Documents",
+      "expressions": {
+        "en": "Please send me the report.",
+        "cn": "请把报告发给我。",
+        "bm_formal": "Sila hantarkan laporan tersebut kepada saya.",
+        "bm_casual": "Boleh tak hantar report tu kat saya?"
+      }
+    },
+    {
+      "concept": "Following Up / Getting Back",
+      "expressions": {
+        "en": "I will follow up on this.",
+        "cn": "我会跟进这件事。",
+        "bm_formal": "Saya akan susulan perkara ini.",
+        "bm_casual": "Nanti saya follow up."
+      }
+    },
+    {
+      "concept": "Seeking Clarification",
+      "expressions": {
+        "en": "Could you clarify this point?",
+        "cn": "你能澄清这一点吗？",
+        "bm_formal": "Bolehkah anda jelaskan perkara ini dengan lebih lanjut?",
+        "bm_casual": "Boleh terangkan balik tak?"
+      }
+    },
+    {
+      "concept": "Arranging a Meeting/Call",
+      "expressions": {
+        "en": "Let's schedule a meeting.",
+        "cn": "我们安排一个会议吧。",
+        "bm_formal": "Marilah kita aturkan satu mesyuarat.",
+        "bm_casual": "Jom kita meeting."
+      }
+    },
+    {
+      "concept": "Expressing Gratitude",
+      "expressions": {
+        "en": "Thank you for your cooperation.",
+        "cn": "谢谢您的合作。",
+        "bm_formal": "Terima kasih atas kerjasama anda.",
+        "bm_casual": "Terima kasih banyak."
+      }
+    },
+    {
+      "concept": "Apologizing",
+      "expressions": {
+        "en": "I apologize for the inconvenience.",
+        "cn": "我对造成的不便表示歉意。",
+        "bm_formal": "Saya memohon maaf atas segala kesulitan yang berlaku.",
+        "bm_casual": "Minta maaf sangat."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are a project manager needing an urgent update from your team members for an upcoming presentation.",
+      "key_phrases": [
+        "Sila hantarkan laporan kemajuan projek.",
+        "Saya akan susulan perkara ini dengan pihak pengurusan.",
+        "Marilah kita aturkan satu mesyuarat ringkas esok pagi."
+      ]
+    },
+    "life": {
+      "scenario": "Your friend offers to help you move house, but you need more details about their availability and want to thank them.",
+      "key_phrases": [
+        "Boleh terangkan balik tak bila awak free?",
+        "Terima kasih banyak sebab nak tolong.",
+        "Minta maaf sangat kalau menyusahkan."
+      ]
+    },
+    "tech": {
+      "scenario": "As a customer support agent, you are assisting a user with a software bug, requesting log files, and promising a follow-up.",
+      "key_phrases": [
+        "Sila hantarkan fail log kepada kami.",
+        "Saya akan maklum balas dalam masa terdekat setelah semakan dibuat.",
+        "Bolehkah anda jelaskan perkara ini dengan lebih lanjut tentang langkah-langkah yang anda ambil?"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally say 'Please send me the document' in Malay?",
+      "answer": "Sila hantarkan dokumen tersebut kepada saya."
+    },
+    {
+      "question": "你的同事问你能不能跟进一个任务。你会怎么用比较随意的马来语回复？ (Your colleague asks if you can follow up on a task. How would you reply casually in Malay?)",
+      "answer": "Nanti saya follow up."
+    },
+    {
+      "question": "What's a formal way to ask for clarification in Malay?",
+      "answer": "Bolehkah anda jelaskan perkara ini dengan lebih lanjut?"
+    },
+    {
+      "question": "你想要和客户安排一个会议。用正式马来语怎么说？ (You want to schedule a meeting with a client. How to say it formally in Malay?)",
+      "answer": "Marilah kita aturkan satu mesyuarat."
+    },
+    {
+      "question": "How do you casually thank someone for their help in Malay?",
+      "answer": "Terima kasih banyak."
+    },
+    {
+      "question": "You made a mistake and want to apologize formally for the inconvenience. What's the Malay phrase?",
+      "answer": "Saya memohon maaf atas segala kesulitan yang berlaku."
+    }
+  ]
+}
