@@ -1,0 +1,111 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for help/assistance",
+      "expressions": {
+        "en": "Can you help me?",
+        "cn": "你可以帮我吗？ (Nǐ kěyǐ bāng wǒ ma?)",
+        "bm_formal": "Boleh anda bantu saya?",
+        "bm_casual": "Boleh tolong saya?"
+      }
+    },
+    {
+      "concept": "Expressing understanding/agreement",
+      "expressions": {
+        "en": "I understand.",
+        "cn": "我明白了。 (Wǒ míngbái le.)",
+        "bm_formal": "Saya faham.",
+        "bm_casual": "Faham."
+      }
+    },
+    {
+      "concept": "Asking for repetition/clarification",
+      "expressions": {
+        "en": "Could you repeat that?",
+        "cn": "你可以再说一遍吗？ (Nǐ kěyǐ zài shuō yī biàn ma?)",
+        "bm_formal": "Boleh anda ulang semula?",
+        "bm_casual": "Boleh ulang?"
+      }
+    },
+    {
+      "concept": "Expressing gratitude",
+      "expressions": {
+        "en": "Thank you very much.",
+        "cn": "非常感谢。 (Fēicháng gǎnxiè.)",
+        "bm_formal": "Terima kasih banyak-banyak.",
+        "bm_casual": "Terima kasih."
+      }
+    },
+    {
+      "concept": "Asking for permission",
+      "expressions": {
+        "en": "May I enter?",
+        "cn": "我可以进去吗？ (Wǒ kěyǐ jìnqù ma?)",
+        "bm_formal": "Adakah saya dibenarkan masuk?",
+        "bm_casual": "Boleh saya masuk?"
+      }
+    },
+    {
+      "concept": "Expressing apology",
+      "expressions": {
+        "en": "I'm sorry.",
+        "cn": "对不起。 (Duìbùqǐ.)",
+        "bm_formal": "Saya memohon maaf.",
+        "bm_casual": "Minta maaf."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're working on a team project and need assistance from a colleague. After they explain a complex step, you confirm your understanding and thank them.",
+      "key_phrases": [
+        "Boleh anda bantu saya?",
+        "Saya faham.",
+        "Terima kasih banyak-banyak."
+      ]
+    },
+    "life": {
+      "scenario": "You're at a local 'mamak' stall, ordering food. The waiter speaks quickly, so you ask for repetition, then apologize for a slight misunderstanding.",
+      "key_phrases": [
+        "Boleh ulang?",
+        "Minta maaf.",
+        "Terima kasih."
+      ]
+    },
+    "tech": {
+      "scenario": "You're on a video call with tech support trying to fix your internet. The agent gives instructions, you ask for clarification, and then ask permission to restart your router.",
+      "key_phrases": [
+        "Boleh anda terangkan sekali lagi?",
+        "Boleh saya restart router?",
+        "Saya faham."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "Can you help me? (你可以帮我吗？)",
+      "answer": "Boleh tolong saya?"
+    },
+    {
+      "question": "I understand. (我明白了。)",
+      "answer": "Saya faham."
+    },
+    {
+      "question": "Could you repeat that? (你可以再说一遍吗？)",
+      "answer": "Boleh ulang?"
+    },
+    {
+      "question": "Thank you very much. (非常感谢。)",
+      "answer": "Terima kasih banyak-banyak."
+    },
+    {
+      "question": "May I enter? (我可以进去吗？)",
+      "answer": "Boleh saya masuk?"
+    },
+    {
+      "question": "I'm sorry. (对不起。)",
+      "answer": "Minta maaf."
+    }
+  ]
+}
