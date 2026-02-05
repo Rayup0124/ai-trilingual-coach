@@ -1,0 +1,114 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To develop / To innovate",
+      "expressions": {
+        "en": "To develop / To innovate",
+        "cn": "开发 / 创新 (Kāifā / Chuàngxīn)",
+        "bm_formal": "Membangunkan / Mencipta inovasi",
+        "bm_casual": "Develop / Buat benda baru"
+      }
+    },
+    {
+      "concept": "To upgrade / To update",
+      "expressions": {
+        "en": "To upgrade / To update",
+        "cn": "升级 / 更新 (Shēngjí / Gēngxīn)",
+        "bm_formal": "Menaik taraf / Mengemaskini",
+        "bm_casual": "Upgrade / Update"
+      }
+    },
+    {
+      "concept": "Digital transformation",
+      "expressions": {
+        "en": "Digital transformation",
+        "cn": "数字化转型 (Shùzìhuà zhuǎnxíng)",
+        "bm_formal": "Transformasi digital",
+        "bm_casual": "Jadi digital / Ubah ke digital"
+      }
+    },
+    {
+      "concept": "To troubleshoot / To resolve an issue",
+      "expressions": {
+        "en": "To troubleshoot / To resolve an issue",
+        "cn": "故障排除 / 解决问题 (Gùzhàng páichú / Jiějué wèntí)",
+        "bm_formal": "Menyelesaikan masalah / Mengatasi isu",
+        "bm_casual": "Troubleshoot / Settle masalah"
+      }
+    },
+    {
+      "concept": "User-friendly",
+      "expressions": {
+        "en": "User-friendly",
+        "cn": "用户友好 (Yònghù yǒuhǎo)",
+        "bm_formal": "Mesra pengguna",
+        "bm_casual": "Senang guna / User-friendly"
+      }
+    },
+    {
+      "concept": "Data analysis",
+      "expressions": {
+        "en": "Data analysis",
+        "cn": "数据分析 (Shùjù fēnxī)",
+        "bm_formal": "Analisis data",
+        "bm_casual": "Analisa data / Kaji data"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are in a project meeting discussing the upcoming system improvements and a new initiative.",
+      "key_phrases": [
+        "Kita perlu **membangunkan** sistem pengurusan projek yang baharu.",
+        "Jabatan IT akan **menaik taraf** server kita hujung minggu ini.",
+        "Inisiatif **transformasi digital** ini akan meningkatkan kecekapan operasi kita.",
+        "Jika ada masalah, sila rujuk pasukan teknikal untuk **menyelesaikan masalah**."
+      ]
+    },
+    "life": {
+      "scenario": "You're chatting with a friend about a new app or a common tech issue.",
+      "key_phrases": [
+        "App ni baru **update** semalam, banyak fungsi baru.",
+        "Handphone I problem sikit, kena **troubleshoot** ni.",
+        "Semua orang sekarang dah **jadi digital**, senang nak berurusan.",
+        "Apps banking ni memang **senang guna**, tak pening kepala."
+      ]
+    },
+    "tech": {
+      "scenario": "As part of a tech startup, you're discussing product features and strategy for a new application.",
+      "key_phrases": [
+        "Fokus utama kita adalah untuk **mencipta inovasi** dalam pengalaman pengguna.",
+        "Pastikan antaramuka aplikasi kita **mesra pengguna** untuk semua peringkat umur.",
+        "Kita perlu lakukan **analisis data** pengguna untuk memahami tingkah laku mereka.",
+        "Projek ini adalah sebahagian penting dari strategi **transformasi digital** syarikat."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'To develop a new system' in formal Malay?",
+      "answer": "Membangunkan sistem baharu."
+    },
+    {
+      "question": "你的电脑需要 'update' 了。 (Nǐ de diànnǎo xūyào 'update' le.) How to say 'update' casually in Malay?",
+      "answer": "Update."
+    },
+    {
+      "question": "What is the formal Malay term for 'Digital transformation'?",
+      "answer": "Transformasi digital."
+    },
+    {
+      "question": "I need to 'troubleshoot' this network issue. How do you say 'troubleshoot' casually in Malay?",
+      "answer": "Troubleshoot."
+    },
+    {
+      "question": "这款应用程式非常 'user-friendly'。 (Zhè kuǎn yìngyòng chéngshì fēicháng 'user-friendly'.) How to say 'user-friendly' formally in Malay?",
+      "answer": "Mesra pengguna."
+    },
+    {
+      "question": "What is 'Data analysis' in casual Malay?",
+      "answer": "Analisa data."
+    }
+  ]
+}
