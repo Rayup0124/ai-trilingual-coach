@@ -1,0 +1,115 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To update (software/app)",
+      "expressions": {
+        "en": "To update (software/app)",
+        "cn": "更新 (软件/应用程序)",
+        "bm_formal": "Mengemaskini (perisian/aplikasi)",
+        "bm_casual": "Update (apps/software)"
+      }
+    },
+    {
+      "concept": "To fix/troubleshoot a technical problem",
+      "expressions": {
+        "en": "To fix/troubleshoot a technical problem",
+        "cn": "解决技术问题",
+        "bm_formal": "Menyelesaikan isu teknikal",
+        "bm_casual": "Betulkan masalah teknikal / Settlekan problem tech"
+      }
+    },
+    {
+      "concept": "To go online/connect to the internet",
+      "expressions": {
+        "en": "To go online/connect to the internet",
+        "cn": "上网/连接互联网",
+        "bm_formal": "Melayari internet / Menyambung ke internet",
+        "bm_casual": "Online / Connect internet"
+      }
+    },
+    {
+      "concept": "To develop/create (a new system/solution)",
+      "expressions": {
+        "en": "To develop/create (a new system/solution)",
+        "cn": "开发/创建 (新系统/解决方案)",
+        "bm_formal": "Membangunkan/Mencipta (sistem/penyelesaian baharu)",
+        "bm_casual": "Develop/Buat (sistem baru/solution)"
+      }
+    },
+    {
+      "concept": "To back up data/files",
+      "expressions": {
+        "en": "To back up data/files",
+        "cn": "备份数据/文件",
+        "bm_formal": "Menyandarkan data/fail",
+        "bm_casual": "Backup data/fail"
+      }
+    },
+    {
+      "concept": "To implement (a new feature/policy)",
+      "expressions": {
+        "en": "To implement (a new feature/policy)",
+        "cn": "实施 (新功能/政策)",
+        "bm_formal": "Melaksanakan (ciri baharu/dasar baharu)",
+        "bm_casual": "Implement (feature baru/policy)"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Our team needs to update the project management software by next week. We also need to develop a new reporting system for the client. If there are any technical issues during the update, please make sure we have a plan to troubleshoot quickly. We're also looking to implement a new data privacy policy.",
+      "key_phrases": [
+        "mengemaskini perisian",
+        "membangunkan sistem baharu",
+        "menyelesaikan isu teknikal",
+        "melaksanakan dasar baharu"
+      ]
+    },
+    "life": {
+      "scenario": "My phone apps keep crashing. I need to update them. Also, my internet connection isn't stable; I can't go online properly. I really need to back up all my photos before something happens to my phone. Maybe I should ask my cousin to help me fix this technical problem.",
+      "key_phrases": [
+        "update apps",
+        "online",
+        "backup data",
+        "betulkan masalah teknikal"
+      ]
+    },
+    "tech": {
+      "scenario": "The development team is working hard to develop a new AI solution. We're planning to implement several new features in the next release. Before we launch, we must ensure all data is properly backed up and conduct thorough troubleshooting for any potential technical problems. We also need to update our server infrastructure.",
+      "key_phrases": [
+        "membangunkan penyelesaian AI",
+        "melaksanakan ciri baharu",
+        "menyandarkan data",
+        "menyelesaikan masalah teknikal",
+        "mengemaskini infrastruktur"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'to update an app' in casual Malay?",
+      "answer": "Update apps"
+    },
+    {
+      "question": "What is the formal Malay term for 'to fix a technical problem'?",
+      "answer": "Menyelesaikan isu teknikal"
+    },
+    {
+      "question": "How would you casually say 'to go online' in Malay?",
+      "answer": "Online / Connect internet"
+    },
+    {
+      "question": "What is the formal Malay equivalent for 'to develop a new system'?",
+      "answer": "Membangunkan sistem baharu"
+    },
+    {
+      "question": "In casual Malay, how do you say 'to back up files'?",
+      "answer": "Backup data/fail"
+    },
+    {
+      "question": "What is the formal Malay phrase for 'to implement a new feature'?",
+      "answer": "Melaksanakan ciri baharu"
+    }
+  ]
+}
