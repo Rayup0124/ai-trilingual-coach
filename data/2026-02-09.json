@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting Information/Documents",
+      "expressions": {
+        "en": "Please send me",
+        "cn": "请把发给我。",
+        "bm_formal": "Sila hantar  kepada saya.",
+        "bm_casual": "Boleh tak awak hantar ?"
+      }
+    },
+    {
+      "concept": "Following Up on a Matter",
+      "expressions": {
+        "en": "I will follow up on this.",
+        "cn": "我会跟进这件事。",
+        "bm_formal": "Saya akan susul mengenai perkara ini.",
+        "bm_casual": "Nanti saya follow up."
+      }
+    },
+    {
+      "concept": "Proposing a Meeting",
+      "expressions": {
+        "en": "Let's schedule a meeting.",
+        "cn": "我们安排个会议吧。",
+        "bm_formal": "Mari kita jadualkan mesyuarat.",
+        "bm_casual": "Jom kita set meeting."
+      }
+    },
+    {
+      "concept": "Seeking Clarification",
+      "expressions": {
+        "en": "I need clarification on",
+        "cn": "我需要澄清一点",
+        "bm_formal": "Saya memerlukan penjelasan mengenai",
+        "bm_casual": "Saya nak tanya sikit pasal"
+      }
+    },
+    {
+      "concept": "Expressing Gratitude for Cooperation",
+      "expressions": {
+        "en": "Thank you for your cooperation.",
+        "cn": "感谢您的合作。",
+        "bm_formal": "Terima kasih atas kerjasama anda.",
+        "bm_casual": "Thanks for your cooperation. / Terima kasih banyak."
+      }
+    },
+    {
+      "concept": "Promising a Quick Response",
+      "expressions": {
+        "en": "I'll get back to you shortly.",
+        "cn": "我会尽快回复您。",
+        "bm_formal": "Saya akan maklumkan semula kepada anda tidak lama lagi.",
+        "bm_casual": "Nanti saya reply balik. / Saya akan maklumkan sekejap lagi."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're at the office. Your manager asks you to prepare a report and follow up with a client regarding a pending payment. You also need to thank a colleague for their help.",
+      "key_phrases": [
+        "Sila hantar laporan itu kepada saya.",
+        "Saya akan susul mengenai perkara ini.",
+        "Terima kasih atas kerjasama anda."
+      ]
+    },
+    "life": {
+      "scenario": "You're organizing a family gathering. You need to confirm the date with your relatives, clarify the potluck arrangements, and promise to send the final details soon.",
+      "key_phrases": [
+        "Jom kita set meeting untuk bincang tarikh.",
+        "Saya nak tanya sikit pasal makanan siapa nak bawa apa.",
+        "Nanti saya reply balik details penuh."
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a software issue with a tech support agent. You need to request log files, ask for more details on the next steps, and confirm you'll send the requested info quickly.",
+      "key_phrases": [
+        "Sila hantar arahan untuk dapatkan log files.",
+        "Saya memerlukan penjelasan mengenai langkah seterusnya.",
+        "Saya akan maklumkan semula fail log tidak lama lagi."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask someone to 'Please send me the proposal'?",
+      "answer": "Sila hantar cadangan itu kepada saya."
+    },
+    {
+      "question": "你会怎样非正式地说 'I will follow up on this'?",
+      "answer": "Nanti saya follow up."
+    },
+    {
+      "question": "How do you casually suggest 'Let's schedule a meeting'?",
+      "answer": "Jom kita set meeting."
+    },
+    {
+      "question": "你会怎样正式地说 'I need clarification on the budget'?",
+      "answer": "Saya memerlukan penjelasan mengenai bajet."
+    },
+    {
+      "question": "How do you formally say 'Thank you for your cooperation'?",
+      "answer": "Terima kasih atas kerjasama anda."
+    },
+    {
+      "question": "你会怎样非正式地说 'I'll get back to you shortly'?",
+      "answer": "Nanti saya reply balik."
+    }
+  ]
+}
