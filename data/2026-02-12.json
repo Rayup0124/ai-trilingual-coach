@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Making a Request",
+      "expressions": {
+        "en": "Could you please? / Can you?",
+        "cn": "你可以? / 请你?",
+        "bm_formal": "Bolehkah anda? / Sila",
+        "bm_casual": "Boleh tak? / Tolong"
+      }
+    },
+    {
+      "concept": "Acknowledging Understanding",
+      "expressions": {
+        "en": "I understand. / Got it.",
+        "cn": "我明白了。/ 好的。",
+        "bm_formal": "Saya faham. / Baiklah.",
+        "bm_casual": "Faham. / Okey. / Baik."
+      }
+    },
+    {
+      "concept": "Following Up / Checking Status",
+      "expressions": {
+        "en": "I will follow up. / I'll check on it.",
+        "cn": "我会跟进。/ 我会去查看。",
+        "bm_formal": "Saya akan susulan. / Saya akan semak semula.",
+        "bm_casual": "Nanti saya follow up. / Saya akan check."
+      }
+    },
+    {
+      "concept": "Expressing Gratitude for Cooperation",
+      "expressions": {
+        "en": "Thank you for your cooperation. / Thanks for helping.",
+        "cn": "谢谢你的合作。/ 谢谢帮忙。",
+        "bm_formal": "Terima kasih atas kerjasama anda.",
+        "bm_casual": "Terima kasih banyak. / Thanks ya."
+      }
+    },
+    {
+      "concept": "Requesting Information/Document",
+      "expressions": {
+        "en": "Please send me / Can you send me?",
+        "cn": "请发给我 / 你可以发给我?",
+        "bm_formal": "Sila hantar kepada saya / Mohon hantar kepada saya",
+        "bm_casual": "Boleh hantar saya / Hantar saya"
+      }
+    },
+    {
+      "concept": "Suggesting a Discussion",
+      "expressions": {
+        "en": "Let's discuss this. / Let's talk about it.",
+        "cn": "我们来讨论一下。/ 我们聊聊这个。",
+        "bm_formal": "Mari kita bincangkan perkara ini. / Marilah kita berbahas.",
+        "bm_casual": "Jom bincang. / Kita bincanglah."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Your team leader needs an urgent report from you by end of day.",
+      "key_phrases": [
+        "Bolehkah anda hantar laporan itu kepada saya sebelum petang?",
+        "Saya faham, saya akan susulan secepat mungkin.",
+        "Terima kasih atas kerjasama anda."
+      ]
+    },
+    "life": {
+      "scenario": "You're coordinating a potluck dinner with friends and need to confirm who's bringing what.",
+      "key_phrases": [
+        "Boleh tak hantar saya senarai makanan siapa bawa apa?",
+        "Nanti saya follow up kalau tak dapat respon.",
+        "Jom bincang siapa nak bawa dessert."
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a software issue with IT support and they need you to send a screenshot.",
+      "key_phrases": [
+        "Mohon hantar kepada saya screenshot isu yang berlaku.",
+        "Saya faham, nanti saya akan hantar.",
+        "Terima kasih banyak atas bantuan anda."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How to formally ask 'Could you please send me the report?' in Malay?",
+      "answer": "Bolehkah anda hantar laporan itu kepada saya?"
+    },
+    {
+      "question": "What's a casual way to say 'I understand' in Malay?",
+      "answer": "Faham."
+    },
+    {
+      "question": "How to say 'I will follow up' formally in Malay?",
+      "answer": "Saya akan susulan."
+    },
+    {
+      "question": "How to express 'Thanks for your cooperation' casually in Malay?",
+      "answer": "Terima kasih banyak."
+    },
+    {
+      "question": "What's the formal Malay for 'Let's discuss this matter'?",
+      "answer": "Mari kita bincangkan perkara ini."
+    },
+    {
+      "question": "你明白了吗？(Got it?) - Casual Malay response meaning 'I understand.'",
+      "answer": "Okey."
+    }
+  ]
+}
