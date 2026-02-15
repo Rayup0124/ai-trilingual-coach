@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "To confirm / Please confirm",
+      "expressions": {
+        "en": "Please confirm",
+        "cn": "请确认",
+        "bm_formal": "Sila sahkan / Mohon pengesahan",
+        "bm_casual": "Tolong confirmkan / Boleh confirm?"
+      }
+    },
+    {
+      "concept": "To follow up / I will follow up",
+      "expressions": {
+        "en": "I will follow up",
+        "cn": "我会跟进",
+        "bm_formal": "Saya akan susulan / Saya akan maklumkan semula",
+        "bm_casual": "Saya akan follow up / Nanti saya update"
+      }
+    },
+    {
+      "concept": "Let's schedule / Arrange a meeting/time",
+      "expressions": {
+        "en": "Let's schedule a meeting/time",
+        "cn": "我们安排个会议/时间吧",
+        "bm_formal": "Mari kita jadualkan mesyuarat / Mari kita tetapkan masa",
+        "bm_casual": "Jom set meeting / Jom arrange masa"
+      }
+    },
+    {
+      "concept": "Could you elaborate? / Explain more",
+      "expressions": {
+        "en": "Could you please elaborate? / Can you explain more?",
+        "cn": "你能详细说明一下吗？",
+        "bm_formal": "Boleh anda terangkan dengan lebih lanjut? / Mohon huraikan",
+        "bm_casual": "Boleh explain lagi? / Cuba cerita detail sikit?"
+      }
+    },
+    {
+      "concept": "Apologize for inconvenience / Sorry for the trouble",
+      "expressions": {
+        "en": "I apologize for the inconvenience",
+        "cn": "我为造成的不便道歉",
+        "bm_formal": "Saya memohon maaf atas kesulitan ini / Maaf atas kesulitan yang timbul",
+        "bm_casual": "Sorrylah susahkan / Maaf ya"
+      }
+    },
+    {
+      "concept": "Thank you for your cooperation / Thanks for helping",
+      "expressions": {
+        "en": "Thank you for your cooperation",
+        "cn": "感谢您的合作",
+        "bm_formal": "Terima kasih atas kerjasama anda / Penghargaan atas bantuan anda",
+        "bm_casual": "Thanks for the cooperation / Terima kasih tolong"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are in a project meeting discussing deadlines. Your manager asks for an update on a specific task and wants confirmation on its completion date. You assure them you will follow up with the team and thank everyone for their input.",
+      "key_phrases": [
+        "Sila sahkan tarikh siap projek itu.",
+        "Saya akan susulan dengan pasukan dan maklumkan semula.",
+        "Terima kasih atas kerjasama anda semua."
+      ]
+    },
+    "life": {
+      "scenario": "You're trying to organize a dinner with friends. One friend is confused about the location, and you need to apologize for the last-minute change. You suggest setting a time that works for everyone.",
+      "key_phrases": [
+        "Maaf ya, ada perubahan lokasi last minute.",
+        "Boleh explain lagi pasal lokasi baru ni?",
+        "Jom arrange masa yang sesuai untuk semua."
+      ]
+    },
+    "tech": {
+      "scenario": "You're on a call with tech support because your new software isn't working. The agent asks you to perform a step and then asks you to confirm if it worked. You need to ask them to elaborate on the next step and promise to update them after trying.",
+      "key_phrases": [
+        "Boleh confirmkan kalau langkah ni dah berjaya?",
+        "Boleh explain lagi tak apa langkah seterusnya?",
+        "Nanti saya update semula lepas saya cuba."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask 'Please confirm the details' in Malay? (请确认详细信息)",
+      "answer": "Sila sahkan butiran."
+    },
+    {
+      "question": "If you want to casually say 'I'll follow up on this' to a colleague, what would you say in Malay? (我会跟进这件事)",
+      "answer": "Saya akan follow up pasal ni."
+    },
+    {
+      "question": "What's a formal way to suggest 'Let's schedule a meeting next week' in Malay? (我们下周安排个会议吧)",
+      "answer": "Mari kita jadualkan mesyuarat minggu depan."
+    },
+    {
+      "question": "How do you casually ask 'Can you explain more about this feature?' in Malay? (你能详细说明一下这个功能吗？)",
+      "answer": "Boleh explain lagi pasal feature ni?"
+    },
+    {
+      "question": "You need to formally apologize for a delay. How would you say 'I apologize for the inconvenience caused' in Malay? (我为造成的不便道歉)",
+      "answer": "Saya memohon maaf atas kesulitan yang berlaku."
+    },
+    {
+      "question": "How would you casually express 'Thanks for your cooperation' to a team member in Malay? (感谢您的合作)",
+      "answer": "Thanks for the cooperation."
+    }
+  ]
+}
