@@ -1,0 +1,111 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To update (software/information)",
+      "expressions": {
+        "en": "To update",
+        "cn": "更新 (gēngxīn)",
+        "bm_formal": "Mengemaskini",
+        "bm_casual": "Update / Kemas kini"
+      }
+    },
+    {
+      "concept": "To develop / To improve (a project/skill)",
+      "expressions": {
+        "en": "To develop / To improve",
+        "cn": "发展 (fāzhǎn) / 改进 (gǎijìn)",
+        "bm_formal": "Membangunkan / Meningkatkan",
+        "bm_casual": "Majukan / Tingkatkan"
+      }
+    },
+    {
+      "concept": "Digital transformation",
+      "expressions": {
+        "en": "Digital transformation",
+        "cn": "数字化转型 (shùzìhuà zhuǎnxíng)",
+        "bm_formal": "Transformasi digital",
+        "bm_casual": "Tukar ke digital / Digitalisasi"
+      }
+    },
+    {
+      "concept": "Innovative (idea/solution)",
+      "expressions": {
+        "en": "Innovative (idea/solution)",
+        "cn": "创新的 (chuàngxīn de)",
+        "bm_formal": "Inovatif",
+        "bm_casual": "Kreatif / Idea baru"
+      }
+    },
+    {
+      "concept": "Online transaction / E-commerce",
+      "expressions": {
+        "en": "Online transaction / E-commerce",
+        "cn": "线上交易 (xiànshàng jiāoyì) / 电子商务 (diànzǐ shāngwù)",
+        "bm_formal": "Transaksi dalam talian / E-dagang",
+        "bm_casual": "Beli online / Jual beli internet"
+      }
+    },
+    {
+      "concept": "Data security",
+      "expressions": {
+        "en": "Data security",
+        "cn": "数据安全 (shùjù ānquán)",
+        "bm_formal": "Keselamatan data",
+        "bm_casual": "Jaga data / Data selamat"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're discussing the progress of a new project with your team leader. You need to update them on development and suggest an innovative approach.",
+      "key_phrases": [
+        "Kita perlu mengemaskini laporan kemajuan projek.",
+        "Bagaimana kita boleh membangunkan modul ini dengan lebih inovatif?",
+        "Saya akan memastikan semua data projek sentiasa selamat."
+      ]
+    },
+    "life": {
+      "scenario": "You're talking to a friend about how technology has changed daily life, from online shopping to personal skill development.",
+      "key_phrases": [
+        "Sekarang senang nak beli online, tak payah keluar rumah.",
+        "Saya nak tingkatkan kemahiran digital saya dengan kelas online.",
+        "Transformasi digital memang banyak mudahkan hidup kita."
+      ]
+    },
+    "tech": {
+      "scenario": "You're explaining to a family member about the importance of updating software and ensuring data security on their devices.",
+      "key_phrases": [
+        "Pastikan awak sentiasa update aplikasi dalam telefon.",
+        "Penting untuk jaga keselamatan data peribadi kita.",
+        "Kita kena cari penyelesaian yang lebih inovatif untuk masalah ini."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'to update (software/information)' formally in Malay?",
+      "answer": "Mengemaskini"
+    },
+    {
+      "question": "What is the casual Malay for 'to develop/improve a skill'?",
+      "answer": "Tingkatkan"
+    },
+    {
+      "question": "What does '数字化转型' (Digital transformation) mean in formal Malay?",
+      "answer": "Transformasi digital"
+    },
+    {
+      "question": "How would you casually describe an 'innovative idea' in Malay?",
+      "answer": "Idea baru / Kreatif"
+    },
+    {
+      "question": "What is the formal Malay term for 'e-commerce'?",
+      "answer": "E-dagang"
+    },
+    {
+      "question": "How do you say 'data security' casually in Malay?",
+      "answer": "Jaga data / Data selamat"
+    }
+  ]
+}
