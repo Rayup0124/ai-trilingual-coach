@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting Information/Documents",
+      "expressions": {
+        "en": "Could you please send me?",
+        "cn": "请发给我 (Qǐng fā gěi wǒ)",
+        "bm_formal": "Boleh tolong hantar?",
+        "bm_casual": "Boleh hantar?"
+      }
+    },
+    {
+      "concept": "Following Up",
+      "expressions": {
+        "en": "I will follow up on this.",
+        "cn": "我会跟进这件事。 (Wǒ huì gēnjìn zhè jiàn shì.)",
+        "bm_formal": "Saya akan susulan perkara ini.",
+        "bm_casual": "Saya akan follow up."
+      }
+    },
+    {
+      "concept": "Scheduling a Meeting",
+      "expressions": {
+        "en": "Let's schedule a meeting.",
+        "cn": "我们安排个会议吧。 (Wǒmen ānpái gè huìyì ba.)",
+        "bm_formal": "Mari kita jadualkan mesyuarat.",
+        "bm_casual": "Jom set meeting."
+      }
+    },
+    {
+      "concept": "Acknowledging Understanding",
+      "expressions": {
+        "en": "I understand. / Got it.",
+        "cn": "我明白了。 (Wǒ míngbái le.)",
+        "bm_formal": "Saya faham. / Saya mengerti.",
+        "bm_casual": "Faham. / Okay, faham."
+      }
+    },
+    {
+      "concept": "Expressing Gratitude",
+      "expressions": {
+        "en": "Thank you for your help.",
+        "cn": "谢谢你的帮助。 (Xièxie nǐ de bāngzhù.)",
+        "bm_formal": "Terima kasih atas bantuan anda.",
+        "bm_casual": "Terima kasih tolong. / Thanks tolong."
+      }
+    },
+    {
+      "concept": "Seeking Clarification",
+      "expressions": {
+        "en": "Could you clarify?",
+        "cn": "你能解释一下吗？ (Nǐ néng jiěshì yīxià ma?)",
+        "bm_formal": "Boleh jelaskan? / Boleh terangkan?",
+        "bm_casual": "Boleh explain? / Boleh terang sikit?"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are a project manager coordinating tasks with your team and external vendors.",
+      "key_phrases": [
+        "Boleh tolong hantar laporan kemajuan projek?",
+        "Saya akan susulan dengan pasukan IT mengenai isu server.",
+        "Mari kita jadualkan mesyuarat untuk membincangkan strategi pemasaran baharu."
+      ]
+    },
+    "life": {
+      "scenario": "You are planning a family gathering or a casual outing with friends.",
+      "key_phrases": [
+        "Boleh hantar lokasi restoran tu?",
+        "Saya akan follow up dengan mak pasal menu makan malam.",
+        "Jom set meeting untuk tengok wayang hujung minggu ni."
+      ]
+    },
+    "tech": {
+      "scenario": "You are troubleshooting a software issue or requesting technical support from a colleague.",
+      "key_phrases": [
+        "Boleh tolong hantar screenshot error yang awak dapat?",
+        "Saya akan follow up dengan developer tentang bug ni.",
+        "Boleh explain macam mana nak configure setting ni?"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally say 'Could you please send me the report?' in Malay?",
+      "answer": "Boleh tolong hantar laporan itu?"
+    },
+    {
+      "question": "How do you casually say 'I will follow up on this.' in Malay?",
+      "answer": "Saya akan follow up."
+    },
+    {
+      "question": "How do you formally say 'Let's schedule a meeting.' in Malay?",
+      "answer": "Mari kita jadualkan mesyuarat."
+    },
+    {
+      "question": "How do you casually say '我明白了。' (I understand.) in Malay?",
+      "answer": "Faham. / Okay, faham."
+    },
+    {
+      "question": "How do you casually say 'Thank you for your help.' in Malay?",
+      "answer": "Terima kasih tolong. / Thanks tolong."
+    },
+    {
+      "question": "How do you formally say '你能解释一下吗？' (Could you clarify?) in Malay?",
+      "answer": "Boleh jelaskan? / Boleh terangkan?"
+    }
+  ]
+}
