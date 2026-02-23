@@ -1,0 +1,111 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To update (software/information)",
+      "expressions": {
+        "en": "To update",
+        "cn": "更新 (gēngxīn)",
+        "bm_formal": "Mengemaskini",
+        "bm_casual": "Update / Kemas kini"
+      }
+    },
+    {
+      "concept": "Digital transformation / To digitize",
+      "expressions": {
+        "en": "Digital transformation / To digitize",
+        "cn": "数字化转型 (shùzìhuà zhuǎnxíng) / 数字化 (shùzìhuà)",
+        "bm_formal": "Transformasi digital / Mendigitalkan",
+        "bm_casual": "Transformasi digital / Digitalize"
+      }
+    },
+    {
+      "concept": "Internet connection / Connectivity",
+      "expressions": {
+        "en": "Internet connection / Connectivity",
+        "cn": "网络连接 (wǎngluò liánjiē) / 连接性 (liánjiēxìng)",
+        "bm_formal": "Sambungan internet / Ketersambungan",
+        "bm_casual": "Line internet / Internet ada"
+      }
+    },
+    {
+      "concept": "Online platform / Application",
+      "expressions": {
+        "en": "Online platform / Application",
+        "cn": "线上平台 (xiànshàng píngtái) / 应用程序 (yìngyòng chéngxù)",
+        "bm_formal": "Platform dalam talian / Aplikasi",
+        "bm_casual": "Platform online / App"
+      }
+    },
+    {
+      "concept": "Data analysis / To analyze data",
+      "expressions": {
+        "en": "Data analysis / To analyze data",
+        "cn": "数据分析 (shùjù fēnxī) / 分析数据 (fēnxī shùjù)",
+        "bm_formal": "Analisis data / Menganalisis data",
+        "bm_casual": "Analisis data / Buat analisis data"
+      }
+    },
+    {
+      "concept": "Innovation / To innovate",
+      "expressions": {
+        "en": "Innovation / To innovate",
+        "cn": "创新 (chuàngxīn) / 创新 (chuàngxīn)",
+        "bm_formal": "Inovasi / Berinovasi",
+        "bm_casual": "Inovasi / Buat inovasi"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "During a project meeting, your manager asks for an update on the progress of digitizing customer records and wants to discuss innovative ways to streamline processes.",
+      "key_phrases": [
+        "Kita perlu mengemaskini sistem pangkalan data kita.",
+        "Bagaimana status transformasi digital untuk rekod pelanggan?",
+        "Mari kita fikirkan cara untuk berinovasi dalam proses ini."
+      ]
+    },
+    "life": {
+      "scenario": "You're at home, and your internet connection is slow. You decide to use an online platform to report the issue and pay your utility bills.",
+      "key_phrases": [
+        "Line internet saya selalu tak stabil.",
+        "Saya nak pakai platform online ni untuk bayar bil air.",
+        "Harap-harap servis ketersambungan ni boleh diperbaiki."
+      ]
+    },
+    "tech": {
+      "scenario": "A development team is discussing new features for a mobile application, focusing on improving data analysis capabilities and ensuring seamless connectivity for users.",
+      "key_phrases": [
+        "Kita perlu buat analisis data yang lebih mendalam untuk fasa seterusnya.",
+        "Pastikan aplikasi ni ada ketersambungan yang baik.",
+        "Apa lagi inovasi yang boleh kita masukkan dalam app ni?"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'To update' (software/information) in formal Malay? / '更新' 的正式马来语怎么说？",
+      "answer": "Mengemaskini"
+    },
+    {
+      "question": "What is the casual Malay for 'Internet connection'? / '网络连接' 的非正式马来语是什么？",
+      "answer": "Line internet / Internet ada"
+    },
+    {
+      "question": "What is 'Digital transformation' in formal Malay? / '数字化转型' 的正式马来语是什么？",
+      "answer": "Transformasi digital"
+    },
+    {
+      "question": "How would you casually say 'To analyze data' in Malay? / '分析数据' 的非正式马来语怎么说？",
+      "answer": "Buat analisis data"
+    },
+    {
+      "question": "What is the formal Malay term for 'Online platform'? / '线上平台' 的正式马来语是什么？",
+      "answer": "Platform dalam talian"
+    },
+    {
+      "question": "What is the casual Malay for 'To innovate'? / '创新' 的非正式马来语怎么说？",
+      "answer": "Buat inovasi"
+    }
+  ]
+}
