@@ -1,0 +1,111 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "Embracing Digital Transformation",
+      "expressions": {
+        "en": "Embrace digital transformation",
+        "cn": "拥抱数字化转型 (yǒngbào shùzìhuà zhuǎnxíng)",
+        "bm_formal": "Menerima transformasi digital",
+        "bm_casual": "Kita kena digital"
+      }
+    },
+    {
+      "concept": "Utilizing Online Platforms",
+      "expressions": {
+        "en": "Utilize online platforms",
+        "cn": "利用在线平台 (lìyòng zàixiàn píngtái)",
+        "bm_formal": "Menggunakan platform dalam talian",
+        "bm_casual": "Guna platform online"
+      }
+    },
+    {
+      "concept": "Data-Driven Decision Making",
+      "expressions": {
+        "en": "Make data-driven decisions",
+        "cn": "做数据驱动的决策 (zuò shùjù qūdòng de juécè)",
+        "bm_formal": "Membuat keputusan berasaskan data",
+        "bm_casual": "Buat keputusan ikut data"
+      }
+    },
+    {
+      "concept": "Fostering Innovation",
+      "expressions": {
+        "en": "Foster innovation",
+        "cn": "促进创新 (cùjìn chuàngxīn)",
+        "bm_formal": "Memupuk inovasi",
+        "bm_casual": "Galakkan idea baru"
+      }
+    },
+    {
+      "concept": "Strengthening Cybersecurity",
+      "expressions": {
+        "en": "Strengthen cybersecurity",
+        "cn": "加强网络安全 (jiāqiáng wǎngluò ānquán)",
+        "bm_formal": "Memperkukuh keselamatan siber",
+        "bm_casual": "Kuatkan cyber security"
+      }
+    },
+    {
+      "concept": "Adopting Sustainable Technology",
+      "expressions": {
+        "en": "Adopt sustainable technology",
+        "cn": "采用可持续技术 (cǎiyòng kěchíxù jìshù)",
+        "bm_formal": "Mengadaptasi teknologi lestari",
+        "bm_casual": "Pakai teknologi hijau"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "During a strategic planning meeting, the CEO emphasizes the need for progress. 'Our company must *menerima transformasi digital* to stay competitive. Moving forward, we should *membuat keputusan berasaskan data* for all major projects and actively *memupuk inovasi* within our teams.'",
+      "key_phrases": [
+        "menerima transformasi digital",
+        "membuat keputusan berasaskan data",
+        "memupuk inovasi"
+      ]
+    },
+    "life": {
+      "scenario": "A group of friends discusses modern living. 'For daily errands, it's so much easier now to *guna platform online* for everything. And for our new house, we definitely want to *pakai teknologi hijau* to save energy. Don't forget, we also need to *kuatkan cyber security* for our personal devices!'",
+      "key_phrases": [
+        "guna platform online",
+        "pakai teknologi hijau",
+        "kuatkan cyber security"
+      ]
+    },
+    "tech": {
+      "scenario": "A tech lead advises their development team. 'When building this new system, we must focus on *menggunakan platform dalam talian* efficiently to reach more users. It's paramount to *memperkukuh keselamatan siber* from the initial design phase, and where possible, let's explore how to *mengadaptasi teknologi lestari* in our backend infrastructure.'",
+      "key_phrases": [
+        "menggunakan platform dalam talian",
+        "memperkukuh keselamatan siber",
+        "mengadaptasi teknologi lestari"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'Embrace digital transformation' (formal) in Malay?",
+      "answer": "Menerima transformasi digital"
+    },
+    {
+      "question": "What's the casual Malay for 'Utilize online platforms'?",
+      "answer": "Guna platform online"
+    },
+    {
+      "question": "Translate 'Make data-driven decisions' (formal) to Malay.",
+      "answer": "Membuat keputusan berasaskan data"
+    },
+    {
+      "question": "What is '促进创新' (foster innovation) in casual Malay?",
+      "answer": "Galakkan idea baru"
+    },
+    {
+      "question": "How do you say 'Strengthen cybersecurity' (formal) in Malay?",
+      "answer": "Memperkukuh keselamatan siber"
+    },
+    {
+      "question": "What's the casual Malay for 'Adopt sustainable technology'?",
+      "answer": "Pakai teknologi hijau"
+    }
+  ]
+}
