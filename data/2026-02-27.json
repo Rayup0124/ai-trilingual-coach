@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Confirming Information",
+      "expressions": {
+        "en": "Can you confirm this?",
+        "cn": "你能确认一下吗？",
+        "bm_formal": "Boleh tuan/puan sahkan perkara ini?",
+        "bm_casual": "Boleh sahkan?"
+      }
+    },
+    {
+      "concept": "Providing Updates/Follow-up",
+      "expressions": {
+        "en": "I'll get back to you on this.",
+        "cn": "我会再联系你。",
+        "bm_formal": "Saya akan maklumkan semula.",
+        "bm_casual": "Nanti saya update."
+      }
+    },
+    {
+      "concept": "Initiating Discussion",
+      "expressions": {
+        "en": "Let's discuss this further.",
+        "cn": "我们再详细讨论一下吧。",
+        "bm_formal": "Mari kita bincangkan perkara ini dengan lebih lanjut.",
+        "bm_casual": "Jom bincang lagi."
+      }
+    },
+    {
+      "concept": "Requesting Documents/Items",
+      "expressions": {
+        "en": "Could you please send me the report?",
+        "cn": "你能把报告发给我吗？",
+        "bm_formal": "Boleh tuan/puan hantarkan laporan itu kepada saya?",
+        "bm_casual": "Boleh hantar report tu kat saya?"
+      }
+    },
+    {
+      "concept": "Acknowledging Understanding",
+      "expressions": {
+        "en": "I understand the instructions.",
+        "cn": "我明白这些指示。",
+        "bm_formal": "Saya faham arahan tersebut.",
+        "bm_casual": "Faham."
+      }
+    },
+    {
+      "concept": "Expressing Gratitude for Help",
+      "expressions": {
+        "en": "Thank you for your cooperation.",
+        "cn": "谢谢您的合作。",
+        "bm_formal": "Terima kasih atas kerjasama anda.",
+        "bm_casual": "Terima kasih atas bantuan."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are coordinating a project with your team and need to confirm a deadline, follow up on a task, and initiate a discussion about a new feature.",
+      "key_phrases": [
+        "Boleh sahkan deadline ni?",
+        "Nanti saya update pasal progress.",
+        "Mari kita bincangkan perkara ini dengan lebih lanjut."
+      ]
+    },
+    "life": {
+      "scenario": "You are planning a family trip with your relatives. You need to confirm their availability, tell them you'll update them on the itinerary, and ask for their input on activities.",
+      "key_phrases": [
+        "Boleh sahkan tarikh tu?",
+        "Nanti saya update itinerary.",
+        "Jom bincang aktiviti apa nak buat."
+      ]
+    },
+    "tech": {
+      "scenario": "You are troubleshooting a software issue with a colleague. You need to confirm the error message, mention you'll get back after checking, and request some log files.",
+      "key_phrases": [
+        "Boleh sahkan error message ni?",
+        "Nanti saya update lepas check.",
+        "Boleh hantar log file tu kat saya?"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally say 'Can you confirm this?' in Malay?",
+      "answer": "Boleh tuan/puan sahkan perkara ini?"
+    },
+    {
+      "question": "你如何用休闲的马来语说 'I'll get back to you'?",
+      "answer": "Nanti saya update."
+    },
+    {
+      "question": "What's the formal Malay for 'Let's discuss this further'?",
+      "answer": "Mari kita bincangkan perkara ini dengan lebih lanjut."
+    },
+    {
+      "question": "How would you casually ask 'Can you send me the report?' in Malay?",
+      "answer": "Boleh hantar report tu kat saya?"
+    },
+    {
+      "question": "你如何用正式的马来语说 'I understand the instructions'?",
+      "answer": "Saya faham arahan tersebut."
+    },
+    {
+      "question": "What is the casual Malay expression for 'Thank you for your cooperation'?",
+      "answer": "Terima kasih atas bantuan."
+    }
+  ]
+}
