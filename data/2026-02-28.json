@@ -1,0 +1,114 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for understanding/clarification",
+      "expressions": {
+        "en": "Do you understand? / Is that clear?",
+        "cn": "你明白吗？ / 清楚吗？",
+        "bm_formal": "Adakah anda faham? / Jelas?",
+        "bm_casual": "Faham tak? / Jelas tak?"
+      }
+    },
+    {
+      "concept": "Asking for help/assistance",
+      "expressions": {
+        "en": "Can you help me?",
+        "cn": "你能帮我吗？",
+        "bm_formal": "Bolehkah anda membantu saya?",
+        "bm_casual": "Boleh tolong tak? / Tolong sikit?"
+      }
+    },
+    {
+      "concept": "Expressing agreement/confirmation",
+      "expressions": {
+        "en": "Alright / Okay / Understood",
+        "cn": "好的 / 明白了",
+        "bm_formal": "Baiklah / Faham",
+        "bm_casual": "Oke / Baik / Faham / Ya"
+      }
+    },
+    {
+      "concept": "Asking about availability/time",
+      "expressions": {
+        "en": "Are you free? / Are you available?",
+        "cn": "你有空吗？ / 你方便吗？",
+        "bm_formal": "Adakah anda lapang? / Adakah anda tersedia?",
+        "bm_casual": "Ada masa tak? / Free tak? / Senang tak?"
+      }
+    },
+    {
+      "concept": "Asking someone to wait/hold on",
+      "expressions": {
+        "en": "Please wait a moment.",
+        "cn": "请稍等一下。",
+        "bm_formal": "Sila tunggu sebentar.",
+        "bm_casual": "Tunggu kejap. / Kejap ya."
+      }
+    },
+    {
+      "concept": "Apologizing/Saying sorry",
+      "expressions": {
+        "en": "I'm sorry.",
+        "cn": "对不起。",
+        "bm_formal": "Saya minta maaf.",
+        "bm_casual": "Minta maaf. / Sori."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are discussing a new project deadline with your team. Your manager explains the new requirements and asks if everyone understands. Later, you need help from a colleague with a specific task and ask them to wait while you retrieve a file.",
+      "key_phrases": [
+        "Jelas tak?",
+        "Baiklah.",
+        "Bolehkah anda membantu saya?",
+        "Sila tunggu sebentar."
+      ]
+    },
+    "life": {
+      "scenario": "You're trying to explain directions to a friend over the phone. After giving the instructions, you check if they got it. Later, you accidentally bump into someone at the mall and apologize, then ask a friend if they are free to meet for coffee.",
+      "key_phrases": [
+        "Faham tak?",
+        "Minta maaf.",
+        "Ada masa tak?",
+        "Oke."
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a software issue with a colleague. You explain the steps you've taken and ask if they understand. You then ask them to help you with a specific setting and tell them to wait a moment while the system loads.",
+      "key_phrases": [
+        "Jelas tak?",
+        "Boleh tolong tak?",
+        "Tunggu kejap.",
+        "Faham."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you ask 'Do you understand?' in casual Malay?",
+      "answer": "Faham tak?"
+    },
+    {
+      "question": "What is the formal Malay for 'Can you help me?' (你能帮我吗？)?",
+      "answer": "Bolehkah anda membantu saya?"
+    },
+    {
+      "question": "How do you say 'Alright' or 'Okay' in casual Malay?",
+      "answer": "Oke."
+    },
+    {
+      "question": "What is the casual Malay for 'Are you free?' (你有空吗？)?",
+      "answer": "Ada masa tak?"
+    },
+    {
+      "question": "How do you say 'Please wait a moment.' in formal Malay?",
+      "answer": "Sila tunggu sebentar."
+    },
+    {
+      "question": "What is the casual Malay for 'I'm sorry.' (对不起。)?",
+      "answer": "Minta maaf."
+    }
+  ]
+}
