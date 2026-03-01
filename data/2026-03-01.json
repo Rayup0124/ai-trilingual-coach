@@ -1,0 +1,111 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for Assistance",
+      "expressions": {
+        "en": "Can you help me?",
+        "cn": "你能帮我吗？ (Nǐ néng bāng wǒ ma?)",
+        "bm_formal": "Bolehkah anda membantu saya?",
+        "bm_casual": "Boleh tolong saya?"
+      }
+    },
+    {
+      "concept": "Asking for Repetition/Clarification",
+      "expressions": {
+        "en": "Can you repeat that?",
+        "cn": "你能再说一遍吗？ (Nǐ néng zài shuō yī biàn ma?)",
+        "bm_formal": "Boleh anda ulangi?",
+        "bm_casual": "Boleh ulang balik?"
+      }
+    },
+    {
+      "concept": "Expressing Understanding",
+      "expressions": {
+        "en": "I understand.",
+        "cn": "我明白了。(Wǒ míngbái le.)",
+        "bm_formal": "Saya faham. / Saya mengerti.",
+        "bm_casual": "Faham. / Okay."
+      }
+    },
+    {
+      "concept": "Expressing Apology/Excuse Me",
+      "expressions": {
+        "en": "Excuse me / Sorry",
+        "cn": "不好意思 (Bù hǎoyìsi)",
+        "bm_formal": "Maafkan saya. / Mohon maaf.",
+        "bm_casual": "Minta maaf. / Sorry."
+      }
+    },
+    {
+      "concept": "Asking About Availability",
+      "expressions": {
+        "en": "Are you free (now/later)?",
+        "cn": "你有空吗？(Nǐ yǒu kòng ma?)",
+        "bm_formal": "Adakah anda lapang?",
+        "bm_casual": "Ada free tak?"
+      }
+    },
+    {
+      "concept": "Expressing Gratitude",
+      "expressions": {
+        "en": "Thank you (very much).",
+        "cn": "谢谢 (Xièxie)",
+        "bm_formal": "Terima kasih (banyak-banyak).",
+        "bm_casual": "Terima kasih. / Thanks."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're in a team meeting discussing a new project. You need clarification on a task and want to confirm your understanding. You also need to ask a colleague for help with a specific detail.",
+      "key_phrases": [
+        "Boleh anda ulangi?",
+        "Saya faham.",
+        "Bolehkah anda membantu saya?"
+      ]
+    },
+    "life": {
+      "scenario": "You're at a local market and need assistance from a vendor. Later, you bump into a friend and want to check their availability for a meet-up this weekend.",
+      "key_phrases": [
+        "Boleh tolong saya?",
+        "Ada free tak?",
+        "Minta maaf."
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a software issue and need to contact technical support. You then arrange an online collaboration session with a team member and need to confirm their availability.",
+      "key_phrases": [
+        "Boleh bantu?",
+        "Ada free tak?",
+        "Terima kasih."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'Can you help me?' (casual) in Malay?",
+      "answer": "Boleh tolong saya?"
+    },
+    {
+      "question": "How do you say 'I understand.' (formal) in Malay?",
+      "answer": "Saya faham."
+    },
+    {
+      "question": "如何用马来语说 'Excuse me / Sorry' (casual)? (Rúhé yòng Mǎláiyǔ shuō 'Excuse me / Sorry' (casual)?)",
+      "answer": "Minta maaf."
+    },
+    {
+      "question": "How do you say 'Are you free (now/later)?' (casual) in Malay?",
+      "answer": "Ada free tak?"
+    },
+    {
+      "question": "How do you say 'Can you repeat that?' (formal) in Malay?",
+      "answer": "Boleh anda ulangi?"
+    },
+    {
+      "question": "如何用马来语说 'Thank you (very much).' (formal)? (Rúhé yòng Mǎláiyǔ shuō 'Thank you (very much).' (formal)?)",
+      "answer": "Terima kasih banyak-banyak."
+    }
+  ]
+}
