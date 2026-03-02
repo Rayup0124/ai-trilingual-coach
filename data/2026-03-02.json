@@ -1,0 +1,111 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To update / Upgrade (software/system)",
+      "expressions": {
+        "en": "To update / To upgrade",
+        "cn": "更新 / 升级 (gēngxīn / shēngjí)",
+        "bm_formal": "Mengemaskini / Menaiktaraf",
+        "bm_casual": "Update / Upgrade / Kemas kini"
+      }
+    },
+    {
+      "concept": "Digital transformation",
+      "expressions": {
+        "en": "Digital transformation",
+        "cn": "数字化转型 (shùzìhuà zhuǎnxíng)",
+        "bm_formal": "Transformasi digital",
+        "bm_casual": "Transformasi digital / Tukar ke digital"
+      }
+    },
+    {
+      "concept": "Online platform / E-commerce",
+      "expressions": {
+        "en": "Online platform / E-commerce",
+        "cn": "线上平台 / 电子商务 (xiànshàng píngtái / diànzǐ shāngwù)",
+        "bm_formal": "Platform dalam talian / E-dagang",
+        "bm_casual": "Platform online / Jual beli online"
+      }
+    },
+    {
+      "concept": "Data analysis",
+      "expressions": {
+        "en": "Data analysis",
+        "cn": "数据分析 (shùjù fēnxī)",
+        "bm_formal": "Analisis data",
+        "bm_casual": "Analisis data / Kaji data"
+      }
+    },
+    {
+      "concept": "To innovate / Innovation",
+      "expressions": {
+        "en": "To innovate / Innovation",
+        "cn": "创新 (chuàngxīn)",
+        "bm_formal": "Berinovasi / Inovasi",
+        "bm_casual": "Buat benda baru / Inovasi"
+      }
+    },
+    {
+      "concept": "Technical support",
+      "expressions": {
+        "en": "Technical support",
+        "cn": "技术支持 (jìshù zhīchí)",
+        "bm_formal": "Sokongan teknikal",
+        "bm_casual": "Support teknikal / Tolong teknikal"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Our company needs to embrace digital transformation to stay competitive. We should also encourage our team to innovate and regularly update their skills.",
+      "key_phrases": [
+        "transformasi digital",
+        "berinovasi",
+        "mengemaskini kemahiran"
+      ]
+    },
+    "life": {
+      "scenario": "I need to update my phone's operating system. Also, I'm thinking of selling some items on an online platform. If I face any issues, I hope there's good technical support.",
+      "key_phrases": [
+        "update sistem operasi",
+        "platform dalam talian",
+        "sokongan teknikal"
+      ]
+    },
+    "tech": {
+      "scenario": "We've completed the data analysis for the new system. The next step is to upgrade the server and ensure all users know how to use the new features. We aim for continuous innovation.",
+      "key_phrases": [
+        "analisis data",
+        "menaiktaraf pelayan",
+        "inovasi berterusan"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'to update (software)' in casual Malay? (更新)",
+      "answer": "Update / Kemas kini"
+    },
+    {
+      "question": "What is the formal Malay term for 'digital transformation'? (数字化转型)",
+      "answer": "Transformasi digital"
+    },
+    {
+      "question": "How would you say 'online platform' in casual Malay? (线上平台)",
+      "answer": "Platform online / Jual beli online"
+    },
+    {
+      "question": "What is the formal Malay for 'data analysis'? (数据分析)",
+      "answer": "Analisis data"
+    },
+    {
+      "question": "How do you express 'to innovate' in formal Malay? (创新)",
+      "answer": "Berinovasi"
+    },
+    {
+      "question": "What is the casual Malay for 'technical support'? (技术支持)",
+      "answer": "Support teknikal / Tolong teknikal"
+    }
+  ]
+}
