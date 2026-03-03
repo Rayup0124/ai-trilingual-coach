@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Making a polite request",
+      "expressions": {
+        "en": "Could you please?",
+        "cn": "你可以吗？/ 麻烦你",
+        "bm_formal": "Boleh tak tolong? / Sudikah anda?",
+        "bm_casual": "Boleh tolong? / Boleh tak?"
+      }
+    },
+    {
+      "concept": "Expressing gratitude for help",
+      "expressions": {
+        "en": "Thank you for your help.",
+        "cn": "谢谢你的帮助。",
+        "bm_formal": "Terima kasih atas bantuan anda.",
+        "bm_casual": "Terima kasih sebab tolong. / Mekasih!"
+      }
+    },
+    {
+      "concept": "Acknowledging understanding",
+      "expressions": {
+        "en": "I understand. / Got it.",
+        "cn": "我明白了。/ 知道了。",
+        "bm_formal": "Saya faham. / Saya mengerti.",
+        "bm_casual": "Faham. / Okay. / Dapat."
+      }
+    },
+    {
+      "concept": "Seeking confirmation",
+      "expressions": {
+        "en": "Please confirm.",
+        "cn": "请确认。",
+        "bm_formal": "Mohon pengesahan. / Sila sahkan.",
+        "bm_casual": "Tolong confirmkan. / Confirm eh?"
+      }
+    },
+    {
+      "concept": "Promising to verify/check",
+      "expressions": {
+        "en": "Let me check. / I'll check.",
+        "cn": "让我查一下。/ 我去查一下。",
+        "bm_formal": "Biar saya semak. / Saya akan semak.",
+        "bm_casual": "Kejap, saya check. / Biar saya tengok."
+      }
+    },
+    {
+      "concept": "Apologizing for inconvenience",
+      "expressions": {
+        "en": "Sorry for the inconvenience.",
+        "cn": "抱歉造成不便。",
+        "bm_formal": "Mohon maaf atas kesulitan ini.",
+        "bm_casual": "Maaf susahkan. / Sorrylah."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You need a colleague to review a critical report before the end of the day. You also want to confirm a meeting time.",
+      "key_phrases": [
+        "Boleh tak tolong semak report ni?",
+        "Mohon pengesahan untuk masa meeting pukul 3 petang.",
+        "Terima kasih atas bantuan anda."
+      ]
+    },
+    "life": {
+      "scenario": "You're planning a weekend outing with friends and need to confirm the meeting point and time. Someone is running late.",
+      "key_phrases": [
+        "Boleh tak tolong confirmkan tempat kita jumpa?",
+        "Faham, tak apa. Kita tunggu.",
+        "Maaf susahkan, saya lambat sikit."
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a software issue with IT support. They ask you to try something, and you need to confirm if it worked.",
+      "key_phrases": [
+        "Boleh tak tolong restart router tu?",
+        "Saya faham. Biar saya check dulu.",
+        "Confirm eh, dah boleh guna?"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally say 'Could you please help?'",
+      "answer": "Boleh tak tolong?"
+    },
+    {
+      "question": "Translate 'Thanks for helping' (casual Malay).",
+      "answer": "Terima kasih sebab tolong. / Mekasih!"
+    },
+    {
+      "question": "What's the formal Malay for 'I understand'?",
+      "answer": "Saya faham. / Saya mengerti."
+    },
+    {
+      "question": "How would you casually ask 'Confirm, okay?'",
+      "answer": "Confirm eh?"
+    },
+    {
+      "question": "Translate '让我查一下' (Let me check) into casual Malay.",
+      "answer": "Kejap, saya check. / Biar saya tengok."
+    },
+    {
+      "question": "What's the formal Malay for 'Sorry for the inconvenience'?",
+      "answer": "Mohon maaf atas kesulitan ini."
+    }
+  ]
+}
