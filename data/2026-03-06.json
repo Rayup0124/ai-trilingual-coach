@@ -1,0 +1,127 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting something to be sent",
+      "expressions": {
+        "en": "Please send me",
+        "cn": "请把发给我。",
+        "bm_formal": "Sila hantar  kepada saya.",
+        "bm_casual": "Boleh tak hantar  kat saya?"
+      }
+    },
+    {
+      "concept": "Confirming action or investigation",
+      "expressions": {
+        "en": "I will follow up on this.",
+        "cn": "我会跟进这件事。",
+        "bm_formal": "Saya akan susul mengenai perkara ini.",
+        "bm_casual": "Saya akan *follow up*."
+      }
+    },
+    {
+      "concept": "Proposing a meeting",
+      "expressions": {
+        "en": "Let's schedule a meeting.",
+        "cn": "我们安排个会议吧。",
+        "bm_formal": "Mari kita jadualkan mesyuarat.",
+        "bm_casual": "Jom *set meeting*."
+      }
+    },
+    {
+      "concept": "Apologizing for lateness",
+      "expressions": {
+        "en": "I apologize for the delay.",
+        "cn": "很抱歉迟了。",
+        "bm_formal": "Saya memohon maaf atas kelewatan ini.",
+        "bm_casual": "Maaf lambat."
+      }
+    },
+    {
+      "concept": "Requesting confirmation",
+      "expressions": {
+        "en": "Could you please confirm?",
+        "cn": "请您确认吗？",
+        "bm_formal": "Mohon pengesahan anda.",
+        "bm_casual": "Boleh sahkan?"
+      }
+    },
+    {
+      "concept": "Acknowledging comprehension",
+      "expressions": {
+        "en": "I understand.",
+        "cn": "我明白了。",
+        "bm_formal": "Saya faham.",
+        "bm_casual": "Faham."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You need a colleague to send you the latest project report and confirm their availability for a team meeting next week.",
+      "key_phrases": [
+        "Sila hantar laporan projek itu kepada saya.",
+        "Mohon pengesahan kehadiran anda untuk mesyuarat minggu hadapan.",
+        "Mari kita jadualkan mesyuarat pada hari Selasa."
+      ]
+    },
+    "life": {
+      "scenario": "You are organizing a group outing with friends. You need to confirm who can make it, apologize for a late reply to an earlier message, and promise to follow up on the venue booking.",
+      "key_phrases": [
+        "Boleh sahkan kehadiran korang?",
+        "Maaf lambat balas mesej.",
+        "Saya akan *follow up* pasal tempahan tempat nanti."
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a software issue with a support agent via chat. They explain a complex solution, and you need to confirm you understand and ask them to send the steps via email.",
+      "key_phrases": [
+        "Faham.",
+        "Boleh tak hantar langkah-langkah tu kat saya?",
+        "Saya akan susul mengenai perkara ini sekiranya ada masalah lagi."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally say 'Please send me the document' in Malay?",
+      "answer": "Sila hantar dokumen itu kepada saya."
+    },
+    {
+      "question": "How do you casually say 'I will follow up on this' in Malay?",
+      "answer": "Saya akan *follow up*."
+    },
+    {
+      "question": "How do you casually say 'Let's schedule a meeting' in Malay?",
+      "answer": "Jom *set meeting*."
+    },
+    {
+      "question": "How do you formally say 'I apologize for the delay' in Malay?",
+      "answer": "Saya memohon maaf atas kelewatan ini."
+    },
+    {
+      "question": "How do you casually say 'Can you confirm?' in Malay?",
+      "answer": "Boleh sahkan?"
+    },
+    {
+      "question": "How do you casually say 'I understand' in Malay?",
+      "answer": "Faham."
+    },
+    {
+      "question": "请把报告发给我。(Formal Malay)",
+      "answer": "Sila hantar laporan itu kepada saya."
+    },
+    {
+      "question": "我会跟进这件事。(Casual Malay)",
+      "answer": "Saya akan *follow up*."
+    },
+    {
+      "question": "我们安排个会议吧。(Formal Malay)",
+      "answer": "Mari kita jadualkan mesyuarat."
+    },
+    {
+      "question": "很抱歉迟了。(Casual Malay)",
+      "answer": "Maaf lambat."
+    }
+  ]
+}
