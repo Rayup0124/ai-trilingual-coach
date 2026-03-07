@@ -1,0 +1,114 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "How are you? / How's it going?",
+      "expressions": {
+        "en": "How are you? / How's it going?",
+        "cn": "你好吗？/ 最近怎么样？",
+        "bm_formal": "Apa khabar?",
+        "bm_casual": "Apa cerita? / Camne?"
+      }
+    },
+    {
+      "concept": "Thank you",
+      "expressions": {
+        "en": "Thank you",
+        "cn": "谢谢",
+        "bm_formal": "Terima kasih",
+        "bm_casual": "Mekasih / TQ"
+      }
+    },
+    {
+      "concept": "Excuse me / Pardon me (to get attention or pass)",
+      "expressions": {
+        "en": "Excuse me / Pardon me",
+        "cn": "不好意思 / 借过",
+        "bm_formal": "Maafkan saya / Tumpang lalu",
+        "bm_casual": "Sorry / Tumpang"
+      }
+    },
+    {
+      "concept": "Sorry / My apologies",
+      "expressions": {
+        "en": "Sorry / My apologies",
+        "cn": "对不起",
+        "bm_formal": "Saya minta maaf",
+        "bm_casual": "Sorry / Maaf"
+      }
+    },
+    {
+      "concept": "Can I help you? / Is there anything I can help with?",
+      "expressions": {
+        "en": "Can I help you? / Is there anything I can help with?",
+        "cn": "我能帮你吗？/ 有什么我可以帮忙的吗？",
+        "bm_formal": "Ada apa yang boleh saya bantu?",
+        "bm_casual": "Boleh saya tolong? / Nak saya tolong?"
+      }
+    },
+    {
+      "concept": "No problem / It's okay",
+      "expressions": {
+        "en": "No problem / It's okay",
+        "cn": "没问题 / 没关系",
+        "bm_formal": "Tiada masalah / Tidak mengapa",
+        "bm_casual": "Takpe / No hal / Okay je"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You meet a new colleague, Amir, on his first day. You want to make him feel welcome and offer assistance.",
+      "key_phrases": [
+        "Apa khabar?",
+        "Ada apa yang boleh saya bantu?",
+        "Terima kasih",
+        "Tiada masalah"
+      ]
+    },
+    "life": {
+      "scenario": "You're at a busy pasar malam (night market) and accidentally bump into someone. You also need to ask a vendor for help.",
+      "key_phrases": [
+        "Sorry",
+        "Tumpang lalu",
+        "Boleh saya tolong?",
+        "Takpe"
+      ]
+    },
+    "tech": {
+      "scenario": "Your laptop isn't connecting to the Wi-Fi. You call tech support and need to explain the issue and respond to their help.",
+      "key_phrases": [
+        "Apa khabar?",
+        "Saya minta maaf",
+        "Ada apa yang boleh saya bantu?",
+        "Takpe"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask 'How are you?' in Malay?",
+      "answer": "Apa khabar?"
+    },
+    {
+      "question": "What's a casual way to say 'Thank you' in Malay?",
+      "answer": "Mekasih"
+    },
+    {
+      "question": "How do you say 'Excuse me' when trying to pass through a crowded area?",
+      "answer": "Tumpang lalu"
+    },
+    {
+      "question": "If you accidentally bump into someone, how do you apologize formally?",
+      "answer": "Saya minta maaf"
+    },
+    {
+      "question": "How would you casually offer help to someone in Malay? (我能帮你吗？)",
+      "answer": "Nak saya tolong?"
+    },
+    {
+      "question": "What's a casual Malay expression for 'No problem' or 'It's okay'?",
+      "answer": "Takpe"
+    }
+  ]
+}
