@@ -1,0 +1,119 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To update / upgrade (software/system)",
+      "expressions": {
+        "en": "To update / upgrade (software/system)",
+        "cn": "更新 / 升级 (gēngxīn / shēngjí)",
+        "bm_formal": "Mengemaskini / Menaik taraf",
+        "bm_casual": "Update / Upgrade / Kemas kini"
+      }
+    },
+    {
+      "concept": "To troubleshoot / fix a technical issue",
+      "expressions": {
+        "en": "To troubleshoot / fix a technical issue",
+        "cn": "解决技术问题 (jiějué jìshù wèntí)",
+        "bm_formal": "Menyelesaikan masalah teknikal",
+        "bm_casual": "Betulkan masalah teknikal / Repair"
+      }
+    },
+    {
+      "concept": "To develop / create an application/system",
+      "expressions": {
+        "en": "To develop / create an application/system",
+        "cn": "开发应用程序/系统 (kāifā yìngyòng chéngxù/xìtǒng)",
+        "bm_formal": "Membangunkan / Mencipta aplikasi/sistem",
+        "bm_casual": "Buat app / Develop sistem"
+      }
+    },
+    {
+      "concept": "Digital transformation / digitalization",
+      "expressions": {
+        "en": "Digital transformation / digitalization",
+        "cn": "数字化转型 (shùzìhuà zhuǎnxíng)",
+        "bm_formal": "Transformasi digital / Pendigitalan",
+        "bm_casual": "Jadi digital / Digitalisasi"
+      }
+    },
+    {
+      "concept": "Online platform / E-commerce",
+      "expressions": {
+        "en": "Online platform / E-commerce",
+        "cn": "在线平台 / 电子商务 (zàixiàn píngtái / diànzǐ shāngwù)",
+        "bm_formal": "Platform dalam talian / E-dagang",
+        "bm_casual": "Platform online / Jual beli online"
+      }
+    },
+    {
+      "concept": "Data privacy / Security",
+      "expressions": {
+        "en": "Data privacy / Security",
+        "cn": "数据隐私 / 安全 (shùjù yǐnsī / ānquán)",
+        "bm_formal": "Privasi data / Keselamatan data",
+        "bm_casual": "Privacy data / Data selamat"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are in a team meeting discussing the progress of a new project and upcoming system changes. You need to talk about updating the current system and developing a new feature, while considering digital transformation.",
+      "key_phrases": [
+        "Kita perlu mengemaskini sistem sedia ada.",
+        "Pasukan kami sedang membangunkan modul baru.",
+        "Adakah kita akan melaksanakan transformasi digital untuk proses ini?"
+      ]
+    },
+    "life": {
+      "scenario": "Your phone is acting up, and you're chatting with a friend about it. You also mention buying something from an online store and being careful about your personal information.",
+      "key_phrases": [
+        "Telefon saya asyik hang, kena betulkan masalah teknikal ni.",
+        "Saya baru beli barang dari platform online tu.",
+        "Kena jaga privacy data kita bila shopping online."
+      ]
+    },
+    "tech": {
+      "scenario": "You are a software engineer discussing the next phase of a product with your lead. This involves system upgrades and ensuring data security for the users, as part of a larger digitalization effort.",
+      "key_phrases": [
+        "Cadangan untuk menaik taraf perisian ini sangat penting.",
+        "Bagaimana kita boleh memastikan keselamatan data pengguna?",
+        "Pendigitalan proses ini akan meningkatkan kecekapan operasi."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'To update a system' (formal)?",
+      "answer": "Mengemaskini sistem"
+    },
+    {
+      "question": "How do you say 'To fix a technical issue' (casual)?",
+      "answer": "Betulkan masalah teknikal / Repair"
+    },
+    {
+      "question": "What is the formal Malay for 'To develop an application'?",
+      "answer": "Membangunkan aplikasi"
+    },
+    {
+      "question": "How do you say 'Digital transformation' (formal)?",
+      "answer": "Transformasi digital"
+    },
+    {
+      "question": "What is 'E-commerce' in casual Malay?",
+      "answer": "Jual beli online"
+    },
+    {
+      "question": "How do you say 'Data security' (formal)?",
+      "answer": "Keselamatan data"
+    },
+    {
+      "question": "How would you casually say 'My phone needs an upgrade'?",
+      "answer": "Telefon saya kena upgrade."
+    },
+    {
+      "question": "What is the casual Malay for 'digitalization'?",
+      "answer": "Jadi digital / Digitalisasi"
+    }
+  ]
+}
