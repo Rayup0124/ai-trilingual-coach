@@ -1,0 +1,111 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To update / To upgrade",
+      "expressions": {
+        "en": "To update / To upgrade",
+        "cn": "更新 / 升级 (gēngxīn / shēngjí)",
+        "bm_formal": "Mengemas kini / Menaik taraf",
+        "bm_casual": "Update / Upgrade / Kemas kini"
+      }
+    },
+    {
+      "concept": "To download / To upload",
+      "expressions": {
+        "en": "To download / To upload",
+        "cn": "下载 / 上传 (xiàzài / shàngchuán)",
+        "bm_formal": "Memuat turun / Memuat naik",
+        "bm_casual": "Download / Upload / Muat turun / Muat naik"
+      }
+    },
+    {
+      "concept": "To connect (to the internet/network)",
+      "expressions": {
+        "en": "To connect (to the internet/network)",
+        "cn": "连接 (liánjiē)",
+        "bm_formal": "Menyambung kepada / Berhubung dengan",
+        "bm_casual": "Connect / Sambung"
+      }
+    },
+    {
+      "concept": "To troubleshoot / Fix a problem",
+      "expressions": {
+        "en": "To troubleshoot / Fix a problem",
+        "cn": "解决问题 / 排除故障 (jiějué wèntí / páichú gùzhàng)",
+        "bm_formal": "Menyelesaikan masalah / Mengatasi masalah",
+        "bm_casual": "Settle masalah / Betulkan / Repair"
+      }
+    },
+    {
+      "concept": "Data / Information",
+      "expressions": {
+        "en": "Data / Information",
+        "cn": "数据 / 信息 (shùjù / xìnxī)",
+        "bm_formal": "Data / Maklumat",
+        "bm_casual": "Data / Info"
+      }
+    },
+    {
+      "concept": "Development / Progress",
+      "expressions": {
+        "en": "Development / Progress",
+        "cn": "发展 / 进展 (fāzhǎn / jìnzhǎn)",
+        "bm_formal": "Pembangunan / Kemajuan",
+        "bm_casual": "Pembangunan / Progress / Maju"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are discussing a project update with your team and encounter a technical issue with the presentation software.",
+      "key_phrases": [
+        "Kita perlu **mengemas kini** laporan projek minggu depan.",
+        "Ada masalah, saya tak boleh **muat naik** fail ini.",
+        "Boleh tolong **selesaikan masalah** ni?"
+      ]
+    },
+    "life": {
+      "scenario": "You're at home, trying to get your new smart TV connected to the internet, and then checking for software updates.",
+      "key_phrases": [
+        "Macam mana nak **sambung** TV ni ke WiFi?",
+        "Kena **update** software TV ni dulu ke?",
+        "Saya nak **download** aplikasi Netflix."
+      ]
+    },
+    "tech": {
+      "scenario": "You're a tech support agent explaining to a user how to update their software and troubleshoot a common connectivity issue.",
+      "key_phrases": [
+        "Tuan perlu **menaik taraf** sistem operasi anda untuk prestasi yang lebih baik.",
+        "Sila pastikan sambungan internet anda **berhubung dengan** stabil.",
+        "Kami akan bantu **mengatasi masalah** ini dengan segera."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'to update' (formal) in Malay?",
+      "answer": "Mengemas kini"
+    },
+    {
+      "question": "How do you say 'to download' (casual) in Malay?",
+      "answer": "Download / Muat turun"
+    },
+    {
+      "question": "你如何用马来语（休闲）说'连接'？ (How do you say 'to connect' (casual) in Malay?)",
+      "answer": "Connect / Sambung"
+    },
+    {
+      "question": "What is the formal Malay term for 'to troubleshoot a problem'?",
+      "answer": "Menyelesaikan masalah / Mengatasi masalah"
+    },
+    {
+      "question": "How do you say 'data' (casual) in Malay?",
+      "answer": "Data / Info"
+    },
+    {
+      "question": "你如何用马来语（正式）说'发展'？ (How do you say 'development' (formal) in Malay?)",
+      "answer": "Pembangunan"
+    }
+  ]
+}
