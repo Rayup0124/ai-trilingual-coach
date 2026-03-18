@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting Assistance",
+      "expressions": {
+        "en": "Could you please help me with this?",
+        "cn": "请问您能帮我这个吗？",
+        "bm_formal": "Bolehkah anda tolong saya dengan ini?",
+        "bm_casual": "Boleh tolong saya buat ni?"
+      }
+    },
+    {
+      "concept": "Acknowledging Understanding",
+      "expressions": {
+        "en": "I understand / Got it.",
+        "cn": "我明白了 / 知道了。",
+        "bm_formal": "Saya faham / Saya mengerti.",
+        "bm_casual": "Faham / OK / Dapat."
+      }
+    },
+    {
+      "concept": "Promising Verification",
+      "expressions": {
+        "en": "Let me check/confirm first.",
+        "cn": "让我先检查/确认一下。",
+        "bm_formal": "Biar saya semak/sahkan terlebih dahulu.",
+        "bm_casual": "Kejap, saya check dulu."
+      }
+    },
+    {
+      "concept": "Promising Follow-up",
+      "expressions": {
+        "en": "I will get back to you.",
+        "cn": "我会再联系你 / 我会回复你。",
+        "bm_formal": "Saya akan maklumkan semula kepada anda.",
+        "bm_casual": "Nanti saya reply/inform balik."
+      }
+    },
+    {
+      "concept": "Apologizing for Delay",
+      "expressions": {
+        "en": "Sorry for the delay.",
+        "cn": "抱歉迟了 / 对不起，耽搁了。",
+        "bm_formal": "Mohon maaf atas kelewatan ini.",
+        "bm_casual": "Sorry lambat / Maaf lambat."
+      }
+    },
+    {
+      "concept": "Expressing Gratitude",
+      "expressions": {
+        "en": "Thank you for your cooperation / Appreciate your help.",
+        "cn": "感谢您的合作 / 谢谢你的帮助。",
+        "bm_formal": "Terima kasih atas kerjasama anda / Saya menghargai bantuan anda.",
+        "bm_casual": "Terima kasih banyak-banyak / Thanks atas bantuan."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Your manager asks for an update on a project you're still working on, and you need to request a colleague's input before giving a final answer.",
+      "key_phrases": [
+        "Bolehkah anda tolong saya semak laporan ini secepat mungkin?",
+        "Kejap, saya check dulu dengan rakan sekerja.",
+        "Saya akan maklumkan semula kepada anda selepas dapat input penuh."
+      ]
+    },
+    "life": {
+      "scenario": "You're coordinating a potluck dinner with friends and need to confirm who's bringing what, but you're running a bit late on replies to their messages.",
+      "key_phrases": [
+        "Sorry lambat reply, baru free ni.",
+        "Faham, nanti saya update dalam group list makanan.",
+        "Terima kasih banyak-banyak atas kerjasama semua!"
+      ]
+    },
+    "tech": {
+      "scenario": "You're reporting a bug in a new software to the IT support team and they need to investigate, promising to get back to you with a solution.",
+      "key_phrases": [
+        "Bolehkah anda bantu saya dengan masalah teknikal ini?",
+        "Biar saya semak log error dulu untuk diagnosis.",
+        "Nanti saya inform balik bila dah ada penyelesaian."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally say 'Could you please help me with this?' in Malay?",
+      "answer": "Bolehkah anda tolong saya dengan ini?"
+    },
+    {
+      "question": "你明白了 (Nǐ míngbái le) in casual Malay is:",
+      "answer": "Faham / OK / Dapat."
+    },
+    {
+      "question": "What's the casual Malay for 'Let me check first.'?",
+      "answer": "Kejap, saya check dulu."
+    },
+    {
+      "question": "How to say 'I will get back to you' informally in Malay?",
+      "answer": "Nanti saya reply/inform balik."
+    },
+    {
+      "question": "抱歉迟了 (Bàoqiàn chí le) in formal Malay is:",
+      "answer": "Mohon maaf atas kelewatan ini."
+    },
+    {
+      "question": "The formal Malay for 'Thank you for your cooperation.' is:",
+      "answer": "Terima kasih atas kerjasama anda."
+    }
+  ]
+}
