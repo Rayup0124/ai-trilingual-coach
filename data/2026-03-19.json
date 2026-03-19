@@ -1,0 +1,120 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Offering Help",
+      "expressions": {
+        "en": "Can I help you? / May I assist?",
+        "cn": "我可以帮你吗？ / 需要帮忙吗？",
+        "bm_formal": "Boleh saya bantu?",
+        "bm_casual": "Nak saya tolong? / Ada apa-apa nak saya bantu?"
+      }
+    },
+    {
+      "concept": "Asking for Clarification/Repetition",
+      "expressions": {
+        "en": "Could you repeat that, please? / Pardon?",
+        "cn": "请你再说一遍好吗？ / 什么？",
+        "bm_formal": "Boleh ulang semula? / Maaf, boleh jelaskan semula?",
+        "bm_casual": "Boleh ulang balik? / Apa dia tadi?"
+      }
+    },
+    {
+      "concept": "Expressing Understanding/Agreement",
+      "expressions": {
+        "en": "I understand. / Got it.",
+        "cn": "我明白了。 / 明白了。",
+        "bm_formal": "Saya faham. / Saya mengerti.",
+        "bm_casual": "Faham. / Okay."
+      }
+    },
+    {
+      "concept": "Making a Request/Asking Permission",
+      "expressions": {
+        "en": "May I ask for? / Could I please?",
+        "cn": "我可以请求吗？ / 我可以请你吗？",
+        "bm_formal": "Boleh saya memohon? / Izinkan saya untuk?",
+        "bm_casual": "Boleh saya minta? / Nak minta tolong?"
+      }
+    },
+    {
+      "concept": "Apologizing/Expressing Regret",
+      "expressions": {
+        "en": "I apologize. / My apologies.",
+        "cn": "我道歉。 / 对不起。",
+        "bm_formal": "Saya memohon maaf. / Maafkan saya.",
+        "bm_casual": "Maaf. / Sorry."
+      }
+    },
+    {
+      "concept": "Expressing Gratitude",
+      "expressions": {
+        "en": "Thank you very much. / Much appreciated.",
+        "cn": "非常感谢。 / 十分感谢。",
+        "bm_formal": "Ribuan terima kasih. / Penghargaan saya.",
+        "bm_casual": "Terima kasih banyak. / Terima kasih."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are in a professional work environment, interacting with colleagues and superiors.",
+      "key_phrases": [
+        "Encik Ali, ada apa-apa yang boleh saya bantu dengan laporan ini?",
+        "Maaf, boleh ulang semula arahan terakhir itu?",
+        "Baiklah, saya faham apa yang perlu dilakukan untuk projek ini.",
+        "Boleh saya memohon cuti pada minggu hadapan?",
+        "Saya memohon maaf atas kelewatan menghantar e-mel semalam.",
+        "Ribuan terima kasih atas bimbingan anda dalam mesyuarat tadi."
+      ]
+    },
+    "life": {
+      "scenario": "You are out and about, interacting with friends, family, or shopkeepers.",
+      "key_phrases": [
+        "Nak saya tolong angkat barang dapur tu?",
+        "Hah? Apa dia tadi? Tak dengar sangatlah bising ni.",
+        "Faham, nanti saya pergi beli barang tu.",
+        "Boleh saya minta resit untuk pembelian ini?",
+        "Maaf, terlanggar awak tak sengaja tadi.",
+        "Terima kasih banyak sebab tolong saya tadi!"
+      ]
+    },
+    "tech": {
+      "scenario": "You are dealing with technology, either seeking or offering assistance for technical issues.",
+      "key_phrases": [
+        "Boleh saya bantu anda dengan masalah sambungan internet itu?",
+        "Boleh ulang balik langkah-langkah untuk reset router tu?",
+        "Okay, saya dah faham cara nak guna fungsi baru aplikasi ni.",
+        "Boleh saya minta bantuan untuk tukar tetapan privasi ini?",
+        "Maaf, saya tersalah tekan butang 'delete' tadi.",
+        "Terima kasih banyak sebab betulkan komputer riba saya."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you offer help formally in Malay?",
+      "answer": "Boleh saya bantu?"
+    },
+    {
+      "question": "如果你想请别人重复刚才说的话，用马来语休闲地说怎么说？",
+      "answer": "Boleh ulang balik?"
+    },
+    {
+      "question": "What's the formal Malay way to say 'I understand'?",
+      "answer": "Saya faham."
+    },
+    {
+      "question": "用马来语休闲地请求某事，比如'我可以请你帮我吗？'，你会怎么说？",
+      "answer": "Boleh saya minta tolong?"
+    },
+    {
+      "question": "How do you apologize formally in Malay?",
+      "answer": "Saya memohon maaf."
+    },
+    {
+      "question": "用马来语休闲地表达'非常感谢'怎么说？",
+      "answer": "Terima kasih banyak."
+    }
+  ]
+}
