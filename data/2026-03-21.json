@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "To confirm / Please confirm",
+      "expressions": {
+        "en": "Please confirm.",
+        "cn": "请确认 (Qǐng quèrèn)",
+        "bm_formal": "Sila sahkan.",
+        "bm_casual": "Boleh confirm?"
+      }
+    },
+    {
+      "concept": "I understand / Got it",
+      "expressions": {
+        "en": "I understand / Got it.",
+        "cn": "我明白了 (Wǒ míngbái le)",
+        "bm_formal": "Saya faham. / Maklum.",
+        "bm_casual": "Faham. / Okay, faham."
+      }
+    },
+    {
+      "concept": "Let me check / I'll check",
+      "expressions": {
+        "en": "Let me check.",
+        "cn": "我查一下 (Wǒ chá yīxià)",
+        "bm_formal": "Izinkan saya semak.",
+        "bm_casual": "Kejap, saya semak."
+      }
+    },
+    {
+      "concept": "Please provide feedback / Give your feedback",
+      "expressions": {
+        "en": "Please provide feedback.",
+        "cn": "请提供反馈 (Qǐng tígōng fǎnkuì)",
+        "bm_formal": "Mohon berikan maklum balas.",
+        "bm_casual": "Tolong bagi feedback."
+      }
+    },
+    {
+      "concept": "I apologize for the inconvenience / Sorry for the trouble",
+      "expressions": {
+        "en": "I apologize for the inconvenience.",
+        "cn": "抱歉造成不便 (Bàoqiàn zàochéng bùbiàn)",
+        "bm_formal": "Saya mohon maaf atas kesulitan ini.",
+        "bm_casual": "Maaf susahkan."
+      }
+    },
+    {
+      "concept": "Let's discuss this further / Let's talk more",
+      "expressions": {
+        "en": "Let's discuss this further.",
+        "cn": "我们再讨论一下 (Wǒmen zài tǎolùn yīxià)",
+        "bm_formal": "Mari kita bincangkan hal ini dengan lebih lanjut.",
+        "bm_casual": "Jom bincang lagi."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're coordinating a project update meeting. You need to confirm attendance for a presentation, understand task progress from a team member, and schedule a follow-up discussion for a complex issue.",
+      "key_phrases": [
+        "Sila sahkan kehadiran anda untuk pembentangan esok.",
+        "Saya faham tugas ini memerlukan lebih masa. Maklum.",
+        "Mari kita bincangkan hal ini dengan lebih lanjut dalam mesyuarat seterusnya."
+      ]
+    },
+    "life": {
+      "scenario": "You're planning a weekend trip with friends. You need to confirm the itinerary with everyone, understand their preferences for activities, and apologize for any last-minute changes to the schedule.",
+      "key_phrases": [
+        "Boleh confirm itinerary kita untuk Sabtu ni?",
+        "Okay, faham kamu nak pergi pantai dulu sebelum hiking.",
+        "Maaf susahkan sebab tukar masa bertolak sikit."
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a software issue with a colleague over a video call. You need to understand the problem fully, check the system logs on your end, and ask for their input on potential solutions.",
+      "key_phrases": [
+        "Saya faham masalahnya sekarang.",
+        "Kejap, saya semak log sistem untuk error tu.",
+        "Tolong bagi feedback tentang penyelesaian ni, adakah ia berfungsi di pihak awak?"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally say 'Please confirm' in Malay?",
+      "answer": "Sila sahkan."
+    },
+    {
+      "question": "What's a casual way to say 'I understand' in Malay?",
+      "answer": "Faham."
+    },
+    {
+      "question": "Translate '我查一下' (I'll check) to casual Malay.",
+      "answer": "Kejap, saya semak."
+    },
+    {
+      "question": "How would you formally ask someone to 'Please provide feedback' in Malay?",
+      "answer": "Mohon berikan maklum balas."
+    },
+    {
+      "question": "What is the formal Malay for 'I apologize for the inconvenience'?",
+      "answer": "Saya mohon maaf atas kesulitan ini."
+    },
+    {
+      "question": "How do you casually suggest 'Let's discuss this further' in Malay?",
+      "answer": "Jom bincang lagi."
+    }
+  ]
+}
