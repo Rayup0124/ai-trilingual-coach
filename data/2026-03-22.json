@@ -1,0 +1,111 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for assistance",
+      "expressions": {
+        "en": "Could you help me with this?",
+        "cn": "你能帮我这个吗？(Nǐ néng bāng wǒ zhège ma?)",
+        "bm_formal": "Boleh anda bantu saya dengan ini?",
+        "bm_casual": "Boleh tolong saya sikit?"
+      }
+    },
+    {
+      "concept": "Confirming understanding",
+      "expressions": {
+        "en": "So, if I understand correctly?",
+        "cn": "所以，如果我理解得没错的话? (Suǒyǐ, rúguǒ wǒ lǐjiě dé méi cuò de huà?)",
+        "bm_formal": "Jadi, jika saya faham dengan betul?",
+        "bm_casual": "So, kalau saya faham betul-betul?"
+      }
+    },
+    {
+      "concept": "Asking for an estimate/timeline",
+      "expressions": {
+        "en": "How long will it take? / When will it be ready?",
+        "cn": "这需要多久？/ 什么时候会好？(Zhè xūyào duōjiǔ? / Shénme shíhou huì hǎo?)",
+        "bm_formal": "Berapa lama masa yang diperlukan? / Bilakah ia akan siap?",
+        "bm_casual": "Berapa lama? / Bila siap?"
+      }
+    },
+    {
+      "concept": "Requesting clarification on an item/detail",
+      "expressions": {
+        "en": "What is this for? / What does this mean?",
+        "cn": "这是用来做什么的？/ 这是什么意思？(Zhè shì yòng lái zuò shénme de? / Zhè shì shénme yìsi?)",
+        "bm_formal": "Untuk apakah ini? / Apakah maksud ini?",
+        "bm_casual": "Ni untuk apa? / Maksudnya apa?"
+      }
+    },
+    {
+      "concept": "Expressing a preference/choice",
+      "expressions": {
+        "en": "I prefer this one. / I'd like this.",
+        "cn": "我比较喜欢这个。/ 我想要这个。(Wǒ bǐjiào xǐhuan zhège. / Wǒ xiǎng yào zhège.)",
+        "bm_formal": "Saya lebih suka yang ini. / Saya ingin yang ini.",
+        "bm_casual": "Saya nak yang ni. / Saya lagi suka yang ni."
+      }
+    },
+    {
+      "concept": "Asking for availability",
+      "expressions": {
+        "en": "Is this available? / Do you have this?",
+        "cn": "这个有货吗？/ 你们有这个吗？(Zhège yǒu huò ma? / Nǐmen yǒu zhège ma?)",
+        "bm_formal": "Adakah ini tersedia? / Adakah anda mempunyai ini?",
+        "bm_casual": "Ada tak ni? / Ni ada jual?"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're working on a new project and need clarification on a task. You also need to know the timeline and ask a colleague for help.",
+      "key_phrases": [
+        "Jadi, jika saya faham dengan betul, saya perlu siapkan laporan ini sebelum esok?",
+        "Berapa lama masa yang diperlukan untuk proses kelulusan?",
+        "Boleh anda bantu saya dengan format laporan ini?"
+      ]
+    },
+    "life": {
+      "scenario": "You're at a hawker centre trying to order food but are unsure about an item on the menu. You also want to confirm if a certain drink is available and express your preference.",
+      "key_phrases": [
+        "Ni untuk apa ya?",
+        "Ada tak teh ais?",
+        "Saya nak yang ni, tak pedas."
+      ]
+    },
+    "tech": {
+      "scenario": "You're trying to set up a new smart device, but the instructions are unclear. You want to ask customer support for help, confirm what a certain setting means, and ask about the expected setup time.",
+      "key_phrases": [
+        "Boleh tolong saya sikit dengan persediaan peranti ini?",
+        "Apakah maksud tetapan 'Mode Penjimatan Kuasa' ini?",
+        "Berapa lama masa yang diperlukan untuk proses penyambungan?"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you ask 'Can you help me?' informally in Malay?",
+      "answer": "Boleh tolong saya sikit?"
+    },
+    {
+      "question": "Translate 'I prefer this one' (formal) to Malay.",
+      "answer": "Saya lebih suka yang ini."
+    },
+    {
+      "question": "你想要问'这个有货吗？'的正式马来语是什么？(How to ask 'Is this available?' formally in Malay?)",
+      "answer": "Adakah ini tersedia?"
+    },
+    {
+      "question": "What's the casual Malay way to ask 'What is this for?'",
+      "answer": "Ni untuk apa?"
+    },
+    {
+      "question": "How do you say 'So, if I understand correctly?' formally in Malay?",
+      "answer": "Jadi, jika saya faham dengan betul?"
+    },
+    {
+      "question": "Translate 'When will it be ready?' (casual) to Malay.",
+      "answer": "Bila siap?"
+    }
+  ]
+}
