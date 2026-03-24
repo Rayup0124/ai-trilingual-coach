@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting information/documents",
+      "expressions": {
+        "en": "Could you please send me?",
+        "cn": "你可以发给我吗？",
+        "bm_formal": "Bolehkah anda hantarkan saya?",
+        "bm_casual": "Boleh tak awak hantar kat saya?"
+      }
+    },
+    {
+      "concept": "Committing to a deadline",
+      "expressions": {
+        "en": "I'll get it done by",
+        "cn": "我会在之前完成。",
+        "bm_formal": "Saya akan siapkan ini sebelum/pada",
+        "bm_casual": "Saya siapkan sebelum/nanti"
+      }
+    },
+    {
+      "concept": "Suggesting a meeting",
+      "expressions": {
+        "en": "Let's schedule a meeting.",
+        "cn": "我们安排个会议吧。",
+        "bm_formal": "Mari kita jadualkan mesyuarat.",
+        "bm_casual": "Jom kita set meeting."
+      }
+    },
+    {
+      "concept": "Apologizing for a delay",
+      "expressions": {
+        "en": "I apologize for the delay.",
+        "cn": "很抱歉耽误了。",
+        "bm_formal": "Saya memohon maaf atas kelewatan ini.",
+        "bm_casual": "Sorry lambat."
+      }
+    },
+    {
+      "concept": "Taking responsibility for follow-up",
+      "expressions": {
+        "en": "I'll follow up on this.",
+        "cn": "我会跟进这件事。",
+        "bm_formal": "Saya akan susulan perkara ini.",
+        "bm_casual": "Saya akan follow up."
+      }
+    },
+    {
+      "concept": "Asking for clarification",
+      "expressions": {
+        "en": "Could you clarify?",
+        "cn": "你能澄清一下吗？",
+        "bm_formal": "Bolehkah anda jelaskan?",
+        "bm_casual": "Boleh terang sikit?"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're working on a project with a colleague. You need an updated report and want to set a follow-up meeting.",
+      "key_phrases": [
+        "Bolehkah anda hantarkan saya laporan terkini?",
+        "Mari kita jadualkan mesyuarat untuk bincang kemajuan projek.",
+        "Saya akan susulan perkara ini esok."
+      ]
+    },
+    "life": {
+      "scenario": "You're planning a family gathering and need to confirm details with a family member, apologizing for a late response.",
+      "key_phrases": [
+        "Sorry lambat reply, saya akan siapkan senarai tetamu sebelum hujung minggu.",
+        "Jom kita set meeting dengan semua adik-beradik untuk finalize tarikh.",
+        "Boleh tak awak hantar kat saya contact number Mak Cik Salmah?"
+      ]
+    },
+    "tech": {
+      "scenario": "You're reporting a software bug to the IT support team and need clarification on a technical term, promising to follow up with more details.",
+      "key_phrases": [
+        "Mohon pencerahan mengenai 'cache clearing' yang anda maksudkan.",
+        "Saya akan siapkan laporan bug penuh sebelum petang ini.",
+        "Saya akan follow up dengan screenshot tambahan esok."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask 'Could you please send me?' in Malay?",
+      "answer": "Bolehkah anda hantarkan saya?"
+    },
+    {
+      "question": "What's the casual Malay way to say 'I'll get it done by'?",
+      "answer": "Saya siapkan sebelum/nanti"
+    },
+    {
+      "question": "我们安排个会议吧。(Wǒmen ānpái gè huìyì ba.) - How to say this formally in Malay?",
+      "answer": "Mari kita jadualkan mesyuarat."
+    },
+    {
+      "question": "You want to apologize for being late. What's the casual Malay phrase?",
+      "answer": "Sorry lambat."
+    },
+    {
+      "question": "How do you formally state 'I'll follow up on this.' in Malay?",
+      "answer": "Saya akan susulan perkara ini."
+    },
+    {
+      "question": "你能澄清一下吗？(Nǐ néng chéngqīng yīxià ma?) - How to ask this casually in Malay?",
+      "answer": "Boleh terang sikit?"
+    }
+  ]
+}
