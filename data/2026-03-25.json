@@ -1,0 +1,138 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Greeting / How are you?",
+      "expressions": {
+        "en": "How are you? / How's it going?",
+        "cn": "你好吗？/ 怎么样？",
+        "bm_formal": "Apa khabar?",
+        "bm_casual": "Apa cerita?"
+      }
+    },
+    {
+      "concept": "Excuse me / Sorry",
+      "expressions": {
+        "en": "Excuse me / Sorry",
+        "cn": "不好意思 / 对不起",
+        "bm_formal": "Maafkan saya",
+        "bm_casual": "Sorry lah"
+      }
+    },
+    {
+      "concept": "Can I help you?",
+      "expressions": {
+        "en": "Can I help you? / What can I do for you?",
+        "cn": "我能帮你什么吗？",
+        "bm_formal": "Boleh saya bantu?",
+        "bm_casual": "Nak saya tolong?"
+      }
+    },
+    {
+      "concept": "Thank you",
+      "expressions": {
+        "en": "Thank you / Much appreciated",
+        "cn": "谢谢",
+        "bm_formal": "Terima kasih",
+        "bm_casual": "Thanks"
+      }
+    },
+    {
+      "concept": "Please wait a moment",
+      "expressions": {
+        "en": "Please wait a moment / Hold on",
+        "cn": "请等一下",
+        "bm_formal": "Sila tunggu sebentar",
+        "bm_casual": "Tunggu sekejap / Kejap"
+      }
+    },
+    {
+      "concept": "It's okay / No problem",
+      "expressions": {
+        "en": "It's okay / No problem",
+        "cn": "没关系",
+        "bm_formal": "Tidak mengapa",
+        "bm_casual": "Tak apa"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You meet a new colleague at the office. Later, you ask for help with a report and thank your team leader for their guidance.",
+      "key_phrases": [
+        "Apa khabar?",
+        "Boleh saya bantu?",
+        "Terima kasih",
+        "Tidak mengapa"
+      ]
+    },
+    "life": {
+      "scenario": "You accidentally bump into someone at the grocery store. Later, you're looking for a specific item and ask a shop assistant, then thank them for their help.",
+      "key_phrases": [
+        "Maafkan saya",
+        "Tak apa",
+        "Nak saya tolong?",
+        "Thanks"
+      ]
+    },
+    "tech": {
+      "scenario": "Your internet connection is down, and you call tech support. They ask you to wait while they check the system.",
+      "key_phrases": [
+        "Apa cerita?",
+        "Nak saya tolong?",
+        "Sila tunggu sebentar",
+        "Terima kasih"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you casually ask 'How's it going?' in Malay?",
+      "answer": "Apa cerita?"
+    },
+    {
+      "question": "How do you formally say 'Excuse me' when apologizing?",
+      "answer": "Maafkan saya"
+    },
+    {
+      "question": "How do you formally offer help ('Can I help you?')?",
+      "answer": "Boleh saya bantu?"
+    },
+    {
+      "question": "How do you say 'Thank you' in casual Malay?",
+      "answer": "Thanks"
+    },
+    {
+      "question": "How do you casually ask someone to 'wait a moment'?",
+      "answer": "Tunggu sekejap / Kejap"
+    },
+    {
+      "question": "How do you say 'It's okay / No problem' in formal Malay?",
+      "answer": "Tidak mengapa"
+    },
+    {
+      "question": "你好吗？ (How are you?) - Formal Malay",
+      "answer": "Apa khabar?"
+    },
+    {
+      "question": "对不起 (Sorry) - Casual Malay",
+      "answer": "Sorry lah"
+    },
+    {
+      "question": "我能帮你什么吗？ (Can I help you?) - Casual Malay",
+      "answer": "Nak saya tolong?"
+    },
+    {
+      "question": "谢谢 (Thank you) - Formal Malay",
+      "answer": "Terima kasih"
+    },
+    {
+      "question": "请等一下 (Please wait a moment) - Formal Malay",
+      "answer": "Sila tunggu sebentar"
+    },
+    {
+      "question": "没关系 (It's okay) - Casual Malay",
+      "answer": "Tak apa"
+    }
+  ]
+}
