@@ -1,0 +1,111 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "Digital Transformation",
+      "expressions": {
+        "en": "Digital transformation",
+        "cn": "数字化转型 (Shùzìhuà zhuǎnxíng)",
+        "bm_formal": "Transformasi digital",
+        "bm_casual": "Digitalisasi / Tukar jadi digital"
+      }
+    },
+    {
+      "concept": "Online Meeting / Virtual Meeting",
+      "expressions": {
+        "en": "Online meeting / Virtual meeting",
+        "cn": "线上会议 (Xiànshàng huìyì)",
+        "bm_formal": "Mesyuarat dalam talian / Mesyuarat maya",
+        "bm_casual": "Meeting online / Video call"
+      }
+    },
+    {
+      "concept": "Data Protection / Data Security",
+      "expressions": {
+        "en": "Data protection / Data security",
+        "cn": "数据保护 (Shùjù bǎohù)",
+        "bm_formal": "Perlindungan data / Keselamatan data",
+        "bm_casual": "Jaga data / Data selamat"
+      }
+    },
+    {
+      "concept": "Staying Updated / Keeping Up with Technology",
+      "expressions": {
+        "en": "Staying updated / Keeping up with technology",
+        "cn": "紧跟科技发展 (Jǐngēn kējì fāzhǎn)",
+        "bm_formal": "Kekal terkini dengan teknologi / Mengikuti perkembangan teknologi",
+        "bm_casual": "Ikut perkembangan teknologi / Jangan ketinggalan teknologi"
+      }
+    },
+    {
+      "concept": "Technical Issue / Glitch",
+      "expressions": {
+        "en": "Technical issue / Glitch",
+        "cn": "技术问题 (Jìshù wèntí) / 小故障 (Xiǎo gùzhàng)",
+        "bm_formal": "Isu teknikal / Masalah teknikal",
+        "bm_casual": "Rosak / Problem teknikal"
+      }
+    },
+    {
+      "concept": "E-commerce / Online Shopping",
+      "expressions": {
+        "en": "E-commerce / Online shopping",
+        "cn": "电子商务 (Diànzǐ shāngwù) / 网上购物 (Wǎngshàng gòuwù)",
+        "bm_formal": "Perdagangan elektronik / Pembelian dalam talian",
+        "bm_casual": "Beli online / E-dagang"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Your company is undergoing a significant **digital transformation** to streamline operations. You need to ensure all employees are comfortable with the new **online meeting** platforms and understand the importance of **data protection** for sensitive company information.",
+      "key_phrases": [
+        "transformasi digital",
+        "mesyuarat dalam talian",
+        "perlindungan data"
+      ]
+    },
+    "life": {
+      "scenario": "Your friend just bought a new gadget and is excited about it, but you remind them to always **protect their data** when using new apps. You also discuss how important it is to **stay updated with technology** so you don't get left behind, especially for things like **online shopping**.",
+      "key_phrases": [
+        "jaga data",
+        "ikut perkembangan teknologi",
+        "beli online"
+      ]
+    },
+    "tech": {
+      "scenario": "You're trying to set up a new smart home device, but you keep encountering a **technical issue** where it **glitches** and disconnects. You decide to call customer support to troubleshoot the **problem teknikal**.",
+      "key_phrases": [
+        "isu teknikal",
+        "rosak",
+        "problem teknikal"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "What is the formal Malay term for 'digital transformation'?",
+      "answer": "Transformasi digital"
+    },
+    {
+      "question": "How do you say 'online meeting' casually in Malay? (线上会议)",
+      "answer": "Meeting online"
+    },
+    {
+      "question": "What is the Malay formal term for 'data protection'? (数据保护)",
+      "answer": "Perlindungan data"
+    },
+    {
+      "question": "How would you tell someone to 'stay updated with technology' casually in Malay?",
+      "answer": "Ikut perkembangan teknologi"
+    },
+    {
+      "question": "If you have a 'technical issue' (技术问题), what's a casual Malay way to say it?",
+      "answer": "Problem teknikal / Rosak"
+    },
+    {
+      "question": "What is 'online shopping' in casual Malay? (网上购物)",
+      "answer": "Beli online"
+    }
+  ]
+}
