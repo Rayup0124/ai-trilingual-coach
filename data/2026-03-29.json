@@ -1,0 +1,119 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To update (software/information)",
+      "expressions": {
+        "en": "To update",
+        "cn": "更新 (gēngxīn)",
+        "bm_formal": "Mengemaskini",
+        "bm_casual": "Update / Kemaskini"
+      }
+    },
+    {
+      "concept": "To develop / To innovate (a product/solution)",
+      "expressions": {
+        "en": "To develop / To innovate",
+        "cn": "开发 / 创新 (kāifā / chuàngxīn)",
+        "bm_formal": "Membangunkan / Menginovasi",
+        "bm_casual": "Develop / Cipta"
+      }
+    },
+    {
+      "concept": "To go online / To connect to the internet",
+      "expressions": {
+        "en": "To go online / To connect to the internet",
+        "cn": "上网 / 连接网络 (shàngwǎng / liánjiē wǎngluò)",
+        "bm_formal": "Melayari internet / Menyambung ke internet",
+        "bm_casual": "Online / Sambung internet"
+      }
+    },
+    {
+      "concept": "To troubleshoot / To fix a technical issue",
+      "expressions": {
+        "en": "To troubleshoot / To fix a technical issue",
+        "cn": "排除故障 / 解决技术问题 (páichú gùzhàng / jiějué jìshù wèntí)",
+        "bm_formal": "Menyelesaikan masalah teknikal / Mengatasi masalah",
+        "bm_casual": "Betulkan / Repair masalah"
+      }
+    },
+    {
+      "concept": "Digital transformation / Digitization",
+      "expressions": {
+        "en": "Digital transformation / Digitization",
+        "cn": "数字化转型 / 数字化 (shùzìhuà zhuǎnxíng / shùzìhuà)",
+        "bm_formal": "Transformasi digital / Pendigitalan",
+        "bm_casual": "Digitalisasi / Jadi digital"
+      }
+    },
+    {
+      "concept": "User-friendly / Intuitive",
+      "expressions": {
+        "en": "User-friendly / Intuitive",
+        "cn": "用户友好 / 直观 (yònghù yǒuhǎo / zhíguān)",
+        "bm_formal": "Mesra pengguna / Intuitif",
+        "bm_casual": "Senang guna / User-friendly"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are in a team meeting discussing the progress of a new software project. You need to talk about updating project status, developing new features, and fixing bugs.",
+      "key_phrases": [
+        "Kita perlu mengemaskini status projek ini.",
+        "Pasukan kami sedang membangunkan ciri-ciri baru.",
+        "Ada masalah teknikal yang perlu diselesaikan segera."
+      ]
+    },
+    "life": {
+      "scenario": "You're helping your friend set up a new smartphone or troubleshoot an internet connection issue at home. You also recommend a new app that is easy to use.",
+      "key_phrases": [
+        "Cuba sambung internet dulu.",
+        "Aplikasi ni senang guna, tak payah pening-pening.",
+        "Kena update sistem operasi telefon ni."
+      ]
+    },
+    "tech": {
+      "scenario": "You are attending a tech conference where speakers are discussing the importance of digital transformation for businesses and the need to innovate with user-friendly solutions.",
+      "key_phrases": [
+        "Transformasi digital adalah kunci kejayaan syarikat.",
+        "Kita perlu menginovasi produk yang mesra pengguna.",
+        "Pendigitalan proses kerja dapat meningkatkan kecekapan."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'To update' (formal) in Malay?",
+      "answer": "Mengemaskini"
+    },
+    {
+      "question": "How do you say 'To develop a new system' (casual) in Malay?",
+      "answer": "Develop sistem baru"
+    },
+    {
+      "question": "How do you say 'To connect to the internet' (casual) in Malay?",
+      "answer": "Sambung internet"
+    },
+    {
+      "question": "How do you say 'To troubleshoot a technical issue' (formal) in Malay?",
+      "answer": "Menyelesaikan masalah teknikal"
+    },
+    {
+      "question": "How do you say 'Digital transformation' (formal) in Malay?",
+      "answer": "Transformasi digital"
+    },
+    {
+      "question": "How do you say 'User-friendly' (casual) in Malay?",
+      "answer": "Senang guna"
+    },
+    {
+      "question": "中文 '更新' (gēngxīn) 的马来文口语是什么？",
+      "answer": "Update / Kemaskini"
+    },
+    {
+      "question": "中文 '排除故障' (páichú gùzhàng) 的马来文口语是什么？",
+      "answer": "Repair masalah"
+    }
+  ]
+}
