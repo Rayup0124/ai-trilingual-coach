@@ -1,0 +1,119 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for an update/status",
+      "expressions": {
+        "en": "What's the status? / Any updates?",
+        "cn": "进展如何？/ 有什么进展吗？",
+        "bm_formal": "Apakah status terkini? / Ada sebarang kemas kini?",
+        "bm_casual": "Macam mana status? / Ada update tak?"
+      }
+    },
+    {
+      "concept": "Requesting a deadline/ETA",
+      "expressions": {
+        "en": "When can I expect this? / What's the deadline?",
+        "cn": "什么时候能完成？/ 截止日期是什么时候？",
+        "bm_formal": "Bilakah saya boleh jangkakan ini siap? / Apakah tarikh akhir untuk ini?",
+        "bm_casual": "Bila boleh siap? / Deadline bila?"
+      }
+    },
+    {
+      "concept": "Confirming understanding",
+      "expressions": {
+        "en": "Understood. / Got it.",
+        "cn": "明白了。/ 知道了。",
+        "bm_formal": "Saya faham. / Maklum.",
+        "bm_casual": "Faham. / Okay, dapat."
+      }
+    },
+    {
+      "concept": "Proposing a meeting/discussion",
+      "expressions": {
+        "en": "Let's discuss this. / Can we talk about this?",
+        "cn": "我们来讨论一下。/ 我们可以谈谈吗？",
+        "bm_formal": "Mari kita bincangkan perkara ini. / Bolehkah kita berbincang?",
+        "bm_casual": "Jom bincang. / Kita sembang kejap pasal ni?"
+      }
+    },
+    {
+      "concept": "Offering help",
+      "expressions": {
+        "en": "How can I help? / Let me know if you need anything.",
+        "cn": "我能怎么帮忙？/ 如果你需要什么，告诉我。",
+        "bm_formal": "Bagaimana saya boleh membantu? / Maklumkan jika anda memerlukan bantuan.",
+        "bm_casual": "Macam mana saya boleh tolong? / Bagitahu kalau nak apa-apa."
+      }
+    },
+    {
+      "concept": "Giving a heads-up/informing",
+      "expressions": {
+        "en": "Just a heads-up. / FYI.",
+        "cn": "只是通知一声。/ 供你参考。",
+        "bm_formal": "Sekadar makluman awal. / Untuk makluman anda.",
+        "bm_casual": "Nak bagitau je. / FYI."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're managing a project. You need an update from a team member, set a deadline for a new task, and confirm understanding of a new instruction from your manager.",
+      "key_phrases": [
+        "Apakah status terkini?",
+        "Apakah tarikh akhir untuk ini?",
+        "Saya faham."
+      ]
+    },
+    "life": {
+      "scenario": "You're planning a weekend outing with friends, offering help to a friend who's moving house, and giving your family a heads-up about your late arrival home.",
+      "key_phrases": [
+        "Jom bincang.",
+        "Macam mana saya boleh tolong?",
+        "Nak bagitau je."
+      ]
+    },
+    "tech": {
+      "scenario": "You're discussing a bug fix with a developer, asking for an ETA on the fix, and confirming that the proposed solution is clear to you.",
+      "key_phrases": [
+        "Ada update tak?",
+        "Deadline bila?",
+        "Faham."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How would you formally ask for the current status of a project?",
+      "answer": "Apakah status terkini?"
+    },
+    {
+      "question": "你想知道任务什么时候能完成，用休闲马来语怎么说？",
+      "answer": "Bila boleh siap?"
+    },
+    {
+      "question": "How do you casually confirm that you understood something?",
+      "answer": "Faham."
+    },
+    {
+      "question": "你想提议和同事讨论一个问题，用正式马来语怎么说？",
+      "answer": "Mari kita bincangkan perkara ini."
+    },
+    {
+      "question": "How do you casually offer help to a friend?",
+      "answer": "Macam mana saya boleh tolong?"
+    },
+    {
+      "question": "你希望给别人一个提醒或通知，用休闲马来语怎么说？",
+      "answer": "Nak bagitau je."
+    },
+    {
+      "question": "What's the formal way to say 'Understood'?",
+      "answer": "Saya faham."
+    },
+    {
+      "question": "How do you formally ask for a deadline?",
+      "answer": "Apakah tarikh akhir untuk ini?"
+    }
+  ]
+}
