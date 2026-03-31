@@ -1,0 +1,135 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for assistance",
+      "expressions": {
+        "en": "Can you help me for a moment?",
+        "cn": "你能帮我一下吗？",
+        "bm_formal": "Boleh tolong saya sebentar?",
+        "bm_casual": "Tolong kejap?"
+      }
+    },
+    {
+      "concept": "Confirming understanding (positive)",
+      "expressions": {
+        "en": "I understand / Got it.",
+        "cn": "我明白了。",
+        "bm_formal": "Saya faham.",
+        "bm_casual": "Ngam!"
+      }
+    },
+    {
+      "concept": "Confirming information (question)",
+      "expressions": {
+        "en": "Is that correct? / Right?",
+        "cn": "对吗？",
+        "bm_formal": "Adakah itu betul?",
+        "bm_casual": "Betul tak?"
+      }
+    },
+    {
+      "concept": "Apologizing for a minor inconvenience",
+      "expressions": {
+        "en": "Sorry about that.",
+        "cn": "抱歉。",
+        "bm_formal": "Maafkan saya.",
+        "bm_casual": "Sorry lah."
+      }
+    },
+    {
+      "concept": "Expressing gratitude",
+      "expressions": {
+        "en": "Thank you so much.",
+        "cn": "非常感谢。",
+        "bm_formal": "Terima kasih banyak-banyak.",
+        "bm_casual": "TQ"
+      }
+    },
+    {
+      "concept": "Requesting repetition/clarification",
+      "expressions": {
+        "en": "Could you repeat that?",
+        "cn": "你能再说一遍吗？",
+        "bm_formal": "Boleh ulang semula?",
+        "bm_casual": "Ulang balik?"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're working on a presentation with a colleague. You need help with a specific slide design and want to confirm if they understood your previous instruction.",
+      "key_phrases": [
+        "Boleh tolong saya sebentar?",
+        "Saya faham.",
+        "Adakah itu betul?"
+      ]
+    },
+    "life": {
+      "scenario": "You're at a 'pasar malam' (night market) buying fruits. The vendor mumbles the price, and you need to confirm it. You accidentally bump into someone and apologize.",
+      "key_phrases": [
+        "Betul tak?",
+        "Sorry lah.",
+        "Ulang balik?"
+      ]
+    },
+    "tech": {
+      "scenario": "You're showing a friend how to use a new feature on a mobile app. They seem confused, and you want to confirm if they've grasped it. You also ask them to help you troubleshoot a minor glitch.",
+      "key_phrases": [
+        "Ngam!",
+        "Tolong kejap?",
+        "TQ"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "Can you help me for a moment? (formal)",
+      "answer": "Boleh tolong saya sebentar?"
+    },
+    {
+      "question": "I understand / Got it. (casual, very colloquial)",
+      "answer": "Ngam!"
+    },
+    {
+      "question": "Is that correct? (casual)",
+      "answer": "Betul tak?"
+    },
+    {
+      "question": "Sorry about that. (casual)",
+      "answer": "Sorry lah."
+    },
+    {
+      "question": "Thank you so much. (casual, common abbreviation)",
+      "answer": "TQ"
+    },
+    {
+      "question": "Could you repeat that? (formal)",
+      "answer": "Boleh ulang semula?"
+    },
+    {
+      "question": "你能帮我一下吗？ (casual)",
+      "answer": "Tolong kejap?"
+    },
+    {
+      "question": "我明白了。(formal)",
+      "answer": "Saya faham."
+    },
+    {
+      "question": "Adakah itu betul? (English equivalent)",
+      "answer": "Is that correct?"
+    },
+    {
+      "question": "Maafkan saya. (Chinese equivalent)",
+      "answer": "抱歉。"
+    },
+    {
+      "question": "非常感谢。(formal)",
+      "answer": "Terima kasih banyak-banyak."
+    },
+    {
+      "question": "Ulang balik? (English equivalent)",
+      "answer": "Could you repeat that?"
+    }
+  ]
+}
