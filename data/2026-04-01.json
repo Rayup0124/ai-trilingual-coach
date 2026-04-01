@@ -1,0 +1,112 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for assistance",
+      "expressions": {
+        "en": "Could you assist me with this?",
+        "cn": "你能帮我一下吗？(Nǐ néng bāng wǒ yīxià ma?)",
+        "bm_formal": "Bolehkah anda membantu saya dengan ini?",
+        "bm_casual": "Boleh tolong saya/aku sikit tak?"
+      }
+    },
+    {
+      "concept": "Seeking clarification",
+      "expressions": {
+        "en": "Could you explain that again, please?",
+        "cn": "你能再解释一遍吗？(Nǐ néng zài jiěshì yī biàn ma?)",
+        "bm_formal": "Boleh anda terangkan semula, sila?",
+        "bm_casual": "Boleh ulang balik tak? / Cuba cerita balik."
+      }
+    },
+    {
+      "concept": "Expressing appreciation for effort/work",
+      "expressions": {
+        "en": "I appreciate your hard work/effort.",
+        "cn": "我很感谢你的努力。(Wǒ hěn gǎnxiè nǐ de nǔlì.)",
+        "bm_formal": "Saya menghargai usaha/kerja keras anda.",
+        "bm_casual": "Aku hargai sangat usaha kau. / Terima kasih banyak-banyak."
+      }
+    },
+    {
+      "concept": "Checking availability/free time",
+      "expressions": {
+        "en": "Are you free/available right now?",
+        "cn": "你现在有空吗？(Nǐ xiànzài yǒu kòng ma?)",
+        "bm_formal": "Adakah anda lapang/ada masa sekarang?",
+        "bm_casual": "Kau free tak sekarang? / Ada masa tak sekarang?"
+      }
+    },
+    {
+      "concept": "Expressing agreement/approval",
+      "expressions": {
+        "en": "That sounds good / I agree.",
+        "cn": "听起来不错。/ 我同意。(Tīng qǐlái bùcuò. / Wǒ tóngyì.)",
+        "bm_formal": "Itu kedengaran baik / Saya bersetuju.",
+        "bm_casual": "Okey je / Setuju."
+      }
+    },
+    {
+      "concept": "Apologizing for inconvenience/trouble",
+      "expressions": {
+        "en": "Sorry for the trouble/inconvenience.",
+        "cn": "抱歉给你带来不便。(Bàoqiàn gěi nǐ dài lái bùbiàn.)",
+        "bm_formal": "Maaf atas kesulitan/gangguan ini.",
+        "bm_casual": "Sorrylah susahkan. / Maaf menyusahkan."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're in a team meeting discussing a new project deadline. You need clarification on a task, want to appreciate a colleague's input, and agree to the revised timeline.",
+      "key_phrases": [
+        "Bolehkah anda membantu saya dengan ini?",
+        "Boleh anda terangkan semula, sila?",
+        "Saya menghargai usaha anda.",
+        "Itu kedengaran baik."
+      ]
+    },
+    "life": {
+      "scenario": "You're planning a weekend hike with friends. You need to check everyone's availability and confirm the plan, apologizing if someone has to adjust their schedule.",
+      "key_phrases": [
+        "Kau free tak sekarang?",
+        "Okey je",
+        "Sorrylah susahkan."
+      ]
+    },
+    "tech": {
+      "scenario": "Your internet is down, and you're calling tech support. You need help troubleshooting and want to apologize for the repeated calls due to ongoing issues.",
+      "key_phrases": [
+        "Boleh tolong saya sikit tak?",
+        "Boleh ulang balik tak?",
+        "Maaf atas kesulitan ini."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask for help with a specific task?",
+      "answer": "Bolehkah anda membantu saya dengan ini?"
+    },
+    {
+      "question": "如何休闲地询问对方是否有空？(How to casually ask if someone is free?)",
+      "answer": "Kau free tak sekarang?"
+    },
+    {
+      "question": "What's a casual way to ask someone to explain something again?",
+      "answer": "Boleh ulang balik tak?"
+    },
+    {
+      "question": "如何正式表达对某人努力的感谢？(How to formally express appreciation for someone's effort?)",
+      "answer": "Saya menghargai usaha anda."
+    },
+    {
+      "question": "How do you casually agree to a plan or suggestion?",
+      "answer": "Okey je."
+    },
+    {
+      "question": "如何正式地为带来的不便道歉？(How to formally apologize for inconvenience?)",
+      "answer": "Maaf atas kesulitan ini."
+    }
+  ]
+}
