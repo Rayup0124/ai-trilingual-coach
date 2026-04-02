@@ -1,0 +1,111 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To update / To upgrade",
+      "expressions": {
+        "en": "To update / To upgrade",
+        "cn": "更新 / 升级 (gēngxīn / shēngjí)",
+        "bm_formal": "Mengemaskini / Menaik taraf",
+        "bm_casual": "Update / Upgrade (or kemas kini / naik taraf)"
+      }
+    },
+    {
+      "concept": "Digital Transformation / To digitize",
+      "expressions": {
+        "en": "Digital Transformation / To digitize",
+        "cn": "数字化转型 / 数字化 (shùzìhuà zhuǎnxíng / shùzìhuà)",
+        "bm_formal": "Transformasi digital / Mendigitalkan",
+        "bm_casual": "Digitalisasi / Jadikan digital"
+      }
+    },
+    {
+      "concept": "Internet Access / Connectivity",
+      "expressions": {
+        "en": "Internet Access / Connectivity",
+        "cn": "网络连接 / 互联网接入 (wǎngluò liánjiē / hùliánwǎng jiērù)",
+        "bm_formal": "Akses internet / Ketersambungan",
+        "bm_casual": "Line internet / Sambungan (or just internet)"
+      }
+    },
+    {
+      "concept": "To troubleshoot / To fix a problem",
+      "expressions": {
+        "en": "To troubleshoot / To fix a problem",
+        "cn": "排除故障 / 解决问题 (páichú gùzhàng / jiějué wèntí)",
+        "bm_formal": "Menyelesaikan masalah / Membaiki kerosakan",
+        "bm_casual": "Fix masalah / Troubleshoot"
+      }
+    },
+    {
+      "concept": "Innovation / To innovate",
+      "expressions": {
+        "en": "Innovation / To innovate",
+        "cn": "创新 / 创新 (chuàngxīn / chuàngxīn)",
+        "bm_formal": "Inovasi / Berinovasi",
+        "bm_casual": "Inovasi / Cipta benda baru"
+      }
+    },
+    {
+      "concept": "Data / Information (in tech context)",
+      "expressions": {
+        "en": "Data / Information",
+        "cn": "数据 / 信息 (shùjù / xìnxī)",
+        "bm_formal": "Data / Maklumat",
+        "bm_casual": "Data / Info"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "During a team meeting, the manager discusses the company's plan for digital transformation and the need to update their CRM system and analyze sales data to improve efficiency.",
+      "key_phrases": [
+        "transformasi digital",
+        "mengemaskini sistem",
+        "menganalisis data"
+      ]
+    },
+    "life": {
+      "scenario": "Your elderly aunt calls, complaining that her smartphone apps are not working. You realize she hasn't updated them and also has issues with her home internet access.",
+      "key_phrases": [
+        "mengemaskini aplikasi",
+        "akses internet",
+        "menyelesaikan masalah"
+      ]
+    },
+    "tech": {
+      "scenario": "A tech startup is pitching a new IoT device. They emphasize its innovative features and reliable connectivity, but also need to prepare for potential troubleshooting issues after launch.",
+      "key_phrases": [
+        "inovasi",
+        "ketersambungan",
+        "membaiki kerosakan"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "What is 'to update (a system)' in formal Malay?",
+      "answer": "Mengemaskini"
+    },
+    {
+      "question": "How do you say '互联网接入' (internet access) casually in Malay?",
+      "answer": "Line internet"
+    },
+    {
+      "question": "What is the formal Malay for 'digital transformation'?",
+      "answer": "Transformasi digital"
+    },
+    {
+      "question": "How do you say '排除故障' (to troubleshoot a problem) in casual Malay?",
+      "answer": "Fix masalah"
+    },
+    {
+      "question": "What is 'to innovate' in formal Malay?",
+      "answer": "Berinovasi"
+    },
+    {
+      "question": "How do you refer to '数据' (data) casually in Malay?",
+      "answer": "Data / Info"
+    }
+  ]
+}
