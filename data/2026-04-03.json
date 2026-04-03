@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting Assistance",
+      "expressions": {
+        "en": "Could you please help me with?",
+        "cn": "你可以帮我一下吗?",
+        "bm_formal": "Mohon bantuan anda untuk",
+        "bm_casual": "Boleh tolong?"
+      }
+    },
+    {
+      "concept": "Confirming Understanding",
+      "expressions": {
+        "en": "I understand. / Got it.",
+        "cn": "我明白了。/ 好的。",
+        "bm_formal": "Saya faham. / Baik, saya mengerti.",
+        "bm_casual": "Faham. / Okay. / Dapat."
+      }
+    },
+    {
+      "concept": "Offering to Check",
+      "expressions": {
+        "en": "Let me check. / I'll check.",
+        "cn": "我查一下。/ 让我看看。",
+        "bm_formal": "Benarkan saya menyemak. / Saya akan semak.",
+        "bm_casual": "Saya check dulu. / Kejap, saya check."
+      }
+    },
+    {
+      "concept": "Expressing Gratitude",
+      "expressions": {
+        "en": "Thank you for your help. / Thanks.",
+        "cn": "谢谢你的帮助。/ 谢谢。",
+        "bm_formal": "Terima kasih atas bantuan anda. / Jutaan terima kasih.",
+        "bm_casual": "Terima kasih! / Thanks!"
+      }
+    },
+    {
+      "concept": "Polite Interruption",
+      "expressions": {
+        "en": "Excuse me (to interrupt). / Sorry to bother.",
+        "cn": "不好意思打扰一下。/ 请问",
+        "bm_formal": "Maafkan saya mengganggu. / Mohon maaf mengganggu sebentar.",
+        "bm_casual": "Sorry ganggu kejap. / Maaf, nak tanya sikit."
+      }
+    },
+    {
+      "concept": "Stating Unavailability",
+      "expressions": {
+        "en": "I'm busy now. / I'm tied up.",
+        "cn": "我现在很忙。/ 我手头有事。",
+        "bm_formal": "Saya sedang sibuk buat masa ini. / Saya agak terikat.",
+        "bm_casual": "Saya busy sekarang. / Saya tengah buat kerja."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Your colleague needs urgent help with a presentation, but you're swamped with your own report due today. Later, you need to ask IT to reset your password.",
+      "key_phrases": [
+        "Saya sedang sibuk buat masa ini.",
+        "Mohon maaf mengganggu sebentar, boleh tolong semak status tiket saya?",
+        "Terima kasih atas bantuan anda."
+      ]
+    },
+    "life": {
+      "scenario": "You're at a government counter trying to renew your driving license. You need to ask the officer about the required documents, confirm the process, and thank them.",
+      "key_phrases": [
+        "Mohon bantuan anda untuk menjelaskan dokumen yang diperlukan.",
+        "Baik, saya mengerti prosesnya.",
+        "Terima kasih atas bantuan anda."
+      ]
+    },
+    "tech": {
+      "scenario": "You're on a call with technical support because your internet is down. You need to confirm their instructions, tell them you'll check your router, and thank them for their guidance.",
+      "key_phrases": [
+        "Baik, saya faham arahan anda.",
+        "Benarkan saya menyemak sambungan router saya dahulu.",
+        "Terima kasih atas bantuan anda."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you politely ask someone to 'check something for you' in formal Malay?",
+      "answer": "Mohon bantuan anda untuk menyemak"
+    },
+    {
+      "question": "Your friend just explained something complicated. How do you say 'Got it' in casual Malay?",
+      "answer": "Faham. / Dapat."
+    },
+    {
+      "question": "You need to interrupt your manager for a quick question. How do you say 'Excuse me for interrupting' in formal Malay?",
+      "answer": "Maafkan saya mengganggu."
+    },
+    {
+      "question": "How would you tell a colleague 'I'm busy now' in casual Malay?",
+      "answer": "Saya busy sekarang."
+    },
+    {
+      "question": "How do you say 'Thank you for your help' in formal Malay?",
+      "answer": "Terima kasih atas bantuan anda."
+    },
+    {
+      "question": "How do you say 'Let me check' in casual Malay?",
+      "answer": "Saya check dulu."
+    }
+  ]
+}
