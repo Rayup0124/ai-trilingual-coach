@@ -1,0 +1,119 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To update/upgrade (system, skills)",
+      "expressions": {
+        "en": "To update the system / To upgrade skills",
+        "cn": "更新系统 / 提升技能",
+        "bm_formal": "Mengemaskini sistem / Meningkatkan kemahiran",
+        "bm_casual": "Update sistem / Upgrade skill"
+      }
+    },
+    {
+      "concept": "To develop/create (a solution, application)",
+      "expressions": {
+        "en": "To develop a new application / To create a solution",
+        "cn": "开发新应用 / 创造解决方案",
+        "bm_formal": "Membangunkan aplikasi baharu / Mencipta penyelesaian",
+        "bm_casual": "Buat app baru / Cipta solution"
+      }
+    },
+    {
+      "concept": "Digital transformation",
+      "expressions": {
+        "en": "Undergoing digital transformation",
+        "cn": "进行数字化转型",
+        "bm_formal": "Melalui transformasi digital / Melaksanakan transformasi digital",
+        "bm_casual": "Buat digital transformation / Pergi digital"
+      }
+    },
+    {
+      "concept": "Internet access / Connectivity",
+      "expressions": {
+        "en": "Fast internet access / Good connectivity",
+        "cn": "快速网络连接 / 良好连接性",
+        "bm_formal": "Akses internet pantas / Ketersambungan yang baik",
+        "bm_casual": "Internet laju / Line okay"
+      }
+    },
+    {
+      "concept": "Data analysis / To analyze data",
+      "expressions": {
+        "en": "To analyze data / Data analysis",
+        "cn": "分析数据 / 数据分析",
+        "bm_formal": "Menganalisis data / Analisis data",
+        "bm_casual": "Analyze data / Buat data analysis"
+      }
+    },
+    {
+      "concept": "User-friendly (interface, design)",
+      "expressions": {
+        "en": "User-friendly interface",
+        "cn": "用户友好界面",
+        "bm_formal": "Antaramuka mesra pengguna",
+        "bm_casual": "UI senang guna / Senang pakai"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "During a project meeting, the team discusses upgrading their internal system and developing a new customer application as part of their digital transformation initiative.",
+      "key_phrases": [
+        "Kita perlu **mengemaskini sistem** pengurusan projek kita.",
+        "Pasukan IT sedang **membangunkan aplikasi baharu** untuk pelanggan.",
+        "Syarikat kita sedang **melalui transformasi digital**."
+      ]
+    },
+    "life": {
+      "scenario": "You're talking to a friend about your home internet and learning a new software for personal development.",
+      "key_phrases": [
+        "**Internet laju** sangat kat rumah saya sekarang.",
+        "Saya nak **upgrade skill** coding saya.",
+        "Aplikasi ni **senang pakai** betul, tak pening kepala."
+      ]
+    },
+    "tech": {
+      "scenario": "A tech startup is pitching their new product to investors, emphasizing its data capabilities and user-centric design.",
+      "key_phrases": [
+        "Produk kami boleh **menganalisis data** pengguna dengan tepat.",
+        "Kami fokus pada **antaramuka mesra pengguna** untuk pengalaman terbaik.",
+        "Ini adalah **penyelesaian** inovatif untuk masalah pengurusan inventori."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "What is the formal Malay for 'To update the system'?",
+      "answer": "Mengemaskini sistem"
+    },
+    {
+      "question": "How would you casually say 'Good connectivity' in Malay?",
+      "answer": "Line okay / Internet laju"
+    },
+    {
+      "question": "What is the formal Malay for 'To develop a new application'?",
+      "answer": "Membangunkan aplikasi baharu"
+    },
+    {
+      "question": "How do you say 'User-friendly interface' in formal Malay?",
+      "answer": "Antaramuka mesra pengguna"
+    },
+    {
+      "question": "What is the casual Malay for 'To analyze data'?",
+      "answer": "Analyze data / Buat data analysis"
+    },
+    {
+      "question": "How would you formally express 'Undergoing digital transformation'?",
+      "answer": "Melalui transformasi digital / Melaksanakan transformasi digital"
+    },
+    {
+      "question": "How would you casually say 'To upgrade skills'?",
+      "answer": "Upgrade skill"
+    },
+    {
+      "question": "What is the formal Malay for 'To create a solution'?",
+      "answer": "Mencipta penyelesaian"
+    }
+  ]
+}
