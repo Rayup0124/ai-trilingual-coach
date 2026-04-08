@@ -1,0 +1,111 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To update / To upgrade",
+      "expressions": {
+        "en": "To update / To upgrade",
+        "cn": "更新 (Gēngxīn) / 升级 (Shēngjí)",
+        "bm_formal": "Mengemas kini / Menaik taraf",
+        "bm_casual": "Update / Upgrade / Kemas kini / Naik taraf"
+      }
+    },
+    {
+      "concept": "To troubleshoot / To fix a problem",
+      "expressions": {
+        "en": "To troubleshoot / To fix a problem",
+        "cn": "解决问题 (Jiějué wèntí) / 排除故障 (Páichú gùzhàng)",
+        "bm_formal": "Menyelesaikan masalah / Mengatasi masalah",
+        "bm_casual": "Settle masalah / Betulkan masalah / Troubleshoot"
+      }
+    },
+    {
+      "concept": "To launch / To release (a product/feature)",
+      "expressions": {
+        "en": "To launch / To release (a product/feature)",
+        "cn": "发布 (Fābù) / 推出 (Tuīchū)",
+        "bm_formal": "Melancarkan / Memperkenalkan",
+        "bm_casual": "Launch / Keluarkan / Start"
+      }
+    },
+    {
+      "concept": "To go viral / To be trending",
+      "expressions": {
+        "en": "To go viral / To be trending",
+        "cn": "走红 (Zǒuhóng) / 流行 (Liúxíng)",
+        "bm_formal": "Menjadi tular / Menjadi sohor kini",
+        "bm_casual": "Viral / Trending / Tular"
+      }
+    },
+    {
+      "concept": "Digital transformation",
+      "expressions": {
+        "en": "Digital transformation",
+        "cn": "数字化转型 (Shùzìhuà zhuǎnxíng)",
+        "bm_formal": "Transformasi digital",
+        "bm_casual": "Transformasi digital / Tukar digital"
+      }
+    },
+    {
+      "concept": "User-friendly / Intuitive",
+      "expressions": {
+        "en": "User-friendly / Intuitive",
+        "cn": "用户友好 (Yònghù yǒuhǎo) / 直观 (Zhíguān)",
+        "bm_formal": "Mesra pengguna / Intuitif",
+        "bm_casual": "Mesra pengguna / Senang guna / Mudah faham"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "During a project meeting, your team discusses the upcoming launch of a new feature. There's a minor bug that needs to be fixed before release, and everyone needs to update their development environment.",
+      "key_phrases": [
+        "Kita perlu melancarkan ciri baru ini minggu depan.",
+        "Pasukan IT sedang cuba menyelesaikan masalah rangkaian.",
+        "Sila mengemas kini perisian anda sebelum mesyuarat esok."
+      ]
+    },
+    "life": {
+      "scenario": "You're chatting with a friend about a popular new mobile app. Your friend mentions that a video about the app went viral, but you find the app not very user-friendly.",
+      "key_phrases": [
+        "Video tutorial aplikasi itu dah viral dekat TikTok.",
+        "Saya rasa aplikasi ni tak berapa mesra pengguna.",
+        "Telefon saya selalu minta update sistem operasi."
+      ]
+    },
+    "tech": {
+      "scenario": "A company is undergoing a major digital transformation. The challenge is to upgrade their legacy systems and ensure the new platforms are intuitive for all employees, especially older staff.",
+      "key_phrases": [
+        "Projek transformasi digital syarikat memerlukan banyak sumber.",
+        "Kita perlu menaik taraf infrastruktur pelayan kita.",
+        "Pastikan reka bentuk antara muka itu intuitif dan mudah digunakan."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'To update' (software/system) in formal Malay?",
+      "answer": "Mengemas kini"
+    },
+    {
+      "question": "What is a casual Malay way to say 'To fix a problem'?",
+      "answer": "Settle masalah / Betulkan masalah"
+    },
+    {
+      "question": "How do you express 'To launch (a product)' in formal Malay?",
+      "answer": "Melancarkan"
+    },
+    {
+      "question": "How would you say 'to go viral' in casual Malay?",
+      "answer": "Viral / Tular"
+    },
+    {
+      "question": "What is '数字化转型 (Shùzìhuà zhuǎnxíng)' in formal Malay?",
+      "answer": "Transformasi digital"
+    },
+    {
+      "question": "The English term 'User-friendly' can be translated to which casual Malay phrase?",
+      "answer": "Mesra pengguna / Senang guna"
+    }
+  ]
+}
