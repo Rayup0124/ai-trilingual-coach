@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting Information/Action",
+      "expressions": {
+        "en": "Could you please send/provide me with?",
+        "cn": "你可以发给我/提供给我吗？",
+        "bm_formal": "Boleh tuan/puan hantar/berikan saya?",
+        "bm_casual": "Boleh hantar/bagi saya?"
+      }
+    },
+    {
+      "concept": "Following Up / Getting Back",
+      "expressions": {
+        "en": "I will follow up on this. / I'll get back to you.",
+        "cn": "我会跟进这件事。 / 我再回复你。",
+        "bm_formal": "Saya akan susulan perkara ini. / Saya akan maklumkan semula.",
+        "bm_casual": "Nanti saya follow up. / Nanti saya bagi tahu balik."
+      }
+    },
+    {
+      "concept": "Scheduling a Meeting/Discussion",
+      "expressions": {
+        "en": "Let's schedule a meeting to discuss this.",
+        "cn": "我们安排个会议讨论一下吧。",
+        "bm_formal": "Mari kita jadualkan mesyuarat untuk membincangkan perkara ini.",
+        "bm_casual": "Jom set meeting bincang pasal ni."
+      }
+    },
+    {
+      "concept": "Seeking Clarification",
+      "expressions": {
+        "en": "Could you clarify that? / I don't quite understand.",
+        "cn": "你可以解释清楚吗？ / 我不太明白。",
+        "bm_formal": "Boleh tuan/puan jelaskan? / Saya kurang faham.",
+        "bm_casual": "Boleh explain sikit? / Tak berapa faham."
+      }
+    },
+    {
+      "concept": "Apologizing for Delay",
+      "expressions": {
+        "en": "I apologize for the delay in my response/action.",
+        "cn": "很抱歉我的回复/行动迟了。",
+        "bm_formal": "Saya mohon maaf atas kelewatan respons/tindakan saya.",
+        "bm_casual": "Sorry lambat reply/action. / Maaf lambat sikit."
+      }
+    },
+    {
+      "concept": "Expressing Gratitude for Help/Cooperation",
+      "expressions": {
+        "en": "Thank you for your cooperation/help.",
+        "cn": "谢谢您的合作/帮助。",
+        "bm_formal": "Terima kasih atas kerjasama/bantuan anda.",
+        "bm_casual": "Terima kasih banyak-banyak. / Thanks for the help."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You need an urgent report from your colleague, Ali, for a client presentation. You also want to schedule a brief discussion to review it.",
+      "key_phrases": [
+        "Boleh tuan/puan hantar/berikan saya laporan itu?",
+        "Mari kita jadualkan mesyuarat untuk membincangkan perkara ini.",
+        "Saya akan susulan perkara ini."
+      ]
+    },
+    "life": {
+      "scenario": "You're planning a weekend hiking trip with friends and need to confirm the meeting point and time. One friend seems a bit confused about the details.",
+      "key_phrases": [
+        "Boleh hantar/bagi saya details lokasi?",
+        "Boleh explain sikit pasal masa tu?",
+        "Jom set meeting (or 'waktu') bincang pasal ni."
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a software bug with the IT support team. They've asked for more log files, but you haven't been able to send them yet.",
+      "key_phrases": [
+        "Saya mohon maaf atas kelewatan respons saya.",
+        "Boleh tuan/puan jelaskan lagi apa yang diperlukan?",
+        "Saya akan maklumkan semula setelah saya dapat log itu."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask, 'Could you please send me the report?'",
+      "answer": "Boleh tuan/puan hantar/berikan saya laporan itu?"
+    },
+    {
+      "question": "What's a casual way to say, 'I'll follow up on this later.'",
+      "answer": "Nanti saya follow up."
+    },
+    {
+      "question": "How would you suggest, 'Let's schedule a meeting to discuss this,' casually?",
+      "answer": "Jom set meeting bincang pasal ni."
+    },
+    {
+      "question": "If you don't quite understand, how do you formally ask for clarification?",
+      "answer": "Boleh tuan/puan jelaskan?"
+    },
+    {
+      "question": "How do you apologize for a late reply in a casual work context?",
+      "answer": "Sorry lambat reply."
+    },
+    {
+      "question": "How do you formally express 'Thank you for your cooperation'?",
+      "answer": "Terima kasih atas kerjasama anda."
+    }
+  ]
+}
