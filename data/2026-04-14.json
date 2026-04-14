@@ -1,0 +1,111 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To launch / Implement (a system/project)",
+      "expressions": {
+        "en": "To launch / Implement (a system/project)",
+        "cn": "启动/实施 (系统/项目)",
+        "bm_formal": "Melancarkan / Melaksanakan (sistem/projek)",
+        "bm_casual": "Start / Jalan (sistem/projek)"
+      }
+    },
+    {
+      "concept": "To update (software/information)",
+      "expressions": {
+        "en": "To update (software/information)",
+        "cn": "更新 (软件/信息)",
+        "bm_formal": "Mengemaskini",
+        "bm_casual": "Update"
+      }
+    },
+    {
+      "concept": "To troubleshoot / Resolve an issue",
+      "expressions": {
+        "en": "To troubleshoot / Resolve an issue",
+        "cn": "解决问题/故障排除",
+        "bm_formal": "Menyelesaikan masalah",
+        "bm_casual": "Settle masalah / Fix"
+      }
+    },
+    {
+      "concept": "To digitalize / Go digital",
+      "expressions": {
+        "en": "To digitalize / Go digital",
+        "cn": "数字化",
+        "bm_formal": "Mendigitalkan",
+        "bm_casual": "Pergi digital / Digitalize"
+      }
+    },
+    {
+      "concept": "User-friendly / Easy to use",
+      "expressions": {
+        "en": "User-friendly / Easy to use",
+        "cn": "用户友好/易于使用",
+        "bm_formal": "Mesra pengguna",
+        "bm_casual": "Senang guna / User-friendly"
+      }
+    },
+    {
+      "concept": "To develop / Create (a solution/application)",
+      "expressions": {
+        "en": "To develop / Create (a solution/application)",
+        "cn": "开发/创建 (解决方案/应用程序)",
+        "bm_formal": "Membangunkan",
+        "bm_casual": "Develop / Buat"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Your team is preparing to roll out a new internal system. You need to brief your colleagues on the launch, the importance of updating information, and how to get support if issues arise.",
+      "key_phrases": [
+        "Kita akan **melancarkan** sistem baru minggu depan.",
+        "Penting untuk sentiasa **mengemaskini** maklumat anda.",
+        "Jika ada masalah, hubungi IT untuk **menyelesaikan masalah**."
+      ]
+    },
+    "life": {
+      "scenario": "You're helping your elderly relative set up a new smart device or a banking app. You want to assure them it's easy to use and explain the benefits of going digital for certain tasks.",
+      "key_phrases": [
+        "Jangan risau, aplikasi ni **mesra pengguna**.",
+        "Boleh **update** bil-bil secara online lepas ni.",
+        "Kita kena **pergi digital** untuk urusan bank sekarang."
+      ]
+    },
+    "tech": {
+      "scenario": "During a project meeting, the lead developer discusses the progress of a new feature, a bug fix, and the overall design philosophy to ensure ease of use.",
+      "key_phrases": [
+        "Kami sedang **membangunkan** ciri keselamatan baru.",
+        "Kita perlu **fix** isu 'bug' dalam masa terdekat.",
+        "Pastikan antaramuka aplikasi ini **senang guna**."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'To launch a new system' in formal Malay?",
+      "answer": "Melancarkan sistem baru"
+    },
+    {
+      "question": "What's the casual Malay way to say 'to update'?",
+      "answer": "Update"
+    },
+    {
+      "question": "Translate '解决问题' (To troubleshoot an issue) into formal Malay.",
+      "answer": "Menyelesaikan masalah"
+    },
+    {
+      "question": "How would you casually say 'This app is user-friendly'?",
+      "answer": "Aplikasi ni senang guna / Aplikasi ni user-friendly"
+    },
+    {
+      "question": "What's the formal Malay term for 'to digitalize a process'?",
+      "answer": "Mendigitalkan proses"
+    },
+    {
+      "question": "How do you say 'to develop a new feature' in casual Malay?",
+      "answer": "Develop ciri baru / Buat ciri baru"
+    }
+  ]
+}
