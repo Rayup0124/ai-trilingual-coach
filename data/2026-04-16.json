@@ -1,0 +1,111 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "How are you? / What's up?",
+      "expressions": {
+        "en": "How are you? / What's up?",
+        "cn": "你好吗？/ 最近怎么样？",
+        "bm_formal": "Apa khabar?",
+        "bm_casual": "Apa cerita? / Sihat?"
+      }
+    },
+    {
+      "concept": "Excuse me / Sorry",
+      "expressions": {
+        "en": "Excuse me / Sorry",
+        "cn": "不好意思 / 对不起",
+        "bm_formal": "Maafkan saya.",
+        "bm_casual": "Sorry ah. / Maaf."
+      }
+    },
+    {
+      "concept": "Can I help you? / What can I do?",
+      "expressions": {
+        "en": "Can I help you? / What can I do?",
+        "cn": "我可以帮你吗？/ 有什么我可以做的吗？",
+        "bm_formal": "Boleh saya bantu?",
+        "bm_casual": "Boleh saya tolong? / Ada apa?"
+      }
+    },
+    {
+      "concept": "I understand / Got it",
+      "expressions": {
+        "en": "I understand / Got it",
+        "cn": "我明白了 / 懂了",
+        "bm_formal": "Saya faham.",
+        "bm_casual": "Faham. / Dapat."
+      }
+    },
+    {
+      "concept": "Please wait a moment",
+      "expressions": {
+        "en": "Please wait a moment",
+        "cn": "请稍等",
+        "bm_formal": "Sila tunggu sebentar.",
+        "bm_casual": "Tunggu kejap. / Sekejap ya."
+      }
+    },
+    {
+      "concept": "Thank you",
+      "expressions": {
+        "en": "Thank you",
+        "cn": "谢谢",
+        "bm_formal": "Terima kasih.",
+        "bm_casual": "TQ. / Mekasih. / Thanks."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're in a virtual team meeting. Your manager introduces a new project. You need to confirm understanding and politely offer help to a new team member who looks confused.",
+      "key_phrases": [
+        "Apa khabar?",
+        "Saya faham.",
+        "Boleh saya bantu?"
+      ]
+    },
+    "life": {
+      "scenario": "You're at a busy kopitiam during breakfast. You accidentally bump into someone, then need to ask the waiter to wait while you decide your order, and finally thank them for the food.",
+      "key_phrases": [
+        "Maafkan saya.",
+        "Tunggu kejap.",
+        "Terima kasih."
+      ]
+    },
+    "tech": {
+      "scenario": "Your friend is having trouble setting up a new app on their phone. You offer to help, confirm you understand the issue, and ask them to wait while you troubleshoot.",
+      "key_phrases": [
+        "Boleh saya tolong?",
+        "Faham.",
+        "Tunggu kejap."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask 'How are you?' in Malay?",
+      "answer": "Apa khabar?"
+    },
+    {
+      "question": "What's a common casual way to say 'Sorry' in Malay?",
+      "answer": "Sorry ah."
+    },
+    {
+      "question": "How would you formally offer help by saying 'Can I help you?' in Malay?",
+      "answer": "Boleh saya bantu?"
+    },
+    {
+      "question": "How do you casually say 'I understand' or 'Got it' in Malay?",
+      "answer": "Faham."
+    },
+    {
+      "question": "How do you politely ask someone to 'Please wait a moment' in a casual context in Malay?",
+      "answer": "Tunggu kejap."
+    },
+    {
+      "question": "What's a formal way to express 'Thank you' in Malay?",
+      "answer": "Terima kasih."
+    }
+  ]
+}
