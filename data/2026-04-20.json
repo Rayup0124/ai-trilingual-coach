@@ -1,0 +1,112 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To update (software/information)",
+      "expressions": {
+        "en": "To update (software/information)",
+        "cn": "更新 (gēng xīn)",
+        "bm_formal": "Mengemas kini",
+        "bm_casual": "Update / Kemas kini"
+      }
+    },
+    {
+      "concept": "To troubleshoot / fix a problem",
+      "expressions": {
+        "en": "To troubleshoot / fix a problem",
+        "cn": "解决问题 (jiě jué wèn tí)",
+        "bm_formal": "Menyelesaikan masalah / Membaiki",
+        "bm_casual": "Settle masalah / Betulkan"
+      }
+    },
+    {
+      "concept": "To develop / innovate",
+      "expressions": {
+        "en": "To develop / innovate",
+        "cn": "开发 / 创新 (kāi fā / chuàng xīn)",
+        "bm_formal": "Membangunkan / Berinovasi",
+        "bm_casual": "Bangunkan / Buat benda baru"
+      }
+    },
+    {
+      "concept": "Digital transformation",
+      "expressions": {
+        "en": "Digital transformation",
+        "cn": "数字化转型 (shù zì huà zhuǎn xíng)",
+        "bm_formal": "Transformasi digital",
+        "bm_casual": "Tukar ke digital"
+      }
+    },
+    {
+      "concept": "User-friendly",
+      "expressions": {
+        "en": "User-friendly",
+        "cn": "用户友好 (yòng hù yǒu hǎo)",
+        "bm_formal": "Mesra pengguna",
+        "bm_casual": "Senang guna"
+      }
+    },
+    {
+      "concept": "Online platform / System",
+      "expressions": {
+        "en": "Online platform / System",
+        "cn": "在线平台 / 系统 (zài xiàn píng tái / xì tǒng)",
+        "bm_formal": "Platform dalam talian / Sistem",
+        "bm_casual": "Platform online / Sistem"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Our company needs to *update* our internal system to improve efficiency. We also need to train staff on the new *user-friendly online platform* to ensure a smooth *digital transformation*.",
+      "key_phrases": [
+        "mengemas kini sistem",
+        "platform dalam talian mesra pengguna",
+        "transformasi digital"
+      ]
+    },
+    "life": {
+      "scenario": "My phone app needs an *update*. If it doesn't work after that, I'll try to *troubleshoot* it myself or ask for help. I also want to learn how to *develop* a simple website.",
+      "key_phrases": [
+        "update aplikasi",
+        "selesaikan masalah",
+        "membangunkan laman web"
+      ]
+    },
+    "tech": {
+      "scenario": "We are *developing* a new feature to make the software more *user-friendly*. If any bugs appear, our team will *troubleshoot* them immediately to ensure the *online platform* runs smoothly.",
+      "key_phrases": [
+        "membangunkan ciri baru",
+        "mesra pengguna",
+        "menyelesaikan masalah",
+        "platform dalam talian"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'to update (software)' formally in Malay? (更新软件)",
+      "answer": "Mengemas kini (perisian)"
+    },
+    {
+      "question": "What's the casual Malay for 'to troubleshoot a problem'? (解决问题)",
+      "answer": "Settle masalah / Betulkan masalah"
+    },
+    {
+      "question": "What is 'digital transformation' in formal Malay? (数字化转型)",
+      "answer": "Transformasi digital"
+    },
+    {
+      "question": "How would you describe a 'user-friendly' interface in casual Malay? (用户友好的界面)",
+      "answer": "Senang guna"
+    },
+    {
+      "question": "What is the formal Malay term for 'online platform'? (在线平台)",
+      "answer": "Platform dalam talian"
+    },
+    {
+      "question": "How to say 'to develop a new product' formally in Malay? (开发新产品)",
+      "answer": "Membangunkan produk baharu"
+    }
+  ]
+}
