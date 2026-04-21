@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for an Update/Status",
+      "expressions": {
+        "en": "Could you please give me an update? / What's the status?",
+        "cn": "可以给我最新进展吗？ / 情况怎么样了？",
+        "bm_formal": "Boleh saya dapatkan kemas kini terkini? / Apakah statusnya sekarang?",
+        "bm_casual": "Boleh bagi update sikit? / Apa cerita (projek tu)?"
+      }
+    },
+    {
+      "concept": "Requesting a Deadline Extension",
+      "expressions": {
+        "en": "Could I request an extension for the deadline? / Can I get more time?",
+        "cn": "我可以申请延长截止日期吗？ / 我可以多要些时间吗？",
+        "bm_formal": "Boleh saya memohon lanjutan tempoh untuk tarikh akhir?",
+        "bm_casual": "Boleh tak saya minta extend deadline? / Boleh dapat extra masa sikit?"
+      }
+    },
+    {
+      "concept": "Confirming Understanding",
+      "expressions": {
+        "en": "Just to confirm, I understand that / Am I clear on this?",
+        "cn": "只是为了确认，我理解的是 / 我这样理解对吗？",
+        "bm_formal": "Untuk pengesahan, saya faham bahawa / Adakah pemahaman saya tepat?",
+        "bm_casual": "Nak confirm je, saya faham yang / Betul tak faham saya ni?"
+      }
+    },
+    {
+      "concept": "Offering Help",
+      "expressions": {
+        "en": "Let me know if you need any help. / Is there anything I can assist with?",
+        "cn": "如果你需要任何帮助，请告诉我。 / 有什么我可以帮忙的吗？",
+        "bm_formal": "Sila maklumkan jika anda memerlukan sebarang bantuan. / Ada apa-apa yang boleh saya bantu?",
+        "bm_casual": "Bagitahu je kalau perlukan apa-apa bantuan. / Ada apa-apa boleh tolong?"
+      }
+    },
+    {
+      "concept": "Suggesting a Meeting/Discussion",
+      "expressions": {
+        "en": "How about we discuss this further? / Shall we set up a meeting?",
+        "cn": "不如我们再深入讨论一下？ / 我们约个会议怎么样？",
+        "bm_formal": "Bagaimana jika kita bincangkan perkara ini dengan lebih lanjut? / Adakah kita perlu mengadakan mesyuarat?",
+        "bm_casual": "Apa kata kita bincang lagi? / Kita jumpa/meeting kejap?"
+      }
+    },
+    {
+      "concept": "Expressing Mild Disagreement/Alternative Suggestion",
+      "expressions": {
+        "en": "I see your point, but perhaps we could consider / I have a slightly different perspective.",
+        "cn": "我明白你的意思，但也许我们可以考虑 / 我有一个稍微不同的看法。",
+        "bm_formal": "Saya faham pandangan anda, namun mungkin kita boleh pertimbangkan / Saya mempunyai perspektif yang sedikit berbeza.",
+        "bm_casual": "Saya faham, tapi mungkin kita boleh cuba / Saya rasa lain sikit."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are working on a collaborative project. Your manager asks for an update on your task, and you realize you might need more time. Another colleague offers assistance.",
+      "key_phrases": [
+        "Boleh saya dapatkan kemas kini terkini?",
+        "Boleh tak saya minta extend deadline?",
+        "Ada apa-apa yang boleh saya bantu?"
+      ]
+    },
+    "life": {
+      "scenario": "You are planning a weekend getaway with friends. You need to confirm the details with one friend and ask another about their packing progress.",
+      "key_phrases": [
+        "Nak confirm je, saya faham yang",
+        "Apa cerita?",
+        "Bagitahu je kalau perlukan apa-apa bantuan."
+      ]
+    },
+    "tech": {
+      "scenario": "Your team is debugging a critical issue. You need an update from a developer, suggest a quick discussion, and gently propose an alternative solution.",
+      "key_phrases": [
+        "Apakah statusnya sekarang?",
+        "Bagaimana jika kita bincangkan perkara ini dengan lebih lanjut?",
+        "Saya faham pandangan anda, namun mungkin kita boleh pertimbangkan"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask for an update in Malay? (CN: 你如何用马来语正式询问最新进展？)",
+      "answer": "Boleh saya dapatkan kemas kini terkini?"
+    },
+    {
+      "question": "Your friend needs more time for a task. How would you casually suggest they ask for an extension in Malay? (CN: 你的朋友需要更多时间完成任务。你会如何用马来语随意建议他们请求延期？)",
+      "answer": "Boleh tak saya minta extend deadline?"
+    },
+    {
+      "question": "You want to confirm your understanding of a complex instruction. How do you formally phrase this in Malay? (CN: 你想确认你对复杂指令的理解。你会如何用马来语正式表达？)",
+      "answer": "Untuk pengesahan, saya faham bahawa"
+    },
+    {
+      "question": "A colleague looks stressed. How do you casually offer help in Malay? (CN: 一位同事看起来很紧张。你会如何用马来语随意提供帮助？)",
+      "answer": "Bagitahu je kalau perlukan apa-apa bantuan."
+    },
+    {
+      "question": "You want to suggest a follow-up discussion on an important topic. How would you formally say this in Malay? (CN: 你想建议就一个重要话题进行后续讨论。你会如何用马来语正式表达？)",
+      "answer": "Bagaimana jika kita bincangkan perkara ini dengan lebih lanjut?"
+    },
+    {
+      "question": "You have a different idea about a project's direction but want to be polite. How do you formally express a mild disagreement or alternative in Malay? (CN: 你对项目方向有不同的想法，但想礼貌地表达。你会如何用马来语正式表达轻微异议或提出替代方案？)",
+      "answer": "Saya faham pandangan anda, namun mungkin kita boleh pertimbangkan"
+    }
+  ]
+}
