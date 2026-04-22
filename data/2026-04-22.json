@@ -1,0 +1,114 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Greeting/Checking in",
+      "expressions": {
+        "en": "How are you? / What's up?",
+        "cn": "你好吗？/ 怎么样？(Nǐ hǎo ma? / Zěnmeyàng?)",
+        "bm_formal": "Apa khabar?",
+        "bm_casual": "Apa cerita? / Apa macam?"
+      }
+    },
+    {
+      "concept": "Expressing Gratitude",
+      "expressions": {
+        "en": "Thank you / Thanks a lot",
+        "cn": "谢谢你 / 非常感谢 (Xièxie nǐ / Fēicháng gǎnxiè)",
+        "bm_formal": "Terima kasih",
+        "bm_casual": "Mekasih / TQ"
+      }
+    },
+    {
+      "concept": "Apology/Seeking Attention",
+      "expressions": {
+        "en": "Excuse me / Sorry",
+        "cn": "不好意思 / 对不起 (Bù hǎoyìsi / Duìbuqǐ)",
+        "bm_formal": "Maafkan saya",
+        "bm_casual": "Sorry lah / Maaf ya"
+      }
+    },
+    {
+      "concept": "Offering Help",
+      "expressions": {
+        "en": "Can I help you? / Need help?",
+        "cn": "我能帮你吗？/ 需要帮忙吗？(Wǒ néng bāng nǐ ma? / Xūyào bāngmáng ma?)",
+        "bm_formal": "Boleh saya bantu?",
+        "bm_casual": "Nak tolong? / Ada apa-apa nak saya tolong?"
+      }
+    },
+    {
+      "concept": "Acknowledging/Assuring (No problem)",
+      "expressions": {
+        "en": "No problem / It's okay",
+        "cn": "没问题 / 没关系 (Méi wèntí / Méiguānxi)",
+        "bm_formal": "Tiada masalah / Tidak mengapa",
+        "bm_casual": "Takpe / Okay je"
+      }
+    },
+    {
+      "concept": "Asking for information/location",
+      "expressions": {
+        "en": "Where is? / How to get to?",
+        "cn": "在哪里？/ 怎么去? (zài nǎlǐ? / Zěnme qù?)",
+        "bm_formal": "Di manakah? / Bagaimana hendak ke?",
+        "bm_casual": "Mana? / Nak pergi macam mana?"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You notice a new colleague, Ali, struggling with a presentation software. You approach him.",
+      "key_phrases": [
+        "Apa khabar, Ali? Nampak macam ada masalah ke?",
+        "Boleh saya bantu awak dengan perisian ini?",
+        "Jangan risau, tiada masalah. Kita boleh selesaikan bersama.",
+        "Terima kasih atas bantuan awak!"
+      ]
+    },
+    "life": {
+      "scenario": "You bump into an old friend, Mei, at the mall. You chat briefly and then ask her for directions to a new cafe.",
+      "key_phrases": [
+        "Eh, Mei! Apa cerita? Lama tak jumpa!",
+        "Takpe, saya pun baru nak pergi sana.",
+        "Mei, mana kedai kopi baru yang popular tu ya?",
+        "Ooo, situ ke? Mekasih banyak-banyak!"
+      ]
+    },
+    "tech": {
+      "scenario": "Your laptop isn't connecting to the Wi-Fi. You ask your tech-savvy friend, Sam, for help. Sam comes over.",
+      "key_phrases": [
+        "Sam, sorry lah susahkan kau datang sini.",
+        "Aku tak tahu kenapa ni. Boleh kau tolong tengokkan?",
+        "Takpe, relaks je. Kita tengok apa masalahnya.",
+        "Terima kasih banyak-banyak, Sam! Kau memang penyelamat!"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you greet someone casually in Malay, asking 'What's up?'",
+      "answer": "Apa cerita?"
+    },
+    {
+      "question": "How do you say 'Thank you' formally in Malay?",
+      "answer": "Terima kasih"
+    },
+    {
+      "question": "If you accidentally bump into someone, how would you say 'Excuse me / Sorry' casually?",
+      "answer": "Sorry lah / Maaf ya"
+    },
+    {
+      "question": "How would you formally offer help to someone in Malay?",
+      "answer": "Boleh saya bantu?"
+    },
+    {
+      "question": "How do you say 'No problem' casually in Malay?",
+      "answer": "Takpe / Okay je"
+    },
+    {
+      "question": "How would you ask 'Where is the post office?' casually in Malay?",
+      "answer": "Mana pejabat pos?"
+    }
+  ]
+}
