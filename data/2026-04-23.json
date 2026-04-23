@@ -1,0 +1,111 @@
+{
+  "theme": "Teknologi & Pembangunan (Technology & Development)",
+  "vocabulary_focus": [
+    {
+      "concept": "To update (software/app)",
+      "expressions": {
+        "en": "To update (software/app)",
+        "cn": "更新 (软件/应用程序)",
+        "bm_formal": "Mengemas kini (perisian/aplikasi)",
+        "bm_casual": "Update / Kemas kini (app/software)"
+      }
+    },
+    {
+      "concept": "To troubleshoot / fix a problem",
+      "expressions": {
+        "en": "To troubleshoot / fix a problem",
+        "cn": "解决问题 / 排除故障",
+        "bm_formal": "Menyelesaikan masalah / Mengatasi masalah",
+        "bm_casual": "Settle masalah / Betulkan masalah / Troubleshoot"
+      }
+    },
+    {
+      "concept": "To develop / create (a system/product)",
+      "expressions": {
+        "en": "To develop / create (a system/product)",
+        "cn": "开发 / 创建 (系统/产品)",
+        "bm_formal": "Membangunkan / Mencipta (sistem/produk)",
+        "bm_casual": "Buat / Bangunkan (sistem/produk)"
+      }
+    },
+    {
+      "concept": "Digital transformation",
+      "expressions": {
+        "en": "Digital transformation",
+        "cn": "数字化转型",
+        "bm_formal": "Transformasi digital",
+        "bm_casual": "Digitalisasi / Transformasi digital"
+      }
+    },
+    {
+      "concept": "User-friendly",
+      "expressions": {
+        "en": "User-friendly",
+        "cn": "用户友好 / 方便使用",
+        "bm_formal": "Mesra pengguna",
+        "bm_casual": "Senang guna / User-friendly"
+      }
+    },
+    {
+      "concept": "Connectivity / Internet access",
+      "expressions": {
+        "en": "Connectivity / Internet access",
+        "cn": "Ketersambungan / 互联网接入",
+        "bm_formal": "Ketersambungan / Akses internet",
+        "bm_casual": "Line / Internet / Ada internet"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "During a project meeting, your team discusses improving a system and addressing user issues.",
+      "key_phrases": [
+        "Kita perlu **mengemas kini perisian** ini secepat mungkin.",
+        "Ada sesiapa boleh bantu **menyelesaikan masalah** sambungan ni?",
+        "Fokus utama kita adalah untuk **membangunkan sistem** yang lebih **mesra pengguna**."
+      ]
+    },
+    "life": {
+      "scenario": "You're helping a family member with their new smartphone or an app issue.",
+      "key_phrases": [
+        "Mak, kena **update app** ni dulu baru boleh guna.",
+        "Cuba **betulkan masalah** internet ni, tak ada **line** langsung.",
+        "App ni **senang guna** kan? Tak payah risau sangat."
+      ]
+    },
+    "tech": {
+      "scenario": "As a tech enthusiast, you're discussing the latest trends and challenges in the industry.",
+      "key_phrases": [
+        "Banyak syarikat sedang fokus pada **transformasi digital** sekarang.",
+        "Cabaran utama kita adalah untuk **membangunkan produk** yang bukan sahaja inovatif tetapi juga **mesra pengguna**.",
+        "Kita kena pastikan **ketersambungan** internet stabil untuk semua pengguna."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'To update (software/app)' formally in Malay?",
+      "answer": "Mengemas kini (perisian/aplikasi)"
+    },
+    {
+      "question": "What is the casual Malay for 'To troubleshoot / fix a problem'?",
+      "answer": "Settle masalah / Betulkan masalah"
+    },
+    {
+      "question": "How to say 'To develop / create (a system/product)' casually in Malay?",
+      "answer": "Buat / Bangunkan (sistem/produk)"
+    },
+    {
+      "question": "What is 'Digital transformation' in formal Malay?",
+      "answer": "Transformasi digital"
+    },
+    {
+      "question": "How do you express 'User-friendly' in casual Malay?",
+      "answer": "Senang guna / User-friendly"
+    },
+    {
+      "question": "What is the formal Malay term for 'Connectivity / Internet access'?",
+      "answer": "Ketersambungan / Akses internet"
+    }
+  ]
+}
