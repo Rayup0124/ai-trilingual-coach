@@ -1,0 +1,113 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting something politely",
+      "expressions": {
+        "en": "Could you please?",
+        "cn": "请问您能吗？",
+        "bm_formal": "Bolehkah anda?",
+        "bm_casual": "Boleh tak awak?"
+      }
+    },
+    {
+      "concept": "Acknowledging understanding",
+      "expressions": {
+        "en": "I understand. / Got it.",
+        "cn": "我明白了。/ 明白了。",
+        "bm_formal": "Saya faham. / Saya mengerti.",
+        "bm_casual": "Saya faham. / Okay, faham. / Dapat."
+      }
+    },
+    {
+      "concept": "Apologizing for inconvenience",
+      "expressions": {
+        "en": "Sorry for the inconvenience.",
+        "cn": "抱歉造成不便。",
+        "bm_formal": "Maaf atas kesulitan ini.",
+        "bm_casual": "Sorrylah susahkan awak. / Maaf lah."
+      }
+    },
+    {
+      "concept": "Promising to check/verify",
+      "expressions": {
+        "en": "Let me check. / I'll check.",
+        "cn": "我查一下。/ 我看看。",
+        "bm_formal": "Biar saya semak dahulu. / Saya akan menyemak.",
+        "bm_casual": "Kejap, saya check. / Nanti saya check."
+      }
+    },
+    {
+      "concept": "Expressing gratitude for cooperation/help",
+      "expressions": {
+        "en": "Thank you for your cooperation. / Thanks for helping.",
+        "cn": "感谢您的合作。/ 谢谢你的帮忙。",
+        "bm_formal": "Terima kasih atas kerjasama anda. / Penghargaan atas bantuan anda.",
+        "bm_casual": "Thanks sebab tolong. / Terima kasih banyak-banyak."
+      }
+    },
+    {
+      "concept": "Promising follow-up/update",
+      "expressions": {
+        "en": "I will follow up. / I'll get back to you.",
+        "cn": "我会跟进。/ 我会再联系你。",
+        "bm_formal": "Saya akan membuat susulan. / Saya akan maklumkan semula kepada anda.",
+        "bm_casual": "Nanti saya follow up. / Saya update awak balik."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Your manager needs an urgent sales report. You are compiling the data and will send it soon.",
+      "key_phrases": [
+        "Bolehkah anda menghantar laporan itu kepada saya?",
+        "Kejap, saya check.",
+        "Terima kasih atas kerjasama anda.",
+        "Nanti saya follow up."
+      ]
+    },
+    "life": {
+      "scenario": "A friend asks if you can pick them up from the airport, but you might be slightly late due to unexpected traffic.",
+      "key_phrases": [
+        "Saya faham.",
+        "Sorrylah susahkan awak.",
+        "Saya update awak balik."
+      ]
+    },
+    "tech": {
+      "scenario": "You're calling customer support because your internet is down. The technician needs to check your connection and will call you back with an update.",
+      "key_phrases": [
+        "Bolehkah anda semak sambungan internet saya?",
+        "Biar saya semak dahulu.",
+        "Terima kasih atas kerjasama anda.",
+        "Saya akan membuat susulan."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask 'Could you please send me the report?' in Malay?",
+      "answer": "Bolehkah anda menghantar laporan itu kepada saya?"
+    },
+    {
+      "question": "What's a casual way to say 'Got it.' in Malay?",
+      "answer": "Dapat. / Okay, faham."
+    },
+    {
+      "question": "How do you formally apologize for 'inconvenience' in Malay?",
+      "answer": "Maaf atas kesulitan ini."
+    },
+    {
+      "question": "How would you casually say 'Let me check.' in Malay?",
+      "answer": "Kejap, saya check."
+    },
+    {
+      "question": "What is the formal Malay for 'Thank you for your cooperation'?",
+      "answer": "Terima kasih atas kerjasama anda."
+    },
+    {
+      "question": "How do you casually say 'I'll get back to you' in Malay?",
+      "answer": "Saya update awak balik. / Nanti saya follow up."
+    }
+  ]
+}
