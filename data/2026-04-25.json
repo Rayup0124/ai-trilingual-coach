@@ -1,0 +1,111 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting assistance",
+      "expressions": {
+        "en": "Can you help me?",
+        "cn": "你能帮我吗？",
+        "bm_formal": "Bolehkah anda bantu saya?",
+        "bm_casual": "Boleh tolong saya?"
+      }
+    },
+    {
+      "concept": "Confirming understanding",
+      "expressions": {
+        "en": "I understand. / Got it.",
+        "cn": "我明白了。",
+        "bm_formal": "Saya faham. / Saya mengerti.",
+        "bm_casual": "Faham. / Okay, faham."
+      }
+    },
+    {
+      "concept": "Asking for a moment/waiting",
+      "expressions": {
+        "en": "Please wait a moment.",
+        "cn": "请等一下。",
+        "bm_formal": "Sila tunggu sebentar.",
+        "bm_casual": "Tunggu kejap. / Sekejap ya."
+      }
+    },
+    {
+      "concept": "Expressing agreement/confirmation",
+      "expressions": {
+        "en": "Yes, that's right.",
+        "cn": "是的，没错。",
+        "bm_formal": "Ya, betul.",
+        "bm_casual": "Betul."
+      }
+    },
+    {
+      "concept": "Asking for clarification/repetition",
+      "expressions": {
+        "en": "Can you repeat that?",
+        "cn": "你能再说一遍吗？",
+        "bm_formal": "Boleh anda ulang semula?",
+        "bm_casual": "Boleh ulang balik? / Ulang balik?"
+      }
+    },
+    {
+      "concept": "Expressing difficulty/trouble",
+      "expressions": {
+        "en": "I have a problem. / There's a problem.",
+        "cn": "我有个问题。/ 有问题。",
+        "bm_formal": "Saya ada masalah.",
+        "bm_casual": "Ada masalah."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're collaborating on a project with a colleague and encounter a software glitch. You need to ask for help, explain the problem, and confirm you understand their solution.",
+      "key_phrases": [
+        "Bolehkah anda bantu saya?",
+        "Saya ada masalah.",
+        "Saya faham."
+      ]
+    },
+    "life": {
+      "scenario": "You're asking a local for directions to a specific shop. You need to ask for assistance, confirm you've understood their instructions, and ask them to wait briefly while you check your map.",
+      "key_phrases": [
+        "Boleh tolong saya?",
+        "Faham.",
+        "Tunggu kejap."
+      ]
+    },
+    "tech": {
+      "scenario": "You're on a call with tech support because your internet isn't working. You explain the issue, ask the agent to repeat a technical step, and then confirm if you've done it correctly.",
+      "key_phrases": [
+        "Ada masalah.",
+        "Boleh anda ulang semula?",
+        "Betul begitu?"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask for help in Malay?",
+      "answer": "Bolehkah anda bantu saya?"
+    },
+    {
+      "question": "What's a casual way to say 'I understand' in Malay?",
+      "answer": "Faham."
+    },
+    {
+      "question": "How do you ask someone to 'wait a moment' casually in Malay?",
+      "answer": "Tunggu kejap."
+    },
+    {
+      "question": "How do you formally confirm something is 'right' in Malay?",
+      "answer": "Ya, betul."
+    },
+    {
+      "question": "你有个问题。 (You have a problem.) How do you express this casually in Malay?",
+      "answer": "Ada masalah."
+    },
+    {
+      "question": "What's the formal Malay for 'Can you repeat that?'",
+      "answer": "Boleh anda ulang semula?"
+    }
+  ]
+}
