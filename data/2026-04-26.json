@@ -1,0 +1,111 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "Innovation / Development",
+      "expressions": {
+        "en": "To innovate / To develop new things",
+        "cn": "创新 / 开发新事物",
+        "bm_formal": "Menginovasi / Membangunkan sesuatu yang baharu",
+        "bm_casual": "Cipta benda baru / Buat benda baru"
+      }
+    },
+    {
+      "concept": "Digital Transformation",
+      "expressions": {
+        "en": "Digital transformation",
+        "cn": "数字化转型",
+        "bm_formal": "Transformasi digital",
+        "bm_casual": "Tukar ke digital / Digitalisasi"
+      }
+    },
+    {
+      "concept": "Online Connectivity",
+      "expressions": {
+        "en": "To connect online / To go online",
+        "cn": "在线连接 / 上网",
+        "bm_formal": "Berhubung secara dalam talian / Mengakses internet",
+        "bm_casual": "Online / Bersambung internet"
+      }
+    },
+    {
+      "concept": "User-friendliness",
+      "expressions": {
+        "en": "User-friendly / Easy to use",
+        "cn": "用户友好 / 易于使用",
+        "bm_formal": "Mesra pengguna / Mudah digunakan",
+        "bm_casual": "Senang guna / Mudah pakai"
+      }
+    },
+    {
+      "concept": "Problem Solving (Tech/System)",
+      "expressions": {
+        "en": "To troubleshoot / To solve technical issues",
+        "cn": "故障排除 / 解决技术问题",
+        "bm_formal": "Menyelesaikan masalah teknikal / Mengatasi isu",
+        "bm_casual": "Repair masalah / Settlekan isu teknikal"
+      }
+    },
+    {
+      "concept": "Data Security",
+      "expressions": {
+        "en": "Data security / To protect data",
+        "cn": "数据安全 / 保护数据",
+        "bm_formal": "Keselamatan data / Melindungi data",
+        "bm_casual": "Jaga data / Data kena jaga"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Your team is discussing a new project to enhance customer service by moving to a fully digital platform. You need to talk about developing new features and ensuring the transition is smooth.",
+      "key_phrases": [
+        "Kita perlu membangunkan sesuatu yang baharu untuk sistem ini.",
+        "Transformasi digital ini akan meningkatkan kecekapan operasi.",
+        "Pastikan antaramuka mesra pengguna untuk pelanggan."
+      ]
+    },
+    "life": {
+      "scenario": "You're chatting with a friend about a new smart home device you just bought. You want to describe how easy it was to set up and how secure your information feels.",
+      "key_phrases": [
+        "Senang guna betul alat ni, saya terus online.",
+        "Saya harap data peribadi saya jaga, sebab semua bersambung internet.",
+        "Tak payah repair masalah, semua dah mudah pakai."
+      ]
+    },
+    "tech": {
+      "scenario": "As an IT support specialist, you're explaining to a client how you fixed a persistent bug in their system and the steps taken to prevent future security breaches.",
+      "key_phrases": [
+        "Kami telah menyelesaikan masalah teknikal pada pelayan anda.",
+        "Kami juga telah meningkatkan keselamatan data untuk mengelakkan insiden yang sama.",
+        "Sistem kini lebih berkesan dalam berhubung secara dalam talian."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally say 'digital transformation' in Malay?",
+      "answer": "Transformasi digital"
+    },
+    {
+      "question": "What's a casual way to say 'to develop new things' in Malay? (开发新事物)",
+      "answer": "Cipta benda baru"
+    },
+    {
+      "question": "If an app is 'easy to use' (用户友好), how would you describe it casually in Malay?",
+      "answer": "Senang guna"
+    },
+    {
+      "question": "What is the formal Malay term for 'data security' (数据安全)?",
+      "answer": "Keselamatan data"
+    },
+    {
+      "question": "How would you formally say 'to troubleshoot technical issues' (解决技术问题)?",
+      "answer": "Menyelesaikan masalah teknikal"
+    },
+    {
+      "question": "What is the casual Malay for 'to connect online' (在线连接)?",
+      "answer": "Online"
+    }
+  ]
+}
