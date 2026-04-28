@@ -1,0 +1,127 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for assistance",
+      "expressions": {
+        "en": "Could you please help me?",
+        "cn": "你可以帮我一下吗？ (Nǐ kěyǐ bāng wǒ yīxià ma?)",
+        "bm_formal": "Bolehkah anda membantu saya?",
+        "bm_casual": "Boleh tolong saya?"
+      }
+    },
+    {
+      "concept": "Expressing understanding",
+      "expressions": {
+        "en": "I understand. / Got it.",
+        "cn": "我明白了。 (Wǒ míngbái le.)",
+        "bm_formal": "Saya faham. / Saya mengerti.",
+        "bm_casual": "Faham. / Oke, faham."
+      }
+    },
+    {
+      "concept": "Requesting clarification/repetition",
+      "expressions": {
+        "en": "Could you repeat that, please? / Pardon?",
+        "cn": "你可以再说一遍吗？ (Nǐ kěyǐ zài shuō yī biàn ma?)",
+        "bm_formal": "Bolehkah anda mengulanginya? / Maaf, boleh terangkan semula?",
+        "bm_casual": "Ulang balik? / Apa dia tadi?"
+      }
+    },
+    {
+      "concept": "Expressing gratitude",
+      "expressions": {
+        "en": "Thank you very much.",
+        "cn": "非常感谢。 (Fēicháng gǎnxiè.)",
+        "bm_formal": "Terima kasih banyak-banyak. / Saya amat menghargainya.",
+        "bm_casual": "Terima kasih. / Mekasih."
+      }
+    },
+    {
+      "concept": "Apologizing",
+      "expressions": {
+        "en": "I am sorry. / My apologies.",
+        "cn": "对不起。 (Duìbùqǐ.)",
+        "bm_formal": "Saya memohon maaf. / Maafkan saya.",
+        "bm_casual": "Maaf. / Sorry."
+      }
+    },
+    {
+      "concept": "Confirming readiness/availability",
+      "expressions": {
+        "en": "Is it ready? / Is it available?",
+        "cn": "准备好了吗？ (Zhǔnbèi hǎo le ma?) / 有吗？ (Yǒu ma?)",
+        "bm_formal": "Adakah ia sudah siap? / Adakah ia tersedia?",
+        "bm_casual": "Dah siap? / Ada ke?"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are in a team meeting discussing a new project deadline. You need to ask a colleague for help with a complex task and confirm if a report is ready.",
+      "key_phrases": [
+        "Bolehkah anda membantu saya?",
+        "Saya faham.",
+        "Adakah ia sudah siap?"
+      ]
+    },
+    "life": {
+      "scenario": "You are at a local mamak stall, ordering food. You need to ask for a clarification on an item, express thanks, and apologize if you made a mistake.",
+      "key_phrases": [
+        "Ulang balik?",
+        "Terima kasih.",
+        "Maaf."
+      ]
+    },
+    "tech": {
+      "scenario": "You are trying to troubleshoot an internet connection issue with a friend over the phone. You need to understand their instructions, ask them to repeat if unclear, and confirm if a software update is complete.",
+      "key_phrases": [
+        "Saya faham.",
+        "Apa dia tadi?",
+        "Dah siap?"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'Could you please help me?' formally in Malay?",
+      "answer": "Bolehkah anda membantu saya?"
+    },
+    {
+      "question": "Translate '我明白了。 (Wǒ míngbái le.)' into casual Malay.",
+      "answer": "Faham."
+    },
+    {
+      "question": "How do you ask 'Could you repeat that?' casually in Malay?",
+      "answer": "Ulang balik?"
+    },
+    {
+      "question": "Translate '非常感谢。 (Fēicháng gǎnxiè.)' into formal Malay.",
+      "answer": "Terima kasih banyak-banyak."
+    },
+    {
+      "question": "What is the formal Malay expression for 'My apologies'?",
+      "answer": "Saya memohon maaf."
+    },
+    {
+      "question": "How do you ask 'Is it ready?' in casual Malay?",
+      "answer": "Dah siap?"
+    },
+    {
+      "question": "What is the formal Malay for 'I understand'?",
+      "answer": "Saya faham."
+    },
+    {
+      "question": "Translate '你可以帮我一下吗？ (Nǐ kěyǐ bāng wǒ yīxià ma?)' into casual Malay.",
+      "answer": "Boleh tolong saya?"
+    },
+    {
+      "question": "What is a casual Malay expression for 'Thank you'?",
+      "answer": "Mekasih."
+    },
+    {
+      "question": "What is another formal Malay way to say 'I am sorry'?",
+      "answer": "Maafkan saya."
+    }
+  ]
+}
