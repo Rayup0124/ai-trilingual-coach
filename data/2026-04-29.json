@@ -1,0 +1,119 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To update (software/information)",
+      "expressions": {
+        "en": "To update (software/information)",
+        "cn": "更新 (gēngxīn)",
+        "bm_formal": "Mengemaskini",
+        "bm_casual": "Update / Kemas kini"
+      }
+    },
+    {
+      "concept": "To troubleshoot / To fix a technical issue",
+      "expressions": {
+        "en": "To troubleshoot / To fix a technical issue",
+        "cn": "排除故障 (páichú gùzhàng) / 解决技术问题 (jiějué jìshù wèntí)",
+        "bm_formal": "Menyelesaikan masalah teknikal",
+        "bm_casual": "Betulkan masalah teknikal / Settle masalah"
+      }
+    },
+    {
+      "concept": "To access (a system/information)",
+      "expressions": {
+        "en": "To access (a system/information)",
+        "cn": "访问 (fǎngwèn)",
+        "bm_formal": "Mengakses / Mencapai",
+        "bm_casual": "Access / Masuk"
+      }
+    },
+    {
+      "concept": "To back up data",
+      "expressions": {
+        "en": "To back up data",
+        "cn": "备份数据 (bèifèn shùjù)",
+        "bm_formal": "Membuat salinan sandaran data",
+        "bm_casual": "Backup data / Simpan balik data"
+      }
+    },
+    {
+      "concept": "To go viral (online content)",
+      "expressions": {
+        "en": "To go viral (online content)",
+        "cn": "爆红 (bàohóng) / 走红 (zǒuhóng)",
+        "bm_formal": "Menjadi tular / Menular",
+        "bm_casual": "Viral / Jadi viral"
+      }
+    },
+    {
+      "concept": "To develop (a system/project)",
+      "expressions": {
+        "en": "To develop (a system/project)",
+        "cn": "开发 (kāifā) / 发展 (fāzhǎn)",
+        "bm_formal": "Membangunkan (sistem/projek)",
+        "bm_casual": "Develop (sistem/projek) / Buat (sistem/projek)"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "During a project review, the team discusses the need to update the system specifications and troubleshoot some integration issues before the next development phase.",
+      "key_phrases": [
+        "Kita perlu **mengemaskini** spesifikasi sistem.",
+        "Ada masalah teknikal yang perlu kita **selesaikan**.",
+        "Pasukan sedang **membangunkan** modul baru."
+      ]
+    },
+    "life": {
+      "scenario": "You're chatting with a friend about your phone. It's slow, and you're worried about losing photos. You also mention a funny video you saw online.",
+      "key_phrases": [
+        "Telefon saya dah lama tak **update**. Patutlah slow.",
+        "Saya kena **backup data** gambar-gambar penting ni.",
+        "Video kucing menari tu dah **viral** gila!"
+      ]
+    },
+    "tech": {
+      "scenario": "An IT support explains to a user how to access a new portal, emphasizing the importance of regular updates and data backups.",
+      "key_phrases": [
+        "Untuk **mengakses** portal ini, sila gunakan ID pengguna anda.",
+        "Penting untuk sentiasa **mengemaskini** perisian anda.",
+        "Pastikan anda **membuat salinan sandaran data** secara berkala."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "What is the formal Malay for 'To update information'?",
+      "answer": "Mengemaskini maklumat"
+    },
+    {
+      "question": "How do you say 'to fix a technical issue' casually in Malay?",
+      "answer": "Betulkan masalah teknikal"
+    },
+    {
+      "question": "How to say 'to access a system' in formal Malay?",
+      "answer": "Mengakses sistem"
+    },
+    {
+      "question": "What is the casual Malay for 'to back up data'? (Chinese: 备份数据)",
+      "answer": "Backup data"
+    },
+    {
+      "question": "What is the formal Malay for 'to go viral'?",
+      "answer": "Menjadi tular"
+    },
+    {
+      "question": "How do you say 'to develop a project' casually in Malay?",
+      "answer": "Develop projek"
+    },
+    {
+      "question": "How would you tell someone to 'update your phone' casually in Malay? (Chinese: 你的手机需要更新了)",
+      "answer": "Update phone awak"
+    },
+    {
+      "question": "What is the formal Malay equivalent for 'to make a data backup'?",
+      "answer": "Membuat salinan sandaran data"
+    }
+  ]
+}
