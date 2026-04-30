@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting help or action politely",
+      "expressions": {
+        "en": "Could you please?",
+        "cn": "你可以帮我吗？ (Nǐ kěyǐ bāng wǒma?)",
+        "bm_formal": "Bolehkah anda tolong?",
+        "bm_casual": "Boleh tolong?"
+      }
+    },
+    {
+      "concept": "Acknowledging understanding or agreement",
+      "expressions": {
+        "en": "I understand.",
+        "cn": "我明白了。(Wǒ míngbái le.)",
+        "bm_formal": "Saya faham.",
+        "bm_casual": "Faham."
+      }
+    },
+    {
+      "concept": "Suggesting further discussion or meeting",
+      "expressions": {
+        "en": "Let's discuss this further.",
+        "cn": "我们再进一步讨论一下吧。(Wǒmen zài jìnyībù tǎolùn yīxià ba.)",
+        "bm_formal": "Marilah kita bincangkan perkara ini dengan lebih lanjut.",
+        "bm_casual": "Jom bincang lagi nanti."
+      }
+    },
+    {
+      "concept": "Committing to follow up on a task/issue",
+      "expressions": {
+        "en": "I will follow up on this.",
+        "cn": "我会跟进这件事。(Wǒ huì gēnjìn zhè jiàn shì.)",
+        "bm_formal": "Saya akan susulan perkara ini.",
+        "bm_casual": "Saya akan follow up."
+      }
+    },
+    {
+      "concept": "Requesting specific information/details",
+      "expressions": {
+        "en": "Please send me the details.",
+        "cn": "请把详细信息发给我。(Qǐng bǎ xiángxì xìnxī fā gěi wǒ.)",
+        "bm_formal": "Mohon hantar butiran lanjut kepada saya.",
+        "bm_casual": "Hantar details kat saya eh."
+      }
+    },
+    {
+      "concept": "Apologizing for causing inconvenience",
+      "expressions": {
+        "en": "I apologize for the inconvenience.",
+        "cn": "我为造成的不便表示歉意。(Wǒ wèi zàochéng de bùbiàn biǎoshì qiànyì.)",
+        "bm_formal": "Saya memohon maaf atas kesulitan ini.",
+        "bm_casual": "Maaf atas kesulitan."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are a project lead assigning a new task to a team member and need to ensure they understand and will follow through.",
+      "key_phrases": [
+        "Bolehkah anda tolong siapkan laporan data ini sebelum hujung minggu?",
+        "Saya faham, saya akan susulan perkara ini.",
+        "Marilah kita bincangkan perkara ini dengan lebih lanjut dalam mesyuarat esok."
+      ]
+    },
+    "life": {
+      "scenario": "You're coordinating a family outing and need to confirm details with a relative, then apologize for a last-minute venue change.",
+      "key_phrases": [
+        "Boleh tolong confirmkan restoran tu boleh muat kita semua tak?",
+        "Faham, nanti saya update semua orang.",
+        "Maaf atas kesulitan, tapi kita kena tukar tempat sebab restoran tu penuh."
+      ]
+    },
+    "tech": {
+      "scenario": "You are contacting customer support about a persistent software bug. You need to explain the issue and request a solution.",
+      "key_phrases": [
+        "Bolehkah anda tolong check kenapa aplikasi saya asyik crash?",
+        "Saya faham langkah-langkah yang perlu saya ikut untuk troubleshoot.",
+        "Mohon hantar butiran lanjut tentang penyelesaian isu ini melalui emel."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally say 'Could you please?' in Malay?",
+      "answer": "Bolehkah anda tolong?"
+    },
+    {
+      "question": "How do you casually say 'I understand.' in Malay?",
+      "answer": "Faham."
+    },
+    {
+      "question": "Translate '我们再进一步讨论一下吧。' (Let's discuss this further.) to formal Malay.",
+      "answer": "Marilah kita bincangkan perkara ini dengan lebih lanjut."
+    },
+    {
+      "question": "How do you casually say 'I will follow up on this.' in Malay?",
+      "answer": "Saya akan follow up."
+    },
+    {
+      "question": "How do you formally ask 'Please send me the details.' in Malay?",
+      "answer": "Mohon hantar butiran lanjut kepada saya."
+    },
+    {
+      "question": "Translate 'I apologize for the inconvenience.' to casual Malay.",
+      "answer": "Maaf atas kesulitan."
+    }
+  ]
+}
