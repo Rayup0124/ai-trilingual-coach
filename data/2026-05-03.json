@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting Politely",
+      "expressions": {
+        "en": "Could you please?",
+        "cn": "请问您可不可以?",
+        "bm_formal": "Bolehkah anda?",
+        "bm_casual": "Boleh tak?"
+      }
+    },
+    {
+      "concept": "Acknowledging Understanding",
+      "expressions": {
+        "en": "I understand.",
+        "cn": "我明白了。",
+        "bm_formal": "Saya faham. / Maklum.",
+        "bm_casual": "Faham. / Okay. / Dapat."
+      }
+    },
+    {
+      "concept": "Seeking Confirmation",
+      "expressions": {
+        "en": "Please confirm.",
+        "cn": "请确认。",
+        "bm_formal": "Mohon pengesahan. / Sila sahkan.",
+        "bm_casual": "Tolong confirm. / Confirmkan."
+      }
+    },
+    {
+      "concept": "Promising to Check",
+      "expressions": {
+        "en": "Let me check.",
+        "cn": "我查一下。",
+        "bm_formal": "Biar saya semak. / Saya akan semak.",
+        "bm_casual": "Kejap, saya check. / Biar saya tengok."
+      }
+    },
+    {
+      "concept": "Apologizing for Inconvenience",
+      "expressions": {
+        "en": "I apologize for the inconvenience.",
+        "cn": "很抱歉给您带来不便。",
+        "bm_formal": "Saya mohon maaf atas kesulitan ini.",
+        "bm_casual": "Sorrylah susahkan. / Maaf ya."
+      }
+    },
+    {
+      "concept": "Expressing Gratitude for Cooperation",
+      "expressions": {
+        "en": "Thank you for your cooperation.",
+        "cn": "谢谢您的合作。",
+        "bm_formal": "Terima kasih atas kerjasama anda.",
+        "bm_casual": "Terima kasih tolong. / Thanks!"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Your team is rushing to finish a presentation for a client. You need a colleague to quickly review the slides.",
+      "key_phrases": [
+        "Bolehkah anda semak slaid ini sekejap?",
+        "Mohon pengesahan jika ada apa-apa perubahan.",
+        "Terima kasih atas kerjasama anda untuk projek ini."
+      ]
+    },
+    "life": {
+      "scenario": "You're at a local 'kopitiam' (coffee shop) and want to confirm your order and ask for an extra spoon.",
+      "key_phrases": [
+        "Boleh tak saya minta sudu lebih?",
+        "Tolong confirm order saya 'Kopi O Ais' ya?",
+        "Faham, terima kasih."
+      ]
+    },
+    "tech": {
+      "scenario": "A friend calls you for help because their internet connection is not working. You're trying to guide them through basic troubleshooting steps.",
+      "key_phrases": [
+        "Kejap, saya check apa masalahnya.",
+        "Saya faham, cubalah restart modem dulu.",
+        "Sorrylah susahkan, tapi kena sabar sikit ya."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally say 'Could you please?' in Malay?",
+      "answer": "Bolehkah anda?"
+    },
+    {
+      "question": "What is the casual Malay expression for 'I understand'?",
+      "answer": "Faham. / Okay. / Dapat."
+    },
+    {
+      "question": "Translate 'Please confirm' (formal) into Malay.",
+      "answer": "Mohon pengesahan. / Sila sahkan."
+    },
+    {
+      "question": "How would you casually say 'Let me check' in Malay?",
+      "answer": "Kejap, saya check. / Biar saya tengok."
+    },
+    {
+      "question": "How do you formally apologize for inconvenience in Malay?",
+      "answer": "Saya mohon maaf atas kesulitan ini."
+    },
+    {
+      "question": "Translate '谢谢您的合作。' (Thank you for your cooperation) into casual Malay.",
+      "answer": "Terima kasih tolong. / Thanks!"
+    }
+  ]
+}
