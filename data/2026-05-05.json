@@ -1,0 +1,111 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To develop / To build (a system/app)",
+      "expressions": {
+        "en": "To develop / To build (a system/app)",
+        "cn": "开发 / 建立 (系统/应用)",
+        "bm_formal": "Membangunkan (sistem/aplikasi)",
+        "bm_casual": "Buat / Bangunkan (sistem/app)"
+      }
+    },
+    {
+      "concept": "To innovate / Innovation",
+      "expressions": {
+        "en": "To innovate / Innovation",
+        "cn": "创新 / 革新",
+        "bm_formal": "Berinovasi / Inovasi",
+        "bm_casual": "Cari idea baru / Benda baru"
+      }
+    },
+    {
+      "concept": "To update / To refresh (information/software)",
+      "expressions": {
+        "en": "To update / To refresh (information/software)",
+        "cn": "更新 / 刷新",
+        "bm_formal": "Mengemas kini / Menyegarkan",
+        "bm_casual": "Update / Refresh"
+      }
+    },
+    {
+      "concept": "To troubleshoot / To fix an issue",
+      "expressions": {
+        "en": "To troubleshoot / To fix an issue",
+        "cn": "解决问题 / 排除故障",
+        "bm_formal": "Menyelesaikan masalah / Mengatasi isu",
+        "bm_casual": "Betulkan masalah / Settle masalah"
+      }
+    },
+    {
+      "concept": "To launch / To roll out (a project/product)",
+      "expressions": {
+        "en": "To launch / To roll out (a project/product)",
+        "cn": "启动 / 推出 (项目/产品)",
+        "bm_formal": "Melancarkan / Memperkenalkan (projek/produk)",
+        "bm_casual": "Launch / Keluarkan (projek/produk)"
+      }
+    },
+    {
+      "concept": "Digitalisation / Going digital",
+      "expressions": {
+        "en": "Digitalisation / Going digital",
+        "cn": "数字化 / 数码化",
+        "bm_formal": "Pendigitalan / Transformasi digital",
+        "bm_casual": "Jadi digital / Guna digital"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are in a team meeting discussing the progress of a new internal system and a critical bug that needs fixing before the launch.",
+      "key_phrases": [
+        "Kita perlu **membangunkan sistem** ini dengan lebih pantas.",
+        "Sila **mengemas kini** semua maklumat terkini dalam laporan.",
+        "Bagaimana kita boleh **menyelesaikan masalah** ini sebelum tarikh akhir?"
+      ]
+    },
+    "life": {
+      "scenario": "You're chatting with a friend about your phone's performance and a new app that helps manage daily tasks.",
+      "key_phrases": [
+        "Saya kena **update** phone ni, selalu lagging.",
+        "Ada masalah sikit dengan laptop, tak tahu macam mana nak **betulkan masalah** ni.",
+        "Sekarang semua benda **jadi digital**, senang nak urus itu ini."
+      ]
+    },
+    "tech": {
+      "scenario": "You're at a tech conference, discussing a startup's innovative new product and the industry's shift towards digital solutions.",
+      "key_phrases": [
+        "Mereka akan **melancarkan produk** baharu yang sangat menarik tahun depan.",
+        "Syarikat ini sentiasa **berinovasi** dalam teknologi AI.",
+        "**Transformasi digital** adalah kunci kejayaan dalam industri ini."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally say 'to develop a new system' in Malay?",
+      "answer": "Membangunkan sistem baharu"
+    },
+    {
+      "question": "What is the casual Malay term for 'to innovate'?",
+      "answer": "Cari idea baru"
+    },
+    {
+      "question": "How would you formally say 'to update the software' in Malay?",
+      "answer": "Mengemas kini perisian"
+    },
+    {
+      "question": "What's the casual Malay way to say 'to fix a problem'?",
+      "answer": "Betulkan masalah"
+    },
+    {
+      "question": "How do you formally say 'to launch a new product' in Malay?",
+      "answer": "Melancarkan produk baharu"
+    },
+    {
+      "question": "What is the casual Malay phrase for 'going digital'?",
+      "answer": "Jadi digital"
+    }
+  ]
+}
