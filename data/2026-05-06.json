@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting help/assistance",
+      "expressions": {
+        "en": "Could you please assist with this?",
+        "cn": "可以帮我处理一下吗？",
+        "bm_formal": "Bolehkah anda bantu saya dalam hal ini?",
+        "bm_casual": "Boleh tolong saya pasal ni?"
+      }
+    },
+    {
+      "concept": "Acknowledging understanding",
+      "expressions": {
+        "en": "I understand. / Understood.",
+        "cn": "我明白了。/ 知道了。",
+        "bm_formal": "Saya faham. / Saya maklum.",
+        "bm_casual": "Faham. / OK."
+      }
+    },
+    {
+      "concept": "Suggesting a discussion",
+      "expressions": {
+        "en": "Let's discuss this further.",
+        "cn": "我们再讨论一下吧。",
+        "bm_formal": "Marilah kita bincangkan perkara ini dengan lebih lanjut.",
+        "bm_casual": "Jom kita bincang pasal ni."
+      }
+    },
+    {
+      "concept": "Following up / Checking status",
+      "expressions": {
+        "en": "I will follow up on this.",
+        "cn": "我会跟进这件事。",
+        "bm_formal": "Saya akan susulan perkara ini.",
+        "bm_casual": "Nanti saya follow up."
+      }
+    },
+    {
+      "concept": "Requesting confirmation/update",
+      "expressions": {
+        "en": "Please confirm. / Let me know.",
+        "cn": "请确认一下。/ 请告诉我。",
+        "bm_formal": "Mohon maklumkan saya. / Sila sahkan.",
+        "bm_casual": "Tolong update saya ya."
+      }
+    },
+    {
+      "concept": "Expressing gratitude for cooperation",
+      "expressions": {
+        "en": "Thank you for your cooperation.",
+        "cn": "谢谢您的合作。",
+        "bm_formal": "Terima kasih atas kerjasama anda.",
+        "bm_casual": "Terima kasih atas bantuan."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are coordinating a project with a colleague and need updates and assistance to meet a deadline.",
+      "key_phrases": [
+        "Bolehkah anda bantu saya siapkan laporan ini sebelum tarikh akhir?",
+        "Saya akan susulan dengan pasukan IT mengenai isu rangkaian.",
+        "Mohon maklumkan saya setelah anda selesai menyemak draf."
+      ]
+    },
+    "life": {
+      "scenario": "You're planning a family gathering and need to coordinate tasks and schedules with relatives.",
+      "key_phrases": [
+        "Boleh tolong saya beli barang dapur untuk majlis nanti?",
+        "Faham, nanti saya beritahu makcik bila nak datang.",
+        "Jom kita bincang menu untuk makan malam esok."
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a software issue with a support agent or discussing a technical problem with a friend.",
+      "key_phrases": [
+        "Nanti saya follow up dengan pihak pembangun tentang bug ini.",
+        "Tolong update saya kalau ada apa-apa perkembangan.",
+        "Saya faham, jadi saya perlu restart aplikasi ini?"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask, 'Could you please assist me with this?'",
+      "answer": "Bolehkah anda bantu saya dalam hal ini?"
+    },
+    {
+      "question": "What's a casual way to say 'I understand' in Malay?",
+      "answer": "Faham."
+    },
+    {
+      "question": "How would you formally suggest, 'Let's discuss this further'?",
+      "answer": "Marilah kita bincangkan perkara ini dengan lebih lanjut."
+    },
+    {
+      "question": "How do you casually say, 'I will follow up on this'?",
+      "answer": "Nanti saya follow up."
+    },
+    {
+      "question": "What's a formal way to request, 'Please confirm' or 'Kindly inform me'?",
+      "answer": "Mohon maklumkan saya."
+    },
+    {
+      "question": "How do you formally express 'Thank you for your cooperation'?",
+      "answer": "Terima kasih atas kerjasama anda."
+    }
+  ]
+}
