@@ -1,0 +1,122 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for Assistance",
+      "expressions": {
+        "en": "Can you help me?",
+        "cn": "你能帮我吗？ (Nǐ néng bāng wǒ ma?)",
+        "bm_formal": "Boleh anda bantu saya?",
+        "bm_casual": "Boleh tolong saya?"
+      }
+    },
+    {
+      "concept": "Expressing Apology/Excuse",
+      "expressions": {
+        "en": "Excuse me / Sorry",
+        "cn": "不好意思 / 对不起 (Bù hǎoyìsi / Duìbuqǐ)",
+        "bm_formal": "Maafkan saya.",
+        "bm_casual": "Maaf."
+      }
+    },
+    {
+      "concept": "Requesting Repetition/Clarification",
+      "expressions": {
+        "en": "Could you repeat that?",
+        "cn": "你能再说一遍吗？ (Nǐ néng zài shuō yī biàn ma?)",
+        "bm_formal": "Boleh anda ulang semula?",
+        "bm_casual": "Boleh ulang balik?"
+      }
+    },
+    {
+      "concept": "Expressing Gratitude",
+      "expressions": {
+        "en": "Thank you very much.",
+        "cn": "非常感谢。 (Fēicháng gǎnxiè.)",
+        "bm_formal": "Terima kasih banyak-banyak.",
+        "bm_casual": "Terima kasih."
+      }
+    },
+    {
+      "concept": "Asking for Permission",
+      "expressions": {
+        "en": "May I? / Can I?",
+        "cn": "我可以吗？ (Wǒ kěyǐma?)",
+        "bm_formal": "Boleh saya?",
+        "bm_casual": "Boleh tak saya?"
+      }
+    },
+    {
+      "concept": "Affirmation/Agreement",
+      "expressions": {
+        "en": "Okay / Understood",
+        "cn": "好的 / 明白了 (Hǎo de / Míngbái le)",
+        "bm_formal": "Baiklah. / Saya faham.",
+        "bm_casual": "Okey. / Faham."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're working on a presentation, need a colleague's input, accidentally interrupt your boss, and confirm new instructions.",
+      "key_phrases": [
+        "Boleh anda bantu saya siapkan slaid ini?",
+        "Maafkan saya, boleh anda ulang semula arahan tadi?",
+        "Terima kasih banyak-banyak atas bantuan anda.",
+        "Baiklah, saya faham."
+      ]
+    },
+    "life": {
+      "scenario": "You're at a grocery store, accidentally bump into someone, ask for help finding an item, and ask if you can use a specific payment method.",
+      "key_phrases": [
+        "Maaf, tak sengaja.",
+        "Boleh tolong saya cari sos cili?",
+        "Boleh tak saya bayar guna e-wallet?",
+        "Okey, terima kasih!"
+      ]
+    },
+    "tech": {
+      "scenario": "Your internet is down, you call technical support, need them to repeat a step, and confirm the troubleshooting instructions.",
+      "key_phrases": [
+        "Boleh anda bantu saya selesaikan masalah internet?",
+        "Maaf, boleh ulang balik langkah yang ketiga tadi?",
+        "Terima kasih atas bantuan anda.",
+        "Faham. Saya akan cuba sekarang."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How to formally say 'Can you help me?' in Malay?",
+      "answer": "Boleh anda bantu saya?"
+    },
+    {
+      "question": "How to casually say 'Excuse me' or 'Sorry' in Malay?",
+      "answer": "Maaf."
+    },
+    {
+      "question": "How to formally ask 'Could you repeat that?' in Malay?",
+      "answer": "Boleh anda ulang semula?"
+    },
+    {
+      "question": "How to casually say 'Thank you' in Malay?",
+      "answer": "Terima kasih."
+    },
+    {
+      "question": "How to formally ask 'May I ask a question?' in Malay?",
+      "answer": "Boleh saya tanya soalan?"
+    },
+    {
+      "question": "How to casually say 'Understood' or 'Okay' in Malay?",
+      "answer": "Faham."
+    },
+    {
+      "question": "Chinese: 你能帮我吗？ (Nǐ néng bāng wǒ ma?) - Casual Malay translation?",
+      "answer": "Boleh tolong saya?"
+    },
+    {
+      "question": "Chinese: 非常感谢。 (Fēicháng gǎnxiè.) - Formal Malay translation?",
+      "answer": "Terima kasih banyak-banyak."
+    }
+  ]
+}
