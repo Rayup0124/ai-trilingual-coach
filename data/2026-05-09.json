@@ -1,0 +1,120 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "To confirm / To verify",
+      "expressions": {
+        "en": "To confirm / To verify",
+        "cn": "确认 / 核实 (Què rèn / Hé shí)",
+        "bm_formal": "Mengesahkan / Memastikan",
+        "bm_casual": "Confirmkan / Check balik"
+      }
+    },
+    {
+      "concept": "To follow up / To check in",
+      "expressions": {
+        "en": "To follow up / To check in",
+        "cn": "跟进 / 查问 (Gēn jìn / Chá wèn)",
+        "bm_formal": "Membuat susulan / Bertanya khabar",
+        "bm_casual": "Follow up / Tanya khabar"
+      }
+    },
+    {
+      "concept": "To submit / To hand in",
+      "expressions": {
+        "en": "To submit / To hand in",
+        "cn": "提交 / 交上 (Tí jiāo / Jiāo shàng)",
+        "bm_formal": "Menghantar / Mengemukakan",
+        "bm_casual": "Hantar / Submit"
+      }
+    },
+    {
+      "concept": "To postpone / To reschedule",
+      "expressions": {
+        "en": "To postpone / To reschedule",
+        "cn": "推迟 / 改期 (Tuī chí / Gǎi qí)",
+        "bm_formal": "Menangguhkan / Menjadualkan semula",
+        "bm_casual": "Tunda / Re-schedule"
+      }
+    },
+    {
+      "concept": "To request / To ask for",
+      "expressions": {
+        "en": "To request / To ask for",
+        "cn": "请求 / 要求 (Qǐng qiú / Yāo qiú)",
+        "bm_formal": "Memohon / Meminta",
+        "bm_casual": "Minta / Request"
+      }
+    },
+    {
+      "concept": "To inform / To update",
+      "expressions": {
+        "en": "To inform / To update",
+        "cn": "通知 / 更新 (Tōng zhī / Gēng xīn)",
+        "bm_formal": "Memaklumkan / Mengemaskini",
+        "bm_casual": "Inform / Update"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are discussing project updates and deadlines with your team and manager.",
+      "key_phrases": [
+        "Kita perlu **mengesahkan** keperluan klien sebelum hujung hari.",
+        "Sila **membuat susulan** pada kelulusan yang tertunggak.",
+        "Anda sudah **menghantar** laporan anda?",
+        "Mesyuarat telah **ditangguhkan** ke minggu depan.",
+        "Saya perlu **memohon** beberapa data dari jabatan kewangan.",
+        "Ingat untuk **memaklumkan** pasukan tentang sebarang perubahan."
+      ]
+    },
+    "life": {
+      "scenario": "You are managing personal appointments, errands, and communicating with family/friends.",
+      "key_phrases": [
+        "Boleh **confirmkan** tempahan makan malam kita?",
+        "Saya perlu **follow up** dengan mekanik pasal kereta saya.",
+        "Dah **hantar** permohonan lesen memandu awak?",
+        "Kita mungkin perlu **tunda** perjalanan kita sebab hal tak dijangka.",
+        "Saya nak **minta** cuti sehari bulan depan.",
+        "Tolong **inform** saya bila awak dah sampai rumah selamat."
+      ]
+    },
+    "tech": {
+      "scenario": "You are communicating with your IT or development team about system issues and updates.",
+      "key_phrases": [
+        "Jom **memastikan** pembetulan pepijat sudah digunakan.",
+        "Saya akan **follow up** dengan pasukan dev tentang isu server.",
+        "Sila **submit** perubahan kod anda ke repositori.",
+        "Penyelenggaraan sistem telah **dijadualkan semula** ke tengah malam.",
+        "Kita perlu **memohon** akses ke pangkalan data baru.",
+        "Mohon **maklumkan** pengguna tentang naik taraf sistem yang akan datang."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "What's the formal Malay for 'To confirm'? (确认)",
+      "answer": "Mengesahkan"
+    },
+    {
+      "question": "How do you say 'To follow up' (casual) in Malay? (跟进)",
+      "answer": "Follow up"
+    },
+    {
+      "question": "Translate 'To submit' (formal) into Malay. (提交)",
+      "answer": "Menghantar"
+    },
+    {
+      "question": "What is the casual Malay for 'To postpone'? (推迟)",
+      "answer": "Tunda"
+    },
+    {
+      "question": "How do you say 'To request' (formal) in Malay? (请求)",
+      "answer": "Memohon"
+    },
+    {
+      "question": "Translate 'To inform' (casual) into Malay. (通知)",
+      "answer": "Inform"
+    }
+  ]
+}
