@@ -1,0 +1,111 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for Assistance",
+      "expressions": {
+        "en": "Can you help me?",
+        "cn": "你能帮我吗？",
+        "bm_formal": "Boleh saya dapatkan bantuan anda?",
+        "bm_casual": "Boleh tolong?"
+      }
+    },
+    {
+      "concept": "Expressing Understanding",
+      "expressions": {
+        "en": "I understand.",
+        "cn": "我明白了。",
+        "bm_formal": "Saya faham.",
+        "bm_casual": "Faham."
+      }
+    },
+    {
+      "concept": "Asking for Repetition/Clarification",
+      "expressions": {
+        "en": "Could you repeat that?",
+        "cn": "你能再说一遍吗？",
+        "bm_formal": "Boleh anda ulangi apa yang anda katakan?",
+        "bm_casual": "Boleh ulang balik?"
+      }
+    },
+    {
+      "concept": "Apologizing / Excuse Me",
+      "expressions": {
+        "en": "I'm sorry. / Excuse me.",
+        "cn": "对不起。/ 不好意思。",
+        "bm_formal": "Saya minta maaf.",
+        "bm_casual": "Maaf. / Sorry."
+      }
+    },
+    {
+      "concept": "Asking for Permission / Requesting to do something",
+      "expressions": {
+        "en": "Can I use this?",
+        "cn": "我可以用这个吗？",
+        "bm_formal": "Boleh saya gunakan ini?",
+        "bm_casual": "Boleh pakai ni?"
+      }
+    },
+    {
+      "concept": "Expressing Gratitude",
+      "expressions": {
+        "en": "Thank you.",
+        "cn": "谢谢。",
+        "bm_formal": "Terima kasih.",
+        "bm_casual": "Terima kasih. / Thanks."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're collaborating on a presentation with a colleague. You need help with a slide, understand an instruction, and need to ask permission to use a specific resource.",
+      "key_phrases": [
+        "Boleh anda bantu saya siapkan slaid ini?",
+        "Saya faham arahan yang diberikan.",
+        "Boleh saya gunakan komputer anda sebentar?"
+      ]
+    },
+    "life": {
+      "scenario": "You're at the supermarket, looking for an item, you accidentally bump into someone, and then confirm plans with a friend.",
+      "key_phrases": [
+        "Maaf, saya tak sengaja terlanggar.",
+        "Boleh tolong tunjukkan di mana letaknya susu?",
+        "Faham, kita jumpa pukul 8 malam nanti."
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a new app, encountering an error, need to ask tech support for clarification, and thank them for their assistance.",
+      "key_phrases": [
+        "Boleh saya gunakan fungsi ini tanpa langganan?",
+        "Boleh ulang balik langkah-langkah untuk menetapkan semula?",
+        "Terima kasih atas bantuan anda menyelesaikan masalah ini."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'Can you help me?' in casual Malay?",
+      "answer": "Boleh tolong?"
+    },
+    {
+      "question": "How do you say 'I understand' in formal Malay?",
+      "answer": "Saya faham."
+    },
+    {
+      "question": "How do you ask 'Could you repeat that?' in casual Malay?",
+      "answer": "Boleh ulang balik?"
+    },
+    {
+      "question": "How do you say 'I'm sorry' in formal Malay?",
+      "answer": "Saya minta maaf."
+    },
+    {
+      "question": "How do you ask 'Can I use this?' in formal Malay?",
+      "answer": "Boleh saya gunakan ini?"
+    },
+    {
+      "question": "How do you say 'Thank you' in casual Malay?",
+      "answer": "Terima kasih. / Thanks."
+    }
+  ]
+}
