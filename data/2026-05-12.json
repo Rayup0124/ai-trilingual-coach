@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting an update/status",
+      "expressions": {
+        "en": "Could you give me an update?",
+        "cn": "能给我一个更新吗？",
+        "bm_formal": "Bolehkah anda kemas kini saya?",
+        "bm_casual": "Boleh update saya?"
+      }
+    },
+    {
+      "concept": "Asking for clarification",
+      "expressions": {
+        "en": "Could you clarify that?",
+        "cn": "你能澄清一下吗？",
+        "bm_formal": "Bolehkah anda jelaskan perkara ini?",
+        "bm_casual": "Boleh terang sikit?"
+      }
+    },
+    {
+      "concept": "Offering assistance",
+      "expressions": {
+        "en": "How can I help you?",
+        "cn": "我能怎样帮助你？",
+        "bm_formal": "Bagaimana saya boleh membantu anda?",
+        "bm_casual": "Macam mana saya boleh tolong?"
+      }
+    },
+    {
+      "concept": "Suggesting a meeting/discussion",
+      "expressions": {
+        "en": "Shall we discuss this?",
+        "cn": "我们讨论一下吧？",
+        "bm_formal": "Haruskah kita bincangkan perkara ini?",
+        "bm_casual": "Jom bincang?"
+      }
+    },
+    {
+      "concept": "Confirming understanding/agreement",
+      "expressions": {
+        "en": "Understood. / Agreed.",
+        "cn": "明白了。 / 同意。",
+        "bm_formal": "Faham. / Bersetuju.",
+        "bm_casual": "Faham. / Setuju."
+      }
+    },
+    {
+      "concept": "Apologizing for a delay/mistake",
+      "expressions": {
+        "en": "Apologies for the delay.",
+        "cn": "抱歉耽误了。",
+        "bm_formal": "Mohon maaf atas kelewatan.",
+        "bm_casual": "Sorry lambat."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are a project lead. A team member seems stuck on a task. You need to check their progress, offer help, and schedule a quick follow-up to resolve issues.",
+      "key_phrases": [
+        "Boleh update saya?",
+        "Macam mana saya boleh tolong?",
+        "Jom bincang?"
+      ]
+    },
+    "life": {
+      "scenario": "You're planning a weekend outing with friends. One friend has proposed a few ideas, and you need to clarify some details about the logistics and confirm everyone's agreement on the final plan.",
+      "key_phrases": [
+        "Boleh terang sikit?",
+        "Faham. / Setuju.",
+        "Jom bincang?"
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a software issue with a technical support agent. You need to ask them to clarify a complex technical step they've provided and apologize for a delay in responding to their previous email with requested information.",
+      "key_phrases": [
+        "Bolehkah anda jelaskan perkara ini?",
+        "Mohon maaf atas kelewatan.",
+        "Faham."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask for an update in Malay?",
+      "answer": "Bolehkah anda kemas kini saya?"
+    },
+    {
+      "question": "What's a casual way to ask for clarification in Malay? (你能澄清一下吗？)",
+      "answer": "Boleh terang sikit?"
+    },
+    {
+      "question": "How would you formally offer help in Malay?",
+      "answer": "Bagaimana saya boleh membantu anda?"
+    },
+    {
+      "question": "How do you casually suggest a discussion in Malay? (我们讨论一下吧？)",
+      "answer": "Jom bincang?"
+    },
+    {
+      "question": "How do you say 'Understood.' formally in Malay?",
+      "answer": "Faham."
+    },
+    {
+      "question": "How do you apologize for a delay casually in Malay?",
+      "answer": "Sorry lambat."
+    }
+  ]
+}
