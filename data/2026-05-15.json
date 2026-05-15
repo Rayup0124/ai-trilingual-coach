@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting Confirmation",
+      "expressions": {
+        "en": "Please confirm / Kindly confirm",
+        "cn": "请确认 / 劳驾确认",
+        "bm_formal": "Sila sahkan / Mohon pengesahan",
+        "bm_casual": "Tolong confirm / Confirmkan"
+      }
+    },
+    {
+      "concept": "Indicating Understanding",
+      "expressions": {
+        "en": "I understand / Got it",
+        "cn": "我明白了 / 懂了",
+        "bm_formal": "Saya faham / Saya maklum",
+        "bm_casual": "Faham / Ok, saya faham / Dapat"
+      }
+    },
+    {
+      "concept": "Requesting Elaboration/Clarification",
+      "expressions": {
+        "en": "Could you please elaborate? / Can you explain more?",
+        "cn": "您能详细说明一下吗？ / 可以解释更多吗？",
+        "bm_formal": "Mohon penjelasan lanjut / Boleh jelaskan dengan lebih terperinci?",
+        "bm_casual": "Boleh explain lagi? / Apa maksud awak?"
+      }
+    },
+    {
+      "concept": "Needing to Verify Information",
+      "expressions": {
+        "en": "Let me check / I'll check",
+        "cn": "让我查一下 / 我会去查",
+        "bm_formal": "Biar saya semak dahulu / Saya akan semak",
+        "bm_casual": "Kejap, saya check / Saya check dulu"
+      }
+    },
+    {
+      "concept": "Acknowledging a Quick Response",
+      "expressions": {
+        "en": "Thank you for your prompt response / Thanks for the quick reply",
+        "cn": "感谢您的及时回复 / 谢谢快速回复",
+        "bm_formal": "Terima kasih atas maklum balas segera anda",
+        "bm_casual": "Thanks for the quick reply / Terima kasih balas cepat"
+      }
+    },
+    {
+      "concept": "Apologizing for Inconvenience",
+      "expressions": {
+        "en": "I apologize for the inconvenience / Sorry for the trouble",
+        "cn": "我为造成的不便道歉 / 抱歉带来麻烦",
+        "bm_formal": "Saya memohon maaf atas kesulitan ini",
+        "bm_casual": "Maaf atas kesulitan / Sorry ganggu"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Your manager has assigned a new urgent task and needs you to coordinate with another department. You need to understand the requirements, confirm details, and apologize for any disruption.",
+      "key_phrases": [
+        "Sila sahkan tarikh akhir projek.",
+        "Mohon penjelasan lanjut mengenai skop kerja ini.",
+        "Saya memohon maaf atas kesulitan ini."
+      ]
+    },
+    "life": {
+      "scenario": "You're trying to organize a dinner with friends and need to confirm details like time and location, while also being flexible and understanding.",
+      "key_phrases": [
+        "Tolong confirm boleh datang ke?",
+        "Faham, kalau macam tu kita jumpa pukul 8 malam.",
+        "Maaf atas kesulitan, saya terpaksa tukar tempat."
+      ]
+    },
+    "tech": {
+      "scenario": "You're assisting a colleague who's facing a technical glitch with new software. You need to understand their issue, check for solutions, and thank them for their patience.",
+      "key_phrases": [
+        "Boleh explain lagi masalah tu?",
+        "Kejap, saya check settings sistem ini.",
+        "Terima kasih atas maklum balas segera anda."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask someone to confirm something?",
+      "answer": "Sila sahkan."
+    },
+    {
+      "question": "What is a casual Malay way to say 'Got it'?",
+      "answer": "Faham."
+    },
+    {
+      "question": "你如何礼貌地请求更多解释？",
+      "answer": "Mohon penjelasan lanjut."
+    },
+    {
+      "question": "If you need to check something before replying, what's a common casual Malay phrase?",
+      "answer": "Kejap, saya check."
+    },
+    {
+      "question": "How do you formally thank someone for a quick reply?",
+      "answer": "Terima kasih atas maklum balas segera anda."
+    },
+    {
+      "question": "我为造成的不便道歉 (formal) in Malay is?",
+      "answer": "Saya memohon maaf atas kesulitan ini."
+    }
+  ]
+}
