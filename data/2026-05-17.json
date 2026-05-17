@@ -1,0 +1,109 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To update (software/information)",
+      "expressions": {
+        "en": "To update (software/information)",
+        "cn": "更新 (gēngxīn)",
+        "bm_formal": "Mengemaskini",
+        "bm_casual": "Update / Kemas kini"
+      }
+    },
+    {
+      "concept": "To troubleshoot a problem",
+      "expressions": {
+        "en": "To troubleshoot a problem",
+        "cn": "解决问题 (jiějué wèntí)",
+        "bm_formal": "Menyelesaikan masalah / Mengesan dan membaiki masalah",
+        "bm_casual": "Settle masalah / Cari punca masalah"
+      }
+    },
+    {
+      "concept": "To launch/implement (a project/system)",
+      "expressions": {
+        "en": "To launch/implement (a project/system)",
+        "cn": "启动/实施 (qǐdòng/shíshī)",
+        "bm_formal": "Melancarkan / Melaksanakan",
+        "bm_casual": "Lancar / Buat"
+      }
+    },
+    {
+      "concept": "To connect/link (devices/network)",
+      "expressions": {
+        "en": "To connect/link (devices/network)",
+        "cn": "连接 (liánjiē)",
+        "bm_formal": "Menghubungkan / Menyambungkan",
+        "bm_casual": "Sambung / Connect"
+      }
+    },
+    {
+      "concept": "To back up (data/files)",
+      "expressions": {
+        "en": "To back up (data/files)",
+        "cn": "备份 (bèifèn)",
+        "bm_formal": "Membuat salinan sandaran",
+        "bm_casual": "Backup / Simpan salinan"
+      }
+    },
+    {
+      "concept": "To develop/innovate (a new feature/solution)",
+      "expressions": {
+        "en": "To develop/innovate (a new feature/solution)",
+        "cn": "开发/创新 (kāifā/chuàngxīn)",
+        "bm_formal": "Membangunkan / Menginovasi",
+        "bm_casual": "Bangunkan / Cipta benda baru"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "During a project meeting, you need to discuss the progress and any technical issues. You mention that the client needs an update and there's a problem to troubleshoot before the new module can be launched.",
+      "key_phrases": [
+        "Kita perlu mengemaskini pelanggan tentang status projek.",
+        "Ada masalah teknikal yang perlu kita selesaikan sebelum melancarkan modul baru."
+      ]
+    },
+    "life": {
+      "scenario": "Your phone is running slow, and you realize it needs an update. Before doing so, you want to back up your photos and ask a friend for help to connect your phone to a laptop.",
+      "key_phrases": [
+        "Telefon saya kena update ni, tapi saya nak backup gambar dulu.",
+        "Boleh tolong sambung telefon saya ke laptop tak?"
+      ]
+    },
+    "tech": {
+      "scenario": "In a discussion about a new app feature, you talk about the development process, ensuring data backup, and connecting new servers.",
+      "key_phrases": [
+        "Pasukan kita sedang membangunkan ciri baru untuk aplikasi.",
+        "Sebelum kita lancar, kita mesti pastikan semua data pengguna dibuat salinan sandaran dengan selamat.",
+        "Bagaimana kita nak sambung pelayan baru ini ke rangkaian sedia ada?"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'to update (information)' in formal Malay?",
+      "answer": "Mengemaskini"
+    },
+    {
+      "question": "What's the casual Malay for 'to troubleshoot a problem'? (解决问题)",
+      "answer": "Settle masalah"
+    },
+    {
+      "question": "If you want to say 'to launch a new system' in formal Malay, what would you use?",
+      "answer": "Melancarkan sistem baru"
+    },
+    {
+      "question": "What is the casual Malay for 'to connect (devices)'? (连接设备)",
+      "answer": "Sambung / Connect"
+    },
+    {
+      "question": "How do you formally say 'to back up data'?",
+      "answer": "Membuat salinan sandaran data"
+    },
+    {
+      "question": "What is the casual Malay for 'to develop a new feature'? (开发新功能)",
+      "answer": "Bangunkan ciri baru / Buat ciri baru"
+    }
+  ]
+}
