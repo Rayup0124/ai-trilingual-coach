@@ -1,0 +1,119 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To innovate / To develop something new",
+      "expressions": {
+        "en": "To innovate / To develop something new",
+        "cn": "创新 / 开发新事物",
+        "bm_formal": "Menginovasi / Membangunkan sesuatu yang baharu",
+        "bm_casual": "Cipta benda baru / Buat benda baru"
+      }
+    },
+    {
+      "concept": "To troubleshoot / To fix a technical issue",
+      "expressions": {
+        "en": "To troubleshoot / To fix a technical issue",
+        "cn": "排除故障 / 解决技术问题",
+        "bm_formal": "Menyelesaikan masalah teknikal / Membaiki isu teknikal",
+        "bm_casual": "Betulkan masalah teknikal / Repair benda rosak"
+      }
+    },
+    {
+      "concept": "To upgrade a system/device",
+      "expressions": {
+        "en": "To upgrade a system/device",
+        "cn": "升级系统/设备",
+        "bm_formal": "Menaik taraf sistem/peranti",
+        "bm_casual": "Upgrade sistem/gadget"
+      }
+    },
+    {
+      "concept": "To go online / To connect to the internet",
+      "expressions": {
+        "en": "To go online / To connect to the internet",
+        "cn": "上网 / 连接互联网",
+        "bm_formal": "Melayari internet / Menyambung ke internet",
+        "bm_casual": "Online / Masuk internet"
+      }
+    },
+    {
+      "concept": "Data analysis / To analyze data",
+      "expressions": {
+        "en": "Data analysis / To analyze data",
+        "cn": "数据分析 / 分析数据",
+        "bm_formal": "Analisis data / Menganalisis data",
+        "bm_casual": "Kira data / Tengok data"
+      }
+    },
+    {
+      "concept": "Digital transformation",
+      "expressions": {
+        "en": "Digital transformation",
+        "cn": "数字化转型",
+        "bm_formal": "Transformasi digital",
+        "bm_casual": "Ubah jadi digital / Jadi digital"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Your team is planning to launch a new feature for your company's mobile app and needs to discuss potential technical challenges and system improvements.",
+      "key_phrases": [
+        "Kita perlu menginovasi cara baharu untuk menarik pengguna.",
+        "Ada sesiapa boleh menyelesaikan masalah teknikal ini?",
+        "Kita akan menaik taraf sistem kita bulan depan."
+      ]
+    },
+    "life": {
+      "scenario": "You are helping your elderly neighbour set up their new smart TV and connect it to the internet, then explaining how to use a new streaming service.",
+      "key_phrases": [
+        "Jom kita cuba sambung ke internet dulu.",
+        "Aplikasi ni kena upgrade sistem baru boleh guna.",
+        "Senang je nak betulkan masalah kalau tak boleh online."
+      ]
+    },
+    "tech": {
+      "scenario": "You are at a tech conference, listening to a presentation about the latest trends in AI and how companies are adapting to new digital strategies.",
+      "key_phrases": [
+        "Bagaimana syarikat-syarikat besar melakukan transformasi digital?",
+        "Penting untuk menganalisis data pengguna untuk pembangunan produk.",
+        "Untuk kekal relevan, kita mesti sentiasa menginovasi."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'To innovate something new' (formal) in Malay?",
+      "answer": "Menginovasi sesuatu yang baharu"
+    },
+    {
+      "question": "How do you say 'To fix a technical issue' (casual) in Malay?",
+      "answer": "Repair benda rosak"
+    },
+    {
+      "question": "How do you say 'To upgrade a system' (formal) in Malay?",
+      "answer": "Menaik taraf sistem"
+    },
+    {
+      "question": "如何说 'To go online' (casual) in Malay?",
+      "answer": "Online / Masuk internet"
+    },
+    {
+      "question": "How do you say 'To analyze data' (formal) in Malay?",
+      "answer": "Menganalisis data"
+    },
+    {
+      "question": "如何说 'Digital transformation' (casual) in Malay?",
+      "answer": "Ubah jadi digital / Jadi digital"
+    },
+    {
+      "question": "What is the formal Malay for 'To troubleshoot a technical issue'?",
+      "answer": "Menyelesaikan masalah teknikal"
+    },
+    {
+      "question": "What is the casual Malay for 'To develop something new'?",
+      "answer": "Buat benda baru"
+    }
+  ]
+}
