@@ -1,0 +1,111 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Offering Help",
+      "expressions": {
+        "en": "How can I help?",
+        "cn": "有什么可以帮到您？",
+        "bm_formal": "Ada apa yang boleh saya bantu?",
+        "bm_casual": "Ada apa nak tolong?"
+      }
+    },
+    {
+      "concept": "Asking for Understanding",
+      "expressions": {
+        "en": "Do you understand?",
+        "cn": "你明白吗？",
+        "bm_formal": "Adakah anda faham?",
+        "bm_casual": "Faham tak?"
+      }
+    },
+    {
+      "concept": "Expressing Agreement/Okay",
+      "expressions": {
+        "en": "Okay / Understood",
+        "cn": "好的 / 明白",
+        "bm_formal": "Baiklah / Saya faham",
+        "bm_casual": "OK la / Onz / Faham"
+      }
+    },
+    {
+      "concept": "Asking to Wait",
+      "expressions": {
+        "en": "Please wait a moment.",
+        "cn": "请稍等一下。",
+        "bm_formal": "Sila tunggu sebentar.",
+        "bm_casual": "Kejap ya. / Tunggu sekejap."
+      }
+    },
+    {
+      "concept": "Expressing Gratitude",
+      "expressions": {
+        "en": "Thank you very much.",
+        "cn": "非常感谢。",
+        "bm_formal": "Terima kasih banyak-banyak.",
+        "bm_casual": "Mekasih banyak. / TQVM."
+      }
+    },
+    {
+      "concept": "Asking for Repetition",
+      "expressions": {
+        "en": "Can you repeat that?",
+        "cn": "你可以再说一遍吗？",
+        "bm_formal": "Boleh anda ulang semula?",
+        "bm_casual": "Boleh ulang balik?"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're discussing a new project requirement with your team leader. He explains the details, and you need to confirm your understanding and readiness to take on the task.",
+      "key_phrases": [
+        "Ada apa yang boleh saya bantu?",
+        "Adakah anda faham?",
+        "Baiklah, saya faham."
+      ]
+    },
+    "life": {
+      "scenario": "You're at a busy local 'kopitiam' ordering food. The server seems rushed, and you need to ask them to wait briefly while you decide, then clarify a part of your order, and finally thank them.",
+      "key_phrases": [
+        "Kejap ya.",
+        "Boleh ulang balik?",
+        "Mekasih banyak."
+      ]
+    },
+    "tech": {
+      "scenario": "Your colleague is struggling with a software issue. You approach them to offer assistance, confirm they understand your proposed solution, and get their agreement to proceed.",
+      "key_phrases": [
+        "Ada apa nak tolong?",
+        "Faham tak?",
+        "OK la."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How can I help you, sir? (Formal)",
+      "answer": "Ada apa yang boleh saya bantu, encik?"
+    },
+    {
+      "question": "你明白吗？(Casual)",
+      "answer": "Faham tak?"
+    },
+    {
+      "question": "Okay, understood. (Casual)",
+      "answer": "OK la, faham."
+    },
+    {
+      "question": "请稍等一下。(Formal)",
+      "answer": "Sila tunggu sebentar."
+    },
+    {
+      "question": "Thank you very much for your help. (Casual)",
+      "answer": "Mekasih banyak untuk tolong."
+    },
+    {
+      "question": "你可以再说一遍吗？(Casual)",
+      "answer": "Boleh ulang balik?"
+    }
+  ]
+}
