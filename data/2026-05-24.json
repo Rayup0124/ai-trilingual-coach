@@ -1,0 +1,108 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting politely",
+      "expressions": {
+        "en": "Could you please?",
+        "cn": "请问您能吗？",
+        "bm_formal": "Bolehkah anda?",
+        "bm_casual": "Boleh tak?"
+      }
+    },
+    {
+      "concept": "Acknowledging understanding",
+      "expressions": {
+        "en": "I understand. / Got it.",
+        "cn": "我明白了。/ 知道了。",
+        "bm_formal": "Saya faham. / Saya mengerti.",
+        "bm_casual": "Faham. / Okay, faham."
+      }
+    },
+    {
+      "concept": "Promising to verify/check",
+      "expressions": {
+        "en": "Let me check. / I'll check.",
+        "cn": "让我查一下。/ 我查查看。",
+        "bm_formal": "Biar saya semak. / Saya akan semak.",
+        "bm_casual": "Nak check dulu. / Kejap, saya check."
+      }
+    },
+    {
+      "concept": "Expressing gratitude for help",
+      "expressions": {
+        "en": "Thank you for your help. / Thanks for helping.",
+        "cn": "谢谢您的帮助。/ 谢谢帮忙。",
+        "bm_formal": "Terima kasih atas bantuan anda.",
+        "bm_casual": "Terima kasih tolong. / Thanks ya."
+      }
+    },
+    {
+      "concept": "Apologizing",
+      "expressions": {
+        "en": "I apologize. / Sorry.",
+        "cn": "我道歉。/ 对不起。",
+        "bm_formal": "Saya memohon maaf. / Saya minta maaf.",
+        "bm_casual": "Sorry. / Minta maaf."
+      }
+    },
+    {
+      "concept": "Proposing a discussion",
+      "expressions": {
+        "en": "Let's discuss this. / Let's talk about it.",
+        "cn": "我们来讨论一下。/ 我们谈谈吧。",
+        "bm_formal": "Mari kita bincangkan ini. / Kita perlu berbincang.",
+        "bm_casual": "Jom bincang. / Kita sembang pasal ni."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You need a colleague to send you a report by end of day. You also need to acknowledge a task assigned to you by your manager.",
+      "key_phrases": [
+        "Bolehkah anda hantar laporan itu sebelum hujung hari?",
+        "Saya faham, saya akan siapkan tugas ini."
+      ]
+    },
+    "life": {
+      "scenario": "You accidentally bumped into someone at the mall and want to apologize. Later, you want to discuss weekend plans with a friend.",
+      "key_phrases": [
+        "Sorry, saya tak sengaja.",
+        "Jom bincang pasal plan hujung minggu ni?"
+      ]
+    },
+    "tech": {
+      "scenario": "Your internet is down, and you're calling tech support. You also need to check the status of a software update for your team.",
+      "key_phrases": [
+        "Bolehkah anda bantu saya dengan masalah internet ini?",
+        "Kejap, saya check status update software."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask someone to 'check the document'?",
+      "answer": "Bolehkah anda semak dokumen ini?"
+    },
+    {
+      "question": "How do you casually say 'I understand'?",
+      "answer": "Faham."
+    },
+    {
+      "question": "你如何正式地表达 '谢谢你的帮助'？",
+      "answer": "Terima kasih atas bantuan anda."
+    },
+    {
+      "question": "How do you casually suggest 'Let's discuss this later'?",
+      "answer": "Jom bincang nanti."
+    },
+    {
+      "question": "How do you formally apologize for a mistake?",
+      "answer": "Saya memohon maaf atas kesilapan ini."
+    },
+    {
+      "question": "你如何随意地说 '让我查一下'？",
+      "answer": "Kejap, saya check."
+    }
+  ]
+}
