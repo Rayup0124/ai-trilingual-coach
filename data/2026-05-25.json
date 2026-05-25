@@ -1,0 +1,120 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for assistance",
+      "expressions": {
+        "en": "Could you help me?",
+        "cn": "你能帮我吗？",
+        "bm_formal": "Bolehkah anda membantu saya?",
+        "bm_casual": "Boleh tolong saya tak?"
+      }
+    },
+    {
+      "concept": "Expressing gratitude",
+      "expressions": {
+        "en": "Thank you very much.",
+        "cn": "非常感谢。",
+        "bm_formal": "Terima kasih banyak-banyak.",
+        "bm_casual": "Terima kasih banyak."
+      }
+    },
+    {
+      "concept": "Apologizing",
+      "expressions": {
+        "en": "I am sorry.",
+        "cn": "对不起。",
+        "bm_formal": "Saya minta maaf.",
+        "bm_casual": "Minta maaf."
+      }
+    },
+    {
+      "concept": "Asking for clarification/repetition",
+      "expressions": {
+        "en": "Could you repeat that?",
+        "cn": "你能再说一遍吗？",
+        "bm_formal": "Bolehkah anda mengulanginya?",
+        "bm_casual": "Boleh ulang balik?"
+      }
+    },
+    {
+      "concept": "Confirming understanding",
+      "expressions": {
+        "en": "I understand. / Got it.",
+        "cn": "我明白了。",
+        "bm_formal": "Saya faham.",
+        "bm_casual": "Faham."
+      }
+    },
+    {
+      "concept": "Asking if something is okay/permissible",
+      "expressions": {
+        "en": "Is it okay? / Is this alright?",
+        "cn": "这样可以吗？",
+        "bm_formal": "Adakah ini boleh diterima?",
+        "bm_casual": "Okay ke? / Boleh ke?"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are collaborating with colleagues or interacting with a superior.",
+      "key_phrases": [
+        "Bolehkah anda membantu saya dengan laporan ini?",
+        "Terima kasih banyak-banyak atas bantuan anda, Encik Ali.",
+        "Saya minta maaf atas kesilapan dalam e-mel itu.",
+        "Bolehkah anda mengulanginya arahan tadi?",
+        "Saya faham, saya akan siapkan segera.",
+        "Adakah ini boleh diterima untuk pembentangan esok?"
+      ]
+    },
+    "life": {
+      "scenario": "You are interacting with friends, family, or service staff in daily situations.",
+      "key_phrases": [
+        "Boleh tolong saya angkat barang ni?",
+        "Terima kasih banyak sebab belanja makan!",
+        "Minta maaf lambat sampai.",
+        "Boleh ulang balik apa awak cakap tadi?",
+        "Faham, nanti saya datang.",
+        "Okay ke kalau kita jumpa pukul 8 malam?"
+      ]
+    },
+    "tech": {
+      "scenario": "You are dealing with a technical issue, seeking support, or discussing settings.",
+      "key_phrases": [
+        "Bolehkah anda membantu saya baiki tetapan ini?",
+        "Terima kasih banyak atas bantuan teknikal anda.",
+        "Minta maaf, saya tersalah tekan butang.",
+        "Boleh ulang balik langkah-langkah itu?",
+        "Faham, saya akan cuba ikut arahan itu.",
+        "Okay ke kalau saya install aplikasi ni?"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'Could you help me?' formally in Malay?",
+      "answer": "Bolehkah anda membantu saya?"
+    },
+    {
+      "question": "「非常感谢。」How do you say this casually in Malay?",
+      "answer": "Terima kasih banyak."
+    },
+    {
+      "question": "How do you say 'I am sorry.' casually in Malay?",
+      "answer": "Minta maaf."
+    },
+    {
+      "question": "「你能再说一遍吗？」 How do you ask this formally in Malay?",
+      "answer": "Bolehkah anda mengulanginya?"
+    },
+    {
+      "question": "How do you say 'I understand.' casually in Malay?",
+      "answer": "Faham."
+    },
+    {
+      "question": "「这样可以吗？」 How do you ask this casually in Malay?",
+      "answer": "Okay ke?"
+    }
+  ]
+}
