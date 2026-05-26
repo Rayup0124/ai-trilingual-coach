@@ -1,0 +1,115 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To innovate / To develop new things",
+      "expressions": {
+        "en": "To innovate / To develop something new",
+        "cn": "创新 / 开发新事物 (chuàngxīn / kāifā xīn shìwù)",
+        "bm_formal": "Menginovasi / Membangunkan sesuatu yang baharu",
+        "bm_casual": "Cipta benda baru / Buat inovasi"
+      }
+    },
+    {
+      "concept": "Digital transformation",
+      "expressions": {
+        "en": "Digital transformation",
+        "cn": "数字化转型 (shùzìhuà zhuǎnxíng)",
+        "bm_formal": "Transformasi digital",
+        "bm_casual": "Jadi digital / Tukar ke digital"
+      }
+    },
+    {
+      "concept": "To upgrade / To update",
+      "expressions": {
+        "en": "To upgrade / To update",
+        "cn": "升级 / 更新 (shēngjí / gēngxīn)",
+        "bm_formal": "Menaik taraf / Mengemas kini",
+        "bm_casual": "Upgrade / Update"
+      }
+    },
+    {
+      "concept": "Data analysis / Data insights",
+      "expressions": {
+        "en": "Data analysis / Data insights",
+        "cn": "数据分析 / 数据洞察 (shùjù fēnxī / shùjù dòngchá)",
+        "bm_formal": "Analisis data / Wawasan data",
+        "bm_casual": "Kaji data / Faham data"
+      }
+    },
+    {
+      "concept": "Sustainable development",
+      "expressions": {
+        "en": "Sustainable development",
+        "cn": "可持续发展 (kěchíxù fāzhǎn)",
+        "bm_formal": "Pembangunan lestari",
+        "bm_casual": "Pembangunan mampan"
+      }
+    },
+    {
+      "concept": "User-friendly / Easy to use",
+      "expressions": {
+        "en": "User-friendly / Easy to use",
+        "cn": "用户友好 / 易于使用 (yònghù yǒuhǎo / yì yú shǐyòng)",
+        "bm_formal": "Mesra pengguna / Mudah digunakan",
+        "bm_casual": "Senang guna / Senang pakai"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "During a project meeting, your manager says: 'In our next quarter, we need to focus on **developing a new online portal** to enhance customer experience. This is part of our broader **digital transformation** strategy. We also need to **upgrade our existing CRM system** based on the **data analysis** from last year's performance. Our goal is to ensure **sustainable development** for the company.'",
+      "key_phrases": [
+        "membangunkan portal baharu",
+        "transformasi digital",
+        "menaik taraf sistem CRM",
+        "analisis data",
+        "pembangunan lestari"
+      ]
+    },
+    "life": {
+      "scenario": "You're chatting with a friend about new gadgets and community initiatives: 'My new phone is great, I **upgraded** it last month and the interface is so **user-friendly**. I heard our local council is also looking into **sustainable development** projects for the neighbourhood, like better waste management.'",
+      "key_phrases": [
+        "upgrade telefon baru",
+        "senang guna",
+        "pembangunan mampan"
+      ]
+    },
+    "tech": {
+      "scenario": "At a tech startup's brainstorming session, the lead developer states: 'Our challenge is to **innovate** our core product to stay ahead. The market demands a seamless **digital transformation** experience, so we must ensure our new features are truly **user-friendly**. We'll rely on **data insights** to guide our future **development**.'",
+      "key_phrases": [
+        "menginovasi produk",
+        "transformasi digital",
+        "mesra pengguna",
+        "wawasan data",
+        "pembangunan"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'digital transformation' in formal Malay?",
+      "answer": "Transformasi digital"
+    },
+    {
+      "question": "我的新手机很容易用。 'Easy to use' 的马来文怎么说？ (Wǒ de xīn shǒujī hěn róngyòng. 'Easy to use' de Mǎláiwén zěnme shuō?)",
+      "answer": "Senang guna / Mesra pengguna"
+    },
+    {
+      "question": "What is the casual Malay term for 'to upgrade'?",
+      "answer": "Upgrade"
+    },
+    {
+      "question": "我们正在进行数据分析。 'Data analysis' 的正式马来文是什么？ (Wǒmen zhèngzài jìnxíng shùjù fēnxī. 'Data analysis' de zhèngshì Mǎláiwén shì shénme?)",
+      "answer": "Analisis data"
+    },
+    {
+      "question": "How would you say 'sustainable development' in formal Malay?",
+      "answer": "Pembangunan lestari"
+    },
+    {
+      "question": "Our team needs to innovate. What's a casual Malay way to say 'to innovate'?",
+      "answer": "Cipta benda baru / Buat inovasi"
+    }
+  ]
+}
