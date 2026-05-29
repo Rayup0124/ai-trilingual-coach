@@ -1,0 +1,114 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "Innovation / To innovate",
+      "expressions": {
+        "en": "Innovation / To innovate",
+        "cn": "创新 / 创新 (chuàngxīn)",
+        "bm_formal": "Inovasi / Berinovasi",
+        "bm_casual": "Idea baru / Cipta benda baru"
+      }
+    },
+    {
+      "concept": "Digital transformation",
+      "expressions": {
+        "en": "Digital transformation",
+        "cn": "数字化转型 (shùzìhuà zhuǎnxíng)",
+        "bm_formal": "Transformasi digital",
+        "bm_casual": "Tukar jadi digital / Digitalisasi"
+      }
+    },
+    {
+      "concept": "Online platform",
+      "expressions": {
+        "en": "Online platform",
+        "cn": "在线平台 (zàixiàn píngtái)",
+        "bm_formal": "Platform dalam talian",
+        "bm_casual": "Platform online / Aplikasi online"
+      }
+    },
+    {
+      "concept": "User-friendly",
+      "expressions": {
+        "en": "User-friendly",
+        "cn": "用户友好 (yònghù yǒuhǎo) / 方便使用 (fāngbiàn shǐyòng)",
+        "bm_formal": "Mesra pengguna",
+        "bm_casual": "Senang guna / Mudah guna"
+      }
+    },
+    {
+      "concept": "Data analysis",
+      "expressions": {
+        "en": "Data analysis",
+        "cn": "数据分析 (shùjù fēnxī)",
+        "bm_formal": "Analisis data",
+        "bm_casual": "Kaji data / Semak data"
+      }
+    },
+    {
+      "concept": "Sustainable development",
+      "expressions": {
+        "en": "Sustainable development",
+        "cn": "可持续发展 (kěchíxù fāzhǎn)",
+        "bm_formal": "Pembangunan lestari",
+        "bm_casual": "Pembangunan mampan / Pembangunan berterusan"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're in a team meeting discussing a new project to modernize company operations and introduce new features for customers.",
+      "key_phrases": [
+        "Kita perlu fokus pada **inovasi** untuk kekal relevan.",
+        "Projek ini adalah sebahagian daripada usaha **transformasi digital** syarikat.",
+        "Bagaimana kita boleh jadikan **platform dalam talian** kita lebih **mesra pengguna**?",
+        "Mari kita lakukan **analisis data** untuk faham keperluan pelanggan."
+      ]
+    },
+    "life": {
+      "scenario": "You're chatting with a friend about a new government service app and a community project in your neighbourhood.",
+      "key_phrases": [
+        "Aplikasi MyGovernment tu memang **senang guna** lah, tak payah beratur lagi.",
+        "Dorang dah buat **platform online** untuk daftar program komuniti.",
+        "Projek kebun bandar ni bagus untuk **pembangunan lestari** komuniti kita.",
+        "Harapnya lebih banyak servis akan **tukar jadi digital** nanti."
+      ]
+    },
+    "tech": {
+      "scenario": "You're a startup founder pitching your new app that helps small businesses track their inventory and sales efficiently.",
+      "key_phrases": [
+        "Aplikasi kami direka dengan **inovasi** terkini untuk streamline operasi.",
+        "Kami membantu PKS melalui **transformasi digital** mereka.",
+        "Antara kelebihan utama adalah antaramuka yang sangat **mesra pengguna**.",
+        "Dengan fungsi **analisis data** kami, perniagaan boleh buat keputusan lebih baik."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'innovation' (formal) in Malay? (创新)",
+      "answer": "Inovasi"
+    },
+    {
+      "question": "What is a casual Malay way to say 'user-friendly'? (用户友好)",
+      "answer": "Senang guna"
+    },
+    {
+      "question": "How do you say 'digital transformation' (formal) in Malay? (数字化转型)",
+      "answer": "Transformasi digital"
+    },
+    {
+      "question": "What is the formal Malay term for 'sustainable development'? (可持续发展)",
+      "answer": "Pembangunan lestari"
+    },
+    {
+      "question": "How would you casually refer to an 'online platform' in Malay? (在线平台)",
+      "answer": "Platform online"
+    },
+    {
+      "question": "What is the formal Malay term for 'data analysis'? (数据分析)",
+      "answer": "Analisis data"
+    }
+  ]
+}
