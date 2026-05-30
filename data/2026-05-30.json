@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Please confirm / Can you confirm?",
+      "expressions": {
+        "en": "Please confirm / Can you confirm?",
+        "cn": "请确认 / 你能确认一下吗？",
+        "bm_formal": "Sila sahkan / Bolehkah anda sahkan?",
+        "bm_casual": "Tolong confirm / Boleh tak confirm?"
+      }
+    },
+    {
+      "concept": "Please inform me / Let me know",
+      "expressions": {
+        "en": "Please inform me / Let me know",
+        "cn": "请告知我 / 告诉我",
+        "bm_formal": "Sila maklumkan saya / Sila beritahu saya",
+        "bm_casual": "Bagitau saya / Inform saya"
+      }
+    },
+    {
+      "concept": "I will get back to you / I will revert",
+      "expressions": {
+        "en": "I will get back to you / I will revert",
+        "cn": "我会回复你 / 我会再联系你",
+        "bm_formal": "Saya akan maklum balas / Saya akan kembali kepada anda",
+        "bm_casual": "Saya akan reply / Saya akan inform balik"
+      }
+    },
+    {
+      "concept": "Could you clarify? / Can you explain further?",
+      "expressions": {
+        "en": "Could you clarify? / Can you explain further?",
+        "cn": "你能澄清一下吗？ / 你能再解释一下吗？",
+        "bm_formal": "Boleh anda jelaskan lebih lanjut? / Boleh anda huraikan?",
+        "bm_casual": "Boleh tak explain lagi? / Boleh clarify sikit?"
+      }
+    },
+    {
+      "concept": "I understand / Got it",
+      "expressions": {
+        "en": "I understand / Got it",
+        "cn": "我明白了 / 懂了",
+        "bm_formal": "Saya faham / Saya mengerti",
+        "bm_casual": "Faham / Ok, faham / Dapat"
+      }
+    },
+    {
+      "concept": "I apologize for the inconvenience / Sorry for the trouble",
+      "expressions": {
+        "en": "I apologize for the inconvenience / Sorry for the trouble",
+        "cn": "我为造成的不便道歉 / 抱歉造成麻烦",
+        "bm_formal": "Saya memohon maaf atas kesulitan ini / Saya minta maaf atas kesulitan yang berlaku",
+        "bm_casual": "Sorry ye / Maaf ye / Sorry ganggu"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are in a team meeting discussing a new project timeline and roles. You need to ensure everyone is clear on their tasks and the deadline.",
+      "key_phrases": [
+        "Sila sahkan tarikh akhir penyerahan tugas anda.",
+        "Saya akan maklum balas mengenai bajet esok.",
+        "Boleh anda jelaskan lebih lanjut mengenai peranan setiap ahli pasukan?"
+      ]
+    },
+    "life": {
+      "scenario": "You are coordinating a weekend hiking trip with a group of friends. You need to confirm attendance, share details, and apologize for any last-minute changes.",
+      "key_phrases": [
+        "Boleh tak confirm siapa yang nak pergi hiking?",
+        "Bagitau saya kalau ada sesiapa yang tak dapat datang.",
+        "Sorry ye, kita terpaksa anjak masa sikit."
+      ]
+    },
+    "tech": {
+      "scenario": "You are troubleshooting a software issue with a technical support agent over the phone or chat. You need to understand their instructions and confirm steps.",
+      "key_phrases": [
+        "Boleh anda jelaskan lebih lanjut langkah-langkah ini?",
+        "Faham, saya akan cuba ikut arahan ini.",
+        "Sila sahkan bahawa masalah telah diselesaikan."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask 'Please confirm the meeting time' in Malay?",
+      "answer": "Sila sahkan masa mesyuarat."
+    },
+    {
+      "question": "What's a casual way to say 'Let me know when you're free' in Malay?",
+      "answer": "Bagitau saya bila free."
+    },
+    {
+      "question": "你会怎样礼貌地回复 'I will get back to you by end of day' (formal)?",
+      "answer": "Saya akan maklum balas sebelum akhir hari ini."
+    },
+    {
+      "question": "How to casually ask 'Can you explain this process again?'",
+      "answer": "Boleh tak explain process ni lagi?"
+    },
+    {
+      "question": "What's the formal Malay for 'I understand your concern'?",
+      "answer": "Saya faham kebimbangan anda."
+    },
+    {
+      "question": "你会怎样表达 'Sorry for disturbing you' (casual)?",
+      "answer": "Sorry ye ganggu."
+    }
+  ]
+}
