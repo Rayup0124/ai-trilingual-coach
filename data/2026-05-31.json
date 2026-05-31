@@ -1,0 +1,112 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for repetition",
+      "expressions": {
+        "en": "Could you repeat that?",
+        "cn": "你可以再说一遍吗？ (Nǐ kěyǐ zài shuō yī biàn ma?)",
+        "bm_formal": "Boleh anda ulang sekali lagi?",
+        "bm_casual": "Boleh ulang balik?"
+      }
+    },
+    {
+      "concept": "Expressing understanding",
+      "expressions": {
+        "en": "I understand.",
+        "cn": "我明白了。(Wǒ míngbái le.)",
+        "bm_formal": "Saya faham.",
+        "bm_casual": "Faham."
+      }
+    },
+    {
+      "concept": "Asking for help",
+      "expressions": {
+        "en": "Can you help me?",
+        "cn": "你能帮我吗？ (Nǐ néng bāng wǒ ma?)",
+        "bm_formal": "Bolehkah anda bantu saya?",
+        "bm_casual": "Boleh tolong?"
+      }
+    },
+    {
+      "concept": "Expressing agreement",
+      "expressions": {
+        "en": "That's right. / I agree.",
+        "cn": "没错。/ 我同意。(Méi cuò. / Wǒ tóngyì.)",
+        "bm_formal": "Betul. / Saya setuju.",
+        "bm_casual": "Betul tu. / Setuju."
+      }
+    },
+    {
+      "concept": "Asking for permission (to use/borrow)",
+      "expressions": {
+        "en": "May I use this?",
+        "cn": "我可以用这个吗？ (Wǒ kěyǐ yòng zhège ma?)",
+        "bm_formal": "Bolehkah saya menggunakan ini?",
+        "bm_casual": "Boleh saya pakai ini?"
+      }
+    },
+    {
+      "concept": "Apology / Excuse me",
+      "expressions": {
+        "en": "Excuse me. / Sorry.",
+        "cn": "不好意思。/ 抱歉。(Bù hǎoyìsi. / Bàoqiàn.)",
+        "bm_formal": "Maafkan saya.",
+        "bm_casual": "Maaf."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "During a team meeting, your manager is explaining a new project workflow. You missed a crucial detail about the deadline. Later, a colleague proposes a solution for a technical issue, and you fully grasp it and agree.",
+      "key_phrases": [
+        "Manager: \"so the deadline is next Friday.\"",
+        "You: \"Maafkan saya, **boleh anda ulang sekali lagi** tentang tarikh akhir itu?\"",
+        "Colleague: \"so we should use the cloud backup for this project.\"",
+        "You: \"**Saya faham**. Itu cadangan yang bagus. **Saya setuju**.\""
+      ]
+    },
+    "life": {
+      "scenario": "You are at a local market (pasar) and want to ask the vendor about a specific fruit, but you're not sure how to phrase it. You also accidentally bump into someone while navigating the crowded aisle.",
+      "key_phrases": [
+        "You (to vendor): \"Kak, **boleh tolong**? Buah ini manis tak?\"",
+        "You (after bumping into someone): \"Eh, **maaf**! Tak sengaja.\""
+      ]
+    },
+    "tech": {
+      "scenario": "You're collaborating on a shared document with a remote team member. They ask if they can apply a new formatting style. You need to clarify a technical term they used, and then express your agreement on updating a software component.",
+      "key_phrases": [
+        "Team Member: \"Hey, **boleh saya pakai ini** (new formatting style) untuk laporan kita?\"",
+        "You: \"Hmm, 'blockchain-enabled smart contracts'? **Boleh ulang balik** maksudnya?\"",
+        "Team Member: \"We should update the software next week.\"",
+        "You: \"**Betul tu**, kita memang perlu kemas kini.\""
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask someone to repeat something in Malay?",
+      "answer": "Boleh anda ulang sekali lagi?"
+    },
+    {
+      "question": "How do you casually say 'I understand' in Malay? (我明白了。)",
+      "answer": "Faham."
+    },
+    {
+      "question": "What's the formal way to ask for help in Malay? (你能帮我吗？)",
+      "answer": "Bolehkah anda bantu saya?"
+    },
+    {
+      "question": "How do you casually express agreement in Malay? (没错。)",
+      "answer": "Betul tu."
+    },
+    {
+      "question": "What's the casual way to ask for permission to use something? (我可以用这个吗？)",
+      "answer": "Boleh saya pakai ini?"
+    },
+    {
+      "question": "How do you formally apologize or say 'excuse me' in Malay? (不好意思。)",
+      "answer": "Maafkan saya."
+    }
+  ]
+}
