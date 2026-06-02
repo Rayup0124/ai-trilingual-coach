@@ -1,0 +1,111 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To innovate / develop something new",
+      "expressions": {
+        "en": "To innovate / To develop something new",
+        "cn": "创新 / 开发新事物 (chuàngxīn / kāifā xīn shìwù)",
+        "bm_formal": "Menginovasi / Membangunkan sesuatu yang baharu",
+        "bm_casual": "Cipta benda baru / Buat benda baru"
+      }
+    },
+    {
+      "concept": "Digital transformation",
+      "expressions": {
+        "en": "Digital transformation",
+        "cn": "数字化转型 (shùzìhuà zhuǎnxíng)",
+        "bm_formal": "Transformasi digital",
+        "bm_casual": "Tukar ke digital / Pindah ke digital"
+      }
+    },
+    {
+      "concept": "User-friendly",
+      "expressions": {
+        "en": "User-friendly",
+        "cn": "用户友好 (yònghù yǒuhǎo)",
+        "bm_formal": "Mesra pengguna",
+        "bm_casual": "Senang guna / Mudah guna"
+      }
+    },
+    {
+      "concept": "Online platform / system",
+      "expressions": {
+        "en": "Online platform / system",
+        "cn": "线上平台 / 系统 (xiànshàng píngtái / xìtǒng)",
+        "bm_formal": "Platform / Sistem dalam talian",
+        "bm_casual": "Platform online / Sistem online"
+      }
+    },
+    {
+      "concept": "To troubleshoot / fix a problem",
+      "expressions": {
+        "en": "To troubleshoot / fix a problem",
+        "cn": "排除故障 / 解决问题 (páichú gùzhàng / jiějué wèntí)",
+        "bm_formal": "Menyelesaikan masalah / Membaiki kerosakan",
+        "bm_casual": "Betulkan masalah / Selesaikan masalah"
+      }
+    },
+    {
+      "concept": "Data security",
+      "expressions": {
+        "en": "Data security",
+        "cn": "数据安全 (shùjù ānquán)",
+        "bm_formal": "Keselamatan data",
+        "bm_casual": "Data selamat / Jaga data"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are in a team meeting discussing the launch of a new HR digital platform for the company.",
+      "key_phrases": [
+        "Kita perlu pastikan transformasi digital ini berjalan lancar.",
+        "Platform dalam talian ini mesti mesra pengguna.",
+        "Pasukan kita sedang membangunkan sesuatu yang baharu untuk modul cuti."
+      ]
+    },
+    "life": {
+      "scenario": "You are helping your elderly relative set up a new smart home device or a new mobile application.",
+      "key_phrases": [
+        "Alat ni senang guna saja, jangan risau.",
+        "Kalau ada masalah nanti, saya tolong betulkan masalah tu.",
+        "Banyak urusan sekarang boleh buat melalui platform online."
+      ]
+    },
+    "tech": {
+      "scenario": "You are a developer discussing improvements for an existing software system with your team.",
+      "key_phrases": [
+        "Bagaimana kita boleh menginovasi fungsi sedia ada?",
+        "Aspek keselamatan data adalah keutamaan kita.",
+        "Kami sedang mencari cara terbaik untuk menyelesaikan masalah 'bug' dalam sistem ini."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'digital transformation' (formal)?",
+      "answer": "Transformasi digital"
+    },
+    {
+      "question": "How do you say 'user-friendly' (casual)?",
+      "answer": "Senang guna"
+    },
+    {
+      "question": "How do you say 'to troubleshoot a problem' (formal)?",
+      "answer": "Menyelesaikan masalah"
+    },
+    {
+      "question": "How do you say 'online platform' (casual)?",
+      "answer": "Platform online"
+    },
+    {
+      "question": "How do you say 'data security' (formal)?",
+      "answer": "Keselamatan data"
+    },
+    {
+      "question": "How do you say 'to innovate something new' (casual)?",
+      "answer": "Cipta benda baru"
+    }
+  ]
+}
