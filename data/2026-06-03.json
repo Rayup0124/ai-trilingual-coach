@@ -1,0 +1,107 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Making a Request",
+      "expressions": {
+        "en": "Could you please?",
+        "cn": "您可以请吗？",
+        "bm_formal": "Boleh tolong?",
+        "bm_casual": "Boleh tak?"
+      }
+    },
+    {
+      "concept": "Acknowledging Understanding",
+      "expressions": {
+        "en": "I understand. / Got it.",
+        "cn": "我明白了。 / 懂了。",
+        "bm_formal": "Saya faham. / Saya mengerti.",
+        "bm_casual": "Faham. / Dapat."
+      }
+    },
+    {
+      "concept": "Promising to Check/Verify",
+      "expressions": {
+        "en": "Let me check. / I'll check.",
+        "cn": "让我查一下。 / 我会去查。",
+        "bm_formal": "Biar saya semak dahulu. / Saya akan menyemaknya.",
+        "bm_casual": "Nanti saya check. / Saya check dulu."
+      }
+    },
+    {
+      "concept": "Apologizing for Delay",
+      "expressions": {
+        "en": "Sorry for the delay. / My apologies.",
+        "cn": "抱歉耽搁了。 / 迟了很抱歉。",
+        "bm_formal": "Maaf atas kelewatan ini. / Saya memohon maaf atas kelewatan.",
+        "bm_casual": "Sorry lambat. / Maaf lambat."
+      }
+    },
+    {
+      "concept": "Promising a Follow-up/Update",
+      "expressions": {
+        "en": "I'll get back to you. / Will update you.",
+        "cn": "我会回复您。 / 我会更新您。",
+        "bm_formal": "Saya akan maklumkan semula kepada anda. / Saya akan mengemas kini anda.",
+        "bm_casual": "Nanti saya update. / Saya reply balik."
+      }
+    },
+    {
+      "concept": "Asking for Opinion/Feedback",
+      "expressions": {
+        "en": "What's your opinion? / What do you think?",
+        "cn": "您有什么看法？ / 你觉得怎么样？",
+        "bm_formal": "Apakah pandangan anda? / Apa pendapat anda?",
+        "bm_casual": "Kau rasa macam mana? / Apa pendapat kau?"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're collaborating with a colleague on a project deadline. You need to request their input, confirm you understand a task, and promise to update them on your progress.",
+      "key_phrases": [
+        "Boleh tolong semak draf laporan ini?",
+        "Saya faham, jadi saya perlu siapkan bahagian ini dahulu.",
+        "Saya akan maklumkan semula kepada anda esok pagi."
+      ]
+    },
+    "life": {
+      "scenario": "You're planning a weekend outing with friends or family. You need to apologize for a late response, confirm details, and ask for their preference on an activity.",
+      "key_phrases": [
+        "Sorry lambat reply, baru habis kerja.",
+        "Dapat! Jadi kita jumpa pukul 10 pagi di sana?",
+        "Kau rasa macam mana kalau kita pergi hiking?"
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a software issue with a tech support agent or a tech-savvy friend. You need to ask them to check something, confirm you've understood their instructions, and state you'll check something on your end.",
+      "key_phrases": [
+        "Boleh tak check log server untuk ralat tu?",
+        "Saya faham langkah-langkah yang perlu saya ikut.",
+        "Nanti saya check setting firewall di komputer saya."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally say 'I understand' in Malay?",
+      "answer": "Saya faham."
+    },
+    {
+      "question": "If you want to casually ask 'Can you help me?' in Malay, you would say:",
+      "answer": "Boleh tak tolong saya?"
+    },
+    {
+      "question": "抱歉耽搁了 (Sorry for the delay) in casual Malay is:",
+      "answer": "Sorry lambat."
+    },
+    {
+      "question": "How do you formally promise to update someone in Malay?",
+      "answer": "Saya akan maklumkan semula kepada anda."
+    },
+    {
+      "question": "让我查一下 (Let me check) in casual Malay is:",
+      "answer": "Nanti saya check."
+    }
+  ]
+}
