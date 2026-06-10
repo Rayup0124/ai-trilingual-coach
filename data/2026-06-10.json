@@ -1,0 +1,126 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for assistance",
+      "expressions": {
+        "en": "Could you help me? / May I get some assistance?",
+        "cn": "可以帮我一下吗？",
+        "bm_formal": "Bolehkah anda membantu saya? / Bolehkah saya mendapatkan bantuan?",
+        "bm_casual": "Boleh tolong tak? / Boleh bantu tak?"
+      }
+    },
+    {
+      "concept": "Expressing understanding",
+      "expressions": {
+        "en": "I understand. / Got it.",
+        "cn": "我明白了。 / 知道了。",
+        "bm_formal": "Saya faham. / Saya mengerti.",
+        "bm_casual": "Faham. / Okey, faham."
+      }
+    },
+    {
+      "concept": "Asking for clarification/repetition",
+      "expressions": {
+        "en": "Could you explain again? / What did you say?",
+        "cn": "可以再解释一遍吗？ / 你说什么？",
+        "bm_formal": "Bolehkah anda terangkan semula? / Sila ulangi.",
+        "bm_casual": "Boleh ulang balik? / Apa dia?"
+      }
+    },
+    {
+      "concept": "Expressing gratitude",
+      "expressions": {
+        "en": "Thank you very much. / I appreciate it.",
+        "cn": "非常感谢。",
+        "bm_formal": "Terima kasih banyak-banyak. / Saya amat menghargai.",
+        "bm_casual": "Terima kasih. / TQ."
+      }
+    },
+    {
+      "concept": "Asking about availability/free time",
+      "expressions": {
+        "en": "When are you free? / When are you available?",
+        "cn": "你什么时候有空？",
+        "bm_formal": "Bilakah anda lapang? / Bilakah anda tersedia?",
+        "bm_casual": "Bila free? / Bila senang?"
+      }
+    },
+    {
+      "concept": "Suggesting an action/plan",
+      "expressions": {
+        "en": "Let's do this. / How about we?",
+        "cn": "我们这样做吧。 / 不如我们？",
+        "bm_formal": "Bagaimana jika kita? / Cadangan saya adalah",
+        "bm_casual": "Jom kita? / Apa kata?"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're working on a project with a colleague. You need help with a specific task, want to confirm understanding of instructions, and schedule a follow-up meeting.",
+      "key_phrases": [
+        "Bolehkah anda membantu saya dengan laporan ini?",
+        "Saya faham arahan yang diberikan.",
+        "Bilakah anda lapang untuk bincang lebih lanjut?",
+        "Terima kasih banyak-banyak atas bantuan anda.",
+        "Bagaimana jika kita mulakan dengan bahagian ini dahulu?"
+      ]
+    },
+    "life": {
+      "scenario": "You're planning a weekend outing with friends. You're asking for directions, confirming details, and suggesting activities.",
+      "key_phrases": [
+        "Boleh tolong tak tunjukkan jalan ke sana?",
+        "Faham, jadi kita jumpa pukul 2 petang.",
+        "Apa dia? Saya tak dengar jelas.",
+        "Terima kasih sebab sudi datang.",
+        "Bila free hujung minggu ni? Jom kita pergi.",
+        "Apa kata kita cuba restoran baru tu?"
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a software issue with customer support. You need to explain the problem, confirm steps, and appreciate their help.",
+      "key_phrases": [
+        "Boleh bantu tak dengan masalah perisian ini?",
+        "Saya mengerti langkah-langkah yang perlu saya ikut.",
+        "Bolehkah anda terangkan semula bahagian 'restart router'?",
+        "Terima kasih banyak atas sokongan teknikal anda.",
+        "Jom kita cuba langkah penyelesaian yang anda berikan."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How would you formally ask a senior colleague for assistance?",
+      "answer": "Bolehkah anda membantu saya?"
+    },
+    {
+      "question": "Your friend just explained something to you. How do you casually say 'Got it'?",
+      "answer": "Faham."
+    },
+    {
+      "question": "When someone says something you didn't quite catch in a casual conversation, how do you ask 'What did you say?' (CN: 你说什么？)",
+      "answer": "Apa dia?"
+    },
+    {
+      "question": "You received excellent service at a government office. How do you formally express 'Thank you very much'?",
+      "answer": "Terima kasih banyak-banyak."
+    },
+    {
+      "question": "You want to know when your friend is available to hang out. How do you casually ask 'When are you free?' (CN: 你什么时候有空？)",
+      "answer": "Bila free?"
+    },
+    {
+      "question": "You are leading a team discussion and want to propose a new idea. How do you formally suggest 'How about we?'",
+      "answer": "Bagaimana jika kita?"
+    },
+    {
+      "question": "A stranger helps you pick up your dropped groceries. How do you casually thank them?",
+      "answer": "Terima kasih."
+    },
+    {
+      "question": "You're learning a new process at work and need more details. How do you politely ask for a formal explanation again?",
+      "answer": "Bolehkah anda terangkan semula?"
+    }
+  ]
+}
