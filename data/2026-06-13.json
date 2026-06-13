@@ -1,0 +1,112 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for help",
+      "expressions": {
+        "en": "Can you help me?",
+        "cn": "你可以帮我吗？ (Nǐ kěyǐ bāng wǒ ma?)",
+        "bm_formal": "Boleh tolong saya?",
+        "bm_casual": "Tolong sikit?"
+      }
+    },
+    {
+      "concept": "Expressing understanding / agreement",
+      "expressions": {
+        "en": "I understand / Got it",
+        "cn": "我明白了 / 知道了 (Wǒ míngbái le / Zhīdào le)",
+        "bm_formal": "Saya faham.",
+        "bm_casual": "Faham. / Ngam."
+      }
+    },
+    {
+      "concept": "Asking for repetition / clarification",
+      "expressions": {
+        "en": "Can you repeat that? / Pardon?",
+        "cn": "你可以再说一遍吗？ (Nǐ kěyǐ zài shuō yī biàn ma?)",
+        "bm_formal": "Boleh anda ulang semula?",
+        "bm_casual": "Boleh ulang balik?"
+      }
+    },
+    {
+      "concept": "Expressing gratitude",
+      "expressions": {
+        "en": "Thank you",
+        "cn": "谢谢你 (Xièxiè nǐ)",
+        "bm_formal": "Terima kasih.",
+        "bm_casual": "Mekasih."
+      }
+    },
+    {
+      "concept": "Apologizing / Excuse me",
+      "expressions": {
+        "en": "Excuse me / Sorry",
+        "cn": "不好意思 / 对不起 (Bù hǎoyìsi / Duìbùqǐ)",
+        "bm_formal": "Maafkan saya.",
+        "bm_casual": "Maaf. / Sorry."
+      }
+    },
+    {
+      "concept": "Asking someone to wait",
+      "expressions": {
+        "en": "Wait a moment / Just a second",
+        "cn": "等一下 (Děng yīxià)",
+        "bm_formal": "Sila tunggu sebentar.",
+        "bm_casual": "Kejap."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're at the office, needing assistance with a document, confirming instructions from your manager, and apologizing for a minor delay.",
+      "key_phrases": [
+        "Boleh tolong saya semak draf laporan ini?",
+        "Saya faham arahan untuk mesyuarat esok.",
+        "Maafkan saya atas kelewatan menghantar e-mel."
+      ]
+    },
+    "life": {
+      "scenario": "You're at a kopitiam, ordering food, asking the waiter to confirm your order, and thanking them.",
+      "key_phrases": [
+        "Boleh tolong saya ambilkan sos cili?",
+        "Faham, kopi 'o' satu, roti bakar dua.",
+        "Boleh ulang balik order saya tadi?",
+        "Mekasih, bang!"
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a Wi-Fi connection with a friend, asking them to wait while you check something, and confirming a setting change.",
+      "key_phrases": [
+        "Kejap, saya cuba restart router.",
+        "Ngam, setting IP address ni dah betul.",
+        "Boleh tolong saya tengok kabel ni?"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'Can you help me?' in formal Malay?",
+      "answer": "Boleh tolong saya?"
+    },
+    {
+      "question": "How do you say 'I understand' in casual Malay?",
+      "answer": "Faham. / Ngam."
+    },
+    {
+      "question": "你可以再说一遍吗？ (Can you repeat that?) in formal Malay.",
+      "answer": "Boleh anda ulang semula?"
+    },
+    {
+      "question": "How do you express 'Thank you' in casual Malay?",
+      "answer": "Mekasih."
+    },
+    {
+      "question": "How do you say 'Excuse me / Sorry' in formal Malay?",
+      "answer": "Maafkan saya."
+    },
+    {
+      "question": "等一下 (Wait a moment) in casual Malay.",
+      "answer": "Kejap."
+    }
+  ]
+}
