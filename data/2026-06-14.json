@@ -1,0 +1,111 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "Staying updated with technology",
+      "expressions": {
+        "en": "to keep up with the latest technology",
+        "cn": "跟上最新科技 (gēn shàng zuìxīn kējì)",
+        "bm_formal": "mengikuti perkembangan teknologi terkini",
+        "bm_casual": "ikut teknologi baru / up-to-date dengan teknologi"
+      }
+    },
+    {
+      "concept": "Digital transformation / Digitalization",
+      "expressions": {
+        "en": "to digitalize / digital transformation",
+        "cn": "数字化转型 (shùzìhuà zhuǎnxíng)",
+        "bm_formal": "mendigitalkan / transformasi digital",
+        "bm_casual": "buat digital / jadi digital / transformasi digital"
+      }
+    },
+    {
+      "concept": "Troubleshooting / Finding a solution",
+      "expressions": {
+        "en": "to troubleshoot / find a solution",
+        "cn": "解决问题 / 排除故障 (jiějué wèntí / páichú gùzhàng)",
+        "bm_formal": "menyelesaikan masalah / mencari jalan penyelesaian",
+        "bm_casual": "setelkan masalah / cari solution"
+      }
+    },
+    {
+      "concept": "User-friendly / Easy to use",
+      "expressions": {
+        "en": "user-friendly / easy to use",
+        "cn": "用户友好 / 易于使用 (yònghù yǒuhǎo / yì yú shǐyòng)",
+        "bm_formal": "mesra pengguna / mudah digunakan",
+        "bm_casual": "senang guna / friendly"
+      }
+    },
+    {
+      "concept": "Online platform / Application",
+      "expressions": {
+        "en": "online platform / application",
+        "cn": "线上平台 / 应用程序 (xiànshàng píngtái / yìngyòng chéngxù)",
+        "bm_formal": "platform dalam talian / aplikasi",
+        "bm_casual": "platform online / apps"
+      }
+    },
+    {
+      "concept": "Data security / Protecting information",
+      "expressions": {
+        "en": "data security / protecting information",
+        "cn": "数据安全 / 保护信息 (shùjù ānquán / bǎohù xìnxī)",
+        "bm_formal": "keselamatan data / melindungi maklumat",
+        "bm_casual": "data secure / jaga data"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Your team is discussing the adoption of a new project management software to improve workflow efficiency.",
+      "key_phrases": [
+        "Kita perlu **mengikuti perkembangan teknologi terkini** untuk kekal berdaya saing.",
+        "Proses **transformasi digital** ini akan membantu kita **mendigitalkan** semua dokumen.",
+        "Perisian baru ini sepatutnya **mesra pengguna** dan **mudah digunakan** oleh semua orang."
+      ]
+    },
+    "life": {
+      "scenario": "You are helping your elderly aunt set up her new smartphone and teaching her how to use a banking app.",
+      "key_phrases": [
+        "Mak Cik, penting untuk kita **up-to-date dengan teknologi** sekarang ni.",
+        "Aplikasi bank ni **senang guna**, jangan risau.",
+        "Pastikan **data secure** masa guna **platform online** ni, jangan bagi sesiapa password."
+      ]
+    },
+    "tech": {
+      "scenario": "A team of developers is brainstorming improvements for their mobile application, focusing on user experience and backend stability.",
+      "key_phrases": [
+        "Kita kena **cari solution** untuk bug ni, supaya app kita lebih stabil.",
+        "Fungsi baru ni mesti **mesra pengguna** supaya lebih ramai akan guna **aplikasi** kita.",
+        "Bagaimana kita nak pastikan **keselamatan data** pengguna di **platform dalam talian** kita?"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'to keep up with the latest technology' (formal) in Malay?",
+      "answer": "mengikuti perkembangan teknologi terkini"
+    },
+    {
+      "question": "Translate '数字化转型' (digital transformation) into casual Malay.",
+      "answer": "buat digital / jadi digital"
+    },
+    {
+      "question": "What is the formal Malay for 'to troubleshoot / find a solution'?",
+      "answer": "menyelesaikan masalah / mencari jalan penyelesaian"
+    },
+    {
+      "question": "How would you casually say 'user-friendly' in Malay?",
+      "answer": "senang guna / friendly"
+    },
+    {
+      "question": "What is the formal Malay term for 'online platform'?",
+      "answer": "platform dalam talian"
+    },
+    {
+      "question": "Translate '数据安全' (data security) into casual Malay.",
+      "answer": "data secure / jaga data"
+    }
+  ]
+}
