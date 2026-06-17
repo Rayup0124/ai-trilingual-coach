@@ -1,0 +1,122 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To innovate / To develop (something new)",
+      "expressions": {
+        "en": "To innovate / To develop (something new)",
+        "cn": "创新 / 开发 (新事物) (Chuàngxīn / Kāifā (xīn shìwù))",
+        "bm_formal": "Menginovasi / Membangunkan (sesuatu yang baharu)",
+        "bm_casual": "Cipta benda baru / Buat benda baru"
+      }
+    },
+    {
+      "concept": "To upgrade / To update (software/system)",
+      "expressions": {
+        "en": "To upgrade / To update (software/system)",
+        "cn": "升级 / 更新 (软件/系统) (Shēngjí / Gēngxīn (ruǎnjiàn/xìtǒng))",
+        "bm_formal": "Meningkatkan / Mengemaskini (perisian/sistem)",
+        "bm_casual": "Update software / Upgrade sistem"
+      }
+    },
+    {
+      "concept": "Digital transformation",
+      "expressions": {
+        "en": "Digital transformation",
+        "cn": "数字化转型 (Shùzìhuà zhuǎnxíng)",
+        "bm_formal": "Transformasi digital",
+        "bm_casual": "Digitalisasi / Proses digital"
+      }
+    },
+    {
+      "concept": "Online platform / system",
+      "expressions": {
+        "en": "Online platform / system",
+        "cn": "在线平台 / 系统 (Zàixiàn píngtái / Xìtǒng)",
+        "bm_formal": "Platform dalam talian / Sistem dalam talian",
+        "bm_casual": "Online platform / Sistem online"
+      }
+    },
+    {
+      "concept": "Data analysis / analytics",
+      "expressions": {
+        "en": "Data analysis / analytics",
+        "cn": "数据分析 (Shùjù fēnxī)",
+        "bm_formal": "Analisis data / Analitik data",
+        "bm_casual": "Analisa data / Check data"
+      }
+    },
+    {
+      "concept": "User experience (UX)",
+      "expressions": {
+        "en": "User experience (UX)",
+        "cn": "用户体验 (Yònghù tǐyàn)",
+        "bm_formal": "Pengalaman pengguna",
+        "bm_casual": "UX / Pengalaman user"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're in a team meeting discussing a new project to modernize company operations.",
+      "key_phrases": [
+        "Kita perlu **membangunkan** satu sistem baharu untuk operasi gudang kita.",
+        "Projek ini adalah sebahagian daripada inisiatif **transformasi digital** syarikat.",
+        "Pastikan kita juga **mengemaskini** perisian sedia ada untuk keserasian.",
+        "Fokus utama adalah untuk memastikan **pengalaman pengguna** yang lancar bagi staf."
+      ]
+    },
+    "life": {
+      "scenario": "You're chatting with a friend about new technologies and how they affect daily life.",
+      "key_phrases": [
+        "Sekarang ni semua benda dah guna **platform dalam talian**, senang betul.",
+        "Saya selalu kena **update apps** saya untuk dapat fungsi baru.",
+        "Mereka selalu **check data** untuk tahu apa yang pengguna suka dekat aplikasi tu.",
+        "Website baru ni ada **pengalaman user** yang lebih baik dari yang lama."
+      ]
+    },
+    "tech": {
+      "scenario": "You're a developer discussing the next steps for a software product with your team.",
+      "key_phrases": [
+        "Bagaimana kita boleh **menginovasi** fitur ini untuk menjadikannya lebih unik?",
+        "Kita perlu **meningkatkan sistem** kita untuk menampung lebih ramai pengguna.",
+        "Seterusnya, kita akan buat **analisis data** untuk fasa beta.",
+        "Kejayaan produk ini bergantung pada **pengalaman pengguna** yang tiada tandingan."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'To develop (something new)' in formal Malay?",
+      "answer": "Membangunkan (sesuatu yang baharu)"
+    },
+    {
+      "question": "What's the casual Malay term for 'To update software'?",
+      "answer": "Update software"
+    },
+    {
+      "question": "Translate 'Digital transformation' into formal Malay.",
+      "answer": "Transformasi digital"
+    },
+    {
+      "question": "How would you casually refer to an 'online platform'?",
+      "answer": "Online platform / Sistem online"
+    },
+    {
+      "question": "What is 'Data analysis' in formal Malay?",
+      "answer": "Analisis data"
+    },
+    {
+      "question": "How do you express 'User experience' casually?",
+      "answer": "UX / Pengalaman user"
+    },
+    {
+      "question": "Translate 'We need to innovate our workflow' (formal).",
+      "answer": "Kita perlu menginovasi aliran kerja kita."
+    },
+    {
+      "question": "Translate 'Please upgrade the system' (casual).",
+      "answer": "Tolong upgrade sistem tu."
+    }
+  ]
+}
