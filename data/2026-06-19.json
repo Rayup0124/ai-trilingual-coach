@@ -1,0 +1,112 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for assistance",
+      "expressions": {
+        "en": "Can you help me?",
+        "cn": "你能帮我吗？",
+        "bm_formal": "Boleh anda bantu saya?",
+        "bm_casual": "Boleh tolong saya?"
+      }
+    },
+    {
+      "concept": "Expressing understanding",
+      "expressions": {
+        "en": "I understand / Got it.",
+        "cn": "我明白了。",
+        "bm_formal": "Saya faham.",
+        "bm_casual": "Faham. / Dapat."
+      }
+    },
+    {
+      "concept": "Apologizing",
+      "expressions": {
+        "en": "I'm sorry.",
+        "cn": "对不起。",
+        "bm_formal": "Saya minta maaf.",
+        "bm_casual": "Maaf."
+      }
+    },
+    {
+      "concept": "Asking for permission/requesting politely",
+      "expressions": {
+        "en": "May I? / Can I please?",
+        "cn": "我可以吗？",
+        "bm_formal": "Boleh saya?",
+        "bm_casual": "Boleh tak saya? / Boleh ke saya?"
+      }
+    },
+    {
+      "concept": "Confirming availability/time",
+      "expressions": {
+        "en": "Are you free? / Do you have time?",
+        "cn": "你有空吗？",
+        "bm_formal": "Adakah anda lapang? / Adakah anda ada masa?",
+        "bm_casual": "Free tak? / Ada masa tak?"
+      }
+    },
+    {
+      "concept": "Asking for repetition/clarification",
+      "expressions": {
+        "en": "Can you repeat that? / Could you explain again?",
+        "cn": "你能再说一遍吗？",
+        "bm_formal": "Boleh anda ulang semula? / Boleh anda terangkan lagi?",
+        "bm_casual": "Boleh ulang balik? / Boleh explain balik?"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're a new intern at a Malaysian company. You need help with a task, confirm you understand instructions from your supervisor, and subtly ask if they have time for a quick chat.",
+      "key_phrases": [
+        "Boleh anda bantu saya?",
+        "Saya faham.",
+        "Boleh saya tanya?",
+        "Adakah anda ada masa?"
+      ]
+    },
+    "life": {
+      "scenario": "You're out with friends or family at a mamak stall in Malaysia. You accidentally spill a drink and apologize, then ask a friend if they are free to go shopping later, and finally ask for their help to pass the tissue.",
+      "key_phrases": [
+        "Maaf.",
+        "Free tak?",
+        "Boleh tolong saya?"
+      ]
+    },
+    "tech": {
+      "scenario": "You're trying to set up a new smart home device and are on a call with technical support. You confirm you understand their initial steps, then ask them to repeat a complex instruction, and finally, ask if you can restart your router.",
+      "key_phrases": [
+        "Dapat.",
+        "Boleh ulang balik?",
+        "Boleh tak saya restart router?"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask 'Can you help me?' in Malay?",
+      "answer": "Boleh anda bantu saya?"
+    },
+    {
+      "question": "How do you casually say 'I understand' or 'Got it' in Malay?",
+      "answer": "Faham. / Dapat."
+    },
+    {
+      "question": "How do you say 'I'm sorry' in a casual Malay context?",
+      "answer": "Maaf."
+    },
+    {
+      "question": "你想问 '你有空吗？' (Are you free?) - How to ask this casually in Malay?",
+      "answer": "Free tak? / Ada masa tak?"
+    },
+    {
+      "question": "How do you formally ask 'May I use this?' in Malay?",
+      "answer": "Boleh saya gunakan ini?"
+    },
+    {
+      "question": "你想问 '你能再说一遍吗？' (Can you repeat that?) - How to ask this casually in Malay?",
+      "answer": "Boleh ulang balik?"
+    }
+  ]
+}
