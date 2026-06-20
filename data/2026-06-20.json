@@ -1,0 +1,111 @@
+{
+  "theme": "Teknologi & Pembangunan (Technology & Development)",
+  "vocabulary_focus": [
+    {
+      "concept": "To update (software/information)",
+      "expressions": {
+        "en": "To update",
+        "cn": "更新 (gēngxīn)",
+        "bm_formal": "Mengemaskini",
+        "bm_casual": "Update / Kemaskini"
+      }
+    },
+    {
+      "concept": "To develop (a system/project)",
+      "expressions": {
+        "en": "To develop / To build (a system/project)",
+        "cn": "开发 (kāifā)",
+        "bm_formal": "Membangunkan",
+        "bm_casual": "Develop / Buat"
+      }
+    },
+    {
+      "concept": "Digital transformation",
+      "expressions": {
+        "en": "Digital transformation",
+        "cn": "数字化转型 (shùzìhuà zhuǎnxíng)",
+        "bm_formal": "Transformasi digital",
+        "bm_casual": "Transformasi digital / Tukar ke digital"
+      }
+    },
+    {
+      "concept": "Online platform/system",
+      "expressions": {
+        "en": "Online platform / system",
+        "cn": "在线平台/系统 (zàixiàn píngtái/xìtǒng)",
+        "bm_formal": "Platform dalam talian / Sistem atas talian",
+        "bm_casual": "Platform online / Sistem online"
+      }
+    },
+    {
+      "concept": "Technical issue/problem",
+      "expressions": {
+        "en": "Technical issue / problem",
+        "cn": "技术问题 (jìshù wèntí)",
+        "bm_formal": "Isu teknikal / Masalah teknikal",
+        "bm_casual": "Masalah teknikal / Problem teknikal"
+      }
+    },
+    {
+      "concept": "High-speed internet",
+      "expressions": {
+        "en": "High-speed internet",
+        "cn": "高速互联网 (gāosù hùliánwǎng)",
+        "bm_formal": "Internet jalur lebar / Internet berkelajuan tinggi",
+        "bm_casual": "Internet laju / Internet speed tinggi"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are in a project meeting discussing the progress of a new system and any challenges faced.",
+      "key_phrases": [
+        "Kita perlu **mengemaskini** status projek ini setiap minggu.",
+        "Pasukan kami sedang **membangunkan** satu sistem pengurusan data baharu.",
+        "Ada **isu teknikal** dengan integrasi modul pembayaran."
+      ]
+    },
+    "life": {
+      "scenario": "You are talking to a family member about home internet problems or updating a mobile app.",
+      "key_phrases": [
+        "Telefon saya asyik minta **update** aplikasi ni.",
+        "Kenapa **internet laju** kita ni tiba-tiba perlahan?",
+        "Ada **masalah teknikal** ke dengan WiFi rumah kita ni?"
+      ]
+    },
+    "tech": {
+      "scenario": "You are discussing the latest trends in technology or the adoption of new digital tools in an industry.",
+      "key_phrases": [
+        "Banyak syarikat sedang melalui fasa **transformasi digital**.",
+        "**Platform online** ini membolehkan kita berhubung dengan pelanggan secara terus.",
+        "Kita perlu terus **membangunkan** kemahiran digital untuk kekal relevan."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'To update' (formal) in Malay?",
+      "answer": "Mengemaskini"
+    },
+    {
+      "question": "How do you say 'Technical issue' (casual) in Malay?",
+      "answer": "Masalah teknikal / Problem teknikal"
+    },
+    {
+      "question": "How do you say 'High-speed internet' (casual) in Malay?",
+      "answer": "Internet laju / Internet speed tinggi"
+    },
+    {
+      "question": "How do you say 'To develop a system' (formal) in Malay?",
+      "answer": "Membangunkan sistem"
+    },
+    {
+      "question": "How do you say 'Online platform' (casual) in Malay?",
+      "answer": "Platform online / Sistem online"
+    },
+    {
+      "question": "How do you say '数字化转型 (Digital transformation)' (formal) in Malay?",
+      "answer": "Transformasi digital"
+    }
+  ]
+}
