@@ -1,0 +1,119 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for help",
+      "expressions": {
+        "en": "Could you please help me? / Can you help?",
+        "cn": "你能帮我一下吗？ / 可以帮我吗？",
+        "bm_formal": "Boleh tolong saya?",
+        "bm_casual": "Boleh tolong tak? / Tolong sikit."
+      }
+    },
+    {
+      "concept": "Confirming understanding",
+      "expressions": {
+        "en": "I understand. / Got it.",
+        "cn": "我明白了。 / 懂了。",
+        "bm_formal": "Saya faham. / Saya mengerti.",
+        "bm_casual": "Faham. / Okay, faham."
+      }
+    },
+    {
+      "concept": "Requesting information/details",
+      "expressions": {
+        "en": "Please send me the details. / Send details.",
+        "cn": "请把详情发给我。 / 发一下详情。",
+        "bm_formal": "Sila hantar butiran kepada saya.",
+        "bm_casual": "Hantar butiran tu kat saya. / Bagi details."
+      }
+    },
+    {
+      "concept": "Confirming task completion",
+      "expressions": {
+        "en": "I'll get it done. / Will do.",
+        "cn": "我会处理好的。 / 会做的。",
+        "bm_formal": "Saya akan uruskan. / Saya akan laksanakan.",
+        "bm_casual": "Saya akan buat. / Akan settle."
+      }
+    },
+    {
+      "concept": "Proposing further discussion",
+      "expressions": {
+        "en": "Let's discuss this further. / Let's talk more.",
+        "cn": "我们再进一步讨论吧。 / 咱们再聊聊。",
+        "bm_formal": "Mari kita bincangkan perkara ini dengan lebih lanjut.",
+        "bm_casual": "Jom bincang lagi. / Kita discuss lagi."
+      }
+    },
+    {
+      "concept": "Expressing gratitude for cooperation",
+      "expressions": {
+        "en": "Thank you for your cooperation. / Thanks for helping.",
+        "cn": "谢谢您的合作。 / 谢谢帮忙。",
+        "bm_formal": "Terima kasih atas kerjasama anda.",
+        "bm_casual": "Terima kasih sebab tolong. / Thanks for the help."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're collaborating on a project with a colleague. You need assistance with a task and want to confirm the next steps after a brief discussion.",
+      "key_phrases": [
+        "Boleh tolong saya siapkan laporan ini?",
+        "Sila hantar butiran data terkini kepada saya.",
+        "Saya faham, saya akan uruskan bahagian saya secepat mungkin."
+      ]
+    },
+    "life": {
+      "scenario": "Planning a weekend getaway with friends, you're asking for their help with arrangements and confirming everyone's availability.",
+      "key_phrases": [
+        "Boleh tolong tak tempah chalet tu?",
+        "Okay, faham. Saya akan buat senarai barang nak bawa.",
+        "Jom bincang lagi pasal aktiviti esok malam."
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a software bug with a support engineer. You need to get clear instructions and confirm you've understood them.",
+      "key_phrases": [
+        "Boleh tolong saya betulkan error ni?",
+        "Sila hantar butiran langkah-langkah penyelesaian.",
+        "Faham. Saya akan buat seperti yang diarahkan, terima kasih sebab tolong."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask 'Could you please help me?' in Malay?",
+      "answer": "Boleh tolong saya?"
+    },
+    {
+      "question": "How do you casually say 'Got it.' in Malay?",
+      "answer": "Faham."
+    },
+    {
+      "question": "How would you formally say 'Please send me the details.' in Malay?",
+      "answer": "Sila hantar butiran kepada saya."
+    },
+    {
+      "question": "How do you casually tell someone 'I'll get it done.' in Malay?",
+      "answer": "Saya akan buat. / Akan settle."
+    },
+    {
+      "question": "How do you formally suggest 'Let's discuss this further.' in Malay?",
+      "answer": "Mari kita bincangkan perkara ini dengan lebih lanjut."
+    },
+    {
+      "question": "How do you casually say 'Thanks for helping.' in Malay?",
+      "answer": "Terima kasih sebab tolong. / Thanks for the help."
+    },
+    {
+      "question": "请问您会怎么用马来语正式地表达 '我明白了。'?",
+      "answer": "Saya faham. / Saya mengerti."
+    },
+    {
+      "question": "请问您会怎么用马来语随意地表达 '发一下详情。'?",
+      "answer": "Hantar butiran tu kat saya. / Bagi details."
+    }
+  ]
+}
