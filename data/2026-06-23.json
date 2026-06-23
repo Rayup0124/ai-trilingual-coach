@@ -1,0 +1,111 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To update / keep current (e.g., software, skills, information)",
+      "expressions": {
+        "en": "To update / keep current",
+        "cn": "更新 / 保持最新 (gēngxīn / bǎochí zuìxīn)",
+        "bm_formal": "Mengemaskini / Memastikan sentiasa terkini",
+        "bm_casual": "Update / Kasi up-to-date"
+      }
+    },
+    {
+      "concept": "To troubleshoot / resolve an issue (e.g., technical problems)",
+      "expressions": {
+        "en": "To troubleshoot / resolve an issue",
+        "cn": "排除故障 / 解决问题 (páichú gùzhàng / jiějué wèntí)",
+        "bm_formal": "Menyelesaikan masalah / Mengatasi isu",
+        "bm_casual": "Betulkan masalah / Settle masalah"
+      }
+    },
+    {
+      "concept": "To implement / roll out (e.g., a new system, policy)",
+      "expressions": {
+        "en": "To implement / roll out",
+        "cn": "实施 / 推出 (shíshī / tuīchū)",
+        "bm_formal": "Melaksanakan / Memperkenalkan",
+        "bm_casual": "Buat / Start pakai"
+      }
+    },
+    {
+      "concept": "To innovate / create new solutions",
+      "expressions": {
+        "en": "To innovate / create new solutions",
+        "cn": "创新 / 创造新方案 (chuàngxīn / chuàngzào xīn fāng'àn)",
+        "bm_formal": "Berinovasi / Mencipta penyelesaian baharu",
+        "bm_casual": "Buat benda baru / Cari jalan baru"
+      }
+    },
+    {
+      "concept": "Digital transformation / going digital",
+      "expressions": {
+        "en": "Digital transformation / going digital",
+        "cn": "数字化转型 / 迈向数字化 (shùzìhuà zhuǎnxíng / màixiàng shùzìhuà)",
+        "bm_formal": "Transformasi digital / Mendigitalisasikan",
+        "bm_casual": "Jadi digital / Guna digital"
+      }
+    },
+    {
+      "concept": "To optimize / make more efficient (e.g., processes, resources)",
+      "expressions": {
+        "en": "To optimize / make more efficient",
+        "cn": "优化 / 提高效率 (yōuhuà / tígāo xiàolǜ)",
+        "bm_formal": "Mengoptimumkan / Meningkatkan kecekapan",
+        "bm_casual": "Bagi lagi efisien / Elokkan lagi"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "During a team meeting, the manager discusses the upcoming launch of a new project management software and a recent technical glitch that needs attention. They also emphasize the importance of employees updating their skills.",
+      "key_phrases": [
+        "Kita akan **melaksanakan** sistem baharu ini bulan depan.",
+        "Ada masalah sikit dengan server, kita perlu **menyelesaikan masalah** ini segera.",
+        "Penting untuk semua orang **mengemaskini kemahiran** masing-masing."
+      ]
+    },
+    "life": {
+      "scenario": "Two friends are chatting about their daily use of technology. One friend mentions needing to update their phone apps and fixing their smart home device, while the other talks about how digital services have simplified their life.",
+      "key_phrases": [
+        "Saya kena **update** semua aplikasi telefon ni.",
+        "Smart TV saya rosak, tak tahu macam mana nak **betulkan masalah** tu.",
+        "Sekarang semua benda **guna digital**, senang sangat hidup!"
+      ]
+    },
+    "tech": {
+      "scenario": "At a tech conference, speakers are discussing the latest trends in innovation and how companies are embracing digital transformation to optimize their operations and stay competitive in the market.",
+      "key_phrases": [
+        "Syarikat perlu sentiasa **berinovasi** untuk kekal relevan.",
+        "Proses **transformasi digital** adalah kunci kejayaan masa depan.",
+        "Kita mesti **mengoptimumkan** proses kerja untuk tingkatkan produktiviti."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do we ensure our knowledge is always current?",
+      "answer": "Kita perlu **memastikan sentiasa terkini** pengetahuan kita."
+    },
+    {
+      "question": "The printer isn't working. Can you fix the problem?",
+      "answer": "Printer tak berfungsi. Boleh tolong **settle masalah** ni?"
+    },
+    {
+      "question": "The company plans to roll out a new policy next quarter.",
+      "answer": "Syarikat akan **memperkenalkan** polisi baharu suku tahun depan."
+    },
+    {
+      "question": "We need to create new solutions for our customers.",
+      "answer": "Kita perlu **mencipta penyelesaian baharu** untuk pelanggan kita."
+    },
+    {
+      "question": "Many businesses are undergoing digital transformation to improve efficiency.",
+      "answer": "Banyak perniagaan sedang melalui **transformasi digital** untuk tingkatkan kecekapan."
+    },
+    {
+      "question": "Let's optimize our resource usage to reduce costs.",
+      "answer": "Jom kita **bagi lagi efisien** penggunaan sumber kita untuk kurangkan kos."
+    }
+  ]
+}
