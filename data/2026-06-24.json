@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting an update/status",
+      "expressions": {
+        "en": "Could you please provide an update?",
+        "cn": "可以请你提供最新进展吗？",
+        "bm_formal": "Boleh encik/cik berikan kemas kini terkini?",
+        "bm_casual": "Boleh update sikit?"
+      }
+    },
+    {
+      "concept": "Expressing agreement/confirmation",
+      "expressions": {
+        "en": "I understand / Noted",
+        "cn": "我明白了 / 已记录",
+        "bm_formal": "Saya faham / Maklum",
+        "bm_casual": "Okay, faham / Baiklah"
+      }
+    },
+    {
+      "concept": "Asking for clarification",
+      "expressions": {
+        "en": "Could you elaborate? / Could you explain further?",
+        "cn": "可以请你详细说明一下吗？",
+        "bm_formal": "Boleh encik/cik huraikan dengan lebih lanjut?",
+        "bm_casual": "Maksudnya apa? / Boleh cerita lebih sikit?"
+      }
+    },
+    {
+      "concept": "Offering assistance",
+      "expressions": {
+        "en": "How can I help you? / Is there anything I can assist with?",
+        "cn": "有什么我可以帮忙的吗？",
+        "bm_formal": "Ada apa yang boleh saya bantu? / Bagaimana saya boleh membantu?",
+        "bm_casual": "Nak saya tolong apa?"
+      }
+    },
+    {
+      "concept": "Apologizing for delay/mistake",
+      "expressions": {
+        "en": "My apologies for the delay. / Sorry for the mistake.",
+        "cn": "很抱歉耽误了时间。/ 对不起，搞错了。",
+        "bm_formal": "Saya mohon maaf atas kelewatan ini. / Maaf atas kesilapan ini.",
+        "bm_casual": "Sorry lambat. / Maaf, silap."
+      }
+    },
+    {
+      "concept": "Suggesting a meeting/discussion",
+      "expressions": {
+        "en": "Shall we discuss this? / Let's have a quick chat.",
+        "cn": "我们讨论一下好吗？/ 我们快速聊一下吧。",
+        "bm_formal": "Bolehkah kita bincangkan perkara ini? / Mari kita adakan perbincangan ringkas.",
+        "bm_casual": "Jom kita discuss? / Nak borak kejap tak?"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are a project manager asking a team member for an update on a critical task, and then suggesting a follow-up discussion. The team member confirms receipt of the request.",
+      "key_phrases": [
+        "Boleh dapatkan status terkini?",
+        "Saya faham",
+        "Bolehkah kita bincangkan perkara ini?"
+      ]
+    },
+    "life": {
+      "scenario": "Your friend is planning a weekend trip and asks for your availability. You apologize for a late response and ask for more details because you didn't quite catch the plan, then suggest a quick chat to sort it out.",
+      "key_phrases": [
+        "Sorry lambat.",
+        "Maksudnya apa?",
+        "Nak borak kejap tak?"
+      ]
+    },
+    "tech": {
+      "scenario": "You are a customer support agent helping a user with a technical issue. You offer assistance, note down their problem, and then ask for more detailed clarification on a specific error message.",
+      "key_phrases": [
+        "Bagaimana saya boleh membantu?",
+        "Maklum",
+        "Boleh encik/cik huraikan dengan lebih lanjut?"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask for an update in Malay?",
+      "answer": "Boleh encik/cik berikan kemas kini terkini?"
+    },
+    {
+      "question": "How do you casually say 'Okay, understood' in Malay?",
+      "answer": "Okay, faham"
+    },
+    {
+      "question": "请问如何正式地询问：'有什么我可以帮忙的吗？' (How can I help you?)",
+      "answer": "Ada apa yang boleh saya bantu?"
+    },
+    {
+      "question": "What's the casual Malay way to say 'Sorry for the mistake'?",
+      "answer": "Maaf, silap."
+    },
+    {
+      "question": "How would you formally suggest 'Shall we discuss this?' in Malay?",
+      "answer": "Bolehkah kita bincangkan perkara ini?"
+    },
+    {
+      "question": "How do you casually ask for more explanation: 'Maksudnya apa?'",
+      "answer": "What does that mean? / What's the meaning of that?"
+    }
+  ]
+}
