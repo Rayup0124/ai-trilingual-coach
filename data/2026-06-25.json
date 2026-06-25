@@ -1,0 +1,115 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for help",
+      "expressions": {
+        "en": "Can you help me?",
+        "cn": "你能帮我吗？",
+        "bm_formal": "Boleh bantu saya?",
+        "bm_casual": "Boleh tolong saya?"
+      }
+    },
+    {
+      "concept": "Expressing understanding",
+      "expressions": {
+        "en": "I understand. / Got it.",
+        "cn": "我明白了。",
+        "bm_formal": "Saya faham.",
+        "bm_casual": "Faham. / Okay."
+      }
+    },
+    {
+      "concept": "Asking for repetition",
+      "expressions": {
+        "en": "Could you repeat that?",
+        "cn": "你能重复一遍吗？",
+        "bm_formal": "Boleh ulang semula?",
+        "bm_casual": "Boleh ulang balik?"
+      }
+    },
+    {
+      "concept": "Apologizing for inconvenience",
+      "expressions": {
+        "en": "Sorry for the inconvenience.",
+        "cn": "抱歉造成不便。",
+        "bm_formal": "Maaf atas kesulitan ini.",
+        "bm_casual": "Sorry ganggu."
+      }
+    },
+    {
+      "concept": "Asking someone to wait",
+      "expressions": {
+        "en": "Please wait a moment.",
+        "cn": "请稍等。",
+        "bm_formal": "Sila tunggu sebentar.",
+        "bm_casual": "Tunggu kejap."
+      }
+    },
+    {
+      "concept": "Checking availability/readiness",
+      "expressions": {
+        "en": "Are you free now? / Are you ready?",
+        "cn": "你现在有空吗？ / 你准备好了吗？",
+        "bm_formal": "Adakah anda lapang sekarang? / Adakah anda bersedia?",
+        "bm_casual": "Free tak sekarang? / Dah ready?"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're working on a tight deadline for a presentation. You encounter a technical issue with the projector and need your colleague's help. You also need to confirm if they are ready for the meeting.",
+      "key_phrases": [
+        "Boleh bantu saya?",
+        "Saya faham.",
+        "Maaf atas kesulitan ini.",
+        "Adakah anda bersedia?"
+      ]
+    },
+    "life": {
+      "scenario": "You're at a busy hawker stall trying to order food, but it's noisy. You also need to ask your friend to wait while you pay and confirm if they are free to chat later.",
+      "key_phrases": [
+        "Boleh tolong saya?",
+        "Boleh ulang balik?",
+        "Tunggu kejap.",
+        "Free tak sekarang?"
+      ]
+    },
+    "tech": {
+      "scenario": "You're guiding your elderly relative through setting up a new app on their phone. They keep getting confused, and you need to explain things clearly, perhaps repeating instructions, and checking if they understand.",
+      "key_phrases": [
+        "Boleh bantu saya?",
+        "Saya faham.",
+        "Boleh ulang semula?",
+        "Sila tunggu sebentar.",
+        "Dah ready?"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask for help in Malay?",
+      "answer": "Boleh bantu saya?"
+    },
+    {
+      "question": "How would you casually say 'I understand' in Malay?",
+      "answer": "Faham."
+    },
+    {
+      "question": "你能重复一遍吗？ (Could you repeat that?) in formal Malay.",
+      "answer": "Boleh ulang semula?"
+    },
+    {
+      "question": "How do you casually apologize for bothering someone in Malay?",
+      "answer": "Sorry ganggu."
+    },
+    {
+      "question": "How do you formally ask someone to wait a moment?",
+      "answer": "Sila tunggu sebentar."
+    },
+    {
+      "question": "How do you casually ask 'Are you free now?' in Malay?",
+      "answer": "Free tak sekarang?"
+    }
+  ]
+}
