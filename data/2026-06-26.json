@@ -1,0 +1,111 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To update (software/information)",
+      "expressions": {
+        "en": "To update (software/information)",
+        "cn": "更新 (gēngxīn)",
+        "bm_formal": "Mengemas kini",
+        "bm_casual": "Update / Kemas kini"
+      }
+    },
+    {
+      "concept": "To troubleshoot / resolve an issue",
+      "expressions": {
+        "en": "To troubleshoot / resolve an issue",
+        "cn": "解决问题 (jiějué wèntí) / 排除故障 (páichú gùzhàng)",
+        "bm_formal": "Menyelesaikan masalah / Mengatasi masalah",
+        "bm_casual": "Settle masalah / Fix masalah / Troubleshoot"
+      }
+    },
+    {
+      "concept": "To innovate / develop a solution",
+      "expressions": {
+        "en": "To innovate / develop a solution",
+        "cn": "创新 (chuàngxīn) / 开发解决方案 (kāifā jiějué fāng'àn)",
+        "bm_formal": "Menginovasi / Membangunkan penyelesaian",
+        "bm_casual": "Buat benda baru / Kembangkan / Develop"
+      }
+    },
+    {
+      "concept": "To digitalize / transition to digital",
+      "expressions": {
+        "en": "To digitalize / transition to digital",
+        "cn": "数字化 (shùzìhuà) / 转型数码 (zhuǎnxíng shùmǎ)",
+        "bm_formal": "Mendigitalkan / Beralih ke digital",
+        "bm_casual": "Digitalkan / Jadi digital / Go digital"
+      }
+    },
+    {
+      "concept": "To connect / link devices/systems",
+      "expressions": {
+        "en": "To connect / link devices/systems",
+        "cn": "连接 (liánjiē) / 链接 (liánjiē)",
+        "bm_formal": "Menghubungkan / Memautkan",
+        "bm_casual": "Sambungkan / Connect"
+      }
+    },
+    {
+      "concept": "To launch / introduce a new product/feature",
+      "expressions": {
+        "en": "To launch / introduce a new product/feature",
+        "cn": "推出 (tuīchū) / 发布 (fābù)",
+        "bm_formal": "Melancarkan / Memperkenalkan",
+        "bm_casual": "Launch / Keluarkan"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Your team is preparing for a new product launch while dealing with system issues and needing to update project reports.",
+      "key_phrases": [
+        "Kita perlu **mengemas kini** laporan projek ini.",
+        "Ada masalah teknikal. Tolong **selesaikan masalah** ini segera.",
+        "Bila kita akan **melancarkan** produk baru itu?"
+      ]
+    },
+    "life": {
+      "scenario": "You're helping a family member with their new smart home setup, an app update, and encouraging them to use digital payments.",
+      "key_phrases": [
+        "Jangan lupa **update** aplikasi bank ni.",
+        "Macam mana nak **sambungkan** peranti pintar ni ke Wi-Fi?",
+        "Senang je kalau kita **go digital** untuk bayar bil."
+      ]
+    },
+    "tech": {
+      "scenario": "During a tech conference, you discuss the importance of innovation, seamless system integration, and digital transformation.",
+      "key_phrases": [
+        "Kita mesti terus **membangunkan penyelesaian** yang inovatif.",
+        "Penting untuk **menghubungkan** semua sistem kita dengan lancar.",
+        "Syarat utama untuk maju adalah **mendigitalkan** proses kerja kita."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'to update (information)' in formal Malay?",
+      "answer": "Mengemas kini"
+    },
+    {
+      "question": "What is the casual Malay expression for 'to troubleshoot an issue'?",
+      "answer": "Settle masalah / Fix masalah"
+    },
+    {
+      "question": "Chinese: 创新 (chuàngxīn). What is the formal Malay equivalent for 'to innovate'?",
+      "answer": "Menginovasi"
+    },
+    {
+      "question": "What's the casual Malay way to say 'to transition to digital'?",
+      "answer": "Go digital / Jadi digital"
+    },
+    {
+      "question": "English: To connect devices. What is the formal Malay translation?",
+      "answer": "Menghubungkan peranti"
+    },
+    {
+      "question": "How do you say 'to launch a new product' in casual Malay?",
+      "answer": "Launch produk baru / Keluarkan produk baru"
+    }
+  ]
+}
