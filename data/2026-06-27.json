@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for a favor/request",
+      "expressions": {
+        "en": "Could you please?",
+        "cn": "你可以帮我吗?",
+        "bm_formal": "Bolehkah anda tolong?",
+        "bm_casual": "Boleh tolong?"
+      }
+    },
+    {
+      "concept": "Acknowledging understanding",
+      "expressions": {
+        "en": "I understand. / Got it.",
+        "cn": "我明白了。/ 知道了。",
+        "bm_formal": "Saya faham. / Maklum.",
+        "bm_casual": "Faham. / Okay."
+      }
+    },
+    {
+      "concept": "Promising follow-up",
+      "expressions": {
+        "en": "Let me check. / I'll get back to you.",
+        "cn": "让我查一下。/ 我稍后回复你。",
+        "bm_formal": "Biar saya semak. / Saya akan maklumkan semula.",
+        "bm_casual": "Nanti saya cek. / Saya bagi tahu kemudian."
+      }
+    },
+    {
+      "concept": "Expressing gratitude",
+      "expressions": {
+        "en": "Thank you for your cooperation. / Thanks for your help.",
+        "cn": "谢谢您的合作。/ 谢谢你的帮忙。",
+        "bm_formal": "Terima kasih atas kerjasama anda. / Ribuan terima kasih.",
+        "bm_casual": "Terima kasih banyak. / Thanks."
+      }
+    },
+    {
+      "concept": "Apologizing for inconvenience",
+      "expressions": {
+        "en": "I apologize for the inconvenience. / Sorry for the trouble.",
+        "cn": "很抱歉给您带来不便。/ 不好意思。",
+        "bm_formal": "Saya mohon maaf atas kesulitan ini. / Maafkan saya.",
+        "bm_casual": "Maaf susahkan. / Sorry."
+      }
+    },
+    {
+      "concept": "Suggesting further discussion",
+      "expressions": {
+        "en": "Let's discuss this further. / Let's talk about it.",
+        "cn": "我们再详细讨论一下吧。/ 我们聊聊吧。",
+        "bm_formal": "Mari kita bincangkan perkara ini dengan lebih lanjut.",
+        "bm_casual": "Jom bincang. / Kita sembang pasal ni."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Your manager needs a report by end of day. You're almost done but need a specific data point from a colleague.",
+      "key_phrases": [
+        "Bolehkah anda tolong berikan data jualan Q3?",
+        "Saya akan maklumkan semula sebaik sahaja saya dapat data itu.",
+        "Terima kasih atas kerjasama anda."
+      ]
+    },
+    "life": {
+      "scenario": "You're trying to find a specific shop in a new mall and ask a passerby for directions.",
+      "key_phrases": [
+        "Maaf susahkan, boleh tolong tunjukkan arah ke kedai buku?",
+        "Faham, terima kasih banyak!",
+        "Nanti saya cek peta kalau tak jumpa."
+      ]
+    },
+    "tech": {
+      "scenario": "Your internet connection is unstable, and you're calling customer service for help. They ask you to restart your router.",
+      "key_phrases": [
+        "Saya faham, saya akan cuba mulakan semula router.",
+        "Biar saya semak sambungan selepas ini.",
+        "Maafkan saya atas kesulitan ini, tapi masih tiada internet."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally say 'Could you please check this document?' in Malay?",
+      "answer": "Bolehkah anda tolong semak dokumen ini?"
+    },
+    {
+      "question": "你明白了我的指示吗？ (I understand)",
+      "answer": "Saya faham."
+    },
+    {
+      "question": "What's a casual way to say 'I'll get back to you later'?",
+      "answer": "Saya bagi tahu kemudian."
+    },
+    {
+      "question": "How do you express formal gratitude for cooperation?",
+      "answer": "Terima kasih atas kerjasama anda."
+    },
+    {
+      "question": "很抱歉给您带来不便。(I apologize for the inconvenience)",
+      "answer": "Saya mohon maaf atas kesulitan ini."
+    },
+    {
+      "question": "What's a casual phrase to suggest 'Let's discuss this'?",
+      "answer": "Jom bincang."
+    }
+  ]
+}
