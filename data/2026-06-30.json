@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting Assistance/Information",
+      "expressions": {
+        "en": "Could you please help me with this?",
+        "cn": "你可以帮我一下吗？",
+        "bm_formal": "Bolehkah anda bantu saya dengan ini?",
+        "bm_casual": "Boleh tak tolong aku sikit?"
+      }
+    },
+    {
+      "concept": "Acknowledging Understanding/Receipt",
+      "expressions": {
+        "en": "Understood. I'll proceed.",
+        "cn": "明白了。我会继续进行。",
+        "bm_formal": "Saya faham. Saya akan teruskan.",
+        "bm_casual": "Faham. Aku teruskan."
+      }
+    },
+    {
+      "concept": "Needing to Verify/Check",
+      "expressions": {
+        "en": "Let me check and get back to you.",
+        "cn": "让我查一下再回复你。",
+        "bm_formal": "Biar saya semak dahulu dan maklumkan semula.",
+        "bm_casual": "Kejap, aku check dulu, nanti aku bagitahu."
+      }
+    },
+    {
+      "concept": "Confirming Availability/Readiness",
+      "expressions": {
+        "en": "I'm ready to start.",
+        "cn": "我准备好开始了。",
+        "bm_formal": "Saya sudah bersedia untuk bermula.",
+        "bm_casual": "Aku dah sedia nak start."
+      }
+    },
+    {
+      "concept": "Requesting a Document/File",
+      "expressions": {
+        "en": "Please send the report to me.",
+        "cn": "请把报告发给我。",
+        "bm_formal": "Sila hantar laporan itu kepada saya.",
+        "bm_casual": "Hantar report tu kat aku."
+      }
+    },
+    {
+      "concept": "Expressing Apology for Delay",
+      "expressions": {
+        "en": "Apologies for the delay.",
+        "cn": "抱歉耽搁了。",
+        "bm_formal": "Mohon maaf atas kelewatan ini.",
+        "bm_casual": "Sorry lambat."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "During a team meeting, your manager assigns you a new task. You need to confirm you understand, ask for a specific document, and promise to check something before giving an update.",
+      "key_phrases": [
+        "Saya faham. Saya akan teruskan.",
+        "Sila hantar laporan itu kepada saya.",
+        "Biar saya semak dahulu dan maklumkan semula."
+      ]
+    },
+    "life": {
+      "scenario": "You're coordinating a weekend outing with friends. You need to confirm if everyone is ready, ask someone to help with directions, and apologize for a slight delay in your own arrival.",
+      "key_phrases": [
+        "Aku dah sedia nak start.",
+        "Boleh tak tolong aku sikit?",
+        "Sorry lambat."
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a tech issue with a colleague over chat. You acknowledge their instructions, need to verify something on your side, and then confirm you're ready to proceed after a fix.",
+      "key_phrases": [
+        "Saya faham. Saya akan teruskan.",
+        "Biar saya semak dahulu dan maklumkan semula.",
+        "Aku dah sedia nak start."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally say 'Could you please help me with this?' in Malay?",
+      "answer": "Bolehkah anda bantu saya dengan ini?"
+    },
+    {
+      "question": "What's the casual Malay way to say 'Understood. I'll proceed.'?",
+      "answer": "Faham. Aku teruskan."
+    },
+    {
+      "question": "'Let me check and get back to you.' (让我查一下再回复你。) - How would you say this formally in Malay?",
+      "answer": "Biar saya semak dahulu dan maklumkan semula."
+    },
+    {
+      "question": "What is the casual Malay expression for 'I'm ready to start.'?",
+      "answer": "Aku dah sedia nak start."
+    },
+    {
+      "question": "How do you formally request 'Please send the report to me.' in Malay?",
+      "answer": "Sila hantar laporan itu kepada saya."
+    },
+    {
+      "question": "'Apologies for the delay.' (抱歉耽搁了。) - What's the casual Malay way to express this?",
+      "answer": "Sorry lambat."
+    }
+  ]
+}
