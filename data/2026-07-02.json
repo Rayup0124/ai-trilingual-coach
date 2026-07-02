@@ -1,0 +1,111 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "Innovation / To Innovate",
+      "expressions": {
+        "en": "Innovation / To innovate",
+        "cn": "创新 (chuàngxīn)",
+        "bm_formal": "Inovasi / Berinovasi",
+        "bm_casual": "Benda baru / Buat benda baru"
+      }
+    },
+    {
+      "concept": "To Update / An Update",
+      "expressions": {
+        "en": "To update / An update",
+        "cn": "更新 (gēngxīn)",
+        "bm_formal": "Mengemaskini / Kemas kini",
+        "bm_casual": "Update / Yang baru"
+      }
+    },
+    {
+      "concept": "Digital Transformation",
+      "expressions": {
+        "en": "Digital Transformation",
+        "cn": "数字化转型 (shùzìhuà zhuǎnxíng)",
+        "bm_formal": "Transformasi Digital",
+        "bm_casual": "Tukar jadi digital / Guna digital"
+      }
+    },
+    {
+      "concept": "User-Friendly",
+      "expressions": {
+        "en": "User-friendly",
+        "cn": "用户友好 (yònghù yǒuhǎo)",
+        "bm_formal": "Mesra Pengguna",
+        "bm_casual": "Senang guna / Mudah pakai"
+      }
+    },
+    {
+      "concept": "Data Analysis",
+      "expressions": {
+        "en": "Data Analysis",
+        "cn": "数据分析 (shùjù fēnxī)",
+        "bm_formal": "Analisis Data",
+        "bm_casual": "Kaji data / Tengok data"
+      }
+    },
+    {
+      "concept": "To Launch / Product Launch",
+      "expressions": {
+        "en": "To launch (a product/project) / Product Launch",
+        "cn": "发布 (fābù) / 推出 (tuīchū)",
+        "bm_formal": "Melancarkan / Pelancaran",
+        "bm_casual": "Launch / Keluar produk baru"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are in a team meeting discussing a new project to enhance customer experience and prepare for a major product release.",
+      "key_phrases": [
+        "Kita perlu **berinovasi** dalam pendekatan pemasaran kita untuk mencapai sasaran baru.",
+        "Pastikan semua sistem telah **dikemas kini** sebelum **pelancaran** produk bulan depan.",
+        "Untuk menjayakan **transformasi digital** syarikat, kita perlukan antaramuka yang **mesra pengguna**."
+      ]
+    },
+    "life": {
+      "scenario": "You're chatting with a friend about new apps, gadgets, or how technology impacts daily life.",
+      "key_phrases": [
+        "Eh, app banking saya kena **update** ni, ada **yang baru** keluar.",
+        "Skuter elektrik ni memang **senang guna**, tak payah pening kepala cari parking.",
+        "Dorang **launch** produk smart home **benda baru** semalam, nampak menarik sangat."
+      ]
+    },
+    "tech": {
+      "scenario": "As a developer or tech enthusiast, you're discussing the technical aspects of a new system or data insights.",
+      "key_phrases": [
+        "Hasil **analisis data** menunjukkan kita perlu **berinovasi** lagi dalam reka bentuk UI/UX.",
+        "Kita perlu memastikan sistem kita sentiasa **dikemas kini** untuk membaiki isu keselamatan.",
+        "Projek **transformasi digital** ini memerlukan platform yang sangat **mesra pengguna** untuk adopsi yang meluas."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'Innovation' (the noun, formal) in Malay?",
+      "answer": "Inovasi"
+    },
+    {
+      "question": "What is the casual Malay verb for 'to update' (e.g., an app)?",
+      "answer": "Update"
+    },
+    {
+      "question": "The formal Malay term for 'Digital Transformation' is?",
+      "answer": "Transformasi Digital"
+    },
+    {
+      "question": "How would you casually describe something as 'user-friendly' in Malay?",
+      "answer": "Senang guna / Mudah pakai"
+    },
+    {
+      "question": "What is 'Data Analysis' (formal) in Malay?",
+      "answer": "Analisis Data"
+    },
+    {
+      "question": "How do you say 'to launch a product' (verb, casual) in Malay?",
+      "answer": "Launch / Keluar produk baru"
+    }
+  ]
+}
