@@ -1,0 +1,111 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for Assistance",
+      "expressions": {
+        "en": "Can you help me?",
+        "cn": "你可以帮我吗？(Nǐ kěyǐ bāng wǒ ma?)",
+        "bm_formal": "Bolehkah anda membantu saya?",
+        "bm_casual": "Boleh tolong tak?"
+      }
+    },
+    {
+      "concept": "Expressing Understanding",
+      "expressions": {
+        "en": "I understand. / Got it.",
+        "cn": "我明白了。(Wǒ míngbái le.)",
+        "bm_formal": "Saya faham.",
+        "bm_casual": "Faham."
+      }
+    },
+    {
+      "concept": "Asking for Clarification/Repetition",
+      "expressions": {
+        "en": "Can you repeat that?",
+        "cn": "你能再说一遍吗？(Nǐ néng zài shuō yībiàn ma?)",
+        "bm_formal": "Boleh anda ulang semula?",
+        "bm_casual": "Boleh ulang balik?"
+      }
+    },
+    {
+      "concept": "Apologizing",
+      "expressions": {
+        "en": "I'm sorry.",
+        "cn": "对不起。(Duìbùqǐ.)",
+        "bm_formal": "Saya mohon maaf.",
+        "bm_casual": "Maaf."
+      }
+    },
+    {
+      "concept": "Expressing Gratitude",
+      "expressions": {
+        "en": "Thank you. / I appreciate it.",
+        "cn": "谢谢你。(Xièxiè nǐ.)",
+        "bm_formal": "Terima kasih.",
+        "bm_casual": "Makasih."
+      }
+    },
+    {
+      "concept": "Asking for Location",
+      "expressions": {
+        "en": "Where is?",
+        "cn": "在哪里？( zài nǎlǐ?)",
+        "bm_formal": "Di manakah?",
+        "bm_casual": "Kat mana?"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are working on a team project and need to ask a colleague for help with a specific task or confirm details from a client.",
+      "key_phrases": [
+        "Bolehkah anda membantu saya?",
+        "Saya faham.",
+        "Boleh anda ulang semula?"
+      ]
+    },
+    "life": {
+      "scenario": "You are meeting a friend at a new cafe, got a bit lost, and need to apologize for being late or ask for directions.",
+      "key_phrases": [
+        "Maaf.",
+        "Kat mana cafe tu?",
+        "Terima kasih."
+      ]
+    },
+    "tech": {
+      "scenario": "You are troubleshooting an issue with your new smartphone and need to ask for help from technical support or understand their instructions on a new app feature.",
+      "key_phrases": [
+        "Boleh tolong tak?",
+        "Faham.",
+        "Boleh ulang balik?"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask for help in Malay?",
+      "answer": "Bolehkah anda membantu saya?"
+    },
+    {
+      "question": "我明白了。(Wǒ míngbái le.) What's the casual Malay equivalent?",
+      "answer": "Faham."
+    },
+    {
+      "question": "你能再说一遍吗？(Nǐ néng zài shuō yībiàn ma?) How do you say this casually in Malay?",
+      "answer": "Boleh ulang balik?"
+    },
+    {
+      "question": "What is the formal way to say 'I'm sorry' in Malay?",
+      "answer": "Saya mohon maaf."
+    },
+    {
+      "question": "How do you say 'Thank you' casually in Malay?",
+      "answer": "Makasih."
+    },
+    {
+      "question": "Di manakah tandas? (Where is the toilet?) What is the casual way to ask 'Where is?'",
+      "answer": "Kat mana?"
+    }
+  ]
+}
