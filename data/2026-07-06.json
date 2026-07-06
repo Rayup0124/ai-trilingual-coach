@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting Confirmation",
+      "expressions": {
+        "en": "Please confirm / Can you confirm?",
+        "cn": "请确认 / 你能确认吗？",
+        "bm_formal": "Sila sahkan / Boleh tuan/puan sahkan?",
+        "bm_casual": "Boleh confirm? / Sahkan kejap."
+      }
+    },
+    {
+      "concept": "Promising a Follow-up",
+      "expressions": {
+        "en": "I'll get back to you / I'll revert",
+        "cn": "我会回复你 / 我稍后回复",
+        "bm_formal": "Saya akan maklumkan semula / Saya akan kembali kepada anda.",
+        "bm_casual": "Nanti saya bagitahu / Saya 'revert' balik."
+      }
+    },
+    {
+      "concept": "Initiating Discussion",
+      "expressions": {
+        "en": "Let's discuss this / Let's talk about it",
+        "cn": "我们来讨论一下 / 我们谈谈吧",
+        "bm_formal": "Mari kita bincangkan perkara ini.",
+        "bm_casual": "Jom bincang / Kita sembang kejap."
+      }
+    },
+    {
+      "concept": "Expressing Gratitude for Understanding",
+      "expressions": {
+        "en": "Thank you for your understanding",
+        "cn": "谢谢您的理解",
+        "bm_formal": "Terima kasih atas pemahaman anda.",
+        "bm_casual": "Thanks faham / Terima kasih faham."
+      }
+    },
+    {
+      "concept": "Requesting More Details",
+      "expressions": {
+        "en": "Could you please elaborate? / Can you explain more?",
+        "cn": "您能详细说明一下吗？ / 你能解释多一点吗？",
+        "bm_formal": "Boleh tuan/puan huraikan dengan lebih lanjut? / Mohon jelaskan lebih lanjut.",
+        "bm_casual": "Boleh explain lagi? / Cerita lebih sikit."
+      }
+    },
+    {
+      "concept": "Apologizing for Inconvenience",
+      "expressions": {
+        "en": "I apologize for the inconvenience / Sorry for the trouble",
+        "cn": "我为造成的不便道歉 / 抱歉带来麻烦",
+        "bm_formal": "Saya mohon maaf atas kesulitan ini.",
+        "bm_casual": "Sorry susahkan / Maaf menyusahkan."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You need to inform your project manager about a slight delay in a task and request their input on how to proceed, also apologizing for any inconvenience caused.",
+      "key_phrases": [
+        "Saya mohon maaf atas kesulitan ini.",
+        "Boleh tuan/puan huraikan dengan lebih lanjut?",
+        "Saya akan maklumkan semula."
+      ]
+    },
+    "life": {
+      "scenario": "You're planning a dinner with friends and want to confirm the time and place, and clarify who's bringing what, promising to update them if there are changes.",
+      "key_phrases": [
+        "Boleh confirm?",
+        "Jom bincang.",
+        "Nanti saya bagitahu."
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a software issue with an online support agent. You need to ask them to elaborate on a technical step and confirm a setting, while also apologizing if you're causing too much trouble.",
+      "key_phrases": [
+        "Boleh explain lagi?",
+        "Boleh confirm?",
+        "Sorry susahkan."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally say 'Please confirm the meeting time.' in Malay?",
+      "answer": "Sila sahkan masa mesyuarat."
+    },
+    {
+      "question": "你会怎样非正式地对朋友说 'I'll get back to you regarding the movie plans.' in Malay?",
+      "answer": "Nanti saya bagitahu pasal plan movie tu."
+    },
+    {
+      "question": "How would you casually suggest 'Let's discuss this over coffee.' in Malay?",
+      "answer": "Jom bincang sambil minum kopi."
+    },
+    {
+      "question": "How do you formally express 'Thank you for your understanding regarding the change.' in Malay?",
+      "answer": "Terima kasih atas pemahaman anda mengenai perubahan ini."
+    },
+    {
+      "question": "你会怎样正式地要求 'Could you please elaborate on the project requirements?' in Malay?",
+      "answer": "Boleh tuan/puan huraikan dengan lebih lanjut tentang keperluan projek?"
+    },
+    {
+      "question": "How do you casually apologize for trouble caused, e.g., 'Sorry for the trouble, I'll fix it.' in Malay?",
+      "answer": "Sorry susahkan, saya akan betulkan."
+    }
+  ]
+}
