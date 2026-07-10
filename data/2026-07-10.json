@@ -1,0 +1,111 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for assistance",
+      "expressions": {
+        "en": "Can you help me?",
+        "cn": "你可以帮我吗？",
+        "bm_formal": "Bolehkah anda membantu saya?",
+        "bm_casual": "Boleh tolong saya?"
+      }
+    },
+    {
+      "concept": "Expressing understanding/acknowledgement",
+      "expressions": {
+        "en": "I understand./Got it.",
+        "cn": "我明白了。",
+        "bm_formal": "Saya faham.",
+        "bm_casual": "Faham."
+      }
+    },
+    {
+      "concept": "Requesting repetition/clarification",
+      "expressions": {
+        "en": "Could you repeat that?/Sorry, what did you say?",
+        "cn": "你能重复一遍吗？/不好意思，你说什么？",
+        "bm_formal": "Bolehkah anda ulang semula?/Maaf, apa yang anda katakan tadi?",
+        "bm_casual": "Boleh ulang balik?/Apa dia?"
+      }
+    },
+    {
+      "concept": "Expressing gratitude",
+      "expressions": {
+        "en": "Thank you very much.",
+        "cn": "非常感谢。",
+        "bm_formal": "Terima kasih banyak-banyak.",
+        "bm_casual": "Terima kasih banyak."
+      }
+    },
+    {
+      "concept": "Checking availability/time",
+      "expressions": {
+        "en": "Are you free?/When are you available?",
+        "cn": "你有空吗？/你什么时候有空？",
+        "bm_formal": "Adakah anda lapang?/Bilakah anda berkelapangan?",
+        "bm_casual": "Free tak?/Bila free?"
+      }
+    },
+    {
+      "concept": "Proposing a meeting/action",
+      "expressions": {
+        "en": "Let's meet up./How about we meet tomorrow?",
+        "cn": "我们见面吧。/我们明天见面怎么样？",
+        "bm_formal": "Mari kita berjumpa./Bagaimana jika kita berjumpa esok?",
+        "bm_casual": "Jom jumpa./Jumpa esok?"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You need help with a report from a colleague, then your manager explains a new project workflow, and later you thank your senior for their guidance.",
+      "key_phrases": [
+        "Boleh tolong saya siapkan laporan ini?",
+        "Saya faham apa yang anda terangkan.",
+        "Terima kasih banyak-banyak atas tunjuk ajar."
+      ]
+    },
+    "life": {
+      "scenario": "You're lost in a new neighbourhood and ask a local for directions. Your friend explains a local cultural custom, and you want to arrange a casual hangout with them.",
+      "key_phrases": [
+        "Boleh tolong saya tunjukkan jalan ke stesen?",
+        "Oh, faham sekarang.",
+        "Jom jumpa hujung minggu ni!"
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a software issue and need help from tech support. The support agent gives complex instructions, and you want to schedule a follow-up call if the issue persists.",
+      "key_phrases": [
+        "Boleh tolong saya betulkan masalah perisian ini?",
+        "Saya faham langkah-langkah yang perlu saya lakukan.",
+        "Anda bila free untuk panggilan susulan?"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask 'Can you help me?' in Malay?",
+      "answer": "Bolehkah anda membantu saya?"
+    },
+    {
+      "question": "How do you casually say 'I understand' in Malay?",
+      "answer": "Faham."
+    },
+    {
+      "question": "How do you formally ask 'Could you repeat that?' in Malay?",
+      "answer": "Bolehkah anda ulang semula?"
+    },
+    {
+      "question": "How do you casually say 'Thank you very much' in Malay?",
+      "answer": "Terima kasih banyak."
+    },
+    {
+      "question": "How do you casually ask 'Are you free?' in Malay?",
+      "answer": "Free tak?"
+    },
+    {
+      "question": "How do you casually suggest 'Let's meet up' in Malay?",
+      "answer": "Jom jumpa."
+    }
+  ]
+}
