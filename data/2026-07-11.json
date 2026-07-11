@@ -2,117 +2,110 @@
   "theme": "Technology & Development",
   "vocabulary_focus": [
     {
-      "concept": "To update (software/information)",
+      "concept": "To innovate / Develop new solutions",
       "expressions": {
-        "en": "To update (software/information)",
-        "cn": "更新 (Gēngxīn)",
-        "bm_formal": "Mengemaskini",
-        "bm_casual": "Update / Kemas kini"
+        "en": "To innovate / To develop new solutions",
+        "cn": "创新 / 开发新方案",
+        "bm_formal": "Menginovasi / Membangunkan penyelesaian baharu",
+        "bm_casual": "Cipta benda baru / Buat solution baru"
       }
     },
     {
-      "concept": "To upgrade (system/hardware)",
+      "concept": "Digital transformation",
       "expressions": {
-        "en": "To upgrade (system/hardware)",
-        "cn": "升级 (Shēngjí)",
-        "bm_formal": "Menaik taraf",
-        "bm_casual": "Upgrade / Naik taraf"
+        "en": "Digital transformation",
+        "cn": "数字化转型",
+        "bm_formal": "Transformasi digital",
+        "bm_casual": "Tukar jadi digital / Buat digital"
       }
     },
     {
-      "concept": "To digitalize / Go digital",
+      "concept": "Online platform / System",
       "expressions": {
-        "en": "To digitalize / Go digital",
-        "cn": "数字化 (Shùzìhuà)",
-        "bm_formal": "Mendigitalkan",
-        "bm_casual": "Digitalkan / Jadi digital"
+        "en": "Online platform / System",
+        "cn": "在线平台 / 系统",
+        "bm_formal": "Platform dalam talian / Sistem atas talian",
+        "bm_casual": "Platform online / Sistem online"
       }
     },
     {
-      "concept": "Innovative solution",
+      "concept": "Internet connectivity / Access",
       "expressions": {
-        "en": "Innovative solution",
-        "cn": "创新方案 (Chuàngxīn fāng'àn)",
-        "bm_formal": "Penyelesaian inovatif",
-        "bm_casual": "Cara baru / Solusi inovatif"
+        "en": "Internet connectivity / Access",
+        "cn": "互联网连接 / 接入",
+        "bm_formal": "Ketersambungan internet / Akses internet",
+        "bm_casual": "Line internet / Internet boleh pakai"
       }
     },
     {
-      "concept": "Data security",
+      "concept": "Data analysis / Gaining insights",
       "expressions": {
-        "en": "Data security",
-        "cn": "数据安全 (Shùjù ānquán)",
-        "bm_formal": "Keselamatan data",
-        "bm_casual": "Keselamatan data / Data selamat"
+        "en": "Data analysis / Gaining insights",
+        "cn": "数据分析 / 获取洞察",
+        "bm_formal": "Analisis data / Mendapatkan pandangan",
+        "bm_casual": "Tengok data / Cari info penting dari data"
       }
     },
     {
-      "concept": "Efficient system",
+      "concept": "Troubleshooting / Fixing a technical issue",
       "expressions": {
-        "en": "Efficient system",
-        "cn": "高效系统 (Gāoxiào xìtǒng)",
-        "bm_formal": "Sistem yang cekap",
-        "bm_casual": "Sistem efisien / Sistem yang laju/bagus"
+        "en": "Troubleshooting / Fixing a technical issue",
+        "cn": "故障排除 / 解决技术问题",
+        "bm_formal": "Menyelesaikan masalah teknikal / Menangani isu",
+        "bm_casual": "Betulkan masalah teknikal / Settlekan isu"
       }
     }
   ],
   "practice_scenarios": {
     "work": {
-      "scenario": "Our team needs to regularly **update** the project status and we are planning to **upgrade** our current software to a more **efficient system** to improve productivity. We also need to ensure **data security** during this **digitalization** process.",
+      "scenario": "Your team is discussing a new project to digitalize internal operations and improve efficiency. You need to talk about developing new solutions and the overall digital transformation.",
       "key_phrases": [
-        "mengemaskini status projek",
-        "menaik taraf perisian",
-        "sistem yang cekap",
-        "keselamatan data",
-        "mendigitalkan proses"
+        "Kita perlu **membangunkan penyelesaian baharu** untuk sistem pengurusan dokumen.",
+        "Projek ini adalah sebahagian daripada inisiatif **transformasi digital** syarikat.",
+        "Kita akan menggunakan **platform dalam talian** yang baru untuk kolaborasi."
       ]
     },
     "life": {
-      "scenario": "My phone needs a software **update**. I also want to **upgrade** my internet package for a more **efficient system** at home. It's important to keep my personal **data secure** when using online services. Many daily tasks are now **digitalized**.",
+      "scenario": "You're at home, and the internet is unstable. Your family member is frustrated and asks you to help fix it.",
       "key_phrases": [
-        "kemas kini perisian",
-        "naik taraf pakej internet",
-        "sistem yang efisien",
-        "data selamat",
-        "didigitalkan"
+        "Kenapa **line internet** asyik putus-putus ni?",
+        "Saya tak ada **akses internet** langsung sekarang.",
+        "Cuba awak tolong **betulkan masalah teknikal** ni kejap."
       ]
     },
     "tech": {
-      "scenario": "We need to develop an **innovative solution** for our next product. The goal is to make the system more **efficient** and ensure robust **data security**. We also need to regularly **update** our tech stack and consider **upgrading** our infrastructure to support future **digitalization** efforts.",
+      "scenario": "As a tech startup founder, you're presenting to investors about your product's innovative features and how you use data to drive development.",
       "key_phrases": [
-        "penyelesaian inovatif",
-        "sistem yang cekap",
-        "keselamatan data",
-        "mengemaskini",
-        "menaik taraf",
-        "pendigitalan"
+        "Produk kami terus **menginovasi** dengan ciri-ciri AI termaju.",
+        "Kami melakukan **analisis data** secara mendalam untuk memahami tingkah laku pengguna.",
+        "Dari data tersebut, kami **mendapatkan pandangan** yang kritikal untuk penambahbaikan produk."
       ]
     }
   },
   "quiz_toggle": [
     {
-      "question": "How do you say 'to update (software/information)' in Malay? (更新)",
-      "answer": "Mengemaskini / Update / Kemas kini"
+      "question": "How do you say 'To develop new solutions' (formal) in Malay?\n'开发新方案' (正式) 在马来语中怎么说？",
+      "answer": "Membangunkan penyelesaian baharu"
     },
     {
-      "question": "What is the Malay term for 'to upgrade (system/hardware)'? (升级)",
-      "answer": "Menaik taraf / Upgrade / Naik taraf"
+      "question": "What is the casual Malay for 'Digital transformation'?\n'数字化转型' 的马来语口语怎么说？",
+      "answer": "Tukar jadi digital"
     },
     {
-      "question": "How would you say 'to digitalize' in Malay? (数字化)",
-      "answer": "Mendigitalkan / Digitalkan / Jadi digital"
+      "question": "How would you refer to an 'online platform' (casual) in Malay?\n'在线平台' (口语) 的马来语怎么说？",
+      "answer": "Platform online"
     },
     {
-      "question": "What is the Malay phrase for 'innovative solution'? (创新方案)",
-      "answer": "Penyelesaian inovatif / Cara baru / Solusi inovatif"
+      "question": "What is the formal Malay term for 'Internet connectivity'?\n'互联网连接' 的马来语正式用语是什么？",
+      "answer": "Ketersambungan internet"
     },
     {
-      "question": "How do you express 'data security' in Malay? (数据安全)",
-      "answer": "Keselamatan data / Data selamat"
+      "question": "How do you say 'Gaining insights from data' (casual) in Malay?\n'从数据中获取洞察' (口语) 的马来语怎么说？",
+      "answer": "Cari info penting dari data"
     },
     {
-      "question": "What is the Malay term for 'efficient system'? (高效系统)",
-      "answer": "Sistem yang cekap / Sistem efisien / Sistem yang laju/bagus"
+      "question": "What is the formal Malay for 'Troubleshooting a technical issue'?\n'解决技术问题' 的马来语正式用语是什么？",
+      "answer": "Menyelesaikan masalah teknikal"
     }
   ]
 }
