@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting Assistance",
+      "expressions": {
+        "en": "Could you please?",
+        "cn": "请问您能？",
+        "bm_formal": "Bolehkah anda?",
+        "bm_casual": "Boleh tak?"
+      }
+    },
+    {
+      "concept": "Acknowledging Understanding",
+      "expressions": {
+        "en": "I understand.",
+        "cn": "我明白了。",
+        "bm_formal": "Saya faham.",
+        "bm_casual": "Faham."
+      }
+    },
+    {
+      "concept": "Promising to Verify/Check",
+      "expressions": {
+        "en": "Let me check.",
+        "cn": "让我查一下。",
+        "bm_formal": "Biar saya semak.",
+        "bm_casual": "Nanti saya check."
+      }
+    },
+    {
+      "concept": "Apologizing for Inconvenience",
+      "expressions": {
+        "en": "I apologize for the inconvenience.",
+        "cn": "对此造成的不便，我深感抱歉。",
+        "bm_formal": "Saya minta maaf di atas kesulitan ini.",
+        "bm_casual": "Maaf menyusahkan."
+      }
+    },
+    {
+      "concept": "Expressing Gratitude for Cooperation",
+      "expressions": {
+        "en": "Thank you for your cooperation.",
+        "cn": "感谢您的合作。",
+        "bm_formal": "Terima kasih atas kerjasama anda.",
+        "bm_casual": "Terima kasih banyak."
+      }
+    },
+    {
+      "concept": "Proposing Further Discussion",
+      "expressions": {
+        "en": "Let's discuss this further.",
+        "cn": "让我们进一步讨论。",
+        "bm_formal": "Mari kita bincangkan perkara ini dengan lebih lanjut.",
+        "bm_casual": "Jom kita bincang lagi."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Your manager requests a report by end of day. You need to acknowledge receipt and confirm you'll check on its progress.",
+      "key_phrases": [
+        "Bolehkah anda hantar laporan itu?",
+        "Saya faham.",
+        "Nanti saya check."
+      ]
+    },
+    "life": {
+      "scenario": "You need to ask a friend to pick up some groceries on their way home and apologize if it's out of their way, then thank them.",
+      "key_phrases": [
+        "Boleh tak tolong ambilkan barang?",
+        "Maaf menyusahkan.",
+        "Terima kasih banyak."
+      ]
+    },
+    "tech": {
+      "scenario": "You're reporting a software bug to the support team and suggest a follow-up call to discuss it further, apologizing for the trouble.",
+      "key_phrases": [
+        "Bolehkah anda semak isu ini?",
+        "Saya minta maaf di atas kesulitan ini.",
+        "Mari kita bincangkan perkara ini dengan lebih lanjut."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally say 'Could you please send the report?' in Malay?",
+      "answer": "Bolehkah anda hantar laporan itu?"
+    },
+    {
+      "question": "Translate '我明白了。' (I understand.) to casual Malay.",
+      "answer": "Faham."
+    },
+    {
+      "question": "How do you casually say 'Let me check.' in Malay?",
+      "answer": "Nanti saya check."
+    },
+    {
+      "question": "How do you formally say 'I apologize for the inconvenience.' in Malay?",
+      "answer": "Saya minta maaf di atas kesulitan ini."
+    },
+    {
+      "question": "Translate '感谢您的合作。' (Thank you for your cooperation.) to casual Malay.",
+      "answer": "Terima kasih banyak."
+    },
+    {
+      "question": "How do you casually say 'Let's discuss this further.' in Malay?",
+      "answer": "Jom kita bincang lagi."
+    }
+  ]
+}
