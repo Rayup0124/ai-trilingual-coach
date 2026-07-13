@@ -1,0 +1,124 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for assistance",
+      "expressions": {
+        "en": "Could you help me?",
+        "cn": "你可以帮我吗？",
+        "bm_formal": "Bolehkah anda bantu saya?",
+        "bm_casual": "Boleh tolong sikit?"
+      }
+    },
+    {
+      "concept": "Expressing understanding/acknowledgement",
+      "expressions": {
+        "en": "I understand. / Got it.",
+        "cn": "我明白了。",
+        "bm_formal": "Saya faham.",
+        "bm_casual": "Faham. / Okay, faham."
+      }
+    },
+    {
+      "concept": "Asking for clarification/details",
+      "expressions": {
+        "en": "Could you explain further?",
+        "cn": "你能再解释一下吗？",
+        "bm_formal": "Bolehkah anda terangkan dengan lebih lanjut?",
+        "bm_casual": "Boleh cerita lagi? / Boleh terang lagi?"
+      }
+    },
+    {
+      "concept": "Expressing gratitude sincerely",
+      "expressions": {
+        "en": "Thank you very much.",
+        "cn": "非常感谢。",
+        "bm_formal": "Terima kasih banyak-banyak.",
+        "bm_casual": "Terima kasih banyak."
+      }
+    },
+    {
+      "concept": "Apologizing for a mistake or inconvenience",
+      "expressions": {
+        "en": "I apologize for the inconvenience.",
+        "cn": "很抱歉给您带来不便。",
+        "bm_formal": "Saya mohon maaf atas kesulitan ini.",
+        "bm_casual": "Maaf ya, susahkan."
+      }
+    },
+    {
+      "concept": "Requesting permission politely",
+      "expressions": {
+        "en": "May I use this?",
+        "cn": "我可以用这个吗？",
+        "bm_formal": "Bolehkah saya menggunakan ini?",
+        "bm_casual": "Boleh saya pakai ini?"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are in the office. Your colleague looks stressed with a report, your manager is explaining a new project, and you need to use the shared printer.",
+      "key_phrases": [
+        "Bolehkah anda bantu saya?",
+        "Saya faham.",
+        "Bolehkah anda terangkan dengan lebih lanjut?",
+        "Boleh saya pakai ini?",
+        "Terima kasih banyak-banyak."
+      ]
+    },
+    "life": {
+      "scenario": "You are at the local market. You accidentally bump into someone, you need help carrying heavy groceries, and the vendor's explanation about a product is unclear.",
+      "key_phrases": [
+        "Maaf ya, susahkan.",
+        "Boleh tolong sikit?",
+        "Boleh cerita lagi?",
+        "Terima kasih banyak."
+      ]
+    },
+    "tech": {
+      "scenario": "You're having trouble with your laptop. You need help troubleshooting, you don't understand an error message, and you need to borrow a friend's charger.",
+      "key_phrases": [
+        "Boleh tolong sikit?",
+        "Bolehkah anda terangkan dengan lebih lanjut?",
+        "Boleh saya pakai ini?",
+        "Saya faham.",
+        "Terima kasih banyak-banyak."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask 'Could you help me?' in Malay?",
+      "answer": "Bolehkah anda bantu saya?"
+    },
+    {
+      "question": "What's a casual way to say 'I understand' in Malay?",
+      "answer": "Faham."
+    },
+    {
+      "question": "If you want someone to explain something further, what's a formal Malay phrase?",
+      "answer": "Bolehkah anda terangkan dengan lebih lanjut?"
+    },
+    {
+      "question": "How do you express 'Thank you very much' in a slightly less formal but still polite Malay way?",
+      "answer": "Terima kasih banyak."
+    },
+    {
+      "question": "What do you say casually to apologize for causing inconvenience?",
+      "answer": "Maaf ya, susahkan."
+    },
+    {
+      "question": "How would you casually ask 'May I use this?' in Malay?",
+      "answer": "Boleh saya pakai ini?"
+    },
+    {
+      "question": "What is the casual Malay expression for 'Could you help me?' (你可以帮我吗？)",
+      "answer": "Boleh tolong sikit?"
+    },
+    {
+      "question": "How do you formally acknowledge understanding (我明白了。) in Malay?",
+      "answer": "Saya faham."
+    }
+  ]
+}
