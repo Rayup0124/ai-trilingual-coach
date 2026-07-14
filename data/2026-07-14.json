@@ -1,0 +1,119 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To update (software/information)",
+      "expressions": {
+        "en": "To update (software/information)",
+        "cn": "更新 (gēngxīn)",
+        "bm_formal": "Mengemaskini",
+        "bm_casual": "Update / Kemas kini"
+      }
+    },
+    {
+      "concept": "Internet connection / Network coverage",
+      "expressions": {
+        "en": "Internet connection / Network coverage",
+        "cn": "网络连接 / 信号 (wǎngluò liánjiē / xìnhào)",
+        "bm_formal": "Sambungan internet / Liputan rangkaian",
+        "bm_casual": "Line internet / Internet ada / Signal ada"
+      }
+    },
+    {
+      "concept": "Digital transformation",
+      "expressions": {
+        "en": "Digital transformation",
+        "cn": "数字化转型 (shùzìhuà zhuǎnxíng)",
+        "bm_formal": "Transformasi digital",
+        "bm_casual": "Transformasi digital / Digitalisasi"
+      }
+    },
+    {
+      "concept": "Online platform / E-commerce site",
+      "expressions": {
+        "en": "Online platform / E-commerce site",
+        "cn": "线上平台 / 电商网站 (xiànshàng píngtái / diànshāng wǎngzhàn)",
+        "bm_formal": "Platform dalam talian / Laman e-dagang",
+        "bm_casual": "Online platform / Laman web jual beli online"
+      }
+    },
+    {
+      "concept": "To troubleshoot / Fix a technical issue",
+      "expressions": {
+        "en": "To troubleshoot / Fix a technical issue",
+        "cn": "排除故障 / 解决技术问题 (páichú gùzhàng / jiějué jìshù wèntí)",
+        "bm_formal": "Menyelesaikan masalah teknikal / Mengatasi isu",
+        "bm_casual": "Betulkan masalah / Repair / Settle masalah"
+      }
+    },
+    {
+      "concept": "Artificial Intelligence (AI)",
+      "expressions": {
+        "en": "Artificial Intelligence (AI)",
+        "cn": "人工智能 (réngōng zhìnéng)",
+        "bm_formal": "Kecerdasan Buatan (KB)",
+        "bm_casual": "AI / Artificial Intelligence"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are in a team meeting discussing the need to improve internal systems and processes to stay competitive.",
+      "key_phrases": [
+        "Kita perlu mengemaskini sistem HR kita untuk kecekapan.",
+        "Transformasi digital penting untuk kekal relevan dalam pasaran kini.",
+        "Semua data akan diuruskan melalui platform dalam talian yang baru."
+      ]
+    },
+    "life": {
+      "scenario": "You are at home, trying to stream a movie, but the internet is slow. You also need to buy groceries online and ask for help.",
+      "key_phrases": [
+        "Aduh, line internet ni slow betul, tak ada signal ke?",
+        "Jom kita guna online platform untuk beli barang dapur.",
+        "Boleh tak tolong betulkan masalah Wi-Fi ni?"
+      ]
+    },
+    "tech": {
+      "scenario": "You are an IT support personnel explaining a technical issue to a user and later discussing future technology trends with a colleague.",
+      "key_phrases": [
+        "Saya akan cuba menyelesaikan masalah teknikal ini secepat mungkin.",
+        "Untuk sistem operasi, kita perlu update ke versi terkini.",
+        "Kecerdasan Buatan (AI) akan mengubah banyak industri dalam masa akan datang."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'To update (software)' formally in Malay?",
+      "answer": "Mengemaskini"
+    },
+    {
+      "question": "What's a casual Malay way to say 'Internet connection'?",
+      "answer": "Line internet / Internet ada"
+    },
+    {
+      "question": "How would you express 'Digital transformation' in formal Malay?",
+      "answer": "Transformasi digital"
+    },
+    {
+      "question": "What is 'Online platform' in casual Malay?",
+      "answer": "Online platform / Laman web jual beli online"
+    },
+    {
+      "question": "How to say 'To troubleshoot a technical issue' formally in Malay?",
+      "answer": "Menyelesaikan masalah teknikal / Mengatasi isu"
+    },
+    {
+      "question": "What is the formal Malay term for 'Artificial Intelligence'?",
+      "answer": "Kecerdasan Buatan (KB)"
+    },
+    {
+      "question": "中文 '更新' 的马来文非正式说法是什么？ (What is the casual Malay for 'update'?)",
+      "answer": "Update / Kemas kini"
+    },
+    {
+      "question": "中文 '网络连接' 的马来文正式说法是什么？ (What is the formal Malay for 'internet connection'?)",
+      "answer": "Sambungan internet"
+    }
+  ]
+}
