@@ -2,134 +2,110 @@
   "theme": "Technology & Development",
   "vocabulary_focus": [
     {
-      "concept": "To update / Upgrade (software/system)",
+      "concept": "To update/upgrade a system/software",
       "expressions": {
-        "en": "To update / Upgrade",
-        "cn": "更新 / 升级 (Gēngxīn / Shēngjí)",
-        "bm_formal": "Mengemaskini / Menaiktaraf",
-        "bm_casual": "Update / Upgrade / Kemas kini"
+        "en": "To update/upgrade the system/software",
+        "cn": "更新/升级系统/软件 (gēngxīn/shēngjí xìtǒng/ruǎnjiàn)",
+        "bm_formal": "Mengemaskini/menaiktaraf sistem/perisian",
+        "bm_casual": "Update/upgrade sistem/software"
       }
     },
     {
-      "concept": "Digital transformation",
+      "concept": "To troubleshoot a technical issue",
       "expressions": {
-        "en": "Digital transformation",
-        "cn": "数字化转型 (Shùzìhuà zhuǎnxíng)",
-        "bm_formal": "Transformasi digital",
-        "bm_casual": "Transformasi digital / Tukar ke digital"
+        "en": "To troubleshoot a technical issue",
+        "cn": "排除技术问题 (páichú jìshù wèntí)",
+        "bm_formal": "Menyelesaikan isu teknikal / Mengesan punca masalah teknikal",
+        "bm_casual": "Troubleshoot masalah teknikal / Betulkan masalah tech"
       }
     },
     {
-      "concept": "Online platform / System",
+      "concept": "To back up important data",
       "expressions": {
-        "en": "Online platform / System",
-        "cn": "线上平台 / 系统 (Xiànshàng píngtái / Xìtǒng)",
-        "bm_formal": "Platform dalam talian / Sistem dalam talian",
-        "bm_casual": "Platform online / Sistem online"
+        "en": "To back up important data",
+        "cn": "备份重要数据 (bèifèn zhòngyào shùjù)",
+        "bm_formal": "Membuat salinan sandaran data penting",
+        "bm_casual": "Backup data penting"
       }
     },
     {
-      "concept": "Data analysis / To analyze data",
+      "concept": "To connect to the internet / go online",
       "expressions": {
-        "en": "Data analysis / To analyze data",
-        "cn": "数据分析 / 分析数据 (Shùjù fēnxī / Fēnxī shùjù)",
-        "bm_formal": "Analisis data / Menganalisis data",
-        "bm_casual": "Analisis data / Buat analisis data / Check data"
+        "en": "To connect to the internet / go online",
+        "cn": "连接到互联网 / 上网 (liánjiē dào hùliánwǎng / shàngwǎng)",
+        "bm_formal": "Menyambungkan ke internet / Melayari internet",
+        "bm_casual": "Connect internet / Online"
       }
     },
     {
-      "concept": "Artificial Intelligence (AI)",
+      "concept": "To develop a new solution/application",
       "expressions": {
-        "en": "Artificial Intelligence (AI)",
-        "cn": "人工智能 (Réngōng zhìnéng)",
-        "bm_formal": "Kecerdasan Buatan (AI)",
-        "bm_casual": "AI / Kecerdasan Buatan"
+        "en": "To develop a new solution/application",
+        "cn": "开发新方案/应用程序 (kāifā xīn fāng'àn/yìngyòng chéngxù)",
+        "bm_formal": "Membangunkan penyelesaian/aplikasi baharu",
+        "bm_casual": "Develop solution/app baru"
       }
     },
     {
-      "concept": "Cybersecurity / Data security",
+      "concept": "Embracing digital transformation",
       "expressions": {
-        "en": "Cybersecurity / Data security",
-        "cn": "网络安全 / 数据安全 (Wǎngluò ānquán / Shùjù ānquán)",
-        "bm_formal": "Keselamatan siber / Keselamatan data",
-        "bm_casual": "Cybersecurity / Data security / Jaga data"
+        "en": "Embracing digital transformation",
+        "cn": "拥抱数字化转型 (yǒngbào shùzìhuà zhuǎnxíng)",
+        "bm_formal": "Menerima transformasi digital",
+        "bm_casual": "Terima transformasi digital / Guna digitalisasi"
       }
     }
   ],
   "practice_scenarios": {
     "work": {
-      "scenario": "During a team meeting, discussing the company's new digital strategy and system upgrades.",
+      "scenario": "During a team meeting, the project manager discusses the need to update the company's CRM system and develop a new internal tool to streamline operations. They emphasize the importance of embracing digital transformation for future growth.",
       "key_phrases": [
-        "Kita perlu mengemaskini sistem kita untuk transformasi digital.",
-        "Analisis data menunjukkan kita perlu menaiktaraf platform dalam talian.",
-        "Bagaimana kita boleh memastikan keselamatan siber untuk semua data syarikat?"
+        "Kita perlu **mengemaskini sistem** CRM kita.",
+        "Pasukan IT sedang **membangunkan aplikasi baharu** untuk pengurusan projek.",
+        "Penting untuk syarikat kita **menerima transformasi digital** sepenuhnya."
       ]
     },
     "life": {
-      "scenario": "Talking to a friend about a new app or a personal device, and its features or issues.",
+      "scenario": "Your friend calls, frustrated because their laptop is slow and they can't connect to the internet. You advise them to troubleshoot the problem and back up their important photos and documents.",
       "key_phrases": [
-        "Saya kena update apps ni, kalau tak nanti tak boleh guna.",
-        "Platform online ni senang nak guna untuk beli barang.",
-        "AI dalam telefon baru ni memang canggih, boleh tolong banyak benda."
+        "Cuba **troubleshoot masalah teknikal** tu dulu.",
+        "Awak patut **backup data penting** dalam laptop tu.",
+        "Kenapa awak tak boleh **connect internet** ni?"
       ]
     },
     "tech": {
-      "scenario": "A developer or IT support explaining a technical issue or new feature to a user.",
+      "scenario": "At a tech conference, a speaker highlights the critical role of regular software updates for security and the continuous development of new solutions to meet evolving user needs. They also touch on the importance of data backup strategies.",
       "key_phrases": [
-        "Untuk meningkatkan prestasi, kita perlu menaiktaraf perisian ini.",
-        "Kami sedang menganalisis data untuk mengenal pasti punca masalah.",
-        "Penting untuk mengukuhkan keselamatan siber terhadap ancaman baharu."
+        "Kita mesti sentiasa **mengemaskini perisian** untuk memastikan keselamatan.",
+        "Syarikat teknologi sentiasa **membangunkan penyelesaian baharu** untuk pasaran.",
+        "Jangan lupa untuk **membuat salinan sandaran** data anda secara berkala."
       ]
     }
   },
   "quiz_toggle": [
     {
-      "question": "How do you say 'To update / Upgrade' (formal) in Malay?",
-      "answer": "Mengemaskini / Menaiktaraf"
+      "question": "How do you say 'to update the software' formally in Malay?",
+      "answer": "Mengemaskini perisian."
     },
     {
-      "question": "How do you say 'Digital transformation' (casual) in Malay?",
-      "answer": "Transformasi digital / Tukar ke digital"
+      "question": "我们可以如何排除技术问题？(How can we troubleshoot a technical issue?)",
+      "answer": "Kita boleh menyelesaikan isu teknikal."
     },
     {
-      "question": "How do you say 'Online platform' (formal) in Malay?",
-      "answer": "Platform dalam talian"
+      "question": "What's the casual Malay way to say 'to back up important data'?",
+      "answer": "Backup data penting."
     },
     {
-      "question": "How do you say 'To analyze data' (casual) in Malay?",
-      "answer": "Buat analisis data / Check data"
+      "question": "我无法连接到互联网。(I cannot connect to the internet.) How would you say 'connect to the internet' casually in Malay?",
+      "answer": "Connect internet."
     },
     {
-      "question": "How do you say 'Artificial Intelligence (AI)' (formal) in Malay?",
-      "answer": "Kecerdasan Buatan (AI)"
+      "question": "How would you formally say 'to develop a new application' in Malay?",
+      "answer": "Membangunkan aplikasi baharu."
     },
     {
-      "question": "How do you say 'Cybersecurity' (casual) in Malay?",
-      "answer": "Cybersecurity / Jaga data"
-    },
-    {
-      "question": "更新 / 升级 (Gēngxīn / Shēngjí) (casual) in Malay?",
-      "answer": "Update / Upgrade / Kemas kini"
-    },
-    {
-      "question": "数字化转型 (Shùzìhuà zhuǎnxíng) (formal) in Malay?",
-      "answer": "Transformasi digital"
-    },
-    {
-      "question": "线上平台 (Xiànshàng píngtái) (casual) in Malay?",
-      "answer": "Platform online"
-    },
-    {
-      "question": "数据分析 (Shùjù fēnxī) (formal) in Malay?",
-      "answer": "Analisis data"
-    },
-    {
-      "question": "人工智能 (Réngōng zhìnéng) (casual) in Malay?",
-      "answer": "AI / Kecerdasan Buatan"
-    },
-    {
-      "question": "网络安全 (Wǎngluò ānquán) (formal) in Malay?",
-      "answer": "Keselamatan siber"
+      "question": "公司应该拥抱数字化转型。(The company should embrace digital transformation.) What's the formal Malay term for 'digital transformation'?",
+      "answer": "Transformasi digital."
     }
   ]
 }
