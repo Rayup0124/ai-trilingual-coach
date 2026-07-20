@@ -1,0 +1,111 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To update (software/information)",
+      "expressions": {
+        "en": "To update",
+        "cn": "更新 (gēngxīn)",
+        "bm_formal": "Mengemaskini",
+        "bm_casual": "Update / Kemas kini"
+      }
+    },
+    {
+      "concept": "To develop / To innovate (a product/solution)",
+      "expressions": {
+        "en": "To develop / To innovate",
+        "cn": "开发 / 创新 (kāifā / chuàngxīn)",
+        "bm_formal": "Membangunkan / Menginovasi",
+        "bm_casual": "Bangunkan / Cipta benda baru"
+      }
+    },
+    {
+      "concept": "To go digital / To digitalize",
+      "expressions": {
+        "en": "To go digital / To digitalize",
+        "cn": "数字化 (shùzìhuà)",
+        "bm_formal": "Mendigitalkan / Beralih ke digital",
+        "bm_casual": "Jadi digital / Guna digital"
+      }
+    },
+    {
+      "concept": "Internet connection / connectivity",
+      "expressions": {
+        "en": "Internet connection / connectivity",
+        "cn": "网络连接 (wǎngluò liánjiē)",
+        "bm_formal": "Sambungan internet / Ketersambungan internet",
+        "bm_casual": "Line internet / Internet ada"
+      }
+    },
+    {
+      "concept": "Online platform / system",
+      "expressions": {
+        "en": "Online platform / system",
+        "cn": "在线平台 / 系统 (zàixiàn píngtái / xìtǒng)",
+        "bm_formal": "Platform dalam talian / Sistem dalam talian",
+        "bm_casual": "Platform online / Sistem online"
+      }
+    },
+    {
+      "concept": "Technical issue / problem",
+      "expressions": {
+        "en": "Technical issue / problem",
+        "cn": "技术问题 (jìshù wèntí)",
+        "bm_formal": "Isu teknikal / Masalah teknikal",
+        "bm_casual": "Masalah teknikal / Rosak"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Your team needs to launch a new project. You have to update the existing system and resolve some technical issues before the official rollout. (你的团队需要启动一个新项目。你必须在正式推出前更新现有系统并解决一些技术问题。)",
+      "key_phrases": [
+        "Kita perlu mengemaskini sistem sedia ada.",
+        "Ada beberapa isu teknikal yang perlu diselesaikan segera.",
+        "Pasukan sedang membangunkan platform baharu."
+      ]
+    },
+    "life": {
+      "scenario": "You're trying to attend an online class or stream a movie at home. You need to ensure your phone apps are updated and your internet connection is stable. (你正在家里尝试参加在线课程或观看电影。你需要确保你的手机应用程序已更新，并且你的网络连接稳定。)",
+      "key_phrases": [
+        "Saya kena update semua aplikasi dalam telefon saya.",
+        "Sambungan internet saya tak berapa elok hari ini.",
+        "Ramai orang sekarang guna pembayaran jadi digital."
+      ]
+    },
+    "tech": {
+      "scenario": "A startup is developing an innovative online platform for sustainable agriculture. They are facing intermittent internet connectivity issues during their beta testing phase, which affects data synchronization. (一家初创公司正在开发一个创新的可持续农业在线平台。他们在测试阶段面临间歇性网络连接问题，这影响了数据同步。)",
+      "key_phrases": [
+        "Kami sedang membangunkan platform dalam talian yang menginovasi.",
+        "Ketersambungan internet yang tidak stabil menjejaskan ujian.",
+        "Ada masalah teknikal dengan sistem sinkronisasi data."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'to update (software)' in formal Malay? (如何用正式马来语说 '更新软件'？)",
+      "answer": "Mengemaskini"
+    },
+    {
+      "question": "What's the casual Malay way to say 'Internet connection'? (用非正式马来语怎么说 '网络连接'？)",
+      "answer": "Line internet / Internet ada"
+    },
+    {
+      "question": "Translate 'technical issue' into formal Malay. (将 '技术问题' 翻译成正式马来语。)",
+      "answer": "Isu teknikal / Masalah teknikal"
+    },
+    {
+      "question": "How would you say 'to develop a new system' in casual Malay? (如何用非正式马来语说 '开发一个新系统'？)",
+      "answer": "Bangunkan sistem baru"
+    },
+    {
+      "question": "What is 'online platform' in formal Malay? (在正式马来语中，'在线平台' 是什么？)",
+      "answer": "Platform dalam talian"
+    },
+    {
+      "question": "Translate 'to go digital' (e.g., for a business) into casual Malay. (将 '数字化' (例如，对于一家企业) 翻译成非正式马来语。)",
+      "answer": "Jadi digital / Guna digital"
+    }
+  ]
+}
