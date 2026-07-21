@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting Information/Document",
+      "expressions": {
+        "en": "Could you please send me the report?",
+        "cn": "你能把报告发给我吗？",
+        "bm_formal": "Boleh tuan/puan/cik kirimkan laporan itu kepada saya?",
+        "bm_casual": "Boleh hantar report tu kat saya?"
+      }
+    },
+    {
+      "concept": "Scheduling a Meeting",
+      "expressions": {
+        "en": "Let's schedule a meeting for next week.",
+        "cn": "我们下周安排个会议吧。",
+        "bm_formal": "Mari kita aturkan satu mesyuarat pada minggu hadapan.",
+        "bm_casual": "Jom kita set meeting minggu depan."
+      }
+    },
+    {
+      "concept": "Following Up",
+      "expressions": {
+        "en": "I'll follow up on that.",
+        "cn": "我会跟进这件事。",
+        "bm_formal": "Saya akan susulan perkara itu.",
+        "bm_casual": "Saya akan follow up pasal tu."
+      }
+    },
+    {
+      "concept": "Thanking for Understanding",
+      "expressions": {
+        "en": "Thank you for your understanding.",
+        "cn": "谢谢您的理解。",
+        "bm_formal": "Terima kasih atas kefahaman anda.",
+        "bm_casual": "Thanks for understanding."
+      }
+    },
+    {
+      "concept": "Promising a Quick Response",
+      "expressions": {
+        "en": "I'll get back to you shortly.",
+        "cn": "我会尽快回复你。",
+        "bm_formal": "Saya akan maklum balas kepada anda dalam masa terdekat.",
+        "bm_casual": "Saya akan reply sekejap lagi."
+      }
+    },
+    {
+      "concept": "Seeking Clarification",
+      "expressions": {
+        "en": "Could you clarify this point?",
+        "cn": "你能澄清一下这一点吗？",
+        "bm_formal": "Boleh tuan/puan/cik jelaskan perkara ini?",
+        "bm_casual": "Boleh explain sikit pasal ni?"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're coordinating a project with your team. You need to request an updated report, schedule a follow-up meeting, and acknowledge a delay.",
+      "key_phrases": [
+        "Boleh tuan/puan/cik kirimkan laporan terkini?",
+        "Mari kita aturkan mesyuarat susulan.",
+        "Terima kasih atas kefahaman anda."
+      ]
+    },
+    "life": {
+      "scenario": "You're planning a weekend trip with friends. You need to confirm details, follow up on RSVPs, and promise to share the itinerary soon.",
+      "key_phrases": [
+        "Jom kita set date untuk trip.",
+        "Saya akan follow up siapa yang confirm.",
+        "Saya akan reply itinerary sekejap lagi."
+      ]
+    },
+    "tech": {
+      "scenario": "You're reporting a software bug to technical support. You need to clarify the issue, request a solution, and thank them for their help.",
+      "key_phrases": [
+        "Boleh explain sikit masalah ni?",
+        "Boleh hantar solution tu?",
+        "Terima kasih faham masalah saya."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask \"Could you please send me the document?\" in Malay?",
+      "answer": "Boleh tuan/puan/cik kirimkan dokumen itu kepada saya?"
+    },
+    {
+      "question": "How would you casually say \"Let's schedule a meeting next week\" in Malay?",
+      "answer": "Jom kita set meeting minggu depan."
+    },
+    {
+      "question": "你会怎么说 \"I'll follow up on that\" (casual) in Malay?",
+      "answer": "Saya akan follow up pasal tu."
+    },
+    {
+      "question": "How do you formally express \"Thank you for your understanding\" in Malay?",
+      "answer": "Terima kasih atas kefahaman anda."
+    },
+    {
+      "question": "How do you say \"I'll get back to you shortly\" (casual) in Malay?",
+      "answer": "Saya akan reply sekejap lagi."
+    },
+    {
+      "question": "你会怎么说 \"Could you clarify this point?\" (formal) in Malay?",
+      "answer": "Boleh tuan/puan/cik jelaskan perkara ini?"
+    }
+  ]
+}
