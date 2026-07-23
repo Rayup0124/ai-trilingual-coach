@@ -1,0 +1,118 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To update (software/information)",
+      "expressions": {
+        "en": "To update (software/information)",
+        "cn": "更新 (Gēngxīn)",
+        "bm_formal": "Mengemaskini",
+        "bm_casual": "Update / Kemas kini"
+      }
+    },
+    {
+      "concept": "To upgrade (system/hardware)",
+      "expressions": {
+        "en": "To upgrade (system/hardware)",
+        "cn": "升级 (Shēngjí)",
+        "bm_formal": "Menaik taraf",
+        "bm_casual": "Upgrade / Naik taraf"
+      }
+    },
+    {
+      "concept": "To digitalize / Go digital",
+      "expressions": {
+        "en": "To digitalize / Go digital",
+        "cn": "数字化 (Shùzìhuà)",
+        "bm_formal": "Mendigitalkan",
+        "bm_casual": "Digitalkan / Jadi digital"
+      }
+    },
+    {
+      "concept": "Innovative solution",
+      "expressions": {
+        "en": "Innovative solution",
+        "cn": "创新方案 (Chuàngxīn fāng'àn)",
+        "bm_formal": "Penyelesaian inovatif",
+        "bm_casual": "Cara baru / Solusi inovatif"
+      }
+    },
+    {
+      "concept": "Data security",
+      "expressions": {
+        "en": "Data security",
+        "cn": "数据安全 (Shùjù ānquán)",
+        "bm_formal": "Keselamatan data",
+        "bm_casual": "Keselamatan data / Data selamat"
+      }
+    },
+    {
+      "concept": "Efficient system",
+      "expressions": {
+        "en": "Efficient system",
+        "cn": "高效系统 (Gāoxiào xìtǒng)",
+        "bm_formal": "Sistem yang cekap",
+        "bm_casual": "Sistem efisien / Sistem yang laju/bagus"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Our team needs to regularly **update** the project status and we are planning to **upgrade** our current software to a more **efficient system** to improve productivity. We also need to ensure **data security** during this **digitalization** process.",
+      "key_phrases": [
+        "mengemaskini status projek",
+        "menaik taraf perisian",
+        "sistem yang cekap",
+        "keselamatan data",
+        "mendigitalkan proses"
+      ]
+    },
+    "life": {
+      "scenario": "My phone needs a software **update**. I also want to **upgrade** my internet package for a more **efficient system** at home. It's important to keep my personal **data secure** when using online services. Many daily tasks are now **digitalized**.",
+      "key_phrases": [
+        "kemas kini perisian",
+        "naik taraf pakej internet",
+        "sistem yang efisien",
+        "data selamat",
+        "didigitalkan"
+      ]
+    },
+    "tech": {
+      "scenario": "We need to develop an **innovative solution** for our next product. The goal is to make the system more **efficient** and ensure robust **data security**. We also need to regularly **update** our tech stack and consider **upgrading** our infrastructure to support future **digitalization** efforts.",
+      "key_phrases": [
+        "penyelesaian inovatif",
+        "sistem yang cekap",
+        "keselamatan data",
+        "mengemaskini",
+        "menaik taraf",
+        "pendigitalan"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'to update (software/information)' in Malay? (更新)",
+      "answer": "Mengemaskini / Update / Kemas kini"
+    },
+    {
+      "question": "What is the Malay term for 'to upgrade (system/hardware)'? (升级)",
+      "answer": "Menaik taraf / Upgrade / Naik taraf"
+    },
+    {
+      "question": "How would you say 'to digitalize' in Malay? (数字化)",
+      "answer": "Mendigitalkan / Digitalkan / Jadi digital"
+    },
+    {
+      "question": "What is the Malay phrase for 'innovative solution'? (创新方案)",
+      "answer": "Penyelesaian inovatif / Cara baru / Solusi inovatif"
+    },
+    {
+      "question": "How do you express 'data security' in Malay? (数据安全)",
+      "answer": "Keselamatan data / Data selamat"
+    },
+    {
+      "question": "What is the Malay term for 'efficient system'? (高效系统)",
+      "answer": "Sistem yang cekap / Sistem efisien / Sistem yang laju/bagus"
+    }
+  ]
+}
