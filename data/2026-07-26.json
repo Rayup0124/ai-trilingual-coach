@@ -1,0 +1,111 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To update (software/information)",
+      "expressions": {
+        "en": "To update",
+        "cn": "更新 (gēngxīn)",
+        "bm_formal": "Mengemas kini",
+        "bm_casual": "Update / Kemas kini"
+      }
+    },
+    {
+      "concept": "To develop/create (a system/app/project)",
+      "expressions": {
+        "en": "To develop / To create",
+        "cn": "开发 (kāifā) / 创建 (chuàngjiàn)",
+        "bm_formal": "Membangunkan / Mencipta",
+        "bm_casual": "Bangunkan / Buat"
+      }
+    },
+    {
+      "concept": "User-friendly",
+      "expressions": {
+        "en": "User-friendly",
+        "cn": "用户友好 (yònghù yǒuhǎo)",
+        "bm_formal": "Mesra pengguna",
+        "bm_casual": "Senang guna / Mesra pengguna"
+      }
+    },
+    {
+      "concept": "To go viral / To trend",
+      "expressions": {
+        "en": "To go viral / To trend",
+        "cn": "爆红 (bàohóng) / 流行 (liúxíng)",
+        "bm_formal": "Menjadi tular / Menjadi sohor kini",
+        "bm_casual": "Viral / Trending"
+      }
+    },
+    {
+      "concept": "Digital transformation",
+      "expressions": {
+        "en": "Digital transformation",
+        "cn": "数字化转型 (shùzìhuà zhuǎnxíng)",
+        "bm_formal": "Transformasi digital",
+        "bm_casual": "Transformasi digital"
+      }
+    },
+    {
+      "concept": "To troubleshoot / To fix an issue",
+      "expressions": {
+        "en": "To troubleshoot / To fix an issue",
+        "cn": "解决问题 (jiějué wèntí) / 排除故障 (páichú gùzhàng)",
+        "bm_formal": "Menyelesaikan masalah / Mengatasi isu",
+        "bm_casual": "Settle masalah / Betulkan"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're in a team meeting discussing the next phase of your company's mobile app. The manager wants to ensure the new features are easy for users to adopt.",
+      "key_phrases": [
+        "Kita perlu **mengemas kini** aplikasi",
+        "Pastikan ciri baharu **mesra pengguna**",
+        "Sasaran kita adalah **membangunkan** satu sistem yang stabil"
+      ]
+    },
+    "life": {
+      "scenario": "You're chatting with a friend about a new social media trend and a problem you're having with your smartphone.",
+      "key_phrases": [
+        "Video kucing tu dah **viral** sangat!",
+        "Telefon saya ada masalah, tak tahu nak **betulkan** macam mana.",
+        "Aplikasi ni **senang guna**, sesuai untuk semua orang."
+      ]
+    },
+    "tech": {
+      "scenario": "As an IT professional, you're discussing the company's long-term strategy for digital adoption and how to handle recurring technical glitches.",
+      "key_phrases": [
+        "Fokus utama kita adalah **transformasi digital** syarikat.",
+        "Kita perlu **mengatasi isu** keselamatan data ini segera.",
+        "Sila **kemas kini** perisian pelayan secara berkala."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'user-friendly' in formal Malay? (用户友好)",
+      "answer": "Mesra pengguna"
+    },
+    {
+      "question": "What's the casual Malay way to say 'to fix an issue'? (解决问题)",
+      "answer": "Settle masalah / Betulkan"
+    },
+    {
+      "question": "What is the formal Malay term for 'digital transformation'? (数字化转型)",
+      "answer": "Transformasi digital"
+    },
+    {
+      "question": "How would you casually say 'this video went viral' in Malay? (这个视频爆红了)",
+      "answer": "Video ni dah viral"
+    },
+    {
+      "question": "What is the formal Malay term for 'to develop a system'? (开发一个系统)",
+      "answer": "Membangunkan sistem"
+    },
+    {
+      "question": "What is the casual Malay for 'please update the software'? (请更新软件)",
+      "answer": "Tolong update software tu / Tolong kemas kini perisian tu"
+    }
+  ]
+}
