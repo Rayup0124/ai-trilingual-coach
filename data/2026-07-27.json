@@ -1,0 +1,112 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting Assistance",
+      "expressions": {
+        "en": "Could you help me with this?",
+        "cn": "你可以帮我这个吗？",
+        "bm_formal": "Bolehkah encik/puan bantu saya dengan perkara ini?",
+        "bm_casual": "Boleh tolong saya sikit tak?"
+      }
+    },
+    {
+      "concept": "Acknowledging Understanding / Confirmation",
+      "expressions": {
+        "en": "Understood / Got it.",
+        "cn": "明白了 / 好的。",
+        "bm_formal": "Saya faham / Maklum.",
+        "bm_casual": "Faham / Okay / Dapat."
+      }
+    },
+    {
+      "concept": "Promising to Investigate / Follow Up",
+      "expressions": {
+        "en": "Let me check / I will look into it.",
+        "cn": "让我查一下 / 我会去了解。",
+        "bm_formal": "Biar saya semak / Saya akan teliti.",
+        "bm_casual": "Jap, saya cek / Nanti saya tengok."
+      }
+    },
+    {
+      "concept": "Expressing Gratitude",
+      "expressions": {
+        "en": "Thank you for your cooperation / help.",
+        "cn": "谢谢您的合作 / 帮助。",
+        "bm_formal": "Terima kasih atas kerjasama / bantuan anda.",
+        "bm_casual": "Terima kasih / TQ."
+      }
+    },
+    {
+      "concept": "Apologizing for a Mistake",
+      "expressions": {
+        "en": "My apologies / I made a mistake.",
+        "cn": "我很抱歉 / 我犯错了。",
+        "bm_formal": "Saya mohon maaf atas kesilapan ini.",
+        "bm_casual": "Maaf ya / Sorry lah."
+      }
+    },
+    {
+      "concept": "Suggesting Further Discussion",
+      "expressions": {
+        "en": "Let's discuss this further / We need to talk.",
+        "cn": "我们再深入讨论一下 / 我们需要谈谈。",
+        "bm_formal": "Mari kita bincangkan hal ini dengan lebih lanjut.",
+        "bm_casual": "Jom bincang lagi / Kena borak ni."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are working on a critical report and need some data from a colleague, Amir. You need to ask for his help urgently, acknowledge his response, and confirm you'll process it.",
+      "key_phrases": [
+        "Amir, bolehkah encik bantu saya dengan data ini secepat mungkin?",
+        "Baik, saya faham. Terima kasih atas bantuan encik.",
+        "Saya akan teliti data ini dan maklumkan kepada encik nanti."
+      ]
+    },
+    "life": {
+      "scenario": "You're planning a weekend gathering with friends. You need to ask your friend, Siti, for her input, acknowledge her suggestions, and then suggest a follow-up chat to finalize details, also apologizing for a slight delay.",
+      "key_phrases": [
+        "Siti, boleh tolong saya bagi idea untuk aktiviti?",
+        "Okay, faham! Terima kasih untuk cadangan tu.",
+        "Maaf ya lambat balas. Jom bincang lagi nanti petang."
+      ]
+    },
+    "tech": {
+      "scenario": "You're having trouble installing new software and need help from the IT department. After getting initial instructions, you realize you made a small error during the installation process and need to follow up.",
+      "key_phrases": [
+        "Bolehkah tuan/puan bantu saya mengenai isu pemasangan perisian ini?",
+        "Saya faham arahan tersebut, terima kasih.",
+        "Saya mohon maaf, saya tersilap langkah ketika pemasangan tadi.",
+        "Biar saya semak semula, dan mari kita bincangkan jika ada masalah lagi."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'Could you help me with this?' informally in Malay?",
+      "answer": "Boleh tolong saya sikit tak?"
+    },
+    {
+      "question": "How do you say 'I understand / Got it' formally in Malay?",
+      "answer": "Saya faham / Maklum."
+    },
+    {
+      "question": "How to say '让我查一下' (Let me check) in casual Malay?",
+      "answer": "Jap, saya cek."
+    },
+    {
+      "question": "What's the formal Malay for 'Thank you for your cooperation'?",
+      "answer": "Terima kasih atas kerjasama anda."
+    },
+    {
+      "question": "How would you casually apologize for a mistake in Malay?",
+      "answer": "Maaf ya / Sorry lah."
+    },
+    {
+      "question": "How to say '我们再深入讨论一下' (Let's discuss this further) in formal Malay?",
+      "answer": "Mari kita bincangkan hal ini dengan lebih lanjut."
+    }
+  ]
+}
