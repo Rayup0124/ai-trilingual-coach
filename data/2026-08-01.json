@@ -1,0 +1,122 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Greeting / Inquiry about well-being",
+      "expressions": {
+        "en": "How are you? / What's up?",
+        "cn": "你好吗？/ 怎么样？",
+        "bm_formal": "Apa khabar?",
+        "bm_casual": "Apa cerita? / Macam mana?"
+      }
+    },
+    {
+      "concept": "Expressing gratitude",
+      "expressions": {
+        "en": "Thank you very much / Thanks a lot",
+        "cn": "非常感谢 / 谢谢你",
+        "bm_formal": "Terima kasih banyak-banyak.",
+        "bm_casual": "Terima kasih! / TQ!"
+      }
+    },
+    {
+      "concept": "Apology / Attracting attention",
+      "expressions": {
+        "en": "Excuse me / Sorry",
+        "cn": "对不起 / 不好意思",
+        "bm_formal": "Maafkan saya.",
+        "bm_casual": "Sorry ah / Maaf ya."
+      }
+    },
+    {
+      "concept": "Offering assistance",
+      "expressions": {
+        "en": "Can I help you? / Need help?",
+        "cn": "我可以帮你吗？/ 需要帮忙吗？",
+        "bm_formal": "Boleh saya bantu?",
+        "bm_casual": "Nak saya tolong? / Ada apa-apa?"
+      }
+    },
+    {
+      "concept": "Acknowledging / Reassuring (No problem)",
+      "expressions": {
+        "en": "No problem / It's okay",
+        "cn": "没问题 / 没关系",
+        "bm_formal": "Tiada masalah / Tidak mengapa.",
+        "bm_casual": "Takpe / Okay je."
+      }
+    },
+    {
+      "concept": "Requesting someone to pause",
+      "expressions": {
+        "en": "Please wait a moment / Hold on",
+        "cn": "请稍等",
+        "bm_formal": "Sila tunggu sebentar.",
+        "bm_casual": "Tunggu kejap. / Sekejap ya."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're at the office. A colleague accidentally spills coffee on your desk and quickly apologizes. You then offer to help them with a task they're struggling with, and they thank you profusely.",
+      "key_phrases": [
+        "Maafkan saya.",
+        "Tiada masalah.",
+        "Boleh saya bantu?",
+        "Terima kasih banyak-banyak."
+      ]
+    },
+    "life": {
+      "scenario": "You're at a local 'mamak' restaurant. You need to get the waiter's attention to ask for the bill, and then you thank them after paying. Someone bumps into you slightly as you leave.",
+      "key_phrases": [
+        "Maaf ya.",
+        "Tunggu kejap (for the bill).",
+        "Terima kasih!",
+        "Takpe."
+      ]
+    },
+    "tech": {
+      "scenario": "You're on a customer support call for your internet service. The agent needs to check some details and asks you to hold. After resolving the issue, they ask if you need further assistance and you thank them.",
+      "key_phrases": [
+        "Sila tunggu sebentar.",
+        "Boleh saya bantu?",
+        "Tiada masalah.",
+        "Terima kasih."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask 'How are you?' in Malay?",
+      "answer": "Apa khabar?"
+    },
+    {
+      "question": "Translate '非常感谢' into casual Malay.",
+      "answer": "Terima kasih! / TQ!"
+    },
+    {
+      "question": "What is the formal Malay expression for 'Excuse me' or 'Sorry'?",
+      "answer": "Maafkan saya."
+    },
+    {
+      "question": "How would you casually offer help, saying 'Can I help you?' in Malay?",
+      "answer": "Nak saya tolong? / Ada apa-apa?"
+    },
+    {
+      "question": "If someone apologizes, how do you casually say 'No problem' or 'It's okay' in Malay?",
+      "answer": "Takpe / Okay je."
+    },
+    {
+      "question": "Translate '请稍等' into formal Malay.",
+      "answer": "Sila tunggu sebentar."
+    },
+    {
+      "question": "What is a casual way to ask 'What's up?' in Malay?",
+      "answer": "Apa cerita? / Macam mana?"
+    },
+    {
+      "question": "How do you formally say 'Thank you very much' in Malay?",
+      "answer": "Terima kasih banyak-banyak."
+    }
+  ]
+}
