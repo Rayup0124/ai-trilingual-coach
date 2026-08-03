@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting Assistance/Action",
+      "expressions": {
+        "en": "Could you please? / Can you?",
+        "cn": "你可以请吗？/ 你能吗？",
+        "bm_formal": "Bolehkah anda? / Sila",
+        "bm_casual": "Boleh tak? / Tolong"
+      }
+    },
+    {
+      "concept": "Acknowledging Understanding",
+      "expressions": {
+        "en": "I understand. / Got it.",
+        "cn": "我明白了。/ 知道了。",
+        "bm_formal": "Saya faham. / Saya mengerti.",
+        "bm_casual": "Faham. / Okay. / Dapat."
+      }
+    },
+    {
+      "concept": "Requesting Information/Updates",
+      "expressions": {
+        "en": "Please let me know. / Inform me.",
+        "cn": "请告诉我。/ 请通知我。",
+        "bm_formal": "Sila maklumkan saya. / Beritahu saya.",
+        "bm_casual": "Bagitahu saya. / Update saya."
+      }
+    },
+    {
+      "concept": "Apologizing",
+      "expressions": {
+        "en": "I apologize. / Sorry.",
+        "cn": "我感到抱歉。/ 对不起。",
+        "bm_formal": "Saya memohon maaf. / Maafkan saya.",
+        "bm_casual": "Maaf. / Sorry."
+      }
+    },
+    {
+      "concept": "Expressing Gratitude",
+      "expressions": {
+        "en": "Thank you. / Thanks.",
+        "cn": "谢谢你。/ 谢谢。",
+        "bm_formal": "Terima kasih.",
+        "bm_casual": "Terima kasih. / Thanks."
+      }
+    },
+    {
+      "concept": "Suggesting a Meeting",
+      "expressions": {
+        "en": "Could we schedule a meeting? / Let's meet.",
+        "cn": "我们可以安排一个会议吗？/ 我们见面吧。",
+        "bm_formal": "Bolehkah kita menjadualkan mesyuarat? / Mari kita bermesyuarat.",
+        "bm_casual": "Jom meeting. / Nak jumpa tak?"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're working on a tight deadline for a project report and need a colleague to review a section.",
+      "key_phrases": [
+        "Bolehkah anda semak bahagian ini untuk saya?",
+        "Sila maklumkan saya jika ada sebarang pembetulan.",
+        "Terima kasih atas bantuan anda."
+      ]
+    },
+    "life": {
+      "scenario": "You're trying to arrange a casual catch-up with a friend over the weekend.",
+      "key_phrases": [
+        "Jom lepak hujung minggu ni?",
+        "Bagitahu saya bila free.",
+        "Faham, nanti saya confirm balik."
+      ]
+    },
+    "tech": {
+      "scenario": "You're experiencing a persistent bug in a new software update and are communicating with technical support.",
+      "key_phrases": [
+        "Saya faham langkah-langkah yang perlu diambil.",
+        "Boleh tak tolong jelaskan lagi tentang error code ni?",
+        "Maaf atas kesulitan ini, saya akan cuba ikut arahan anda."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask 'Could you please send the report?'",
+      "answer": "Bolehkah anda hantar laporan itu?"
+    },
+    {
+      "question": "What's a casual way to say 'Got it' in Malay?",
+      "answer": "Faham. / Dapat."
+    },
+    {
+      "question": "How would you formally say 'Please inform me of the progress'?",
+      "answer": "Sila maklumkan saya tentang kemajuan."
+    },
+    {
+      "question": "What's a casual way to apologize for a small mistake?",
+      "answer": "Maaf. / Sorry."
+    },
+    {
+      "question": "How do you say 'Thank you' in Malay?",
+      "answer": "Terima kasih."
+    },
+    {
+      "question": "How would you casually suggest 'Let's meet for lunch'?",
+      "answer": "Jom lunch. / Nak jumpa tak untuk makan tengah hari?"
+    }
+  ]
+}
