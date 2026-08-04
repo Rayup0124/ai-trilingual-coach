@@ -1,0 +1,114 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for help",
+      "expressions": {
+        "en": "Can you help me?",
+        "cn": "你能帮我吗？",
+        "bm_formal": "Bolehkah anda membantu saya?",
+        "bm_casual": "Boleh tolong saya?"
+      }
+    },
+    {
+      "concept": "Expressing understanding",
+      "expressions": {
+        "en": "I understand. / Got it.",
+        "cn": "我明白了。",
+        "bm_formal": "Saya faham.",
+        "bm_casual": "Faham. / Okay, faham."
+      }
+    },
+    {
+      "concept": "Asking for repetition",
+      "expressions": {
+        "en": "Could you repeat that?",
+        "cn": "你能再说一遍吗？",
+        "bm_formal": "Bolehkah anda mengulangi semula?",
+        "bm_casual": "Boleh ulang balik?"
+      }
+    },
+    {
+      "concept": "Expressing appreciation",
+      "expressions": {
+        "en": "I appreciate your help.",
+        "cn": "我很感激你的帮助。",
+        "bm_formal": "Saya amat menghargai bantuan anda.",
+        "bm_casual": "Saya hargai bantuan awak."
+      }
+    },
+    {
+      "concept": "Asking to pass through / Excuse me",
+      "expressions": {
+        "en": "Excuse me, may I pass?",
+        "cn": "不好意思，我可以过去吗？",
+        "bm_formal": "Maafkan saya, boleh saya lalu?",
+        "bm_casual": "Tumpang lalu."
+      }
+    },
+    {
+      "concept": "Something is not working / There's a problem",
+      "expressions": {
+        "en": "It's not working. / There's a problem.",
+        "cn": "它不工作了。/ 有问题。",
+        "bm_formal": "Ia tidak berfungsi. / Ada masalah.",
+        "bm_casual": "Tak function. / Ada problem."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are in a team meeting discussing a new project. Your manager explains a complex part of the plan, and you need to ask for clarification. Later, you encounter a technical glitch with the project software and need to report it.",
+      "key_phrases": [
+        "Bolehkah anda mengulangi semula?",
+        "Saya faham.",
+        "Ada masalah.",
+        "Bolehkah anda membantu saya?"
+      ]
+    },
+    "life": {
+      "scenario": "You are at a crowded pasar malam (night market) and need to move through a packed area. Later, you're trying to fix a faulty kitchen appliance at home and need your family's help.",
+      "key_phrases": [
+        "Tumpang lalu.",
+        "Boleh tolong saya?",
+        "Tak function.",
+        "Saya hargai bantuan awak."
+      ]
+    },
+    "tech": {
+      "scenario": "You're on a customer support call trying to fix your internet connection. The agent gives instructions that are hard to follow. You also need to explain that your Wi-Fi router isn't working at all.",
+      "key_phrases": [
+        "Boleh ulang balik?",
+        "Tak function.",
+        "Ada problem.",
+        "Saya faham."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How would you formally ask for help in Malay?",
+      "answer": "Bolehkah anda membantu saya?"
+    },
+    {
+      "question": "我明白了。(How do you say 'I understand' casually in Malay?)",
+      "answer": "Faham."
+    },
+    {
+      "question": "How would you casually ask someone to repeat something in Malay?",
+      "answer": "Boleh ulang balik?"
+    },
+    {
+      "question": "我很感激你的帮助。(How do you say 'I appreciate your help' casually in Malay?)",
+      "answer": "Saya hargai bantuan awak."
+    },
+    {
+      "question": "How would you politely ask to pass through a crowded area in Malay?",
+      "answer": "Tumpang lalu."
+    },
+    {
+      "question": "它不工作了。(How do you say 'It's not working' casually in Malay?)",
+      "answer": "Tak function."
+    }
+  ]
+}
