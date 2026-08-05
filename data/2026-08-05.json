@@ -1,0 +1,111 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To innovate / Innovation",
+      "expressions": {
+        "en": "To innovate / Innovation",
+        "cn": "创新 (chuàngxīn)",
+        "bm_formal": "Menginovasi / Inovasi",
+        "bm_casual": "Buat benda baru / Idea baru"
+      }
+    },
+    {
+      "concept": "To implement / Implementation",
+      "expressions": {
+        "en": "To implement / Implementation",
+        "cn": "实施 (shíshī)",
+        "bm_formal": "Melaksanakan / Pelaksanaan",
+        "bm_casual": "Buat / Jalankan / Buat benda tu jadi"
+      }
+    },
+    {
+      "concept": "To upgrade / To update",
+      "expressions": {
+        "en": "To upgrade / To update",
+        "cn": "升级 (shēngjí) / 更新 (gēngxīn)",
+        "bm_formal": "Menaik taraf / Mengemas kini",
+        "bm_casual": "Upgrade / Update / Naik taraf / Kemas kini"
+      }
+    },
+    {
+      "concept": "To digitalize / Digitalization",
+      "expressions": {
+        "en": "To digitalize / Digitalization",
+        "cn": "数字化 (shùzìhuà)",
+        "bm_formal": "Mendigitalkan / Pendigitalan",
+        "bm_casual": "Digitalkan / Jadi digital"
+      }
+    },
+    {
+      "concept": "Technical issue / Glitch",
+      "expressions": {
+        "en": "Technical issue / Glitch",
+        "cn": "技术问题 (jìshù wèntí) / 小故障 (xiǎo gùzhàng)",
+        "bm_formal": "Masalah teknikal / Gangguan teknikal",
+        "bm_casual": "Masalah teknikal / Glitch / Ada problem"
+      }
+    },
+    {
+      "concept": "User-friendly / Easy to use",
+      "expressions": {
+        "en": "User-friendly / Easy to use",
+        "cn": "用户友好 (yònghù yǒuhǎo) / 容易使用 (róngyì shǐyòng)",
+        "bm_formal": "Mesra pengguna / Mudah digunakan",
+        "bm_casual": "Senang guna / User-friendly"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are in a team meeting discussing the launch of a new internal system. Your manager asks about the progress and potential challenges.",
+      "key_phrases": [
+        "Kita perlu **melaksanakan** sistem baru ini dengan lancar.",
+        "Adakah kita ada **inovasi** dalam proses kerja ini?",
+        "Pastikan tiada **masalah teknikal** yang serius semasa pelancaran."
+      ]
+    },
+    "life": {
+      "scenario": "You're helping your friend troubleshoot their phone after a recent software update. They complain about new issues.",
+      "key_phrases": [
+        "Kenapa lepas **update** phone ni, asyik ada **glitch** je?",
+        "Mungkin kena **naik taraf** sistem operasi tu lagi.",
+        "Harap-harap lepas ni phone kau jadi lebih **senang guna**."
+      ]
+    },
+    "tech": {
+      "scenario": "As a developer, you're presenting a new feature for a mobile application. You need to highlight its benefits and address potential concerns.",
+      "key_phrases": [
+        "Fungsi baru ini direka untuk menjadi sangat **mesra pengguna**.",
+        "Proses **pendigitalan** borang akan memudahkan pelanggan.",
+        "Kami sedang mencari cara untuk **menginovasi** antaramuka pengguna."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'to implement' (formal)?",
+      "answer": "Melaksanakan"
+    },
+    {
+      "question": "What is the casual Malay for 'technical issue'?",
+      "answer": "Masalah teknikal / Glitch / Ada problem"
+    },
+    {
+      "question": "如何用马来语说 'user-friendly' (formal)? (Rúhé yòng Mǎláiyǔ shuō 'user-friendly' (fórmǎl)? - How to say 'user-friendly' (formal) in Malay?)",
+      "answer": "Mesra pengguna"
+    },
+    {
+      "question": "What is the formal Malay for 'innovation'?",
+      "answer": "Inovasi"
+    },
+    {
+      "question": "如何用马来语说 'to upgrade' (casual, common loanword)? (Rúhé yòng Mǎláiyǔ shuō 'to upgrade' (kājuāl, gōngtōng lònwòd)? - How to say 'to upgrade' (casual, common loanword) in Malay?)",
+      "answer": "Upgrade"
+    },
+    {
+      "question": "How do you say 'to digitalize' (formal)?",
+      "answer": "Mendigitalkan"
+    }
+  ]
+}
