@@ -1,0 +1,122 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To innovate / To develop new things",
+      "expressions": {
+        "en": "To innovate / To develop new things",
+        "cn": "创新 / 开发新事物 (Chuàngxīn / Kāifā xīn shìwù)",
+        "bm_formal": "Menginovasi / Membangunkan sesuatu yang baharu",
+        "bm_casual": "Buat benda baru / Cipta benda baru"
+      }
+    },
+    {
+      "concept": "Digital transformation",
+      "expressions": {
+        "en": "Digital transformation",
+        "cn": "数字化转型 (Shùzìhuà zhuǎnxíng)",
+        "bm_formal": "Transformasi digital",
+        "bm_casual": "Tukar ke digital / Jadi digital"
+      }
+    },
+    {
+      "concept": "User-friendly",
+      "expressions": {
+        "en": "User-friendly",
+        "cn": "用户友好 (Yònghù yǒuhǎo)",
+        "bm_formal": "Mesra pengguna",
+        "bm_casual": "Senang guna / Mudah pakai"
+      }
+    },
+    {
+      "concept": "To troubleshoot / To fix a technical issue",
+      "expressions": {
+        "en": "To troubleshoot / To fix a technical issue",
+        "cn": "解决技术问题 (Jiějué jìshù wèntí)",
+        "bm_formal": "Menyelesaikan masalah teknikal",
+        "bm_casual": "Betulkan masalah teknikal / Repair masalah"
+      }
+    },
+    {
+      "concept": "Online platform / system",
+      "expressions": {
+        "en": "Online platform / system",
+        "cn": "在线平台 / 系统 (Zàixiàn píngtái / Xìtǒng)",
+        "bm_formal": "Platform dalam talian / Sistem dalam talian",
+        "bm_casual": "Sistem online / Platform online"
+      }
+    },
+    {
+      "concept": "Data privacy / Data security",
+      "expressions": {
+        "en": "Data privacy / Data security",
+        "cn": "数据隐私 / 数据安全 (Shùjù yǐnsī / Shùjù ānquán)",
+        "bm_formal": "Privasi data / Keselamatan data",
+        "bm_casual": "Data peribadi selamat / Jaga data"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "During a project meeting, your team discusses plans to 'develop a new online platform' for customer service. The manager emphasizes that it must be 'user-friendly' and asks about strategies for 'digital transformation' within the company's existing operations. Later, a colleague asks how to 'troubleshoot a technical issue' with the presentation software.",
+      "key_phrases": [
+        "membangunkan platform dalam talian",
+        "mesra pengguna",
+        "transformasi digital",
+        "menyelesaikan masalah teknikal"
+      ]
+    },
+    "life": {
+      "scenario": "You're helping an elderly relative set up a new government 'online platform' for healthcare appointments. You assure them it's 'easy to use' and explain the importance of 'data privacy' for their personal information. When the app crashes, you casually say you'll 'fix the technical issue'.",
+      "key_phrases": [
+        "platform online",
+        "senang guna",
+        "data peribadi selamat",
+        "betulkan masalah teknikal"
+      ]
+    },
+    "tech": {
+      "scenario": "At a tech conference, you're discussing the latest trends. One speaker talks about how companies 'innovate new things' through 'digital transformation'. Another panelist highlights the critical need for 'data security' when 'developing online systems' to prevent cyber threats.",
+      "key_phrases": [
+        "menginovasi sesuatu yang baharu",
+        "transformasi digital",
+        "keselamatan data",
+        "membangunkan sistem dalam talian"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'To innovate / To develop new things' in formal Malay?",
+      "answer": "Menginovasi / Membangunkan sesuatu yang baharu"
+    },
+    {
+      "question": " '数字化转型' (Digital transformation) in casual Malay is?",
+      "answer": "Tukar ke digital / Jadi digital"
+    },
+    {
+      "question": "What is 'User-friendly' in formal Malay?",
+      "answer": "Mesra pengguna"
+    },
+    {
+      "question": "How would you casually say 'To fix a technical issue' in Malay?",
+      "answer": "Betulkan masalah teknikal / Repair masalah"
+    },
+    {
+      "question": "The formal Malay term for 'Online platform' is?",
+      "answer": "Platform dalam talian"
+    },
+    {
+      "question": " '数据隐私' (Data privacy) in casual Malay is?",
+      "answer": "Data peribadi selamat / Jaga data"
+    },
+    {
+      "question": "If a system is 'mudah pakai', what does it mean in English?",
+      "answer": "User-friendly"
+    },
+    {
+      "question": "What is the formal Malay for 'Digital transformation'?",
+      "answer": "Transformasi digital"
+    }
+  ]
+}
