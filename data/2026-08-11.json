@@ -1,0 +1,111 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To innovate / To develop (new ideas)",
+      "expressions": {
+        "en": "To innovate / To develop (new ideas)",
+        "cn": "创新 / 开发 (新想法)",
+        "bm_formal": "Berinovasi / Membangunkan (idea baharu)",
+        "bm_casual": "Cipta benda baru / Buat benda baru"
+      }
+    },
+    {
+      "concept": "Digital transformation",
+      "expressions": {
+        "en": "Digital transformation",
+        "cn": "数字化转型",
+        "bm_formal": "Transformasi digital",
+        "bm_casual": "Tukar jadi digital / Guna digital"
+      }
+    },
+    {
+      "concept": "Online platform / Digital platform",
+      "expressions": {
+        "en": "Online platform / Digital platform",
+        "cn": "线上平台 / 数字平台",
+        "bm_formal": "Platform dalam talian / Platform digital",
+        "bm_casual": "Platform online / Aplikasi (Apps)"
+      }
+    },
+    {
+      "concept": "Data analysis / To analyze data",
+      "expressions": {
+        "en": "Data analysis / To analyze data",
+        "cn": "数据分析 / 分析数据",
+        "bm_formal": "Analisis data / Menganalisis data",
+        "bm_casual": "Cek data / Tengok data"
+      }
+    },
+    {
+      "concept": "Artificial Intelligence (AI)",
+      "expressions": {
+        "en": "Artificial Intelligence (AI)",
+        "cn": "人工智能 (AI)",
+        "bm_formal": "Kecerdasan Buatan (AI)",
+        "bm_casual": "AI (common usage) / Mesin pintar"
+      }
+    },
+    {
+      "concept": "Sustainable development",
+      "expressions": {
+        "en": "Sustainable development",
+        "cn": "可持续发展",
+        "bm_formal": "Pembangunan lestari / Pembangunan mampan",
+        "bm_casual": "Pembangunan kekal / Pembangunan mesra alam"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "During a team meeting, the manager discusses the need to innovate and adopt digital transformation for better efficiency and future growth.",
+      "key_phrases": [
+        "Kita perlu berinovasi untuk kekal relevan.",
+        "Transformasi digital adalah kunci kejayaan syarikat.",
+        "Bagaimana kita boleh membangunkan idea baharu untuk projek ini?"
+      ]
+    },
+    "life": {
+      "scenario": "You're talking to a friend about a new government initiative that uses an online platform for public services and its impact on daily life, also touching on environmental concerns.",
+      "key_phrases": [
+        "Ada platform dalam talian baru untuk urusan kerajaan.",
+        "Senanglah sekarang, semua tukar jadi digital.",
+        "Pembangunan lestari penting untuk masa depan generasi kita."
+      ]
+    },
+    "tech": {
+      "scenario": "You're at a tech conference, listening to a presentation about the role of Artificial Intelligence in data analysis and its ethical implications for sustainable development in smart cities.",
+      "key_phrases": [
+        "Kecerdasan Buatan membantu kita menganalisis data dengan lebih pantas.",
+        "Bagaimana AI menyokong pembangunan lestari dalam bandar pintar?",
+        "Platform digital membolehkan kita kumpul banyak data untuk kajian."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'Digital transformation' in formal Malay?",
+      "answer": "Transformasi digital"
+    },
+    {
+      "question": "How do you say 'To innovate new ideas' in casual Malay? (创造新想法)",
+      "answer": "Cipta benda baru"
+    },
+    {
+      "question": "What is the formal Malay term for 'Sustainable development'?",
+      "answer": "Pembangunan lestari / Pembangunan mampan"
+    },
+    {
+      "question": "How would you casually say 'Online platform' in Malay? (线上平台)",
+      "answer": "Platform online / Aplikasi (Apps)"
+    },
+    {
+      "question": "What is 'Artificial Intelligence' in formal Malay?",
+      "answer": "Kecerdasan Buatan (AI)"
+    },
+    {
+      "question": "How do you say 'To analyze data' in formal Malay? (分析数据)",
+      "answer": "Menganalisis data"
+    }
+  ]
+}
