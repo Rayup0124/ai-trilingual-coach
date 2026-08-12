@@ -1,0 +1,119 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for an update/status",
+      "expressions": {
+        "en": "What's the status/update?",
+        "cn": "最新进展如何？/ 情况怎样了？",
+        "bm_formal": "Apakah status/kemas kini terkini?",
+        "bm_casual": "Macam mana dah? / Ada update tak?"
+      }
+    },
+    {
+      "concept": "Confirming understanding/agreement",
+      "expressions": {
+        "en": "Do you understand? / Are we clear?",
+        "cn": "你明白吗？/ 我们清楚了吗？",
+        "bm_formal": "Adakah anda faham? / Adakah kita jelas?",
+        "bm_casual": "Faham tak? / Jelas tak?"
+      }
+    },
+    {
+      "concept": "Suggesting a meeting/discussion",
+      "expressions": {
+        "en": "Let's discuss this. / Shall we talk?",
+        "cn": "我们来讨论一下吧。/ 我们谈谈好吗？",
+        "bm_formal": "Mari kita bincangkan perkara ini. / Bolehkah kita berbincang?",
+        "bm_casual": "Jom bincang. / Kita sembang kejap?"
+      }
+    },
+    {
+      "concept": "Asking for clarification",
+      "expressions": {
+        "en": "Could you explain/clarify?",
+        "cn": "你能解释/澄清一下吗？",
+        "bm_formal": "Bolehkah anda jelaskan/huraikan?",
+        "bm_casual": "Boleh terang sikit? / Maksudnya apa?"
+      }
+    },
+    {
+      "concept": "Expressing availability/unavailability",
+      "expressions": {
+        "en": "I'm available/free. / I'm busy.",
+        "cn": "我有空。/ 我很忙。",
+        "bm_formal": "Saya lapang/tersedia. / Saya sibuk.",
+        "bm_casual": "Aku free. / Aku busy."
+      }
+    },
+    {
+      "concept": "Offering/Asking for help",
+      "expressions": {
+        "en": "Can I help you? / Can you help me?",
+        "cn": "我能帮你吗？/ 你能帮我吗？",
+        "bm_formal": "Bolehkah saya bantu anda? / Bolehkah anda bantu saya?",
+        "bm_casual": "Boleh aku tolong kau? / Boleh tolong aku?"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Your manager asks for a project update. You need to ask a team member for their task status and then suggest a quick discussion to consolidate the information before reporting back. You also need to confirm if everyone understands the next steps.",
+      "key_phrases": [
+        "Macam mana dah?",
+        "Jom bincang.",
+        "Adakah kita jelas?"
+      ]
+    },
+    "life": {
+      "scenario": "You're planning a weekend outing with friends – a hiking trip. You need to confirm everyone understands the meeting point and time, check their availability, and later, you might need help carrying some heavy gear.",
+      "key_phrases": [
+        "Faham tak?",
+        "Aku free.",
+        "Boleh tolong aku?"
+      ]
+    },
+    "tech": {
+      "scenario": "A colleague is explaining a complex software bug fix and uses a lot of technical jargon. You need to ask for clarification on a specific point and then offer to help them test the solution once it's implemented.",
+      "key_phrases": [
+        "Boleh terang sikit?",
+        "Bolehkah saya bantu anda?",
+        "Adakah anda faham?"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you ask 'What's the update?' casually in Malay?",
+      "answer": "Macam mana dah? / Ada update tak?"
+    },
+    {
+      "question": "你想确认对方是否明白，正式的马来语怎么说？",
+      "answer": "Adakah anda faham?"
+    },
+    {
+      "question": "How do you suggest 'Let's discuss this' in a casual Malay setting?",
+      "answer": "Jom bincang."
+    },
+    {
+      "question": "你想请对方解释一下，比较随意的马来语怎么说？",
+      "answer": "Boleh terang sikit? / Maksudnya apa?"
+    },
+    {
+      "question": "How to say 'I'm busy' formally in Malay?",
+      "answer": "Saya sibuk."
+    },
+    {
+      "question": "我可以帮你吗？(Casual Malay)",
+      "answer": "Boleh aku tolong kau?"
+    },
+    {
+      "question": "How to ask 'Are we clear?' formally in Malay?",
+      "answer": "Adakah kita jelas?"
+    },
+    {
+      "question": "你想知道最新进展，正式的马来语怎么说？",
+      "answer": "Apakah status terkini?"
+    }
+  ]
+}
