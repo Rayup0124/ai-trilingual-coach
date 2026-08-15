@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting information/documents",
+      "expressions": {
+        "en": "Please send me/us",
+        "cn": "请发给我/我们",
+        "bm_formal": "Sila hantarkan kepada saya/kami",
+        "bm_casual": "Tolong hantar kat saya/kita"
+      }
+    },
+    {
+      "concept": "Committing to follow up",
+      "expressions": {
+        "en": "I'll follow up on this.",
+        "cn": "我会跟进这件事。",
+        "bm_formal": "Saya akan susulan perkara ini.",
+        "bm_casual": "Saya akan follow up/cek balik."
+      }
+    },
+    {
+      "concept": "Proposing a meeting",
+      "expressions": {
+        "en": "Let's schedule a meeting.",
+        "cn": "我们安排个会议吧。",
+        "bm_formal": "Mari kita jadualkan satu mesyuarat.",
+        "bm_casual": "Jom kita set/atur meeting."
+      }
+    },
+    {
+      "concept": "Seeking clarification",
+      "expressions": {
+        "en": "Could you clarify?",
+        "cn": "你能解释一下吗？",
+        "bm_formal": "Boleh jelaskan lebih lanjut?",
+        "bm_casual": "Boleh explain/terangkan lagi?"
+      }
+    },
+    {
+      "concept": "Committing to a deadline",
+      "expressions": {
+        "en": "I'll get it done by",
+        "cn": "我会在之前完成。",
+        "bm_formal": "Saya akan siapkan sebelum/pada",
+        "bm_casual": "Saya akan settlekan sebelum/by"
+      }
+    },
+    {
+      "concept": "Expressing gratitude for cooperation",
+      "expressions": {
+        "en": "Thank you for your cooperation.",
+        "cn": "谢谢您的合作。",
+        "bm_formal": "Terima kasih atas kerjasama anda.",
+        "bm_casual": "Thanks for your cooperation/kerjasama."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Your manager needs the quarterly sales report by end of day. You also need to confirm a meeting time with a client regarding a new project.",
+      "key_phrases": [
+        "Sila hantarkan laporan jualan suku tahunan.",
+        "Saya akan siapkan sebelum petang ini.",
+        "Mari kita jadualkan satu mesyuarat dengan pelanggan."
+      ]
+    },
+    "life": {
+      "scenario": "You're planning a weekend trip with friends and need to confirm everyone's availability and preferences for activities. One friend seems unclear about the proposed itinerary for the second day.",
+      "key_phrases": [
+        "Jom kita set meeting untuk bincang trip.",
+        "Boleh explain lagi tak pasal aktiviti hari kedua ni?",
+        "Thanks for your kerjasama untuk plan trip ni."
+      ]
+    },
+    "tech": {
+      "scenario": "You're collaborating on a shared document with a remote team. You need a colleague to send you the latest version of a design file and clarify a technical specification. You also need to remind them you'll follow up on a bug report from yesterday.",
+      "key_phrases": [
+        "Tolong hantar kat saya fail design yang latest.",
+        "Boleh terangkan lagi tak spec teknikal ni?",
+        "Saya akan follow up pasal bug report tu."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally say 'Please send me the report' in Malay?",
+      "answer": "Sila hantarkan laporan itu kepada saya."
+    },
+    {
+      "question": "Translate 'I'll follow up on this' (casual) into Malay.",
+      "answer": "Saya akan follow up/cek balik."
+    },
+    {
+      "question": "Translate 'Let's schedule a meeting' (formal) into Malay.",
+      "answer": "Mari kita jadualkan satu mesyuarat."
+    },
+    {
+      "question": "你能解释一下吗？ (Could you clarify?) - How to say this casually in Malay?",
+      "answer": "Boleh explain/terangkan lagi?"
+    },
+    {
+      "question": "How do you formally say 'I'll get it done by Friday' in Malay?",
+      "answer": "Saya akan siapkan sebelum hari Jumaat."
+    },
+    {
+      "question": "Translate 'Thank you for your cooperation' (casual) into Malay.",
+      "answer": "Thanks for your cooperation/kerjasama."
+    }
+  ]
+}
