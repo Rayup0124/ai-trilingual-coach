@@ -1,0 +1,111 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for help",
+      "expressions": {
+        "en": "Could you help me?",
+        "cn": "你可以帮我吗？",
+        "bm_formal": "Bolehkah anda membantu saya?",
+        "bm_casual": "Boleh tolong saya?"
+      }
+    },
+    {
+      "concept": "Asking for clarification/repetition",
+      "expressions": {
+        "en": "Could you repeat that? / Pardon?",
+        "cn": "你可以再说一遍吗？",
+        "bm_formal": "Bolehkah anda mengulanginya?",
+        "bm_casual": "Boleh ulang balik?"
+      }
+    },
+    {
+      "concept": "Expressing agreement",
+      "expressions": {
+        "en": "I agree. / That's right.",
+        "cn": "我同意。",
+        "bm_formal": "Saya bersetuju.",
+        "bm_casual": "Setuju."
+      }
+    },
+    {
+      "concept": "Asking to wait",
+      "expressions": {
+        "en": "Please wait a moment.",
+        "cn": "请稍等一下。",
+        "bm_formal": "Sila tunggu sebentar.",
+        "bm_casual": "Tunggu kejap."
+      }
+    },
+    {
+      "concept": "Asking for permission/Is it okay?",
+      "expressions": {
+        "en": "Is it okay? / May I?",
+        "cn": "可以吗？",
+        "bm_formal": "Adakah ini dibenarkan?",
+        "bm_casual": "Boleh ke?"
+      }
+    },
+    {
+      "concept": "Apologizing",
+      "expressions": {
+        "en": "I'm sorry. / My apologies.",
+        "cn": "对不起。",
+        "bm_formal": "Saya minta maaf.",
+        "bm_casual": "Minta maaf."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "During a team meeting, you're discussing project deadlines and need to confirm some details with a colleague. You also need to express agreement with a proposal.",
+      "key_phrases": [
+        "Bolehkah anda membantu saya fahamkan jadual ini?",
+        "Sila tunggu sebentar, saya perlu semak data ini.",
+        "Saya bersetuju dengan cadangan itu."
+      ]
+    },
+    "life": {
+      "scenario": "You're at a local market trying to buy some fruit, and the vendor tells you the price quickly. You also need to ask if you can pay with an e-wallet.",
+      "key_phrases": [
+        "Maaf, boleh ulang balik harga buah ni?",
+        "Boleh ke bayar guna e-dompet?",
+        "Minta maaf sebab lambat sampai."
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a computer issue with a friend over the phone and need to ask them to wait while you check something, and then confirm if a step is okay.",
+      "key_phrases": [
+        "Tunggu kejap, saya tengah reboot modem.",
+        "Boleh ke saya install update ni sekarang?",
+        "Bolehkah anda bantu saya setup akaun baru ni?"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you casually ask someone to help you?",
+      "answer": "Boleh tolong saya?"
+    },
+    {
+      "question": "What's a casual way to ask someone to repeat something?",
+      "answer": "Boleh ulang balik?"
+    },
+    {
+      "question": "How do you formally express agreement?",
+      "answer": "Saya bersetuju."
+    },
+    {
+      "question": "How do you casually ask someone to wait a moment?",
+      "answer": "Tunggu kejap."
+    },
+    {
+      "question": "How do you casually ask if something is okay?",
+      "answer": "Boleh ke?"
+    },
+    {
+      "question": "What's a common casual way to apologize?",
+      "answer": "Minta maaf."
+    }
+  ]
+}
