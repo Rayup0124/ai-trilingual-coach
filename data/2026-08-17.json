@@ -1,0 +1,111 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To update / upgrade",
+      "expressions": {
+        "en": "To update / upgrade",
+        "cn": "更新 / 升级",
+        "bm_formal": "Mengemaskini / Menaik taraf",
+        "bm_casual": "Update / Naik taraf"
+      }
+    },
+    {
+      "concept": "To troubleshoot / fix an issue",
+      "expressions": {
+        "en": "To troubleshoot / fix an issue",
+        "cn": "解决问题 / 排除故障",
+        "bm_formal": "Menyelesaikan masalah / Mengatasi isu",
+        "bm_casual": "Settle masalah / Baiki"
+      }
+    },
+    {
+      "concept": "To develop / create",
+      "expressions": {
+        "en": "To develop / create",
+        "cn": "开发 / 创建",
+        "bm_formal": "Membangunkan / Mencipta",
+        "bm_casual": "Develop / Buat"
+      }
+    },
+    {
+      "concept": "To utilize / make use of",
+      "expressions": {
+        "en": "To utilize / make use of",
+        "cn": "利用 / 使用",
+        "bm_formal": "Memanfaatkan / Menggunakan",
+        "bm_casual": "Guna / Pakai"
+      }
+    },
+    {
+      "concept": "To innovate / introduce new ideas",
+      "expressions": {
+        "en": "To innovate / introduce new ideas",
+        "cn": "创新 / 引进新概念",
+        "bm_formal": "Berinovasi / Memperkenalkan idea baharu",
+        "bm_casual": "Buat inovasi / Ada idea baru"
+      }
+    },
+    {
+      "concept": "To be digitally savvy / literate",
+      "expressions": {
+        "en": "To be digitally savvy / literate",
+        "cn": "精通数码 / 有数码素养",
+        "bm_formal": "Mahir digital / Celik digital",
+        "bm_casual": "Pandai guna digital / Tahu digital"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "During a project meeting, discussing improvements and challenges for a new system or software.",
+      "key_phrases": [
+        "Kita perlu mengemaskini perisian ini dengan segera.",
+        "Bagaimana kita boleh menyelesaikan masalah teknikal ini?",
+        "Pasukan kami sedang membangunkan sistem baharu untuk meningkatkan kecekapan."
+      ]
+    },
+    "life": {
+      "scenario": "Chatting with friends or family about new gadgets, useful apps, or personal digital skills.",
+      "key_phrases": [
+        "Saya nak naik taraf telefon ni, yang lama dah slow.",
+        "Kita patut memanfaatkan aplikasi pengangkutan awam tu.",
+        "Anak saya memang pandai guna digital, semua benda dia tahu."
+      ]
+    },
+    "tech": {
+      "scenario": "In a tech forum or discussion, talking about new technologies and future developments in the industry.",
+      "key_phrases": [
+        "Syarikat itu sedang membangunkan aplikasi AI yang sangat inovatif.",
+        "Bagaimana kita boleh berinovasi dalam bidang teknologi hijau?",
+        "Penting untuk kita sentiasa mengemaskini kemahiran digital kita."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'to update the software' formally in Malay?",
+      "answer": "Mengemaskini perisian"
+    },
+    {
+      "question": "What's a casual way to say 'to fix the problem' in Malay?",
+      "answer": "Settle masalah / Baiki masalah"
+    },
+    {
+      "question": "如何正式地说 'to develop a new system' (开发一个新的系统) in Malay?",
+      "answer": "Membangunkan sistem baharu"
+    },
+    {
+      "question": "What does 'memanfaatkan teknologi' mean in English?",
+      "answer": "To utilize technology"
+    },
+    {
+      "question": "How do you say 'to innovate' casually in Malay?",
+      "answer": "Buat inovasi / Ada idea baru"
+    },
+    {
+      "question": "If someone is 'digitally savvy,' how would you describe them casually in Malay?",
+      "answer": "Pandai guna digital / Tahu digital"
+    }
+  ]
+}
