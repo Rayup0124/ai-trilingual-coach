@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting Information/Document",
+      "expressions": {
+        "en": "Please send me",
+        "cn": "请发给我",
+        "bm_formal": "Mohon hantar kepada saya",
+        "bm_casual": "Boleh hantar kat saya / Hantar kat saya"
+      }
+    },
+    {
+      "concept": "Following Up",
+      "expressions": {
+        "en": "I will follow up on this.",
+        "cn": "我会跟进这件事。",
+        "bm_formal": "Saya akan susulan perkara ini.",
+        "bm_casual": "Nanti saya follow up. / Saya akan check balik."
+      }
+    },
+    {
+      "concept": "Suggesting a Meeting/Discussion",
+      "expressions": {
+        "en": "Let's schedule a meeting. / Let's discuss this.",
+        "cn": "我们安排个会议吧。/ 我们讨论一下？",
+        "bm_formal": "Mari kita aturkan mesyuarat. / Kita bincangkan perkara ini?",
+        "bm_casual": "Jom kita meeting. / Kita discuss?"
+      }
+    },
+    {
+      "concept": "Apologizing for Delay",
+      "expressions": {
+        "en": "I apologize for the delay.",
+        "cn": "我为延迟道歉。/ 抱歉耽误了。",
+        "bm_formal": "Saya memohon maaf atas kelewatan ini.",
+        "bm_casual": "Maaf lambat. / Sorry lambat."
+      }
+    },
+    {
+      "concept": "Requesting Clarification",
+      "expressions": {
+        "en": "Could you please clarify? / Can you explain?",
+        "cn": "您能澄清一下吗？/ 可以解释一下吗？",
+        "bm_formal": "Boleh jelaskan dengan lebih lanjut? / Mohon pencerahan.",
+        "bm_casual": "Boleh explain sikit? / Maksudnya apa?"
+      }
+    },
+    {
+      "concept": "Promising a Reply/Response",
+      "expressions": {
+        "en": "I'll get back to you soon. / I'll reply later.",
+        "cn": "我会尽快回复您。",
+        "bm_formal": "Saya akan maklum balas semula secepat mungkin.",
+        "bm_casual": "Nanti saya reply. / Saya jawab balik nanti."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are coordinating a project. A colleague sent an incomplete report and you need to discuss it with the team and get more details.",
+      "key_phrases": [
+        "Mohon hantar kepada saya laporan penuh.",
+        "Boleh jelaskan dengan lebih lanjut tentang angka-angka ini?",
+        "Mari kita aturkan mesyuarat untuk membincangkan perkara ini."
+      ]
+    },
+    "life": {
+      "scenario": "You are planning a weekend outing with friends. You're running a bit late and need to confirm details.",
+      "key_phrases": [
+        "Maaf lambat, saya baru nak gerak.",
+        "Boleh hantar kat saya lokasi restoran?",
+        "Nanti saya reply pasal masa kita nak jumpa."
+      ]
+    },
+    "tech": {
+      "scenario": "You are providing IT support for a client experiencing a technical issue. You need to gather information and promise a solution.",
+      "key_phrases": [
+        "Saya memohon maaf atas kelewatan dalam menyelesaikan isu ini.",
+        "Mohon pencerahan tentang langkah-langkah yang telah anda cuba.",
+        "Saya akan maklum balas semula secepat mungkin dengan penyelesaian."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask 'Please send me the document' in Malay? (请把文件发给我)",
+      "answer": "Mohon hantar kepada saya dokumen ini."
+    },
+    {
+      "question": "What's a casual way to say 'I'll follow up later' in Malay? (我晚点会跟进)",
+      "answer": "Nanti saya follow up."
+    },
+    {
+      "question": "How would you suggest 'Let's meet up to discuss this' casually in Malay? (我们见面讨论一下吧)",
+      "answer": "Jom kita discuss."
+    },
+    {
+      "question": "What's a formal Malay apology for 'I apologize for the delay'? (我为延迟道歉)",
+      "answer": "Saya memohon maaf atas kelewatan ini."
+    },
+    {
+      "question": "How do you casually ask 'Can you explain a bit?' in Malay? (可以解释一下吗？)",
+      "answer": "Boleh explain sikit?"
+    },
+    {
+      "question": "What's a formal way to say 'I'll get back to you soon' in Malay? (我会尽快回复您)",
+      "answer": "Saya akan maklum balas semula secepat mungkin."
+    }
+  ]
+}
