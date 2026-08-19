@@ -1,0 +1,111 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for assistance",
+      "expressions": {
+        "en": "Could you help me?",
+        "cn": "你可以帮我吗？",
+        "bm_formal": "Bolehkah anda membantu saya?",
+        "bm_casual": "Boleh tolong saya?"
+      }
+    },
+    {
+      "concept": "Expressing understanding",
+      "expressions": {
+        "en": "I understand.",
+        "cn": "我明白了。",
+        "bm_formal": "Saya faham.",
+        "bm_casual": "Faham."
+      }
+    },
+    {
+      "concept": "Asking for repetition/clarification",
+      "expressions": {
+        "en": "Could you repeat that?",
+        "cn": "你可以再说一遍吗？",
+        "bm_formal": "Bolehkah anda mengulanginya?",
+        "bm_casual": "Boleh ulang?"
+      }
+    },
+    {
+      "concept": "Expressing gratitude",
+      "expressions": {
+        "en": "Thank you very much.",
+        "cn": "非常感谢。",
+        "bm_formal": "Terima kasih banyak-banyak.",
+        "bm_casual": "Terima kasih banyak."
+      }
+    },
+    {
+      "concept": "Apologizing",
+      "expressions": {
+        "en": "I'm sorry.",
+        "cn": "对不起。",
+        "bm_formal": "Saya memohon maaf.",
+        "bm_casual": "Minta maaf."
+      }
+    },
+    {
+      "concept": "Asking for permission",
+      "expressions": {
+        "en": "May I come in?",
+        "cn": "我可以进来吗？",
+        "bm_formal": "Bolehkah saya masuk?",
+        "bm_casual": "Boleh saya masuk?"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're a new intern at a Malaysian company. Your supervisor is explaining a complex task, and you need to ask for help, confirm understanding, and show appreciation.",
+      "key_phrases": [
+        "Bolehkah anda membantu saya?",
+        "Saya faham.",
+        "Terima kasih banyak-banyak."
+      ]
+    },
+    "life": {
+      "scenario": "You're at a local market in Malaysia. You accidentally bump into someone, then need to ask a vendor to repeat the price of an item, and finally ask for permission to try a sample.",
+      "key_phrases": [
+        "Minta maaf.",
+        "Boleh ulang?",
+        "Boleh saya rasa?"
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a software issue with a Malaysian IT support agent over the phone. You need to ask them to clarify steps, confirm you understand, and ask permission to restart your device.",
+      "key_phrases": [
+        "Bolehkah anda mengulanginya?",
+        "Faham.",
+        "Boleh saya restart?"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'Can you help me?' (casual) in Malay?",
+      "answer": "Boleh tolong saya?"
+    },
+    {
+      "question": "What is the formal Malay expression for 'I understand.'?",
+      "answer": "Saya faham."
+    },
+    {
+      "question": "How do you say '你可以再说一遍吗？' (Could you repeat that?) in casual Malay?",
+      "answer": "Boleh ulang?"
+    },
+    {
+      "question": "What is 'Thank you very much.' in formal Malay?",
+      "answer": "Terima kasih banyak-banyak."
+    },
+    {
+      "question": "How do you say 'I'm sorry.' (casual) in Malay?",
+      "answer": "Minta maaf."
+    },
+    {
+      "question": "What is '我可以进来吗？' (May I come in?) in formal Malay?",
+      "answer": "Bolehkah saya masuk?"
+    }
+  ]
+}
