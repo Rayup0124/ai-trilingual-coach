@@ -1,0 +1,111 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To update / Latest version",
+      "expressions": {
+        "en": "To update / Latest version",
+        "cn": "更新 / 最新版本",
+        "bm_formal": "Mengemaskini / Versi terkini",
+        "bm_casual": "Update / Versi baru"
+      }
+    },
+    {
+      "concept": "To troubleshoot / Fix an issue",
+      "expressions": {
+        "en": "To troubleshoot / Fix an issue",
+        "cn": "排除故障 / 解决问题",
+        "bm_formal": "Menyelesaikan masalah / Mengatasi isu",
+        "bm_casual": "Settlekan masalah / Betulkan"
+      }
+    },
+    {
+      "concept": "Internet connection / Network issue",
+      "expressions": {
+        "en": "Internet connection / Network issue",
+        "cn": "网络连接 / 网络问题",
+        "bm_formal": "Sambungan internet / Masalah rangkaian",
+        "bm_casual": "Line internet / Network problem"
+      }
+    },
+    {
+      "concept": "Digital transformation / To digitalize",
+      "expressions": {
+        "en": "Digital transformation / To digitalize",
+        "cn": "数字化转型 / 实现数字化",
+        "bm_formal": "Transformasi digital / Mendigitalkan",
+        "bm_casual": "Transformasi digital / Guna digital"
+      }
+    },
+    {
+      "concept": "Online platform / Mobile app",
+      "expressions": {
+        "en": "Online platform / Mobile app",
+        "cn": "在线平台 / 手机应用",
+        "bm_formal": "Platform dalam talian / Aplikasi mudah alih",
+        "bm_casual": "Platform online / Apps"
+      }
+    },
+    {
+      "concept": "Data security / Protecting privacy",
+      "expressions": {
+        "en": "Data security / Protecting privacy",
+        "cn": "数据安全 / 保护隐私",
+        "bm_formal": "Keselamatan data / Melindungi privasi",
+        "bm_casual": "Security data / Jaga privasi"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Your team is launching a new internal software and needs to ensure everyone is updated and knows how to report issues. The company is also discussing its next steps in digitalizing operations.",
+      "key_phrases": [
+        "Sila 'update' perisian anda ke 'versi baru'.",
+        "Jika ada 'masalah rangkaian', terus hubungi IT.",
+        "Kita perlu 'mendigitalkan' proses HR kita."
+      ]
+    },
+    "life": {
+      "scenario": "You're helping a friend with their phone, which isn't connecting to the internet properly. You also discuss the importance of keeping personal data safe on various online services.",
+      "key_phrases": [
+        "Cuba 'betulkan' 'line internet' phone kau.",
+        "Penting untuk 'jaga privasi' bila guna 'platform online'.",
+        "Pastikan 'apps' kau sentiasa 'update'."
+      ]
+    },
+    "tech": {
+      "scenario": "As a tech support specialist, you're guiding a user through 'troubleshooting' their slow 'internet connection'. Your company is also implementing new 'data security' protocols as part of its 'digital transformation' strategy.",
+      "key_phrases": [
+        "Mari kita 'menyelesaikan masalah' 'sambungan internet' anda.",
+        "Aspek 'keselamatan data' adalah keutamaan dalam 'transformasi digital' kami.",
+        "Sila 'mengemaskini' firmware router anda kepada 'versi terkini'."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'To update' in casual Malay?",
+      "answer": "Update"
+    },
+    {
+      "question": "解决问题 (To fix an issue) in formal Malay is?",
+      "answer": "Menyelesaikan masalah"
+    },
+    {
+      "question": "What is the casual Malay for 'Internet connection issue'?",
+      "answer": "Line internet problem"
+    },
+    {
+      "question": "How would you formally say 'Digital transformation'?",
+      "answer": "Transformasi digital"
+    },
+    {
+      "question": "手机应用 (Mobile app) in casual Malay is?",
+      "answer": "Apps / Aplikasi phone"
+    },
+    {
+      "question": "What is the formal Malay for 'Data security'?",
+      "answer": "Keselamatan data"
+    }
+  ]
+}
