@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Please inform me / Let me know",
+      "expressions": {
+        "en": "Please inform me / Let me know",
+        "cn": "请告诉我 / 让我知道 (Qǐng gàosù wǒ / Ràng wǒ zhīdào)",
+        "bm_formal": "Sila maklumkan saya / Mohon maklumkan saya.",
+        "bm_casual": "Bagitau saya / Kabar saya."
+      }
+    },
+    {
+      "concept": "I understand / Got it",
+      "expressions": {
+        "en": "I understand / Understood / Got it",
+        "cn": "我明白了 / 知道了 (Wǒ míngbái le / Zhīdào le)",
+        "bm_formal": "Saya faham. / Telah saya maklum.",
+        "bm_casual": "Faham. / Okay, faham. / Dapat."
+      }
+    },
+    {
+      "concept": "Could you please? / Can you help?",
+      "expressions": {
+        "en": "Could you please? / Can you help me with?",
+        "cn": "你能帮我吗？ / 麻烦你 (Nǐ néng bāng wǒ ma? / Máfan nǐ)",
+        "bm_formal": "Boleh tolong saya? / Harap dapat bantu saya?",
+        "bm_casual": "Boleh tolong? / Tolong sikit."
+      }
+    },
+    {
+      "concept": "I'll get back to you / I will revert",
+      "expressions": {
+        "en": "I'll get back to you / I will revert",
+        "cn": "我会回复你 / 我会再联系你 (Wǒ huì huífù nǐ / Wǒ huì zài liánxì nǐ)",
+        "bm_formal": "Saya akan maklum balas kemudian. / Saya akan berikan maklum balas.",
+        "bm_casual": "Nanti saya reply. / Nanti saya bagitau balik."
+      }
+    },
+    {
+      "concept": "Sorry for the inconvenience / My apologies",
+      "expressions": {
+        "en": "Sorry for the inconvenience / My apologies",
+        "cn": "抱歉造成不便 / 对不起 (Bàoqiàn zàochéng bùbiàn / Duìbùqǐ)",
+        "bm_formal": "Maaf atas kesulitan ini. / Saya memohon maaf.",
+        "bm_casual": "Sorry sangat. / Maaf lah."
+      }
+    },
+    {
+      "concept": "Let's discuss / Let's talk",
+      "expressions": {
+        "en": "Let's discuss this / Let's talk about it",
+        "cn": "我们来讨论一下 / 咱们聊聊 (Wǒmen lái tǎolùn yīxià / Zánmen liáo liáo)",
+        "bm_formal": "Mari kita bincangkan. / Cadangan untuk berbincang.",
+        "bm_casual": "Jom discuss. / Jom sembang."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are in a team meeting discussing a new project deadline. Your manager asks for an update on your task, and you need to request some data from a colleague to proceed.",
+      "key_phrases": [
+        "Sila maklumkan saya tentang kemajuan tugas anda.",
+        "Boleh tolong saya dapatkan data tersebut?",
+        "Saya akan maklum balas kemudian setelah data diterima."
+      ]
+    },
+    "life": {
+      "scenario": "You're planning a weekend outing with friends. You need to confirm the time with everyone and ask someone to bring snacks.",
+      "key_phrases": [
+        "Kabar saya bila dah confirm masa.",
+        "Boleh tolong bawa snek untuk kita semua?",
+        "Jom sembang pasal aktiviti lain nanti."
+      ]
+    },
+    "tech": {
+      "scenario": "You're facing a technical glitch on your laptop during an important presentation. You message your IT support for help and need to confirm when they can fix it.",
+      "key_phrases": [
+        "Boleh tolong saya baiki laptop ni segera?",
+        "Nanti saya reply dengan maklumat penuh masalah.",
+        "Maaf atas kesulitan ini, saya harap dapat bantuan cepat."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally say 'Please inform me about the meeting time.' in Malay?",
+      "answer": "Sila maklumkan saya tentang masa mesyuarat."
+    },
+    {
+      "question": "How do you casually say 'Got it, I'll proceed.' in Malay?",
+      "answer": "Faham, saya teruskan."
+    },
+    {
+      "question": "How do you formally say 'Could you please help me check this report?' in Malay?",
+      "answer": "Boleh tolong saya semak laporan ini?"
+    },
+    {
+      "question": "How do you casually say 'I'll get back to you with the details.' in Malay?",
+      "answer": "Nanti saya bagitau balik detail."
+    },
+    {
+      "question": "How do you formally say 'My apologies for the inconvenience caused by the delay.' in Malay?",
+      "answer": "Saya memohon maaf atas kesulitan yang disebabkan oleh kelewatan ini."
+    },
+    {
+      "question": "How do you casually say 'Let's discuss the new proposal.' in Malay?",
+      "answer": "Jom discuss proposal baru."
+    }
+  ]
+}
