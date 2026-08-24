@@ -1,0 +1,114 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting Information/Documents",
+      "expressions": {
+        "en": "Could you please send me?",
+        "cn": "可以请你发给我吗？",
+        "bm_formal": "Boleh tolong hantar kepada saya?",
+        "bm_casual": "Boleh hantar kat saya?"
+      }
+    },
+    {
+      "concept": "Following Up/Getting Back",
+      "expressions": {
+        "en": "I will follow up on this. / I'll get back to you.",
+        "cn": "我会跟进这件事。/ 我会再回复你。",
+        "bm_formal": "Saya akan susulan perkara ini. / Saya akan maklumkan semula.",
+        "bm_casual": "Aku akan follow up. / Nanti aku bagitahu balik."
+      }
+    },
+    {
+      "concept": "Scheduling a Meeting/Appointment",
+      "expressions": {
+        "en": "Let's schedule a meeting/appointment.",
+        "cn": "我们来安排一个会议/预约吧。",
+        "bm_formal": "Mari kita jadualkan mesyuarat/temujanji.",
+        "bm_casual": "Jom set meeting/appointment."
+      }
+    },
+    {
+      "concept": "Acknowledging Understanding",
+      "expressions": {
+        "en": "I understand. / Got it.",
+        "cn": "我明白了。/ 好的。",
+        "bm_formal": "Saya faham. / Saya mengerti.",
+        "bm_casual": "Faham. / Okay. / Dapat."
+      }
+    },
+    {
+      "concept": "Seeking Clarification",
+      "expressions": {
+        "en": "Could you please clarify? / Can you explain again?",
+        "cn": "你能再解释一下吗？/ 请你澄清一下好吗？",
+        "bm_formal": "Boleh tolong jelaskan? / Boleh terangkan semula?",
+        "bm_casual": "Boleh explain balik? / Tak faham, boleh terang balik?"
+      }
+    },
+    {
+      "concept": "Expressing Gratitude for Help/Cooperation",
+      "expressions": {
+        "en": "Thank you for your cooperation. / Appreciate your help.",
+        "cn": "谢谢你的合作。/ 感谢你的帮助。",
+        "bm_formal": "Terima kasih atas kerjasama anda. / Saya menghargai bantuan anda.",
+        "bm_casual": "Terima kasih banyak. / Thanks. / Apresiasi."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're coordinating a new project. You need to request a report from a team member, schedule a follow-up meeting, and acknowledge their input.",
+      "key_phrases": [
+        "Boleh tolong hantar kepada saya laporan bulanan?",
+        "Mari kita jadualkan mesyuarat susulan untuk minggu depan.",
+        "Saya faham, terima kasih atas maklumat.",
+        "Terima kasih atas kerjasama anda dalam projek ini."
+      ]
+    },
+    "life": {
+      "scenario": "You're organizing a casual dinner with friends. You need to ask for their food preferences, set a date, and confirm details.",
+      "key_phrases": [
+        "Boleh hantar kat aku senarai makanan yang korang nak?",
+        "Jom set date untuk dinner minggu depan.",
+        "Faham, nanti aku update balik.",
+        "Thanks banyak guys!"
+      ]
+    },
+    "tech": {
+      "scenario": "You're helping a colleague troubleshoot a software issue. You need to request an installation file, clarify a step in the process, and thank them for their patience.",
+      "key_phrases": [
+        "Boleh tolong hantar kepada saya fail pemasangan?",
+        "Boleh terangkan semula langkah ketiga tu?",
+        "Saya faham, saya akan susulan proses pemasangan ini.",
+        "Terima kasih atas bantuan anda."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How would you formally ask 'Could you please send me the report?' in Malay? (请你把报告发给我好吗？)",
+      "answer": "Boleh tolong hantar kepada saya laporan itu?"
+    },
+    {
+      "question": "What's the casual Malay way to say 'I'll follow up on this.'? (我会跟进这件事。)",
+      "answer": "Aku akan follow up."
+    },
+    {
+      "question": "How do you formally suggest 'Let's schedule a meeting.' in Malay? (我们来安排一个会议吧。)",
+      "answer": "Mari kita jadualkan mesyuarat."
+    },
+    {
+      "question": "What's a common casual Malay expression for 'Got it.' or 'I understand.'? (我明白了。)",
+      "answer": "Faham."
+    },
+    {
+      "question": "How would you formally ask 'Could you please clarify?' in Malay? (你能再解释一下吗？)",
+      "answer": "Boleh tolong jelaskan?"
+    },
+    {
+      "question": "What's a casual Malay way to say 'Thanks for your help.'? (谢谢你的帮助。)",
+      "answer": "Terima kasih banyak."
+    }
+  ]
+}
