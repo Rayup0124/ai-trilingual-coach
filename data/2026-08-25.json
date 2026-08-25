@@ -1,0 +1,127 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Greeting / Asking well-being",
+      "expressions": {
+        "en": "How are you? / What's up?",
+        "cn": "你好吗？/ 怎么样？",
+        "bm_formal": "Apa khabar?",
+        "bm_casual": "Apa cerita? / Camne?"
+      }
+    },
+    {
+      "concept": "Expressing gratitude",
+      "expressions": {
+        "en": "Thank you (very much)",
+        "cn": "谢谢 (你)",
+        "bm_formal": "Terima kasih (banyak-banyak)",
+        "bm_casual": "Mekasih / TQ"
+      }
+    },
+    {
+      "concept": "Apology / Seeking attention",
+      "expressions": {
+        "en": "Excuse me / Sorry",
+        "cn": "不好意思 / 对不起",
+        "bm_formal": "Maafkan saya / Minta maaf",
+        "bm_casual": "Sori / Minta sori"
+      }
+    },
+    {
+      "concept": "Requesting assistance",
+      "expressions": {
+        "en": "Can you help me? / I need help.",
+        "cn": "你能帮我吗？/ 我需要帮助。",
+        "bm_formal": "Boleh tolong saya? / Saya perlukan bantuan.",
+        "bm_casual": "Boleh tolong tak? / Tolong sikit."
+      }
+    },
+    {
+      "concept": "Acknowledging / Assuring",
+      "expressions": {
+        "en": "No problem / It's okay",
+        "cn": "没问题 / 没关系",
+        "bm_formal": "Tiada masalah / Tidak mengapa",
+        "bm_casual": "Takpe / Takde hal"
+      }
+    },
+    {
+      "concept": "Suggesting / Agreeing to start",
+      "expressions": {
+        "en": "Let's go / Let's do it",
+        "cn": "我们走吧 / 我们开始吧",
+        "bm_formal": "Mari kita pergi / Mari kita lakukan",
+        "bm_casual": "Jom / Onz"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're at the office and need help with a presentation file. You approach a colleague.",
+      "key_phrases": [
+        "Apa khabar, Encik Amir?",
+        "Boleh tolong saya? Saya ada masalah dengan fail ini.",
+        "Terima kasih banyak-banyak atas bantuan anda."
+      ]
+    },
+    "life": {
+      "scenario": "You accidentally bump into someone at the mall. Later, you meet a friend and suggest grabbing a coffee.",
+      "key_phrases": [
+        "Minta maaf, saya tak sengaja.",
+        "Takpe, takde masalah.",
+        "Apa cerita, Lisa? Jom minum kopi?"
+      ]
+    },
+    "tech": {
+      "scenario": "Your internet is down. You call your friend for advice and agree to try a solution he suggests.",
+      "key_phrases": [
+        "Camne ni? Internet saya tak berfungsi.",
+        "Boleh tolong tak, macam mana nak betulkan?",
+        "Takde hal, saya cuba cara tu. Onz!"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How are you? (Formal Malay)",
+      "answer": "Apa khabar?"
+    },
+    {
+      "question": "谢谢你 (Casual Malay)",
+      "answer": "Mekasih"
+    },
+    {
+      "question": "Excuse me, I need help. (Formal Malay)",
+      "answer": "Maafkan saya, saya perlukan bantuan."
+    },
+    {
+      "question": "没问题 (Casual Malay)",
+      "answer": "Takpe"
+    },
+    {
+      "question": "Can you help me? (Casual Malay)",
+      "answer": "Boleh tolong tak?"
+    },
+    {
+      "question": "Let's go! (Casual Malay)",
+      "answer": "Jom!"
+    },
+    {
+      "question": "What's up? (Casual Malay)",
+      "answer": "Apa cerita?"
+    },
+    {
+      "question": "对不起 (Casual Malay)",
+      "answer": "Sori"
+    },
+    {
+      "question": "No problem. (Formal Malay)",
+      "answer": "Tiada masalah."
+    },
+    {
+      "question": "Let's do it! (Slang Malay)",
+      "answer": "Onz!"
+    }
+  ]
+}
