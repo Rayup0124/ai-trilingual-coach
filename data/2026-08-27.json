@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting Information/Documents",
+      "expressions": {
+        "en": "Please send me",
+        "cn": "请发给我",
+        "bm_formal": "Sila hantar kepada saya",
+        "bm_casual": "Boleh hantar kat saya?"
+      }
+    },
+    {
+      "concept": "Promising to Follow Up",
+      "expressions": {
+        "en": "I will follow up on this.",
+        "cn": "我会跟进这件事。",
+        "bm_formal": "Saya akan susulan perkara ini.",
+        "bm_casual": "Saya akan follow up."
+      }
+    },
+    {
+      "concept": "Confirming Information",
+      "expressions": {
+        "en": "Let me confirm/double-check.",
+        "cn": "让我确认一下。",
+        "bm_formal": "Izinkan saya mengesahkan./Biar saya semak semula.",
+        "bm_casual": "Biar saya confirm dulu./Nak double-check kejap."
+      }
+    },
+    {
+      "concept": "Asking for Elaboration",
+      "expressions": {
+        "en": "Could you please elaborate?",
+        "cn": "您能详细说明一下吗？",
+        "bm_formal": "Boleh tuan/puan huraikan dengan lebih lanjut?",
+        "bm_casual": "Boleh cerita/terangkan lagi?"
+      }
+    },
+    {
+      "concept": "Apologizing for Inconvenience",
+      "expressions": {
+        "en": "I apologize for the inconvenience.",
+        "cn": "对于造成的不便，我深表歉意。",
+        "bm_formal": "Saya memohon maaf atas kesulitan ini.",
+        "bm_casual": "Maaf atas kesulitan ni./Maaf menyusahkan."
+      }
+    },
+    {
+      "concept": "Scheduling a Meeting",
+      "expressions": {
+        "en": "Let's schedule a meeting.",
+        "cn": "我们安排个会议吧。",
+        "bm_formal": "Mari kita jadualkan satu mesyuarat.",
+        "bm_casual": "Jom set meeting."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You need an urgent sales report from a colleague for an upcoming presentation. They've just informed you it's ready.",
+      "key_phrases": [
+        "Sila hantar kepada saya laporan jualan itu secepat mungkin.",
+        "Saya akan susulan perkara ini untuk memastikan saya menerimanya.",
+        "Terima kasih atas bantuan tuan/puan."
+      ]
+    },
+    "life": {
+      "scenario": "You're planning a weekend trip with friends and need to confirm the itinerary details with one friend who created it.",
+      "key_phrases": [
+        "Boleh hantar kat saya itinerary trip kita?",
+        "Nanti saya confirmkan balik dengan semua orang.",
+        "Maaf menyusahkan, tapi boleh cerita lagi pasal aktiviti tu?"
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a persistent software bug with a remote support agent and need a clearer explanation of their proposed solution steps.",
+      "key_phrases": [
+        "Boleh tuan/puan huraikan dengan lebih lanjut tentang langkah-langkah penyelesaian ini?",
+        "Biar saya double-check tetapan ini pada sistem saya dulu.",
+        "Saya akan maklumkan semula jika masalah berterusan selepas ini."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally say 'Please send me the document' in Malay?",
+      "answer": "Sila hantar kepada saya dokumen itu."
+    },
+    {
+      "question": "Translate 'I will follow up on this' (casual) into Malay.",
+      "answer": "Saya akan follow up."
+    },
+    {
+      "question": "How would you casually ask to 'double-check' something in Malay?",
+      "answer": "Nak double-check kejap."
+    },
+    {
+      "question": "What is the formal Malay equivalent for 'Could you please elaborate?'",
+      "answer": "Boleh tuan/puan huraikan dengan lebih lanjut?"
+    },
+    {
+      "question": "Translate 'Sorry for the trouble' (casual) into Malay.",
+      "answer": "Maaf menyusahkan."
+    },
+    {
+      "question": "How do you casually suggest 'Let's schedule a meeting' in Malay?",
+      "answer": "Jom set meeting."
+    }
+  ]
+}
