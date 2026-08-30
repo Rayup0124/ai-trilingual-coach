@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting Information/Documents",
+      "expressions": {
+        "en": "Could you please send me the report?",
+        "cn": "请你把报告发给我好吗？",
+        "bm_formal": "Mohon emelkan laporan itu kepada saya.",
+        "bm_casual": "Boleh tak hantar report tu kat saya?"
+      }
+    },
+    {
+      "concept": "Following Up",
+      "expressions": {
+        "en": "I will follow up on this.",
+        "cn": "我会跟进这件事。",
+        "bm_formal": "Saya akan membuat susulan mengenai perkara ini.",
+        "bm_casual": "Saya akan follow up."
+      }
+    },
+    {
+      "concept": "Scheduling/Arranging a Meeting",
+      "expressions": {
+        "en": "Let's schedule a meeting.",
+        "cn": "我们安排一个会议吧。",
+        "bm_formal": "Mari kita jadualkan satu mesyuarat.",
+        "bm_casual": "Jom kita set meeting."
+      }
+    },
+    {
+      "concept": "Promising a Reply/Response",
+      "expressions": {
+        "en": "I'll get back to you soon.",
+        "cn": "我很快会回复你。",
+        "bm_formal": "Saya akan maklumkan semula kepada anda secepat mungkin.",
+        "bm_casual": "Nanti saya bagi jawapan."
+      }
+    },
+    {
+      "concept": "Seeking Clarification",
+      "expressions": {
+        "en": "Could you please clarify this point?",
+        "cn": "你能解释一下这一点吗？",
+        "bm_formal": "Bolehkah anda jelaskan semula perkara ini?",
+        "bm_casual": "Boleh tak terangkan lagi?"
+      }
+    },
+    {
+      "concept": "Expressing Appreciation for Cooperation",
+      "expressions": {
+        "en": "Thank you for your cooperation.",
+        "cn": "谢谢你的合作。",
+        "bm_formal": "Terima kasih atas kerjasama anda.",
+        "bm_casual": "Terima kasih banyak-banyak."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Anda perlu siapkan laporan bulanan dan hantar kepada pengurus. Selepas itu, anda perlu menyusul dengan pasukan lain untuk data, dan mengatur mesyuarat untuk membincangkan penemuan.",
+      "key_phrases": [
+        "Mohon emelkan laporan itu kepada saya.",
+        "Saya akan membuat susulan mengenai perkara ini.",
+        "Mari kita jadualkan satu mesyuarat."
+      ]
+    },
+    "life": {
+      "scenario": "Anda sedang merancang perjumpaan keluarga dan ingin mengesahkan butiran tarikh dan masa dengan ahli keluarga. Ada satu ahli keluarga yang kurang jelas tentang lokasi dan minta anda jelaskan. Anda berjanji untuk maklumkan semula tentang menu makanan.",
+      "key_phrases": [
+        "Bolehkah anda jelaskan semula perkara ini?",
+        "Nanti saya bagi jawapan.",
+        "Terima kasih banyak-banyak."
+      ]
+    },
+    "tech": {
+      "scenario": "Anda melaporkan isu teknikal kepada pasukan sokongan. Mereka meminta butiran lanjut dan berjanji untuk menyusul selepas menyemak. Anda juga mengucapkan terima kasih atas bantuan mereka.",
+      "key_phrases": [
+        "Boleh tak terangkan lagi?",
+        "Saya akan follow up.",
+        "Terima kasih atas kerjasama anda."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask \"Could you please send me the report?\" in Malay?",
+      "answer": "Mohon emelkan laporan itu kepada saya."
+    },
+    {
+      "question": "How would you casually say \"I will follow up on this\" in Malay?",
+      "answer": "Saya akan follow up."
+    },
+    {
+      "question": "What's the formal Malay way to say \"Let's schedule a meeting\"?",
+      "answer": "Mari kita jadualkan satu mesyuarat."
+    },
+    {
+      "question": "If you need to tell someone \"I'll get back to you soon\" casually in Malay, what would you say?",
+      "answer": "Nanti saya bagi jawapan."
+    },
+    {
+      "question": "How do you formally ask \"Could you please clarify this point?\" in Malay?",
+      "answer": "Bolehkah anda jelaskan semula perkara ini?"
+    },
+    {
+      "question": "What's a casual way to express \"Thank you for your cooperation\" in Malay?",
+      "answer": "Terima kasih banyak-banyak."
+    }
+  ]
+}
