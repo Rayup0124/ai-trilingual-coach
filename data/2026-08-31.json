@@ -1,0 +1,111 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for Assistance",
+      "expressions": {
+        "en": "Can you help me?",
+        "cn": "你能帮我吗？ (Nǐ néng bāng wǒ ma?)",
+        "bm_formal": "Boleh tolong saya?",
+        "bm_casual": "Boleh tolong aku?"
+      }
+    },
+    {
+      "concept": "Expressing Understanding",
+      "expressions": {
+        "en": "I understand. / Okay.",
+        "cn": "我明白了。 (Wǒ míngbái le.) / 好的。 (Hǎo de.)",
+        "bm_formal": "Saya faham. / Baiklah.",
+        "bm_casual": "Faham. / Okay."
+      }
+    },
+    {
+      "concept": "Requesting Repetition/Clarification",
+      "expressions": {
+        "en": "Can you repeat that? / Could you say that again?",
+        "cn": "你能再说一遍吗？ (Nǐ néng zài shuō yī biàn ma?)",
+        "bm_formal": "Boleh ulang semula?",
+        "bm_casual": "Ulang balik?"
+      }
+    },
+    {
+      "concept": "Expressing Gratitude",
+      "expressions": {
+        "en": "Thank you.",
+        "cn": "谢谢。 (Xièxie.)",
+        "bm_formal": "Terima kasih.",
+        "bm_casual": "Mekasih."
+      }
+    },
+    {
+      "concept": "Apologizing / Excuse Me",
+      "expressions": {
+        "en": "Excuse me. / Sorry.",
+        "cn": "对不起。 (Duìbuqǐ.) / 不好意思。 (Bù hǎoyìsi.)",
+        "bm_formal": "Maafkan saya. / Mohon maaf.",
+        "bm_casual": "Sori. / Maaf."
+      }
+    },
+    {
+      "concept": "Asking about Availability",
+      "expressions": {
+        "en": "Are you free? / Are you available?",
+        "cn": "你有空吗？ (Nǐ yǒu kòng ma?)",
+        "bm_formal": "Adakah anda lapang?",
+        "bm_casual": "Ada free tak?"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're working on a report and need a colleague's input on a specific section. You also want to confirm you understand their instructions.",
+      "key_phrases": [
+        "Boleh tolong saya?",
+        "Saya faham.",
+        "Terima kasih."
+      ]
+    },
+    "life": {
+      "scenario": "You're at a local 'mamak' stall, trying to order. The waiter seems busy, and you need to get their attention, then confirm your order. You also want to thank them.",
+      "key_phrases": [
+        "Sori.",
+        "Ulang balik?",
+        "Mekasih."
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a software issue with a friend via a messaging app. They send a complex instruction, but you need them to simplify it. After they do, you confirm understanding and ask if they are free for a quick call later.",
+      "key_phrases": [
+        "Boleh ulang semula?",
+        "Faham.",
+        "Ada free tak?"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'Can you help me?' (formal) in Malay?",
+      "answer": "Boleh tolong saya?"
+    },
+    {
+      "question": "What is the casual Malay for 'I understand.'?",
+      "answer": "Faham."
+    },
+    {
+      "question": "你能再说一遍吗？ (Nǐ néng zài shuō yī biàn ma?) in casual Malay is?",
+      "answer": "Ulang balik?"
+    },
+    {
+      "question": "How do you express 'Thank you.' (formal) in Malay?",
+      "answer": "Terima kasih."
+    },
+    {
+      "question": "What's the casual Malay for 'Excuse me.' / 'Sorry.'?",
+      "answer": "Sori."
+    },
+    {
+      "question": "How do you ask 'Are you available?' (formal) in Malay?",
+      "answer": "Adakah anda lapang?"
+    }
+  ]
+}
