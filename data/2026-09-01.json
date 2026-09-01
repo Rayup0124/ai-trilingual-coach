@@ -1,0 +1,111 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Checking on someone's well-being",
+      "expressions": {
+        "en": "How are you? / Are you okay?",
+        "cn": "你好吗？/ 你没事吧？",
+        "bm_formal": "Apa khabar? / Adakah anda baik-baik saja?",
+        "bm_casual": "Apa khabar? / OK ke?"
+      }
+    },
+    {
+      "concept": "Requesting assistance",
+      "expressions": {
+        "en": "Could you help me?",
+        "cn": "你能帮我吗？",
+        "bm_formal": "Boleh tolong saya?",
+        "bm_casual": "Boleh tolong aku?"
+      }
+    },
+    {
+      "concept": "Affirmation/Agreement",
+      "expressions": {
+        "en": "That's right. / I agree.",
+        "cn": "对了。/ 我同意。",
+        "bm_formal": "Betul. / Saya bersetuju.",
+        "bm_casual": "Betul. / Setuju."
+      }
+    },
+    {
+      "concept": "Seeking clarification",
+      "expressions": {
+        "en": "Could you repeat that? / Pardon?",
+        "cn": "你能再说一遍吗？/ 什么？",
+        "bm_formal": "Boleh ulang semula?",
+        "bm_casual": "Boleh ulang balik?"
+      }
+    },
+    {
+      "concept": "Showing appreciation",
+      "expressions": {
+        "en": "Thank you very much.",
+        "cn": "非常感谢。",
+        "bm_formal": "Terima kasih banyak-banyak.",
+        "bm_casual": "Terima kasih banyak."
+      }
+    },
+    {
+      "concept": "Permission/Possibility",
+      "expressions": {
+        "en": "Can I? / Is it possible?",
+        "cn": "我可以吗？/ 有可能吗？",
+        "bm_formal": "Bolehkah saya? / Adakah ia mungkin?",
+        "bm_casual": "Boleh ke?"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're starting a new project with a colleague who seems overwhelmed. You want to check on them, agree on a task, and clarify instructions.",
+      "key_phrases": [
+        "Apa khabar, Encik Rahman? Adakah anda baik-baik saja dengan beban kerja baru?",
+        "Saya bersetuju dengan cadangan anda. Betul itu.",
+        "Maaf, boleh ulang semula poin terakhir tadi?"
+      ]
+    },
+    "life": {
+      "scenario": "You're at a busy hawker centre, trying to order food but misheard the vendor. You need to ask for repetition, ask for help with the menu, and thank them.",
+      "key_phrases": [
+        "Maaf, boleh ulang balik apa yang pak cik cakap tadi?",
+        "Boleh tolong saya pilihkan lauk yang sedap?",
+        "Terima kasih banyak, pak cik, atas bantuan tadi!"
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a computer issue with a friend over the phone. You need to check if they're following, ask for assistance with a step, and agree on the next course of action.",
+      "key_phrases": [
+        "OK ke kalau kita cuba restart dulu?",
+        "Boleh tolong saya semak sambungan WiFi?",
+        "Betul, saya setuju kita patut update perisian."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'Are you okay?' casually in Malay?",
+      "answer": "OK ke?"
+    },
+    {
+      "question": "What is the formal Malay expression for 'Thank you very much'?",
+      "answer": "Terima kasih banyak-banyak."
+    },
+    {
+      "question": "Translate 'Can you help me?' (casual Malay).",
+      "answer": "Boleh tolong aku?"
+    },
+    {
+      "question": "How do you express 'I agree' formally in Malay?",
+      "answer": "Saya bersetuju."
+    },
+    {
+      "question": "What is the casual Malay for 'Could you repeat that?'",
+      "answer": "Boleh ulang balik?"
+    },
+    {
+      "question": "Translate 'Is it possible?' (casual Malay).",
+      "answer": "Boleh ke?"
+    }
+  ]
+}
