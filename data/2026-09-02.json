@@ -1,0 +1,111 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To update the system",
+      "expressions": {
+        "en": "To update the system",
+        "cn": "更新系统 (gēngxīn xìtǒng)",
+        "bm_formal": "Mengemaskini sistem",
+        "bm_casual": "Update sistem / Kemas kini sistem"
+      }
+    },
+    {
+      "concept": "To embrace digital transformation",
+      "expressions": {
+        "en": "To embrace digital transformation",
+        "cn": "拥抱数字化转型 (yōngbào shùzìhuà zhuǎnxíng)",
+        "bm_formal": "Menerima transformasi digital",
+        "bm_casual": "Buat transformasi digital / Guna digital"
+      }
+    },
+    {
+      "concept": "To foster innovation",
+      "expressions": {
+        "en": "To foster innovation",
+        "cn": "促进创新 (cùjìn chuàngxīn)",
+        "bm_formal": "Memupuk inovasi",
+        "bm_casual": "Galakkan inovasi / Dorong inovasi"
+      }
+    },
+    {
+      "concept": "Online learning platform",
+      "expressions": {
+        "en": "Online learning platform",
+        "cn": "在线学习平台 (zàixiàn xuéxí píngtái)",
+        "bm_formal": "Platform pembelajaran dalam talian",
+        "bm_casual": "Platform belajar online / Platform e-learning"
+      }
+    },
+    {
+      "concept": "Based on data analysis",
+      "expressions": {
+        "en": "Based on data analysis",
+        "cn": "基于数据分析 (jīyú shùjù fēnxī)",
+        "bm_formal": "Berdasarkan analisis data",
+        "bm_casual": "Ikut analisis data / Dari data analisis"
+      }
+    },
+    {
+      "concept": "To make it user-friendly",
+      "expressions": {
+        "en": "To make it user-friendly",
+        "cn": "使其用户友好 (shǐ qí yònghù yǒuhǎo)",
+        "bm_formal": "Menjadikannya mesra pengguna",
+        "bm_casual": "Buat dia mesra pengguna / Senangkan pengguna"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Your company is planning to upgrade its internal systems and move towards more digital processes. You're discussing the next steps with your team during a meeting.",
+      "key_phrases": [
+        "Kita perlu **mengemaskini sistem** ERP kita secepat mungkin.",
+        "Pihak pengurusan komited untuk **menerima transformasi digital** di semua jabatan.",
+        "Kita juga perlu **memupuk inovasi** dalam pasukan untuk mencari penyelesaian baharu dan lebih efisien."
+      ]
+    },
+    "life": {
+      "scenario": "You're talking to a friend about a new online course you're taking and a new mobile app that just launched, comparing your experiences.",
+      "key_phrases": [
+        "Saya sedang belajar di **platform pembelajaran dalam talian** baharu ni, sangat bagus dan mudah faham.",
+        "Aplikasi baru tu, harap-harap mereka **menjadikannya mesra pengguna** supaya semua orang boleh pakai.",
+        "Saya baru saja **update sistem** telefon saya, sekarang bateri tahan lebih lama."
+      ]
+    },
+    "tech": {
+      "scenario": "As a developer, you're reviewing user feedback and planning the next feature update for your application, focusing on improvements.",
+      "key_phrases": [
+        "**Berdasarkan analisis data** penggunaan, kita perlu fokus pada penambahbaikan antaramuka (UI).",
+        "Objektif utama kita adalah untuk **menjadikannya mesra pengguna** dan intuitif.",
+        "Kita juga akan **mengemaskini sistem** backend untuk memastikan prestasi yang lebih stabil dan cepat."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'To update the system' in formal Malay?",
+      "answer": "Mengemaskini sistem"
+    },
+    {
+      "question": "Translate '拥抱数字化转型' (embrace digital transformation) into casual Malay.",
+      "answer": "Buat transformasi digital / Guna digital"
+    },
+    {
+      "question": "What is the formal Malay for 'To foster innovation'?",
+      "answer": "Memupuk inovasi"
+    },
+    {
+      "question": "How would you casually say 'Online learning platform' in Malay?",
+      "answer": "Platform belajar online / Platform e-learning"
+    },
+    {
+      "question": "Translate 'Based on data analysis' into formal Malay.",
+      "answer": "Berdasarkan analisis data"
+    },
+    {
+      "question": "What is the casual Malay phrase for 'To make it user-friendly'?",
+      "answer": "Buat dia mesra pengguna / Senangkan pengguna"
+    }
+  ]
+}
