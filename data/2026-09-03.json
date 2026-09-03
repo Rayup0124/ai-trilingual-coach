@@ -1,0 +1,114 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting Action/Help",
+      "expressions": {
+        "en": "Could you please assist with this?",
+        "cn": "你能帮我一下吗？/ 请协助处理。",
+        "bm_formal": "Harap dapat membantu dalam hal ini.",
+        "bm_casual": "Boleh tolong buat ni?"
+      }
+    },
+    {
+      "concept": "Acknowledging Understanding/Receipt",
+      "expressions": {
+        "en": "I understand. / Noted.",
+        "cn": "我明白了。/ 已收到。",
+        "bm_formal": "Saya maklum.",
+        "bm_casual": "Faham."
+      }
+    },
+    {
+      "concept": "Needing to Verify Information",
+      "expressions": {
+        "en": "Let me check first.",
+        "cn": "我先查一下。",
+        "bm_formal": "Biar saya semak dahulu.",
+        "bm_casual": "Kejap, saya check dulu."
+      }
+    },
+    {
+      "concept": "Taking Responsibility for Next Steps",
+      "expressions": {
+        "en": "I will follow up on this.",
+        "cn": "我会跟进。",
+        "bm_formal": "Saya akan mengambil tindakan susulan.",
+        "bm_casual": "Saya akan follow up."
+      }
+    },
+    {
+      "concept": "Asking for Clarification",
+      "expressions": {
+        "en": "Could you clarify this point? / Please elaborate.",
+        "cn": "你能解释一下吗？/ 请详细说明。",
+        "bm_formal": "Mohon pencerahan.",
+        "bm_casual": "Boleh terangkan lagi?"
+      }
+    },
+    {
+      "concept": "Expressing Gratitude for Cooperation",
+      "expressions": {
+        "en": "Thank you for your cooperation.",
+        "cn": "感谢您的合作。",
+        "bm_formal": "Terima kasih atas kerjasama anda.",
+        "bm_casual": "Terima kasih atas kerjasama."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are a project manager assigning tasks for a new project and need to ensure team members understand and will follow through.",
+      "key_phrases": [
+        "Harap dapat membantu dalam hal ini.",
+        "Saya maklum.",
+        "Saya akan mengambil tindakan susulan.",
+        "Terima kasih atas kerjasama anda."
+      ]
+    },
+    "life": {
+      "scenario": "You are planning a weekend outing with friends and need to confirm details and get everyone's input.",
+      "key_phrases": [
+        "Boleh tolong buat ni?",
+        "Faham.",
+        "Kejap, saya check dulu.",
+        "Boleh terangkan lagi?"
+      ]
+    },
+    "tech": {
+      "scenario": "You are troubleshooting a software issue with a colleague over chat and need to understand their steps and confirm next actions.",
+      "key_phrases": [
+        "Mohon pencerahan.",
+        "Saya maklum.",
+        "Saya akan follow up.",
+        "Kejap, saya check dulu."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How would you formally ask a colleague to help with a report? (English)",
+      "answer": "Harap dapat membantu dalam laporan ini."
+    },
+    {
+      "question": "Your manager just gave you a new task. How do you casually confirm you understand? (English)",
+      "answer": "Faham."
+    },
+    {
+      "question": "你想告诉同事你会跟进一个问题，你会怎么说？ (Chinese)",
+      "answer": "Saya akan mengambil tindakan susulan. / Saya akan follow up."
+    },
+    {
+      "question": "You received an email with unclear instructions. How do you formally ask for more details? (English)",
+      "answer": "Mohon pencerahan."
+    },
+    {
+      "question": "How would you casually say 'Let me check first' when someone asks about your availability? (English)",
+      "answer": "Kejap, saya check dulu."
+    },
+    {
+      "question": "你的团队成功完成了一个项目，你想感谢大家的合作。 (Chinese)",
+      "answer": "Terima kasih atas kerjasama anda. / Terima kasih atas kerjasama."
+    }
+  ]
+}
