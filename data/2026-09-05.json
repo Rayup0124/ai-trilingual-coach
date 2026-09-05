@@ -1,0 +1,112 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To launch / To deploy",
+      "expressions": {
+        "en": "To launch / To deploy (a system/product)",
+        "cn": "推出/部署 (系统/产品)",
+        "bm_formal": "Melancarkan / Mengimplementasikan (sistem/produk)",
+        "bm_casual": "Launch / Pasang (sistem/produk)"
+      }
+    },
+    {
+      "concept": "To troubleshoot / To fix",
+      "expressions": {
+        "en": "To troubleshoot / To fix (a technical issue)",
+        "cn": "排除故障/修复 (技术问题)",
+        "bm_formal": "Menyelesaikan masalah / Membaiki (isu teknikal)",
+        "bm_casual": "Settle masalah / Betulkan (masalah teknikal)"
+      }
+    },
+    {
+      "concept": "To update",
+      "expressions": {
+        "en": "To update (software/information)",
+        "cn": "更新 (软件/信息)",
+        "bm_formal": "Mengemas kini (perisian/maklumat)",
+        "bm_casual": "Update (software/info)"
+      }
+    },
+    {
+      "concept": "To develop / To build",
+      "expressions": {
+        "en": "To develop / To build (an application/system)",
+        "cn": "开发/构建 (应用程序/系统)",
+        "bm_formal": "Membangunkan / Membina (aplikasi/sistem)",
+        "bm_casual": "Buat / Develop (app/sistem)"
+      }
+    },
+    {
+      "concept": "To digitalize / To go digital",
+      "expressions": {
+        "en": "To digitalize / To go digital",
+        "cn": "数字化 / 走向数字化",
+        "bm_formal": "Mendigitalkan / Beralih ke digital",
+        "bm_casual": "Buat digital / Go digital"
+      }
+    },
+    {
+      "concept": "To analyze data",
+      "expressions": {
+        "en": "To analyze data",
+        "cn": "分析数据",
+        "bm_formal": "Menganalisis data",
+        "bm_casual": "Check data / Tengok data"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Your team is preparing to launch a new internal project management system next month. You need to ensure all user data is transferred correctly and troubleshoot any integration issues before the launch.",
+      "key_phrases": [
+        "Melancarkan sistem baru",
+        "Mengemas kini data pengguna",
+        "Menyelesaikan masalah integrasi"
+      ]
+    },
+    "life": {
+      "scenario": "You're trying to use a banking app on your phone, but it keeps crashing after a recent update. You need to figure out how to fix it or report the problem to customer service.",
+      "key_phrases": [
+        "Aplikasi tak berfungsi selepas update",
+        "Betulkan masalah aplikasi",
+        "Mengemas kini aplikasi"
+      ]
+    },
+    "tech": {
+      "scenario": "Your company is undergoing a major digital transformation, developing a new e-commerce platform. The development team needs to continuously analyze user behavior data to optimize the platform and troubleshoot performance bottlenecks.",
+      "key_phrases": [
+        "Transformasi digital syarikat",
+        "Membangunkan platform e-dagang",
+        "Menganalisis data tingkah laku pengguna",
+        "Troubleshoot isu prestasi"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'to launch a new system' in casual Malay?",
+      "answer": "Launch sistem baru"
+    },
+    {
+      "question": "What is the formal Malay expression for 'to troubleshoot a technical issue'?",
+      "answer": "Menyelesaikan masalah teknikal"
+    },
+    {
+      "question": "How would you casually say 'to update software'?",
+      "answer": "Update software"
+    },
+    {
+      "question": "How do you say 'to develop an application' in formal Malay?",
+      "answer": "Membangunkan aplikasi"
+    },
+    {
+      "question": "What's the casual Malay way to say 'to go digital'?",
+      "answer": "Go digital"
+    },
+    {
+      "question": "How do you say 'to analyze data' in casual Malay?",
+      "answer": "Check data"
+    }
+  ]
+}
