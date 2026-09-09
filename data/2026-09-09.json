@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting Information/Documents",
+      "expressions": {
+        "en": "Please send me",
+        "cn": "请发给我",
+        "bm_formal": "Sila hantar kepada saya",
+        "bm_casual": "Tolong hantar kat saya"
+      }
+    },
+    {
+      "concept": "Suggesting a Discussion",
+      "expressions": {
+        "en": "Let's discuss this.",
+        "cn": "我们来讨论一下这个。",
+        "bm_formal": "Marilah kita bincangkan perkara ini.",
+        "bm_casual": "Jom kita bincang pasal ni."
+      }
+    },
+    {
+      "concept": "Following Up on Progress/Status",
+      "expressions": {
+        "en": "I will follow up on this.",
+        "cn": "我会跟进这件事。",
+        "bm_formal": "Saya akan susulan perkara ini.",
+        "bm_casual": "Aku/Saya akan follow up ni."
+      }
+    },
+    {
+      "concept": "Seeking Clarification",
+      "expressions": {
+        "en": "Could you clarify this?",
+        "cn": "你能澄清一下吗?",
+        "bm_formal": "Bolehkah tuan/puan jelaskan perkara ini?",
+        "bm_casual": "Boleh tak kau/awak jelaskan ni?"
+      }
+    },
+    {
+      "concept": "Promising an Update/Reply",
+      "expressions": {
+        "en": "I will get back to you shortly.",
+        "cn": "我很快会回复你。",
+        "bm_formal": "Saya akan maklumkan semula kepada tuan/puan dalam masa terdekat.",
+        "bm_casual": "Aku/Saya akan reply kau/awak nanti."
+      }
+    },
+    {
+      "concept": "Expressing Gratitude for Cooperation/Help",
+      "expressions": {
+        "en": "Thank you for your cooperation.",
+        "cn": "谢谢您的合作。",
+        "bm_formal": "Terima kasih atas kerjasama tuan/puan.",
+        "bm_casual": "Terima kasih atas kerjasama."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are coordinating a project. You need a colleague to send you the latest progress report for review. You also want to schedule a meeting to discuss the next steps and need to follow up with an external vendor regarding their service proposal.",
+      "key_phrases": [
+        "Sila hantar kepada saya laporan kemajuan terkini.",
+        "Marilah kita bincangkan langkah seterusnya dalam mesyuarat.",
+        "Saya akan susulan dengan vendor mengenai cadangan perkhidmatan mereka."
+      ]
+    },
+    "life": {
+      "scenario": "You're planning a weekend outing with friends. You need one friend to send you the details of the location. You also want to confirm the time with another friend and promise to update everyone on the final plan.",
+      "key_phrases": [
+        "Tolong hantar kat saya detail tempat tu.",
+        "Jom kita bincang pukul berapa nak jumpa.",
+        "Aku akan update korang nanti pasal plan akhir."
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a software issue. You need IT support to clarify an error message you received. You also want them to send you the steps to resolve it and promise to update them once you've tried their suggestions.",
+      "key_phrases": [
+        "Bolehkah tuan jelaskan maksud mesej ralat ini?",
+        "Sila hantar kepada saya langkah-langkah penyelesaian.",
+        "Saya akan maklumkan semula kepada tuan setelah saya mencuba."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask someone to 'Please send me the document' in Malay? (请把文件发给我)",
+      "answer": "Sila hantar kepada saya dokumen itu."
+    },
+    {
+      "question": "What's a casual way to say 'Let's discuss this' in Malay? (我们来讨论一下这个)",
+      "answer": "Jom kita bincang pasal ni."
+    },
+    {
+      "question": "How would you formally say 'I will follow up on this matter' in Malay? (我会跟进这件事)",
+      "answer": "Saya akan susulan perkara ini."
+    },
+    {
+      "question": "How do you casually ask 'Can you clarify this?' in Malay? (你能澄清一下吗?)",
+      "answer": "Boleh tak kau/awak jelaskan ni?"
+    },
+    {
+      "question": "What's a casual way to say 'I'll update you soon' in Malay? (我很快会给你更新)",
+      "answer": "Aku/Saya akan update kau/awak kejap lagi."
+    },
+    {
+      "question": "How do you formally express 'Thank you for your cooperation' in Malay? (谢谢您的合作)",
+      "answer": "Terima kasih atas kerjasama tuan/puan."
+    }
+  ]
+}
