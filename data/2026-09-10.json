@@ -1,0 +1,133 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Greeting / Asking how someone is",
+      "expressions": {
+        "en": "How are you? / What's up?",
+        "cn": "你好吗？/ 怎么样？",
+        "bm_formal": "Apa khabar?",
+        "bm_casual": "Apa cerita? / Camne?"
+      }
+    },
+    {
+      "concept": "Excuse me / Sorry",
+      "expressions": {
+        "en": "Excuse me / Sorry",
+        "cn": "不好意思 / 对不起",
+        "bm_formal": "Maafkan saya / Mohon maaf",
+        "bm_casual": "Sorry ah / Maaf"
+      }
+    },
+    {
+      "concept": "Offering assistance",
+      "expressions": {
+        "en": "Can I help you? / How can I assist?",
+        "cn": "我可以帮你吗？/ 我能提供什么帮助？",
+        "bm_formal": "Boleh saya bantu? / Ada apa yang boleh saya bantu?",
+        "bm_casual": "Boleh tolong? / Nak tolong?"
+      }
+    },
+    {
+      "concept": "Expressing gratitude",
+      "expressions": {
+        "en": "Thank you / Thanks",
+        "cn": "谢谢你 / 谢谢",
+        "bm_formal": "Terima kasih",
+        "bm_casual": "TQ / Mekasih"
+      }
+    },
+    {
+      "concept": "Responding to thanks/apologies",
+      "expressions": {
+        "en": "No problem / It's alright",
+        "cn": "没问题 / 没关系",
+        "bm_formal": "Tiada masalah / Tidak mengapa",
+        "bm_casual": "Takpe / Takde hal"
+      }
+    },
+    {
+      "concept": "Expressing understanding",
+      "expressions": {
+        "en": "I understand / Got it",
+        "cn": "我明白了 / 明白",
+        "bm_formal": "Saya faham / Saya mengerti",
+        "bm_casual": "Faham / Ok, faham"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're at the office. A colleague looks confused with a task, and you offer help. After assisting, they thank you.",
+      "key_phrases": [
+        "Apa khabar?",
+        "Boleh saya bantu?",
+        "Saya faham",
+        "Terima kasih",
+        "Tiada masalah"
+      ]
+    },
+    "life": {
+      "scenario": "You're at a local kopitiam. You accidentally bump into someone, apologize, and then try to get the waiter's attention to order.",
+      "key_phrases": [
+        "Sorry ah",
+        "Takpe",
+        "Mekasih",
+        "Apa cerita?",
+        "Boleh tolong?"
+      ]
+    },
+    "tech": {
+      "scenario": "You're helping a friend troubleshoot their phone. You explain a step, ask if they understand, and thank them for their patience.",
+      "key_phrases": [
+        "Saya faham",
+        "Boleh saya bantu?",
+        "Terima kasih",
+        "Takde hal",
+        "Faham"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask 'How are you?' in Malay?",
+      "answer": "Apa khabar?"
+    },
+    {
+      "question": "What's a casual way to say 'Excuse me' or 'Sorry'?",
+      "answer": "Sorry ah / Maaf"
+    },
+    {
+      "question": "How would you formally offer help, asking 'Can I help you?'",
+      "answer": "Boleh saya bantu?"
+    },
+    {
+      "question": "How do you casually say 'Thanks' in Malay?",
+      "answer": "TQ / Mekasih"
+    },
+    {
+      "question": "Someone apologizes to you. How do you casually say 'No problem'?",
+      "answer": "Takpe / Takde hal"
+    },
+    {
+      "question": "How do you formally say 'I understand'?",
+      "answer": "Saya faham / Saya mengerti"
+    },
+    {
+      "question": "你的朋友跟你打招呼，问你最近怎么样。你会用什么休闲马来语回答？(Your friend greets you, asking how you've been. What casual Malay would you use to reply?)",
+      "answer": "Camne?"
+    },
+    {
+      "question": "在咖啡店不小心碰到别人后，你会用哪种休闲马来语道歉？(After accidentally bumping into someone at a kopitiam, what casual Malay would you use to apologize?)",
+      "answer": "Sorry ah"
+    },
+    {
+      "question": "当有人帮助你时，你会用什么正式马来语表达感谢？(When someone helps you, what formal Malay would you use to express gratitude?)",
+      "answer": "Terima kasih"
+    },
+    {
+      "question": "如果同事说 'Terima kasih'，你会用什么正式马来语回应 'No problem'？(If a colleague says 'Terima kasih', what formal Malay would you use to respond 'No problem'?)",
+      "answer": "Tiada masalah"
+    }
+  ]
+}
