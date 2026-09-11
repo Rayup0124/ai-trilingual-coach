@@ -1,0 +1,111 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "Innovation",
+      "expressions": {
+        "en": "Innovation / To innovate",
+        "cn": "创新 / 进行创新",
+        "bm_formal": "Inovasi / Berinovasi",
+        "bm_casual": "Idea baru / Buat benda baru"
+      }
+    },
+    {
+      "concept": "Digital Transformation",
+      "expressions": {
+        "en": "Digital Transformation",
+        "cn": "数字化转型",
+        "bm_formal": "Transformasi Digital",
+        "bm_casual": "Tukar ke digital / Guna digital"
+      }
+    },
+    {
+      "concept": "Data Analysis",
+      "expressions": {
+        "en": "Data Analysis / To analyze data",
+        "cn": "数据分析 / 分析数据",
+        "bm_formal": "Analisis Data / Menganalisis data",
+        "bm_casual": "Kaji data / Tengok data"
+      }
+    },
+    {
+      "concept": "Problem-solving",
+      "expressions": {
+        "en": "Problem-solving / To solve a problem",
+        "cn": "解决问题 / 解决问题",
+        "bm_formal": "Penyelesaian Masalah / Menyelesaikan masalah",
+        "bm_casual": "Selesaikan masalah / Cari jalan"
+      }
+    },
+    {
+      "concept": "User-friendly",
+      "expressions": {
+        "en": "User-friendly",
+        "cn": "用户友好 / 易用",
+        "bm_formal": "Mesra Pengguna",
+        "bm_casual": "Senang guna / Mudah pakai"
+      }
+    },
+    {
+      "concept": "Sustainable Development",
+      "expressions": {
+        "en": "Sustainable Development",
+        "cn": "可持续发展",
+        "bm_formal": "Pembangunan Lestari",
+        "bm_casual": "Pembangunan yang kekal / Maju tapi jaga alam"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're in a team meeting discussing a new project to streamline internal processes.",
+      "key_phrases": [
+        "Untuk projek ini, kita perlu **berinovasi** dalam pendekatan kita.",
+        "Kita juga perlu memikirkan **transformasi digital** untuk jabatan ini.",
+        "Adakah sesiapa ada **penyelesaian masalah** untuk isu kelewatan data?"
+      ]
+    },
+    "life": {
+      "scenario": "You're chatting with friends about new gadgets or community initiatives.",
+      "key_phrases": [
+        "Aplikasi baru ni memang **senang guna**, sesuai untuk semua orang.",
+        "Harap projek komuniti kita boleh fokus pada **pembangunan yang kekal** untuk masa depan.",
+        "Ada **idea baru** tak untuk kurangkan sisa plastik di kejiranan kita?"
+      ]
+    },
+    "tech": {
+      "scenario": "You're a developer discussing a new software feature with your team.",
+      "key_phrases": [
+        "Berdasarkan **analisis data** kita, ciri baru ini mesti **mesra pengguna**.",
+        "Kita perlu pastikan ia sebahagian daripada strategi **transformasi digital** syarikat.",
+        "Bagaimana kita boleh **menyelesaikan masalah** isu kelajuan pada versi beta?"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'innovation' (创新) in formal Malay?",
+      "answer": "Inovasi"
+    },
+    {
+      "question": "What is the casual Malay term for 'user-friendly' (用户友好)?",
+      "answer": "Senang guna / Mudah pakai"
+    },
+    {
+      "question": "What is 'digital transformation' (数字化转型) in formal Malay?",
+      "answer": "Transformasi Digital"
+    },
+    {
+      "question": "How would you casually say 'to analyze data' (分析数据) in Malay?",
+      "answer": "Kaji data / Tengok data"
+    },
+    {
+      "question": "What is the formal Malay term for 'sustainable development' (可持续发展)?",
+      "answer": "Pembangunan Lestari"
+    },
+    {
+      "question": "How do you say 'problem-solving' (解决问题) in formal Malay?",
+      "answer": "Penyelesaian Masalah"
+    }
+  ]
+}
