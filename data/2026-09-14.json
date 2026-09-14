@@ -1,0 +1,111 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To update / To upgrade (software, system, information)",
+      "expressions": {
+        "en": "To update / To upgrade",
+        "cn": "更新 / 升级 (Gēngxīn / Shēngjí)",
+        "bm_formal": "Mengemaskini / Menaiktaraf",
+        "bm_casual": "Update / Upgrade / Kemaskini / Naik taraf"
+      }
+    },
+    {
+      "concept": "To develop / To build (a system, app, product)",
+      "expressions": {
+        "en": "To develop / To build",
+        "cn": "开发 / 建立 (Kāifā / Jiànlì)",
+        "bm_formal": "Membangunkan / Membina",
+        "bm_casual": "Develop / Buat / Bangunkan / Bina"
+      }
+    },
+    {
+      "concept": "To innovate / To introduce new ideas",
+      "expressions": {
+        "en": "To innovate / To introduce new ideas",
+        "cn": "创新 / 引进新概念 (Chuàngxīn / Yǐnjìn xīn gàiniàn)",
+        "bm_formal": "Berinovasi / Memperkenalkan idea baharu",
+        "bm_casual": "Inovasi / Bawa masuk idea baru"
+      }
+    },
+    {
+      "concept": "Digital transformation / Digitalization",
+      "expressions": {
+        "en": "Digital transformation / Digitalization",
+        "cn": "数字化转型 / 数字化 (Shùzìhuà zhuǎnxíng / Shùzìhuà)",
+        "bm_formal": "Transformasi digital / Pendigitalan",
+        "bm_casual": "Digitalisasi / Perubahan digital"
+      }
+    },
+    {
+      "concept": "To troubleshoot / To fix a problem (technical)",
+      "expressions": {
+        "en": "To troubleshoot / To fix a problem",
+        "cn": "排除故障 / 解决问题 (Páichú gùzhàng / Jiějué wèntí)",
+        "bm_formal": "Menyelesaikan masalah teknikal / Membetulkan masalah",
+        "bm_casual": "Troubleshoot / Betulkan masalah / Selesaikan masalah"
+      }
+    },
+    {
+      "concept": "User-friendly / Easy to use",
+      "expressions": {
+        "en": "User-friendly / Easy to use",
+        "cn": "用户友好 / 易于使用 (Yònghù yǒuhǎo / Yìyú shǐyòng)",
+        "bm_formal": "Mesra pengguna / Mudah digunakan",
+        "bm_casual": "User-friendly / Senang guna"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are discussing a new project with your team and need to talk about system updates, development plans, and the need for innovation.",
+      "key_phrases": [
+        "Kita perlu **mengemaskini** sistem sedia ada untuk prestasi yang lebih baik.",
+        "Pasukan akan **membangunkan** modul pembayaran baharu dalam suku ini.",
+        "Adakah kita akan **berinovasi** dalam pendekatan pemasaran digital kita?"
+      ]
+    },
+    "life": {
+      "scenario": "Your elderly relative is having trouble with a new smartphone app and you need to explain how to update it and why it's easy to use.",
+      "key_phrases": [
+        "Atuk, kena **update** aplikasi ni dulu baru boleh guna.",
+        "Aplikasi ni sebenarnya **mesra pengguna**, senang je nak **guna**.",
+        "Jangan risau, kalau ada masalah kita boleh **betulkan masalah** tu sama-sama."
+      ]
+    },
+    "tech": {
+      "scenario": "You are presenting a new software feature to potential clients, highlighting its ease of use and the company's commitment to innovation and digital transformation.",
+      "key_phrases": [
+        "Perisian ini telah **dibangunkan** dengan antara muka yang **mesra pengguna**.",
+        "Kami sentiasa **berinovasi** untuk mencapai **transformasi digital** penuh.",
+        "Jika ada isu, pasukan sokongan kami sedia **menyelesaikan masalah teknikal** dengan pantas."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'To update (software)' formally in Malay?",
+      "answer": "Mengemaskini"
+    },
+    {
+      "question": "What is the casual Malay for 'To develop (an app)'?",
+      "answer": "Develop / Buat / Bangunkan"
+    },
+    {
+      "question": "How would you express 'Digital transformation' formally in Malay?",
+      "answer": "Transformasi digital"
+    },
+    {
+      "question": "Translate 'User-friendly' into casual Malay.",
+      "answer": "User-friendly / Senang guna"
+    },
+    {
+      "question": "Your app has a bug. How do you say 'To fix a problem' casually?",
+      "answer": "Betulkan masalah / Selesaikan masalah"
+    },
+    {
+      "question": "What is the formal Malay for 'To innovate'?",
+      "answer": "Berinovasi"
+    }
+  ]
+}
