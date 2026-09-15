@@ -1,0 +1,122 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting Clarification/Repetition",
+      "expressions": {
+        "en": "Could you please clarify/repeat that?",
+        "cn": "你能再解释/重复一遍吗？",
+        "bm_formal": "Bolehkah tuan/puan jelaskan/ulangi semula?",
+        "bm_casual": "Boleh jelaskan/ulang balik?"
+      }
+    },
+    {
+      "concept": "Confirming Understanding",
+      "expressions": {
+        "en": "I understand. / Got it.",
+        "cn": "我明白了。",
+        "bm_formal": "Saya faham.",
+        "bm_casual": "Faham. / Okay, faham."
+      }
+    },
+    {
+      "concept": "Requesting an Update",
+      "expressions": {
+        "en": "What's the latest update? / Any news?",
+        "cn": "有什么最新进展吗？",
+        "bm_formal": "Apakah kemas kini terkini? / Ada sebarang berita terkini?",
+        "bm_casual": "Apa update terbaru? / Ada berita apa?"
+      }
+    },
+    {
+      "concept": "Offering Assistance",
+      "expressions": {
+        "en": "How can I help you? / Can I assist?",
+        "cn": "我能怎么帮您？",
+        "bm_formal": "Bagaimanakah saya boleh membantu tuan/puan?",
+        "bm_casual": "Macam mana nak tolong? / Boleh saya tolong?"
+      }
+    },
+    {
+      "concept": "Making a Request",
+      "expressions": {
+        "en": "Could you please help with this? / Can you handle this?",
+        "cn": "您能帮我处理这个吗？",
+        "bm_formal": "Bolehkah tuan/puan bantu uruskan perkara ini?",
+        "bm_casual": "Boleh tolong uruskan ni? / Tolong buat ni?"
+      }
+    },
+    {
+      "concept": "Suggesting an Idea",
+      "expressions": {
+        "en": "How about we try? / My suggestion is",
+        "cn": "我们试试怎么样？",
+        "bm_formal": "Bagaimana jika kita cuba? / Cadangan saya ialah",
+        "bm_casual": "Apa kata kita cuba? / Saya cadangkan"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "During a project meeting, your manager explains a new task. You need to confirm details and get an update on a related sub-task, then propose a solution.",
+      "key_phrases": [
+        "Bolehkah tuan/puan jelaskan semula?",
+        "Saya faham.",
+        "Apakah kemas kini terkini?",
+        "Bagaimana jika kita cuba?"
+      ]
+    },
+    "life": {
+      "scenario": "You're planning a weekend trip with friends. One friend proposes a complex itinerary, and another offers to help with arrangements. You need to clarify, confirm, and suggest an alternative.",
+      "key_phrases": [
+        "Boleh ulang balik?",
+        "Faham.",
+        "Macam mana nak tolong?",
+        "Apa kata kita cuba?"
+      ]
+    },
+    "tech": {
+      "scenario": "You're collaborating with a colleague on a bug fix. They've made some changes, and you need to understand them, get an update on testing, and ask them to test something specific.",
+      "key_phrases": [
+        "Boleh jelaskan balik?",
+        "Okay, faham.",
+        "Apa update terbaru?",
+        "Boleh tolong uruskan ni?"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How would you formally ask for clarification in Malay?",
+      "answer": "Bolehkah tuan/puan jelaskan semula?"
+    },
+    {
+      "question": "What's the casual Malay way to say 'Got it.' (I understand)?",
+      "answer": "Faham."
+    },
+    {
+      "question": "Translate 'What's the latest update?' (formal) into Malay.",
+      "answer": "Apakah kemas kini terkini?"
+    },
+    {
+      "question": "How do you casually offer help in Malay?",
+      "answer": "Macam mana nak tolong?"
+    },
+    {
+      "question": "If you want to formally request someone to 'handle this' in Malay, what would you say?",
+      "answer": "Bolehkah tuan/puan bantu uruskan perkara ini?"
+    },
+    {
+      "question": "What's a casual way to suggest an idea like 'How about we try?' in Malay?",
+      "answer": "Apa kata kita cuba?"
+    },
+    {
+      "question": "你能再解释一下吗？(Nǐ néng zài jiěshì yīxià ma?) - How do you say this casually in Malay?",
+      "answer": "Boleh jelaskan balik?"
+    },
+    {
+      "question": "我明白了。(Wǒ míngbái le.) - How do you say this formally in Malay?",
+      "answer": "Saya faham."
+    }
+  ]
+}
