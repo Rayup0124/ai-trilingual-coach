@@ -1,0 +1,119 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To update / To upgrade",
+      "expressions": {
+        "en": "To update / To upgrade",
+        "cn": "更新 / 升级 (gēngxīn / shēngjí)",
+        "bm_formal": "Mengemaskini / Menaik taraf",
+        "bm_casual": "Update / Upgrade"
+      }
+    },
+    {
+      "concept": "To troubleshoot / To fix a problem",
+      "expressions": {
+        "en": "To troubleshoot / To fix a problem",
+        "cn": "排除故障 / 解决问题 (páichú gùzhàng / jiějué wèntí)",
+        "bm_formal": "Menyelesaikan masalah / Membaiki",
+        "bm_casual": "Betulkan masalah / Repair / Fix"
+      }
+    },
+    {
+      "concept": "To launch (a product/service)",
+      "expressions": {
+        "en": "To launch (a product/service)",
+        "cn": "推出 (tuīchū)",
+        "bm_formal": "Melancarkan",
+        "bm_casual": "Launch / Keluarkan"
+      }
+    },
+    {
+      "concept": "Digital transformation",
+      "expressions": {
+        "en": "Digital transformation",
+        "cn": "数字化转型 (shùzìhuà zhuǎnxíng)",
+        "bm_formal": "Transformasi digital",
+        "bm_casual": "Transformasi digital"
+      }
+    },
+    {
+      "concept": "Online platform / System",
+      "expressions": {
+        "en": "Online platform / System",
+        "cn": "在线平台 / 系统 (zàixiàn píngtái / xìtǒng)",
+        "bm_formal": "Platform dalam talian / Sistem",
+        "bm_casual": "Platform online / Sistem"
+      }
+    },
+    {
+      "concept": "To backup data / To save information",
+      "expressions": {
+        "en": "To backup data / To save information",
+        "cn": "备份数据 / 保存信息 (bèifèn shùjù / bǎocún xìnxī)",
+        "bm_formal": "Menyandarkan data / Menyimpan maklumat",
+        "bm_casual": "Backup data / Save info"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Your company is implementing a new HR system and needs everyone to update their profiles and understand the digital transformation process.",
+      "key_phrases": [
+        "Pihak pengurusan akan melancarkan platform HR dalam talian yang baharu.",
+        "Sila kemaskini profil anda di sistem tersebut.",
+        "Ini adalah sebahagian daripada transformasi digital syarikat."
+      ]
+    },
+    "life": {
+      "scenario": "Your smartphone is acting up, and you need to update its software and back up your important photos before attempting a factory reset.",
+      "key_phrases": [
+        "Telefon saya perlu di-update.",
+        "Saya kena backup data penting dulu.",
+        "Kalau tak okay, mungkin kena repair."
+      ]
+    },
+    "tech": {
+      "scenario": "As a developer, you are preparing to launch a new software version, which involves upgrading the existing system and troubleshooting any last-minute bugs.",
+      "key_phrases": [
+        "Kita perlu menaik taraf sistem sedia ada sebelum pelancaran.",
+        "Ada beberapa isu yang perlu diselesaikan segera.",
+        "Kami akan melancarkan versi baharu minggu depan."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'To update' (formal) in Malay?",
+      "answer": "Mengemaskini"
+    },
+    {
+      "question": "How do you say 'To fix a problem' (casual) in Malay?",
+      "answer": "Betulkan masalah / Repair"
+    },
+    {
+      "question": "What is the formal Malay term for 'To launch a product'?",
+      "answer": "Melancarkan"
+    },
+    {
+      "question": "How do you say 'Digital transformation' in Malay?",
+      "answer": "Transformasi digital"
+    },
+    {
+      "question": "How do you say 'Online platform' (casual) in Malay?",
+      "answer": "Platform online"
+    },
+    {
+      "question": "How do you say 'To backup data' (formal) in Malay?",
+      "answer": "Menyandarkan data"
+    },
+    {
+      "question": "你如何用马来语说 '升级' (休闲)？ (How do you say 'upgrade' (casual) in Malay?)",
+      "answer": "Upgrade"
+    },
+    {
+      "question": "你如何用马来语说 '解决问题' (正式)？ (How do you say 'solve a problem' (formal) in Malay?)",
+      "answer": "Menyelesaikan masalah"
+    }
+  ]
+}
