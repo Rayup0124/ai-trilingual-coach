@@ -1,0 +1,119 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting something to be sent/forwarded",
+      "expressions": {
+        "en": "Could you please send me?",
+        "cn": "你可以发给我吗？",
+        "bm_formal": "Bolehkah anda hantarkan kepada saya?",
+        "bm_casual": "Boleh tak hantar kat saya?"
+      }
+    },
+    {
+      "concept": "Promising an update/follow-up",
+      "expressions": {
+        "en": "I will update you shortly.",
+        "cn": "我很快会通知你。",
+        "bm_formal": "Saya akan maklumkan kemas kini kepada anda sebentar lagi.",
+        "bm_casual": "Nanti saya update."
+      }
+    },
+    {
+      "concept": "Seeking clarification",
+      "expressions": {
+        "en": "Could you clarify what you mean?",
+        "cn": "你能澄清你的意思吗？",
+        "bm_formal": "Bolehkah anda jelaskan maksud anda?",
+        "bm_casual": "Boleh terangkan apa maksudnya?"
+      }
+    },
+    {
+      "concept": "Proposing a meeting",
+      "expressions": {
+        "en": "Let's schedule a meeting.",
+        "cn": "我们安排个会议吧。",
+        "bm_formal": "Mari kita jadualkan satu mesyuarat.",
+        "bm_casual": "Jom set meeting."
+      }
+    },
+    {
+      "concept": "Apologizing for inconvenience",
+      "expressions": {
+        "en": "I apologize for the inconvenience.",
+        "cn": "对于造成的不便，我深感抱歉。",
+        "bm_formal": "Saya mohon maaf atas kesulitan yang berlaku.",
+        "bm_casual": "Sorrylah susahkan."
+      }
+    },
+    {
+      "concept": "Taking responsibility / Handling a task",
+      "expressions": {
+        "en": "I'll handle it.",
+        "cn": "我会处理的。",
+        "bm_formal": "Saya akan uruskannya.",
+        "bm_casual": "Saya settlekan."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Your team leader needs an urgent report and wants to discuss project milestones.",
+      "key_phrases": [
+        "Bolehkah anda hantarkan kepada saya laporan kemajuan projek?",
+        "Saya akan maklumkan kemas kini kepada anda sebentar lagi selepas semakan.",
+        "Mari kita jadualkan satu mesyuarat untuk bincang."
+      ]
+    },
+    "life": {
+      "scenario": "You're coordinating a family gathering and need to share details and confirm attendance.",
+      "key_phrases": [
+        "Boleh tak hantar kat saya senarai nama yang confirm datang?",
+        "Nanti saya update pasal lokasi dan masa.",
+        "Sorrylah susahkan semua untuk datang."
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a software issue with a colleague and need to understand the problem better before taking action.",
+      "key_phrases": [
+        "Bolehkah anda jelaskan maksud 'error code' ini?",
+        "Saya akan uruskannya (isu ini) setelah dapat maklumat lanjut.",
+        "Jom set meeting (online) untuk kita tengok sama-sama."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally say 'Could you please send me the report?' in Malay?",
+      "answer": "Bolehkah anda hantarkan kepada saya laporan itu?"
+    },
+    {
+      "question": "What's a casual way to say 'I will update you shortly'?",
+      "answer": "Nanti saya update."
+    },
+    {
+      "question": "Translate 'Could you clarify what you mean?' (formal) into Malay.",
+      "answer": "Bolehkah anda jelaskan maksud anda?"
+    },
+    {
+      "question": "How would you casually propose 'Let's schedule a meeting'?",
+      "answer": "Jom set meeting."
+    },
+    {
+      "question": "What's the formal Malay expression for 'I apologize for the inconvenience'?",
+      "answer": "Saya mohon maaf atas kesulitan yang berlaku."
+    },
+    {
+      "question": "If you want to say 'I'll handle it' in a casual Malay way, what would you say?",
+      "answer": "Saya settlekan."
+    },
+    {
+      "question": "How do you say 'Please send me the file' in a casual way? (CN: 请把文件发给我)",
+      "answer": "Boleh tak hantar kat saya fail tu?"
+    },
+    {
+      "question": "Formal Malay for 'I will update you soon'. (CN: 我很快会通知你)",
+      "answer": "Saya akan maklumkan kemas kini kepada anda sebentar lagi."
+    }
+  ]
+}
