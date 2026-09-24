@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Please confirm",
+      "expressions": {
+        "en": "Please confirm / Kindly confirm",
+        "cn": "请确认 (qǐng quèrèn)",
+        "bm_formal": "Sila sahkan / Mohon pengesahan",
+        "bm_casual": "Tolong confirmkan / Boleh confirm?"
+      }
+    },
+    {
+      "concept": "I understand / Got it",
+      "expressions": {
+        "en": "I understand / Got it",
+        "cn": "我明白了 (wǒ míngbái le)",
+        "bm_formal": "Saya faham / Saya maklum",
+        "bm_casual": "Faham / Ok, faham / Got it"
+      }
+    },
+    {
+      "concept": "Let me know / Keep me updated",
+      "expressions": {
+        "en": "Let me know / Keep me updated",
+        "cn": "告诉我 (gàosù wǒ) / 让我知道 (ràng wǒ zhīdào)",
+        "bm_formal": "Sila maklumkan saya / Beri saya maklum balas",
+        "bm_casual": "Bagitahu saya / Inform saya / Update saya"
+      }
+    },
+    {
+      "concept": "I will follow up / I'll check on it",
+      "expressions": {
+        "en": "I will follow up / I'll check on it",
+        "cn": "我会跟进 (wǒ huì gēnjìn)",
+        "bm_formal": "Saya akan susulan / Saya akan semak",
+        "bm_casual": "Saya akan follow up / Nanti saya check"
+      }
+    },
+    {
+      "concept": "Could you please elaborate?",
+      "expressions": {
+        "en": "Could you please elaborate? / Can you explain more?",
+        "cn": "你能详细说明一下吗？(nǐ néng xiángxì shuōmíng yīxià ma?)",
+        "bm_formal": "Boleh tuan/puan huraikan dengan lebih lanjut? / Mohon penjelasan lebih terperinci.",
+        "bm_casual": "Boleh explain lagi? / Boleh cerita lagi detail?"
+      }
+    },
+    {
+      "concept": "Thank you for your cooperation",
+      "expressions": {
+        "en": "Thank you for your cooperation / Thanks for helping",
+        "cn": "谢谢您的合作 (xièxie nín de hézuò)",
+        "bm_formal": "Terima kasih atas kerjasama tuan/puan.",
+        "bm_casual": "Terima kasih banyak-banyak / Thanks for the help / Terima kasih atas bantuan."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're in a team meeting discussing a new project deadline. Your manager asks for an update on a specific task you're responsible for.",
+      "key_phrases": [
+        "Saya akan susulan laporan itu.",
+        "Sila maklumkan saya jika ada perubahan.",
+        "Terima kasih atas kerjasama semua."
+      ]
+    },
+    "life": {
+      "scenario": "You're planning a family dinner with your relatives. You need to confirm the date and time with your aunt.",
+      "key_phrases": [
+        "Boleh confirmkan masa makan malam?",
+        "Faham, nanti saya bagitahu yang lain.",
+        "Terima kasih banyak-banyak!"
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a software bug with a colleague from the IT department. You need to understand the steps they took and ask for updates.",
+      "key_phrases": [
+        "Boleh explain lagi tentang masalah ni?",
+        "Nanti saya check isu ni.",
+        "Update saya kalau dah selesai."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally say 'Please confirm' in Malay?",
+      "answer": "Sila sahkan"
+    },
+    {
+      "question": "你如何用马来语休闲地说 'I understand'?",
+      "answer": "Faham / Got it"
+    },
+    {
+      "question": "What's a formal Malay way to say 'Let me know'?",
+      "answer": "Sila maklumkan saya"
+    },
+    {
+      "question": "How would you casually say 'I will follow up' in Malay?",
+      "answer": "Saya akan follow up"
+    },
+    {
+      "question": "How to formally ask 'Could you please elaborate?' in Malay?",
+      "answer": "Boleh tuan/puan huraikan dengan lebih lanjut?"
+    },
+    {
+      "question": "用马来语休闲地说 'Thanks for helping'。",
+      "answer": "Terima kasih atas bantuan / Thanks for the help"
+    }
+  ]
+}
