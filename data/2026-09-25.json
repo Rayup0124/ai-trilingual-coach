@@ -1,0 +1,111 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking about well-being/status",
+      "expressions": {
+        "en": "How are you? / What's up?",
+        "cn": "你好吗？/ 怎么样？",
+        "bm_formal": "Apa khabar?",
+        "bm_casual": "Apa cerita?"
+      }
+    },
+    {
+      "concept": "Expressing gratitude",
+      "expressions": {
+        "en": "Thank you very much. / Thanks.",
+        "cn": "非常感谢。/ 谢谢。",
+        "bm_formal": "Terima kasih banyak-banyak.",
+        "bm_casual": "Mekasih."
+      }
+    },
+    {
+      "concept": "Apologizing/Getting attention",
+      "expressions": {
+        "en": "Excuse me. / Sorry.",
+        "cn": "不好意思。/ 对不起。",
+        "bm_formal": "Maafkan saya.",
+        "bm_casual": "Sorry."
+      }
+    },
+    {
+      "concept": "Offering assistance",
+      "expressions": {
+        "en": "May I help you? / Need help?",
+        "cn": "我可以帮你吗？/ 需要帮忙吗？",
+        "bm_formal": "Boleh saya bantu?",
+        "bm_casual": "Nak tolong?"
+      }
+    },
+    {
+      "concept": "Affirming understanding",
+      "expressions": {
+        "en": "I understand. / Got it.",
+        "cn": "我明白了。/ 懂了。",
+        "bm_formal": "Saya faham.",
+        "bm_casual": "Faham."
+      }
+    },
+    {
+      "concept": "Saying goodbye",
+      "expressions": {
+        "en": "See you later. / Bye.",
+        "cn": "待会儿见。/ 再见。",
+        "bm_formal": "Jumpa lagi nanti.",
+        "bm_casual": "Jumpa lagi."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You meet a new colleague in the office pantry. Later, you offer help with a task, and they confirm they understand your explanation.",
+      "key_phrases": [
+        "Apa khabar?",
+        "Boleh saya bantu?",
+        "Saya faham."
+      ]
+    },
+    "life": {
+      "scenario": "You bump into a friend at the mall, chat briefly, thank them for a small favor, and then part ways.",
+      "key_phrases": [
+        "Apa cerita?",
+        "Mekasih.",
+        "Jumpa lagi."
+      ]
+    },
+    "tech": {
+      "scenario": "You're helping a friend troubleshoot their computer. You accidentally delete a file, apologize, then offer to help recover it, and they confirm they understand your steps.",
+      "key_phrases": [
+        "Sorry.",
+        "Nak tolong?",
+        "Faham."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How are you? (formal) / 你好吗？(正式)",
+      "answer": "Apa khabar?"
+    },
+    {
+      "question": "Thanks a lot! (casual) / 谢谢！(非正式)",
+      "answer": "Mekasih!"
+    },
+    {
+      "question": "Excuse me. (formal) / 不好意思。(正式)",
+      "answer": "Maafkan saya."
+    },
+    {
+      "question": "Need help? (casual) / 需要帮忙吗？(非正式)",
+      "answer": "Nak tolong?"
+    },
+    {
+      "question": "I understand. (formal) / 我明白了。(正式)",
+      "answer": "Saya faham."
+    },
+    {
+      "question": "See you later! (casual) / 待会儿见！(非正式)",
+      "answer": "Jumpa lagi!"
+    }
+  ]
+}
