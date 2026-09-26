@@ -1,0 +1,115 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To update (software/system)",
+      "expressions": {
+        "en": "To update (software/system)",
+        "cn": "更新 (gēngxīn)",
+        "bm_formal": "Mengemaskini (perisian/sistem)",
+        "bm_casual": "Update / Kemas kini (perisian/sistem)"
+      }
+    },
+    {
+      "concept": "To develop (an app/system/project)",
+      "expressions": {
+        "en": "To develop (an app/system/project)",
+        "cn": "开发 (kāifā)",
+        "bm_formal": "Membangunkan (aplikasi/sistem/projek)",
+        "bm_casual": "Buat / Bangunkan (app/sistem/projek)"
+      }
+    },
+    {
+      "concept": "Digital transformation",
+      "expressions": {
+        "en": "Digital transformation",
+        "cn": "数字化转型 (shùzìhuà zhuǎnxíng)",
+        "bm_formal": "Transformasi digital",
+        "bm_casual": "Digitalisasi / Transformasi digital"
+      }
+    },
+    {
+      "concept": "Online transaction/payment",
+      "expressions": {
+        "en": "Online transaction/payment",
+        "cn": "线上交易/支付 (xiànshàng jiāoyì/zhīfù)",
+        "bm_formal": "Transaksi/Pembayaran dalam talian",
+        "bm_casual": "Bayar online / Transaksi online"
+      }
+    },
+    {
+      "concept": "Internet connection / WiFi coverage",
+      "expressions": {
+        "en": "Internet connection / WiFi coverage",
+        "cn": "网络连接 / 无线网络覆盖 (wǎngluò liánjiē / wúxiàn wǎngluò fùgài)",
+        "bm_formal": "Sambungan internet / Liputan WiFi",
+        "bm_casual": "Line internet / WiFi ada tak / Liputan WiFi"
+      }
+    },
+    {
+      "concept": "Data security / Data privacy",
+      "expressions": {
+        "en": "Data security / Data privacy",
+        "cn": "数据安全 / 数据隐私 (shùjù ānquán / shùjù yǐnsī)",
+        "bm_formal": "Keselamatan data / Privasi data",
+        "bm_casual": "Data selamat / Privasi data"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are in a team meeting discussing the rollout of a new internal system. The manager emphasizes the need to *update* old software and ensure *data security* during the *digital transformation* process. The team also needs to *develop* a module for *online transactions*.",
+      "key_phrases": [
+        "mengemaskini perisian",
+        "keselamatan data",
+        "transformasi digital",
+        "membangunkan sistem",
+        "transaksi dalam talian"
+      ]
+    },
+    "life": {
+      "scenario": "You're chatting with a friend about using online services. They complain about poor *internet connection* at home and ask for advice on *updating* their phone's operating system. You also discuss how convenient *online payments* are.",
+      "key_phrases": [
+        "line internet",
+        "kemas kini telefon",
+        "bayar online",
+        "liputan WiFi"
+      ]
+    },
+    "tech": {
+      "scenario": "You're at a tech conference, and a developer is explaining their new app. They highlight how they *developed* it with strong *data privacy* features and how it facilitates secure *online transactions*. They also mention continuous *updates* to improve user experience.",
+      "key_phrases": [
+        "membangunkan aplikasi",
+        "privasi data",
+        "transaksi dalam talian",
+        "kemas kini berterusan"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'To update software' (formal) in Malay?",
+      "answer": "Mengemaskini perisian"
+    },
+    {
+      "question": "How do you say 'Online payment' (casual) in Malay?",
+      "answer": "Bayar online"
+    },
+    {
+      "question": "What is the formal Malay term for 'Digital transformation'?",
+      "answer": "Transformasi digital"
+    },
+    {
+      "question": "How do you say 'To develop an app' (casual) in Malay?",
+      "answer": "Buat app"
+    },
+    {
+      "question": "What is 'Data security' in formal Malay?",
+      "answer": "Keselamatan data"
+    },
+    {
+      "question": "How would you casually ask if there's 'WiFi coverage' in Malay?",
+      "answer": "WiFi ada tak?"
+    }
+  ]
+}
