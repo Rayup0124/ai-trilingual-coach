@@ -1,0 +1,109 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for clarification/repetition",
+      "expressions": {
+        "en": "Could you explain further? / Could you repeat that?",
+        "cn": "你能详细说明一下吗？/ 你能重复一遍吗？",
+        "bm_formal": "Boleh tuan/puan huraikan dengan lebih lanjut? / Boleh ulang sekali lagi?",
+        "bm_casual": "Boleh cerita lagi detail? / Boleh ulang balik?"
+      }
+    },
+    {
+      "concept": "Expressing understanding/agreement",
+      "expressions": {
+        "en": "I understand. / I agree.",
+        "cn": "我明白了。/ 我同意。",
+        "bm_formal": "Saya faham. / Saya bersetuju.",
+        "bm_casual": "Faham. / Setuju."
+      }
+    },
+    {
+      "concept": "Making a polite request",
+      "expressions": {
+        "en": "Could I request? / May I ask for?",
+        "cn": "我可以请求吗？/ 我可以要求吗？",
+        "bm_formal": "Boleh saya mohon? / Izinkan saya meminta?",
+        "bm_casual": "Boleh saya minta? / Nak minta"
+      }
+    },
+    {
+      "concept": "Offering assistance",
+      "expressions": {
+        "en": "How may I assist you? / Is there anything I can help with?",
+        "cn": "我能帮你什么？/ 有什么我可以帮忙的吗？",
+        "bm_formal": "Ada apa yang boleh saya bantu, tuan/puan? / Boleh saya bantu?",
+        "bm_casual": "Nak saya tolong apa-apa? / Boleh saya tolong?"
+      }
+    },
+    {
+      "concept": "Apologizing for inconvenience/delay",
+      "expressions": {
+        "en": "I apologize for the inconvenience/delay.",
+        "cn": "对不起造成不便/延误。",
+        "bm_formal": "Saya mohon maaf atas kesulitan/kelewatan ini.",
+        "bm_casual": "Maaf sangat sebab susahkan/lambat."
+      }
+    },
+    {
+      "concept": "Suggesting an idea/solution",
+      "expressions": {
+        "en": "I suggest we / How about we?",
+        "cn": "我建议我们 / 我们不如?",
+        "bm_formal": "Saya cadangkan kita / Bagaimana jika kita?",
+        "bm_casual": "Saya rasa kita patut / Apa kata kita?"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "During a team meeting, your manager explains a new project requirement, and you need to ask for more details and then propose a solution.",
+      "key_phrases": [
+        "Boleh tuan/puan huraikan dengan lebih lanjut?",
+        "Saya faham.",
+        "Saya cadangkan kita"
+      ]
+    },
+    "life": {
+      "scenario": "You're discussing weekend plans with a friend. You need to confirm understanding and suggest an activity.",
+      "key_phrases": [
+        "Faham.",
+        "Apa kata kita?"
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a software issue with IT support. You need to ask them to repeat instructions and apologize for a delayed response.",
+      "key_phrases": [
+        "Boleh ulang balik?",
+        "Maaf sangat sebab lambat."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask for more details on a topic?",
+      "answer": "Boleh tuan/puan huraikan dengan lebih lanjut?"
+    },
+    {
+      "question": "What's a casual way to express understanding?",
+      "answer": "Faham."
+    },
+    {
+      "question": "你会怎么礼貌地请求帮助？",
+      "answer": "Boleh saya mohon bantuan?"
+    },
+    {
+      "question": "How would you offer help to a colleague casually?",
+      "answer": "Nak saya tolong apa-apa?"
+    },
+    {
+      "question": "What's the formal way to apologize for a delay?",
+      "answer": "Saya mohon maaf atas kelewatan ini."
+    },
+    {
+      "question": "你建议我们怎么做？ (Formal Malay)",
+      "answer": "Saya cadangkan kita"
+    }
+  ]
+}
