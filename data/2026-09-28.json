@@ -1,0 +1,111 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Greeting (How are you?)",
+      "expressions": {
+        "en": "How are you?",
+        "cn": "你好吗？",
+        "bm_formal": "Apa khabar? / Bagaimana keadaan anda?",
+        "bm_casual": "Apa khabar? / Sihat? / OK tak?"
+      }
+    },
+    {
+      "concept": "Asking for something (Can I have?)",
+      "expressions": {
+        "en": "Can I have? / May I have?",
+        "cn": "我可以要吗？",
+        "bm_formal": "Bolehkah saya dapatkan? / Izinkan saya",
+        "bm_casual": "Boleh saya minta? / Nak (something)? / Boleh bagi?"
+      }
+    },
+    {
+      "concept": "Apologizing / Getting attention (Excuse me / Sorry)",
+      "expressions": {
+        "en": "Excuse me / I'm sorry.",
+        "cn": "不好意思 / 对不起",
+        "bm_formal": "Maafkan saya. / Mohon maaf.",
+        "bm_casual": "Maaf. / Sorry (loanword, very common)."
+      }
+    },
+    {
+      "concept": "Agreeing / Affirming (Okay / Alright / Understood)",
+      "expressions": {
+        "en": "Okay / Alright / Understood.",
+        "cn": "好的 / 明白",
+        "bm_formal": "Baiklah. / Saya faham.",
+        "bm_casual": "OK. / Boleh. / Ya. / Alright."
+      }
+    },
+    {
+      "concept": "Asking for clarification (Could you repeat?)",
+      "expressions": {
+        "en": "Could you please repeat that?",
+        "cn": "你可以重复一遍吗？",
+        "bm_formal": "Boleh tuan/puan ulang sekali lagi? / Mohon diulang.",
+        "bm_casual": "Boleh ulang balik? / Cakap balik? / Apa dia?"
+      }
+    },
+    {
+      "concept": "Expressing difficulty (It's difficult)",
+      "expressions": {
+        "en": "It's difficult / It's hard.",
+        "cn": "这很难",
+        "bm_formal": "Ini adalah sukar. / Ia agak mencabar.",
+        "bm_casual": "Susah ni. / Payah. / Tak senang."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are in a formal meeting with a new client. You need to ask for clarification on a project requirement and confirm understanding politely.",
+      "key_phrases": [
+        "Boleh tuan/puan ulang sekali lagi?",
+        "Saya faham.",
+        "Baiklah."
+      ]
+    },
+    "life": {
+      "scenario": "You are at a local wet market buying vegetables. You want to ask for the price, but you don't quite catch what the vendor says. You also find it difficult to pick the right vegetables.",
+      "key_phrases": [
+        "Boleh saya minta harga?",
+        "Apa dia?",
+        "Susah ni."
+      ]
+    },
+    "tech": {
+      "scenario": "You're trying to help a friend troubleshoot their smartphone issue via a video call. They're struggling to follow your instructions. You need to apologize for not being clear and ask them to repeat the problem.",
+      "key_phrases": [
+        "Maafkan saya.",
+        "Boleh ulang balik?",
+        "OK."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How would you formally ask 'How are you?' in Malay?",
+      "answer": "Apa khabar? / Bagaimana keadaan anda?"
+    },
+    {
+      "question": "你如何用马来语礼貌地请求帮助？ (How do you politely ask for help in Malay?)",
+      "answer": "Bolehkah saya dapatkan bantuan?"
+    },
+    {
+      "question": "How do you casually say 'Sorry' or 'Excuse me' in Malay?",
+      "answer": "Maaf. / Sorry."
+    },
+    {
+      "question": "你如何用马来语表示'我明白'？ (How do you say 'I understand' in Malay?)",
+      "answer": "Saya faham."
+    },
+    {
+      "question": "How would you casually ask someone to 'repeat that' in Malay?",
+      "answer": "Boleh ulang balik?"
+    },
+    {
+      "question": "How do you say 'It's difficult' in a casual Malay context?",
+      "answer": "Susah ni."
+    }
+  ]
+}
