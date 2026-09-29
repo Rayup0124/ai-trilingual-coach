@@ -1,0 +1,111 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To update / Upgrade (software/system)",
+      "expressions": {
+        "en": "To update / To upgrade",
+        "cn": "更新 / 升级",
+        "bm_formal": "Mengemaskini / Menaik taraf",
+        "bm_casual": "Update / Upgrade (directly borrowed), Nak update / Nak upgrade"
+      }
+    },
+    {
+      "concept": "Digitalization / Digital Transformation",
+      "expressions": {
+        "en": "Digitalization / Digital Transformation",
+        "cn": "数字化 / 数字转型",
+        "bm_formal": "Pendigitalan / Transformasi digital",
+        "bm_casual": "Digitalisasi (often mixed), Tukar jadi digital"
+      }
+    },
+    {
+      "concept": "Online platform / E-commerce",
+      "expressions": {
+        "en": "Online platform / E-commerce",
+        "cn": "在线平台 / 电子商务",
+        "bm_formal": "Platform dalam talian / E-dagang",
+        "bm_casual": "Platform online / Jual beli online"
+      }
+    },
+    {
+      "concept": "To troubleshoot / Resolve an issue",
+      "expressions": {
+        "en": "To troubleshoot / To resolve an issue",
+        "cn": "排除故障 / 解决问题",
+        "bm_formal": "Menyelesaikan masalah / Mengatasi isu",
+        "bm_casual": "Betulkan masalah / Selesaikan masalah / Troubleshoot"
+      }
+    },
+    {
+      "concept": "Data privacy / Data security",
+      "expressions": {
+        "en": "Data privacy / Data security",
+        "cn": "数据隐私 / 数据安全",
+        "bm_formal": "Privasi data / Keselamatan data",
+        "bm_casual": "Jaga data / Data security / Privasi data (often used directly)"
+      }
+    },
+    {
+      "concept": "Technological advancement / Innovation",
+      "expressions": {
+        "en": "Technological advancement / Innovation",
+        "cn": "科技进步 / 创新",
+        "bm_formal": "Kemajuan teknologi / Inovasi",
+        "bm_casual": "Teknologi maju / Inovasi (often used directly)"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Your team is discussing how to implement a new digital system to improve workflow efficiency and ensure data security in the company.",
+      "key_phrases": [
+        "Kita perlu pertimbangkan **transformasi digital** untuk jabatan kita.",
+        "Penting untuk **mengemaskini sistem** kita secara berkala.",
+        "Bagaimana kita boleh pastikan **keselamatan data** pelanggan terjamin?"
+      ]
+    },
+    "life": {
+      "scenario": "You're helping a friend set up a new app on their phone, which requires an update, and discussing their online shopping habits.",
+      "key_phrases": [
+        "Eh, kena **update aplikasi** ni dulu baru boleh guna.",
+        "Banyak barang murah boleh dapat dekat **platform online** ni.",
+        "Kalau ada masalah teknikal, cuba **betulkan masalah** tu ikut arahan."
+      ]
+    },
+    "tech": {
+      "scenario": "You're at a tech meetup, discussing the latest technological advancements and the challenges of maintaining data privacy in new innovations.",
+      "key_phrases": [
+        "**Kemajuan teknologi** sekarang memang sangat pesat.",
+        "Bagaimana kita nak kekalkan **privasi data** dalam setiap **inovasi** baru?",
+        "Cabaran utama adalah untuk **mengatasi isu** keselamatan siber."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'to update the system' in formal Malay?",
+      "answer": "Mengemaskini sistem"
+    },
+    {
+      "question": "'Digitalization' in casual Malay is often expressed as?",
+      "answer": "Digitalisasi / Tukar jadi digital"
+    },
+    {
+      "question": "电子商务的正式马来语是什么？ (What is the formal Malay for 'e-commerce'?)",
+      "answer": "E-dagang"
+    },
+    {
+      "question": "If you have a technical issue, you might need to 'troubleshoot the problem'. How would you say this casually in Malay?",
+      "answer": "Betulkan masalah / Selesaikan masalah"
+    },
+    {
+      "question": "'Data privacy' is crucial. How do you say it in Malay?",
+      "answer": "Privasi data / Keselamatan data"
+    },
+    {
+      "question": "科技进步的休闲马来语表达是什么？ (What is the casual Malay expression for 'technological advancement'?)",
+      "answer": "Teknologi maju / Teknologi baru"
+    }
+  ]
+}
