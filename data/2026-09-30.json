@@ -1,0 +1,117 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting assistance or information politely",
+      "expressions": {
+        "en": "Could you please? / Can you?",
+        "cn": "你可以吗? / 请你",
+        "bm_formal": "Bolehkah anda tolong? / Sila",
+        "bm_casual": "Boleh tolong? / Boleh tak?"
+      }
+    },
+    {
+      "concept": "Acknowledging understanding",
+      "expressions": {
+        "en": "I understand. / Got it.",
+        "cn": "我明白了。 / 知道了。",
+        "bm_formal": "Saya faham. / Saya mengerti.",
+        "bm_casual": "Faham. / Okay, faham. / Dapat."
+      }
+    },
+    {
+      "concept": "Offering to verify or check information",
+      "expressions": {
+        "en": "Let me check. / I'll check.",
+        "cn": "让我查一下。 / 我会去查。",
+        "bm_formal": "Biar saya semak. / Saya akan semak.",
+        "bm_casual": "Saya check dulu. / Nanti saya check."
+      }
+    },
+    {
+      "concept": "Expressing gratitude",
+      "expressions": {
+        "en": "Thank you for your help. / Thanks!",
+        "cn": "谢谢你的帮助。 / 谢谢！",
+        "bm_formal": "Terima kasih atas bantuan anda. / Ribuan terima kasih.",
+        "bm_casual": "Terima kasih. / TQ."
+      }
+    },
+    {
+      "concept": "Apologizing for a mistake or inconvenience",
+      "expressions": {
+        "en": "I apologize. / Sorry.",
+        "cn": "我道歉。 / 对不起。",
+        "bm_formal": "Saya memohon maaf. / Saya minta maaf.",
+        "bm_casual": "Sorry. / Minta maaf."
+      }
+    },
+    {
+      "concept": "Proposing a discussion or meeting",
+      "expressions": {
+        "en": "Let's discuss. / Let's talk.",
+        "cn": "让我们讨论一下。 / 我们谈谈吧。",
+        "bm_formal": "Mari kita bincangkan. / Mari kita berbincang.",
+        "bm_casual": "Jom bincang. / Kita bincang."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're collaborating on a project. A colleague asks for an update on a task you're handling, and you need to confirm some details before giving a full answer.",
+      "key_phrases": [
+        "Bolehkah anda tolong hantar draf itu?",
+        "Saya faham.",
+        "Biar saya semak semula.",
+        "Terima kasih atas bantuan anda.",
+        "Mari kita bincangkan jadual."
+      ]
+    },
+    "life": {
+      "scenario": "You're planning a casual dinner with friends. You need to confirm the restaurant and time, and one friend is running late.",
+      "key_phrases": [
+        "Boleh tak confirm tempat?",
+        "Faham, takpe.",
+        "Saya check dulu menu.",
+        "Terima kasih sebab datang!",
+        "Jom bincang nak makan apa."
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a software bug with a tech support agent or a knowledgeable friend. You need to describe the issue and understand their instructions.",
+      "key_phrases": [
+        "Boleh tolong tengok error ni?",
+        "Dapat.",
+        "Nanti saya check setting.",
+        "TQ for the help!",
+        "Kita bincang pasal solution."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask 'Could you please send the updated file?' in Malay?",
+      "answer": "Bolehkah anda tolong hantar fail yang dikemaskini?"
+    },
+    {
+      "question": "What's a casual way to acknowledge 'Got it, I'll do it' in Malay?",
+      "answer": "Faham, saya buat."
+    },
+    {
+      "question": "How would you formally say 'Let me check the availability' in Malay?",
+      "answer": "Biar saya semak ketersediaan."
+    },
+    {
+      "question": "What's a casual way to say 'Thanks for the info!' in Malay?",
+      "answer": "Terima kasih untuk info! / TQ for the info!"
+    },
+    {
+      "question": "How do you formally apologize for a mistake in Malay?",
+      "answer": "Saya memohon maaf atas kesilapan itu."
+    },
+    {
+      "question": "What's a casual way to suggest 'Let's discuss this over coffee' in Malay?",
+      "answer": "Jom bincang ni sambil minum kopi."
+    }
+  ]
+}
