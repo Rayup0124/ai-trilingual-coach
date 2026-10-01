@@ -1,0 +1,114 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Greeting / Checking in",
+      "expressions": {
+        "en": "How are you? / How's it going?",
+        "cn": "你好吗？/ 怎么样？",
+        "bm_formal": "Apa khabar?",
+        "bm_casual": "Apa cerita? / Camne?"
+      }
+    },
+    {
+      "concept": "Apology / Getting attention",
+      "expressions": {
+        "en": "Excuse me / Sorry",
+        "cn": "不好意思 / 对不起",
+        "bm_formal": "Maafkan saya / Mohon maaf",
+        "bm_casual": "Sori / Maaf"
+      }
+    },
+    {
+      "concept": "Expressing Gratitude",
+      "expressions": {
+        "en": "Thank you",
+        "cn": "谢谢",
+        "bm_formal": "Terima kasih",
+        "bm_casual": "TQ / Mekasih"
+      }
+    },
+    {
+      "concept": "Requesting assistance/items",
+      "expressions": {
+        "en": "Please (e.g., 'Please help me', 'Please pass the water')",
+        "cn": "请",
+        "bm_formal": "Tolong",
+        "bm_casual": "Tolonglah / Boleh tolong?"
+      }
+    },
+    {
+      "concept": "Offering assistance",
+      "expressions": {
+        "en": "How can I help? / May I assist you?",
+        "cn": "我可以怎么帮忙？/ 我可以为您服务吗？",
+        "bm_formal": "Bagaimana boleh saya bantu? / Ada apa yang boleh saya bantu?",
+        "bm_casual": "Ada apa? / Nak apa? / Boleh saya tolong?"
+      }
+    },
+    {
+      "concept": "Acknowledging understanding",
+      "expressions": {
+        "en": "I understand / Got it",
+        "cn": "我明白了 / 知道了",
+        "bm_formal": "Saya faham / Saya maklum",
+        "bm_casual": "Faham / Ok, faham / Dapat"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're at a new project meeting with colleagues from different departments. You want to greet them, offer help, and confirm understanding of the tasks.",
+      "key_phrases": [
+        "Apa khabar semua?",
+        "Terima kasih atas penerangan ini.",
+        "Bagaimana boleh saya bantu dalam projek ini?",
+        "Saya faham apa yang perlu dilakukan."
+      ]
+    },
+    "life": {
+      "scenario": "You're at a local 'mamak' stall, trying to get the waiter's attention, ordering food, and thanking them.",
+      "key_phrases": [
+        "Maaf, boleh tolong ambilkan menu?",
+        "Tolonglah teh tarik satu.",
+        "TQ bang!",
+        "Apa cerita hari ni?"
+      ]
+    },
+    "tech": {
+      "scenario": "Your internet isn't working, and you're talking to a customer service representative or a tech-savvy friend.",
+      "key_phrases": [
+        "Sori, internet saya tak berfungsi.",
+        "Boleh tolong reset router saya?",
+        "Faham, saya akan cuba.",
+        "Ada apa lagi yang boleh saya cuba?"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally greet someone with 'How are you?' in Malay?",
+      "answer": "Apa khabar?"
+    },
+    {
+      "question": "What is the casual Malay expression for 'Thank you'?",
+      "answer": "TQ / Mekasih"
+    },
+    {
+      "question": "How do you formally offer assistance in Malay? (e.g., 'How can I help?')",
+      "answer": "Bagaimana boleh saya bantu?"
+    },
+    {
+      "question": "What's the casual Malay way to say 'I understand'?",
+      "answer": "Faham / Ok, faham / Dapat"
+    },
+    {
+      "question": "How do you casually get someone's attention or apologize in Malay? (e.g., 'Excuse me' / 'Sorry')",
+      "answer": "Sori / Maaf"
+    },
+    {
+      "question": "How do you formally request assistance or an item (e.g., 'Please help me' / 'Please pass') in Malay?",
+      "answer": "Tolong"
+    }
+  ]
+}
