@@ -1,0 +1,114 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To update / To upgrade (software, skills, system)",
+      "expressions": {
+        "en": "To update / To upgrade",
+        "cn": "更新 / 升级 (gēngxīn / shēngjí)",
+        "bm_formal": "Mengemaskini / Menaiktaraf",
+        "bm_casual": "Update / Upgrade / Kemaskini"
+      }
+    },
+    {
+      "concept": "Digital transformation",
+      "expressions": {
+        "en": "Digital transformation",
+        "cn": "数字化转型 (shùzìhuà zhuǎnxíng)",
+        "bm_formal": "Transformasi digital",
+        "bm_casual": "Transformasi digital / Digitalisasi"
+      }
+    },
+    {
+      "concept": "Internet connectivity / Network access",
+      "expressions": {
+        "en": "Internet connectivity / Network access",
+        "cn": "互联网连接 / 网络接入 (hùliánwǎng liánjiē / wǎngluò jiērù)",
+        "bm_formal": "Ketersambungan internet / Akses rangkaian",
+        "bm_casual": "Line internet / Internet ada / Sambungan internet"
+      }
+    },
+    {
+      "concept": "To innovate / To develop new solutions",
+      "expressions": {
+        "en": "To innovate / To develop new solutions",
+        "cn": "创新 / 开发新方案 (chuàngxīn / kāifā xīn fāng'àn)",
+        "bm_formal": "Berinovasi / Membangunkan penyelesaian baharu",
+        "bm_casual": "Cipta benda baru / Cari jalan baru"
+      }
+    },
+    {
+      "concept": "Data analysis / To analyze data",
+      "expressions": {
+        "en": "Data analysis / To analyze data",
+        "cn": "数据分析 / 分析数据 (shùjù fēnxī / fēnxī shùjù)",
+        "bm_formal": "Analisis data / Menganalisis data",
+        "bm_casual": "Buat analisis data / Tengok data"
+      }
+    },
+    {
+      "concept": "Smart technology / Smart solutions",
+      "expressions": {
+        "en": "Smart technology / Smart solutions",
+        "cn": "智能科技 / 智能解决方案 (zhìnéng kējì / zhìnéng jiějué fāng'àn)",
+        "bm_formal": "Teknologi pintar / Penyelesaian pintar",
+        "bm_casual": "Teknologi pintar / Benda-benda pintar"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Dalam mesyuarat projek, pasukan sedang membincangkan strategi untuk mencapai **transformasi digital** syarikat. Mereka perlu **menganalisis data** pasaran untuk **membangunkan penyelesaian baharu** yang lebih cekap, dan setiap ahli perlu **mengemaskini** kemahiran mereka.",
+      "key_phrases": [
+        "transformasi digital",
+        "menganalisis data",
+        "membangunkan penyelesaian baharu",
+        "mengemaskini"
+      ]
+    },
+    "life": {
+      "scenario": "Di rumah, Azlan mengeluh tentang **line internet** yang perlahan. Dia perlu **update** aplikasi di telefonnya dan berharap dia dapat **belajar benda baru** menggunakan **teknologi pintar** untuk menguruskan rumahnya.",
+      "key_phrases": [
+        "line internet",
+        "update",
+        "belajar benda baru",
+        "teknologi pintar"
+      ]
+    },
+    "tech": {
+      "scenario": "Syarikat telekomunikasi melancarkan perkhidmatan baharu yang **menaiktaraf** **ketersambungan internet** untuk kawasan luar bandar. Mereka **berinovasi** dengan **penyelesaian pintar** untuk memastikan semua orang dapat akses internet berkelajuan tinggi.",
+      "key_phrases": [
+        "menaiktaraf",
+        "ketersambungan internet",
+        "berinovasi",
+        "penyelesaian pintar"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'to update software' in casual Malay? (更新软件)",
+      "answer": "Update / Kemaskini"
+    },
+    {
+      "question": "What is the formal Malay term for 'digital transformation'? (数字化转型)",
+      "answer": "Transformasi digital"
+    },
+    {
+      "question": "Your internet is slow. What's a common casual Malay phrase for 'internet connectivity'? (互联网连接)",
+      "answer": "Line internet / Sambungan internet"
+    },
+    {
+      "question": "How would you say 'to develop new solutions' formally in Malay? (开发新方案)",
+      "answer": "Membangunkan penyelesaian baharu"
+    },
+    {
+      "question": "What is the formal Malay for 'data analysis'? (数据分析)",
+      "answer": "Analisis data"
+    },
+    {
+      "question": "What is the casual Malay for 'smart technology'? (智能科技)",
+      "answer": "Teknologi pintar / Benda-benda pintar"
+    }
+  ]
+}
