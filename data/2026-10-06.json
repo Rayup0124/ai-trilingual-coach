@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Making a polite request",
+      "expressions": {
+        "en": "Could you please?",
+        "cn": "你可以吗？/ 请问您可以吗？",
+        "bm_formal": "Bolehkah anda?",
+        "bm_casual": "Boleh tak awak?"
+      }
+    },
+    {
+      "concept": "Acknowledging understanding",
+      "expressions": {
+        "en": "I understand. / Got it.",
+        "cn": "我明白了。/ 知道了。",
+        "bm_formal": "Saya faham. / Saya mengerti.",
+        "bm_casual": "Faham. / Dapat."
+      }
+    },
+    {
+      "concept": "Requesting an update or information",
+      "expressions": {
+        "en": "Let me know. / Please inform me.",
+        "cn": "请告诉我。/ 让我知道。",
+        "bm_formal": "Sila maklumkan saya. / Sila beritahu saya.",
+        "bm_casual": "Bagitahu saya. / Nanti inform saya."
+      }
+    },
+    {
+      "concept": "Apologizing for inconvenience",
+      "expressions": {
+        "en": "I apologize for the inconvenience. / Sorry for the trouble.",
+        "cn": "抱歉造成不便。/ 对不起添麻烦了。",
+        "bm_formal": "Saya memohon maaf atas kesulitan ini.",
+        "bm_casual": "Maaf lah. / Sorry susahkan."
+      }
+    },
+    {
+      "concept": "Asking for opinion or input",
+      "expressions": {
+        "en": "What is your opinion? / What do you think?",
+        "cn": "你的看法是什么？/ 你觉得怎么样？",
+        "bm_formal": "Apakah pandangan anda? / Apakah pendapat anda?",
+        "bm_casual": "Apa pendapat kau? / Kau rasa macam mana?"
+      }
+    },
+    {
+      "concept": "Committing to follow up or check",
+      "expressions": {
+        "en": "I will follow up. / I'll check on it.",
+        "cn": "我会跟进。/ 我会去查一下。",
+        "bm_formal": "Saya akan susulan. / Saya akan semak semula.",
+        "bm_casual": "Nanti saya follow up. / Nanti saya check."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "During a project update meeting, a manager needs to request information, acknowledge understanding, and ask for input.",
+      "key_phrases": [
+        "Bolehkah anda kemas kini status tugas anda?",
+        "Saya faham, akan pastikan ini diselesaikan.",
+        "Apakah pandangan anda tentang cadangan ini?"
+      ]
+    },
+    "life": {
+      "scenario": "Planning a family gathering with relatives, discussing tasks and preferences.",
+      "key_phrases": [
+        "Boleh tak awak tolong belikan minuman?",
+        "Dapat, nanti saya bagitahu mak.",
+        "Kau rasa macam mana kalau kita buat BBQ?"
+      ]
+    },
+    "tech": {
+      "scenario": "Troubleshooting a software bug with a colleague, needing to ask for help, understand the issue, and commit to further investigation.",
+      "key_phrases": [
+        "Bolehkah anda kongsi skrin anda?",
+        "Faham, saya nampak masalahnya sekarang.",
+        "Nanti saya follow up dengan team development."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How would you formally ask 'Could you please send me the report?'",
+      "answer": "Bolehkah anda hantar laporan kepada saya?"
+    },
+    {
+      "question": "Your colleague just explained a task. How do you casually say 'Got it.'?",
+      "answer": "Faham."
+    },
+    {
+      "question": "How do you formally ask someone to 'Please inform me about the meeting details'?",
+      "answer": "Sila maklumkan saya tentang butiran mesyuarat."
+    },
+    {
+      "question": "You accidentally sent the wrong file. How do you formally apologize for the inconvenience?",
+      "answer": "Saya memohon maaf atas kesulitan ini."
+    },
+    {
+      "question": "How would you casually ask 'What do you think about this new feature?'",
+      "answer": "Kau rasa macam mana pasal feature baru ni?"
+    },
+    {
+      "question": "You promised to investigate an issue. How do you casually say 'I'll check on it later.'?",
+      "answer": "Nanti saya check."
+    }
+  ]
+}
