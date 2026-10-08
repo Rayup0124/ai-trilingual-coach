@@ -1,0 +1,111 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To update / To upgrade",
+      "expressions": {
+        "en": "To update / To upgrade",
+        "cn": "更新 / 升级 (gēngxīn / shēngjí)",
+        "bm_formal": "Mengemaskini / Menaik taraf",
+        "bm_casual": "Update / Upgrade (often used directly), Nak update / Nak upgrade"
+      }
+    },
+    {
+      "concept": "Digital transformation",
+      "expressions": {
+        "en": "Digital transformation",
+        "cn": "数字化转型 (shùzìhuà zhuǎnxíng)",
+        "bm_formal": "Transformasi digital",
+        "bm_casual": "Transformasi digital (commonly used as is), Tukar ke digital"
+      }
+    },
+    {
+      "concept": "Problem-solving / To troubleshoot",
+      "expressions": {
+        "en": "Problem-solving / To troubleshoot",
+        "cn": "解决问题 / 排除故障 (jiějué wèntí / páichú gùzhàng)",
+        "bm_formal": "Penyelesaian masalah / Menyelesaikan masalah",
+        "bm_casual": "Settle masalah / Troubleshooting (often used directly), Cari jalan"
+      }
+    },
+    {
+      "concept": "Innovative / Cutting-edge (technology)",
+      "expressions": {
+        "en": "Innovative / Cutting-edge (technology)",
+        "cn": "创新 / 尖端 (chuàngxīn / jiānduān)",
+        "bm_formal": "Inovatif / Teknologi canggih",
+        "bm_casual": "Inovatif (commonly used as is) / Canggih gila / Teknologi baru"
+      }
+    },
+    {
+      "concept": "Online platform / Digital platform",
+      "expressions": {
+        "en": "Online platform / Digital platform",
+        "cn": "在线平台 / 数字平台 (zàixiàn píngtái / shùzì píngtái)",
+        "bm_formal": "Platform dalam talian / Platform digital",
+        "bm_casual": "Platform online / Platform digital (commonly used as is) / Laman web"
+      }
+    },
+    {
+      "concept": "Data analysis / Analytics",
+      "expressions": {
+        "en": "Data analysis / Analytics",
+        "cn": "数据分析 (shùjù fēnxī)",
+        "bm_formal": "Analisis data",
+        "bm_casual": "Analisis data (commonly used as is) / Kaji data / Tengok data"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "During a team meeting about an upcoming project, you discuss system improvements and challenges.",
+      "key_phrases": [
+        "Kita perlu **mengemaskini** sistem kita untuk memastikan ia cekap.",
+        "Bagaimana kita nak **menyelesaikan masalah** ini sebelum pelancaran?",
+        "Projek ini memerlukan **transformasi digital** yang menyeluruh."
+      ]
+    },
+    "life": {
+      "scenario": "You're chatting with a friend about new apps or learning opportunities.",
+      "key_phrases": [
+        "Aku nak **update** aplikasi ni, banyak bug dah fix.",
+        "Belajar benda baru ni memang penting untuk **kemahiran canggih**.",
+        "Jom kita cari **platform online** untuk belajar coding."
+      ]
+    },
+    "tech": {
+      "scenario": "You're discussing technical specifications or new trends with a colleague.",
+      "key_phrases": [
+        "Sistem ni kena **naik taraf** ke versi terbaru.",
+        "Untuk **analisis data** yang lebih baik, kita perlukan alat baru.",
+        "Teknologi **inovatif** macam ni memang boleh ubah industri."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally say 'To update (a system)' in Malay?",
+      "answer": "Mengemaskini"
+    },
+    {
+      "question": "What is '数字化转型' (Digital transformation) in casual Malay?",
+      "answer": "Transformasi digital"
+    },
+    {
+      "question": "What is the formal Malay expression for 'To troubleshoot a problem'?",
+      "answer": "Menyelesaikan masalah"
+    },
+    {
+      "question": "How would you casually describe 'cutting-edge technology' in Malay?",
+      "answer": "Teknologi canggih gila"
+    },
+    {
+      "question": "What is '在线平台' (Online platform) in formal Malay?",
+      "answer": "Platform dalam talian"
+    },
+    {
+      "question": "How do you say 'Data analysis' in casual Malay?",
+      "answer": "Analisis data"
+    }
+  ]
+}
