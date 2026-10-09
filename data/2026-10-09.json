@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting Assistance",
+      "expressions": {
+        "en": "Could you please help me with?",
+        "cn": "你能帮我一下吗？ (Nǐ néng bāng wǒ yīxià ma?)",
+        "bm_formal": "Bolehkah anda bantu saya dengan? / Mohon bantuan anda untuk",
+        "bm_casual": "Boleh tak tolong saya? / Tolong sikit"
+      }
+    },
+    {
+      "concept": "Confirming Understanding",
+      "expressions": {
+        "en": "I understand. / Understood.",
+        "cn": "我明白了。 (Wǒ míngbái le.)",
+        "bm_formal": "Saya faham. / Saya mengerti.",
+        "bm_casual": "Faham. / Okay, faham."
+      }
+    },
+    {
+      "concept": "Requesting Information/Updates",
+      "expressions": {
+        "en": "Please let me know. / Keep me informed.",
+        "cn": "请告诉我。 (Qǐng gàosù wǒ.) / 请通知我。 (Qǐng tōngzhī wǒ.)",
+        "bm_formal": "Sila maklumkan kepada saya. / Mohon beritahu saya.",
+        "bm_casual": "Bagitahu saya. / Inform saya."
+      }
+    },
+    {
+      "concept": "Apologizing",
+      "expressions": {
+        "en": "I apologize for the inconvenience.",
+        "cn": "我为此不便道歉。 (Wǒ wèi cǐ bùbiàn dàoqiàn.)",
+        "bm_formal": "Saya memohon maaf atas kesulitan ini.",
+        "bm_casual": "Minta maaf ya. / Sorry lah."
+      }
+    },
+    {
+      "concept": "Expressing Gratitude",
+      "expressions": {
+        "en": "Thank you very much.",
+        "cn": "非常感谢。 (Fēicháng gǎnxiè.)",
+        "bm_formal": "Terima kasih banyak-banyak. / Saya amat menghargai.",
+        "bm_casual": "Terima kasih. / Thanks ya."
+      }
+    },
+    {
+      "concept": "Granting Permission/Proceed",
+      "expressions": {
+        "en": "Please proceed. / Go ahead.",
+        "cn": "请继续。 (Qǐng jìxù.) / 请便。 (Qǐng biàn.)",
+        "bm_formal": "Sila teruskan. / Anda boleh teruskan.",
+        "bm_casual": "Teruskan saja. / Jalan jelah."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're in the office. Your colleague, Ali, approaches you and asks for help reviewing a report. You agree to help and ask him to let you know when it's ready for your review.",
+      "key_phrases": [
+        "Bolehkah anda bantu saya dengan laporan ini?",
+        "Saya faham, nanti saya akan semak.",
+        "Sila maklumkan kepada saya bila sudah siap."
+      ]
+    },
+    "life": {
+      "scenario": "You're planning a weekend outing with your friend, Mei. You've suggested a place, and she's confirmed she'll check her schedule and let you know. Later, you realize you might be late for the meetup and need to apologize.",
+      "key_phrases": [
+        "Bagitahu saya bila awak dah confirm.",
+        "Minta maaf ya, saya mungkin lambat sikit.",
+        "Terima kasih sebab faham."
+      ]
+    },
+    "tech": {
+      "scenario": "You're on a call with IT support because your software isn't working. The technician explains a complex solution, and you confirm understanding. They then ask you to proceed with the steps, and you thank them for their help.",
+      "key_phrases": [
+        "Saya faham apa yang perlu saya buat.",
+        "Sila teruskan dengan langkah-langkah itu.",
+        "Terima kasih banyak-banyak atas bantuan anda."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally say 'Could you please help me?' in Malay?",
+      "answer": "Bolehkah anda bantu saya?"
+    },
+    {
+      "question": "你怎么用马来语休闲地说 'I understand'？ (How do you casually say 'I understand' in Malay?)",
+      "answer": "Faham."
+    },
+    {
+      "question": "What's the formal Malay way to say 'Please let me know'?",
+      "answer": "Sila maklumkan kepada saya."
+    },
+    {
+      "question": "How do you casually apologize in Malay?",
+      "answer": "Minta maaf ya."
+    },
+    {
+      "question": "你怎么用马来语说 'Thank you very much'？ (How do you say 'Thank you very much' in Malay?)",
+      "answer": "Terima kasih banyak-banyak."
+    },
+    {
+      "question": "How do you formally tell someone to 'Please proceed' in Malay?",
+      "answer": "Sila teruskan."
+    }
+  ]
+}
