@@ -1,0 +1,111 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Greeting / Checking in",
+      "expressions": {
+        "en": "How are you? / How's it going?",
+        "cn": "你好吗？/ 怎么样？",
+        "bm_formal": "Apa khabar? / Bagaimana keadaan anda?",
+        "bm_casual": "Apa cerita? / Macam mana?"
+      }
+    },
+    {
+      "concept": "Expressing Gratitude",
+      "expressions": {
+        "en": "Thank you very much. / I appreciate it.",
+        "cn": "非常感谢。/ 谢谢你。",
+        "bm_formal": "Terima kasih banyak-banyak. / Saya menghargainya.",
+        "bm_casual": "Mekasih. / TQ."
+      }
+    },
+    {
+      "concept": "Requesting Help",
+      "expressions": {
+        "en": "Could you help me? / I need assistance.",
+        "cn": "你能帮我吗？/ 我需要帮助。",
+        "bm_formal": "Boleh tolong saya? / Saya memerlukan bantuan.",
+        "bm_casual": "Tolong sikit? / Boleh bantu?"
+      }
+    },
+    {
+      "concept": "Responding to Thanks / No Problem",
+      "expressions": {
+        "en": "No worries. / You're welcome.",
+        "cn": "没关系。/ 不客气。",
+        "bm_formal": "Tiada masalah. / Sama-sama.",
+        "bm_casual": "Takpe. / Okay je."
+      }
+    },
+    {
+      "concept": "Inquiring about an Object/Thing",
+      "expressions": {
+        "en": "What is this? / What's that?",
+        "cn": "这是什么？/ 那是什么？",
+        "bm_formal": "Apakah ini? / Apakah itu?",
+        "bm_casual": "Ni apa? / Tu apa?"
+      }
+    },
+    {
+      "concept": "Expressing Comprehension",
+      "expressions": {
+        "en": "I understand. / Got it.",
+        "cn": "我明白了。/ 知道了。",
+        "bm_formal": "Saya faham. / Saya mengerti.",
+        "bm_casual": "Faham. / Dapat."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're in a team meeting discussing a new project deadline. You need to check in with a colleague and confirm understanding.",
+      "key_phrases": [
+        "Apa khabar, Encik Rahman? Bagaimana dengan laporan projek?",
+        "Boleh tolong saya semak data ini?",
+        "Saya faham. Tiada masalah untuk siapkan sebelum tarikh akhir."
+      ]
+    },
+    "life": {
+      "scenario": "You're at the local market buying groceries and need to ask about a product, then thank the vendor.",
+      "key_phrases": [
+        "Kak, ni apa ya? Sayur apa ni?",
+        "Boleh tolong timbang sikit?",
+        "Mekasih banyak, kak!"
+      ]
+    },
+    "tech": {
+      "scenario": "Your internet is down, and you're calling customer service or asking a tech-savvy friend for help.",
+      "key_phrases": [
+        "Apa cerita internet saya ni? Tak boleh guna.",
+        "Boleh bantu saya reset router?",
+        "Faham. Saya cuba ikut arahan ni. Takpe."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How are you?",
+      "answer": "Apa khabar?"
+    },
+    {
+      "question": "谢谢你。",
+      "answer": "Terima kasih."
+    },
+    {
+      "question": "Could you help me?",
+      "answer": "Boleh tolong saya?"
+    },
+    {
+      "question": "没问题。",
+      "answer": "Tiada masalah."
+    },
+    {
+      "question": "What is this?",
+      "answer": "Apakah ini?"
+    },
+    {
+      "question": "我明白了。",
+      "answer": "Saya faham."
+    }
+  ]
+}
