@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "To Confirm / To Verify",
+      "expressions": {
+        "en": "To confirm / To verify",
+        "cn": "确认 / 核实 (Quèrèn / Héshí)",
+        "bm_formal": "Mengesahkan / Memastikan",
+        "bm_casual": "Sahkan / Pastikan"
+      }
+    },
+    {
+      "concept": "To Follow Up / To Remind",
+      "expressions": {
+        "en": "To follow up / To remind",
+        "cn": "跟进 / 提醒 (Gēnjìn / Tíxǐng)",
+        "bm_formal": "Membuat susulan / Mengingatkan",
+        "bm_casual": "Follow up / Ingatkan"
+      }
+    },
+    {
+      "concept": "To Propose / To Suggest",
+      "expressions": {
+        "en": "To propose / To suggest",
+        "cn": "建议 / 提议 (Jiànyì / Tíyì)",
+        "bm_formal": "Mencadangkan / Mengesyorkan",
+        "bm_casual": "Cadangkan / Suggest"
+      }
+    },
+    {
+      "concept": "To Request / To Ask For",
+      "expressions": {
+        "en": "To request / To ask for",
+        "cn": "请求 / 要求 (Qǐngqiú / Yāoqiú)",
+        "bm_formal": "Memohon / Meminta",
+        "bm_casual": "Minta / Request"
+      }
+    },
+    {
+      "concept": "To Apologize / To Express Regret",
+      "expressions": {
+        "en": "To apologize / To express regret",
+        "cn": "抱歉 / 道歉 (Bàoqiàn / Dàoqiàn)",
+        "bm_formal": "Memohon maaf / Menyatakan kekesalan",
+        "bm_casual": "Minta maaf / Sorry"
+      }
+    },
+    {
+      "concept": "To Clarify / To Explain",
+      "expressions": {
+        "en": "To clarify / To explain",
+        "cn": "澄清 / 解释 (Chéngqīng / Jiěshí)",
+        "bm_formal": "Menjelaskan / Menerangkan",
+        "bm_casual": "Jelaskan / Explain"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are preparing for a client meeting. You need to confirm the agenda, follow up on a pending report from a colleague, and propose a new strategy for the upcoming quarter.",
+      "key_phrases": [
+        "Boleh tolong **sahkan** agenda mesyuarat?",
+        "Saya perlu **membuat susulan** mengenai laporan itu.",
+        "Saya ingin **mencadangkan** strategi baru."
+      ]
+    },
+    "life": {
+      "scenario": "You are planning a weekend trip with friends. You need to request their availability, remind one friend about booking the accommodation, and apologize for a last-minute change.",
+      "key_phrases": [
+        "Boleh saya **minta** tarikh anda?",
+        "Tolong **ingatkan** dia untuk tempah penginapan.",
+        "Saya **minta maaf** atas perubahan ini."
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a software issue with customer support. You need them to clarify a technical step, confirm your account details, and follow up if the issue persists.",
+      "key_phrases": [
+        "Boleh tolong **jelaskan** langkah ini?",
+        "Tolong **sahkan** butiran akaun saya.",
+        "Saya akan **follow up** jika masalah ini berterusan."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'To confirm' formally in Malay?",
+      "answer": "Mengesahkan"
+    },
+    {
+      "question": "我需要跟进一下那个项目。(I need to follow up on that project.) How would you say 'follow up' casually in Malay?",
+      "answer": "Follow up"
+    },
+    {
+      "question": "What is the formal Malay term for 'To suggest'?",
+      "answer": "Mencadangkan"
+    },
+    {
+      "question": "Could you please request the document? (Formal Malay expression)",
+      "answer": "Boleh tolong memohon dokumen itu?"
+    },
+    {
+      "question": "How do you say 'To apologize' casually in Malay?",
+      "answer": "Minta maaf"
+    },
+    {
+      "question": "你能解释一下这个程序吗？(Can you explain this procedure?) How do you say 'explain' casually in Malay?",
+      "answer": "Jelaskan"
+    }
+  ]
+}
