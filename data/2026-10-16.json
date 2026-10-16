@@ -1,0 +1,114 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for assistance",
+      "expressions": {
+        "en": "Can you help me? / I need some help.",
+        "cn": "你能帮我吗？/ 我需要帮助。",
+        "bm_formal": "Bolehkah anda membantu saya? / Saya memerlukan bantuan.",
+        "bm_casual": "Boleh tolong saya? / Nak minta tolong sikit."
+      }
+    },
+    {
+      "concept": "Expressing understanding/agreement",
+      "expressions": {
+        "en": "I understand. / Got it.",
+        "cn": "我明白了。/ 知道了。",
+        "bm_formal": "Saya faham. / Saya mengerti.",
+        "bm_casual": "Faham. / Okay, faham. / Dapat."
+      }
+    },
+    {
+      "concept": "Asking for clarification/repetition",
+      "expressions": {
+        "en": "Could you repeat that? / What do you mean?",
+        "cn": "你能重复一遍吗？/ 你是什么意思？",
+        "bm_formal": "Boleh anda ulang semula? / Apakah maksud anda?",
+        "bm_casual": "Boleh ulang balik? / Maksudnya apa?"
+      }
+    },
+    {
+      "concept": "Expressing gratitude",
+      "expressions": {
+        "en": "Thank you very much. / I really appreciate it.",
+        "cn": "非常感谢。/ 我真的很感激。",
+        "bm_formal": "Terima kasih banyak-banyak. / Saya amat menghargainya.",
+        "bm_casual": "Terima kasih banyak. / Thanks banyak."
+      }
+    },
+    {
+      "concept": "Asking for permission/requesting politely",
+      "expressions": {
+        "en": "May I ask a question? / Could I borrow this?",
+        "cn": "我可以问个问题吗？/ 我可以借这个吗？",
+        "bm_formal": "Bolehkah saya bertanya soalan? / Adakah saya boleh meminjam ini?",
+        "bm_casual": "Boleh saya tanya? / Boleh pinjam ni?"
+      }
+    },
+    {
+      "concept": "Apologizing",
+      "expressions": {
+        "en": "I'm sorry. / My apologies.",
+        "cn": "对不起。/ 我很抱歉。",
+        "bm_formal": "Saya minta maaf. / Saya memohon maaf.",
+        "bm_casual": "Minta maaf. / Sorry."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "During a team meeting, your manager explains a new process, but you're unsure about a specific step. You also need to request a document from a colleague.",
+      "key_phrases": [
+        "Boleh anda ulang semula?",
+        "Apakah maksud anda?",
+        "Bolehkah saya bertanya soalan?",
+        "Saya faham."
+      ]
+    },
+    "life": {
+      "scenario": "You're at a kopitiam, ordering food, but the waiter speaks quickly. You also need to ask for the bill and thank them.",
+      "key_phrases": [
+        "Boleh ulang balik?",
+        "Maksudnya apa?",
+        "Boleh saya tanya?",
+        "Terima kasih banyak."
+      ]
+    },
+    "tech": {
+      "scenario": "You're helping an elderly relative set up their new smartphone. They are confused about an app setting and need your help. After you explain, they understand and thank you.",
+      "key_phrases": [
+        "Nak minta tolong sikit.",
+        "Maksudnya apa?",
+        "Faham.",
+        "Terima kasih banyak."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask 'Can you help me?' in Malay?",
+      "answer": "Bolehkah anda membantu saya?"
+    },
+    {
+      "question": "What's a casual way to say 'I understand' in Malay?",
+      "answer": "Faham."
+    },
+    {
+      "question": "How do you ask 'What do you mean?' casually in Malay?",
+      "answer": "Maksudnya apa?"
+    },
+    {
+      "question": "How do you formally say 'Thank you very much' in Malay?",
+      "answer": "Terima kasih banyak-banyak."
+    },
+    {
+      "question": "How do you casually ask 'May I ask a question?' in Malay?",
+      "answer": "Boleh saya tanya?"
+    },
+    {
+      "question": "How do you formally say 'I'm sorry' in Malay?",
+      "answer": "Saya minta maaf."
+    }
+  ]
+}
