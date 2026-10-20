@@ -1,0 +1,114 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To update (software/system)",
+      "expressions": {
+        "en": "To update (software/system)",
+        "cn": "更新 (gēngxīn)",
+        "bm_formal": "Mengemas kini (sistem/perisian)",
+        "bm_casual": "Update (sistem/apps) / Kemas kini (sistem/apps)"
+      }
+    },
+    {
+      "concept": "To launch (a new product/feature)",
+      "expressions": {
+        "en": "To launch (a new product/feature)",
+        "cn": "发布 (fābù) / 推出 (tuīchū)",
+        "bm_formal": "Melancarkan (produk/ciri baharu)",
+        "bm_casual": "Launch (produk/feature baru) / Keluarkan (produk/feature baru)"
+      }
+    },
+    {
+      "concept": "To troubleshoot / fix a problem",
+      "expressions": {
+        "en": "To troubleshoot / fix a problem",
+        "cn": "解决问题 (jiějué wèntí) / 排除故障 (páichú gùzhàng)",
+        "bm_formal": "Menyelesaikan masalah / Mengatasi masalah",
+        "bm_casual": "Settle masalah / Betulkan masalah / Troubleshoot"
+      }
+    },
+    {
+      "concept": "Digital transformation",
+      "expressions": {
+        "en": "Digital transformation",
+        "cn": "数字化转型 (shùzìhuà zhuǎnxíng)",
+        "bm_formal": "Transformasi digital",
+        "bm_casual": "Transformasi digital"
+      }
+    },
+    {
+      "concept": "Online payment / transaction",
+      "expressions": {
+        "en": "Online payment / transaction",
+        "cn": "网上支付 (wǎngshàng zhīfù) / 线上交易 (xiànshàng jiāoyì)",
+        "bm_formal": "Pembayaran dalam talian / Transaksi dalam talian",
+        "bm_casual": "Bayar online / Bayar guna apps / Transaksi online"
+      }
+    },
+    {
+      "concept": "Data security / privacy",
+      "expressions": {
+        "en": "Data security / privacy",
+        "cn": "数据安全 (shùjù ānquán) / 隐私 (yǐnsī)",
+        "bm_formal": "Keselamatan data / Privasi data",
+        "bm_casual": "Data secure / Jaga privasi data"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "In a project review meeting, your manager asks about the progress of the new system launch and any challenges encountered.",
+      "key_phrases": [
+        "Kita perlu **melancarkan** sistem baharu ini selewat-lewatnya bulan depan.",
+        "Ada apa-apa masalah yang perlu kita **selesaikan** sebelum pelancaran?",
+        "Pastikan semua perisian **dikemas kini** untuk kelancaran.",
+        "Ini sebahagian daripada strategi **transformasi digital** syarikat kita."
+      ]
+    },
+    "life": {
+      "scenario": "You're chatting with a friend about using a new app for daily transactions and facing a minor issue with your phone.",
+      "key_phrases": [
+        "Saya baru cuba **bayar online** guna apps ni, senang sangat!",
+        "Tapi phone saya kena **update apps** selalu, kalau tak jadi slow.",
+        "Kalau ada masalah, cuba **betulkan masalah** tu sendiri dulu, kalau tak boleh baru hantar kedai.",
+        "Penting juga **jaga privasi data** bila guna apps macam ni."
+      ]
+    },
+    "tech": {
+      "scenario": "During a tech conference Q&A, a participant asks about the security measures for a newly launched platform and future development plans.",
+      "key_phrases": [
+        "Bagaimana syarikat anda memastikan **keselamatan data** pengguna untuk platform yang baru **dilancarkan** ini?",
+        "Adakah anda merancang untuk **mengemas kini** sistem secara berkala?",
+        "Apakah cabaran utama dalam **transformasi digital** yang anda hadapi?",
+        "Bagaimana anda **menyelesaikan masalah** kerentanan siber?"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'To update software' in formal Malay?",
+      "answer": "Mengemas kini perisian"
+    },
+    {
+      "question": "We need to launch the new product next month. How would you say 'launch' casually in Malay?",
+      "answer": "Launch / Keluarkan"
+    },
+    {
+      "question": "解决问题 (To fix a problem). What's the casual Malay equivalent?",
+      "answer": "Settle masalah / Betulkan masalah / Troubleshoot"
+    },
+    {
+      "question": "What is 'Digital transformation' in formal Malay?",
+      "answer": "Transformasi digital"
+    },
+    {
+      "question": "网上支付 (Online payment). How do you say this casually in Malay?",
+      "answer": "Bayar online / Bayar guna apps"
+    },
+    {
+      "question": "How do you say 'Data security' in Malay?",
+      "answer": "Keselamatan data"
+    }
+  ]
+}
