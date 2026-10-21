@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting Information/Documents",
+      "expressions": {
+        "en": "Could you please send me the report?",
+        "cn": "你能把报告发给我吗？ (Nǐ néng bǎ bàogào fā gěi wǒ ma?)",
+        "bm_formal": "Bolehkah tuan/puan hantar laporan tersebut kepada saya?",
+        "bm_casual": "Boleh tak hantar report tu kat saya/aku?"
+      }
+    },
+    {
+      "concept": "Following Up/Checking Status",
+      "expressions": {
+        "en": "I will follow up on this.",
+        "cn": "我会跟进这件事。 (Wǒ huì gēnjìn zhè jiàn shì.)",
+        "bm_formal": "Saya akan membuat susulan mengenai perkara ini.",
+        "bm_casual": "Aku akan follow up ni."
+      }
+    },
+    {
+      "concept": "Scheduling a Meeting",
+      "expressions": {
+        "en": "Let's schedule a meeting.",
+        "cn": "我们安排个会议吧。 (Wǒmen ānpái gè huìyì ba.)",
+        "bm_formal": "Mari kita jadualkan satu mesyuarat.",
+        "bm_casual": "Jom kita set meeting."
+      }
+    },
+    {
+      "concept": "Acknowledgment/Understanding",
+      "expressions": {
+        "en": "I understand.",
+        "cn": "我明白了。 (Wǒ míngbái le.)",
+        "bm_formal": "Saya faham.",
+        "bm_casual": "Faham."
+      }
+    },
+    {
+      "concept": "Seeking Clarification",
+      "expressions": {
+        "en": "Could you clarify this point?",
+        "cn": "你能澄清一下这一点吗？ (Nǐ néng chéngqīng yīxià zhè yī diǎn ma?)",
+        "bm_formal": "Bolehkah tuan/puan jelaskan lebih lanjut mengenai perkara ini?",
+        "bm_casual": "Boleh terang sikit pasal ni?"
+      }
+    },
+    {
+      "concept": "Committing to a Deadline",
+      "expressions": {
+        "en": "I'll complete it by Friday.",
+        "cn": "我会在周五前完成。 (Wǒ huì zài zhōuwǔ qián wánchéng.)",
+        "bm_formal": "Saya akan siapkan menjelang hari Jumaat.",
+        "bm_casual": "Aku siapkan Jumaat ni."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "A project manager needs an updated status report from a team member by end of day. The team member also needs clarification on a specific task before proceeding.",
+      "key_phrases": [
+        "Bolehkah tuan/puan hantar laporan tersebut kepada saya?",
+        "Bolehkah tuan/puan jelaskan lebih lanjut mengenai perkara ini?",
+        "Saya akan siapkan menjelang hari Jumaat."
+      ]
+    },
+    "life": {
+      "scenario": "Two friends are coordinating to organize a potluck dinner. One friend needs to confirm who's bringing what, and they need to set a time to finalize details.",
+      "key_phrases": [
+        "Jom kita set meeting.",
+        "Faham.",
+        "Boleh tak hantar list makanan tu kat aku?"
+      ]
+    },
+    "tech": {
+      "scenario": "A user is experiencing a software bug and contacts technical support. The support agent needs to understand the issue and commit to a resolution timeline.",
+      "key_phrases": [
+        "Bolehkah tuan/puan jelaskan lebih lanjut mengenai perkara ini?",
+        "Saya faham.",
+        "Saya akan membuat susulan mengenai perkara ini."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask 'Could you please send me the document?' in Malay?",
+      "answer": "Bolehkah tuan/puan hantar dokumen tersebut kepada saya?"
+    },
+    {
+      "question": "What's a casual Malay way to say 'I'll follow up on this'?",
+      "answer": "Aku akan follow up ni."
+    },
+    {
+      "question": "How would you formally suggest 'Let's schedule a meeting' in Malay?",
+      "answer": "Mari kita jadualkan satu mesyuarat."
+    },
+    {
+      "question": "What's a casual Malay phrase for 'I understand'?",
+      "answer": "Faham."
+    },
+    {
+      "question": "How do you formally ask for clarification, 'Could you clarify this point?' in Malay?",
+      "answer": "Bolehkah tuan/puan jelaskan lebih lanjut mengenai perkara ini?"
+    },
+    {
+      "question": "How would you casually say 'I'll complete it by Friday' in Malay?",
+      "answer": "Aku siapkan Jumaat ni."
+    }
+  ]
+}
