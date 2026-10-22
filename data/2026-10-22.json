@@ -1,0 +1,112 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for help",
+      "expressions": {
+        "en": "Could you help me?",
+        "cn": "你可以帮我吗？",
+        "bm_formal": "Bolehkah anda membantu saya?",
+        "bm_casual": "Boleh tolong saya?"
+      }
+    },
+    {
+      "concept": "Expressing understanding",
+      "expressions": {
+        "en": "I understand.",
+        "cn": "我明白了。",
+        "bm_formal": "Saya faham.",
+        "bm_casual": "Faham."
+      }
+    },
+    {
+      "concept": "Apologizing",
+      "expressions": {
+        "en": "I'm sorry.",
+        "cn": "对不起。",
+        "bm_formal": "Saya minta maaf.",
+        "bm_casual": "Minta maaf."
+      }
+    },
+    {
+      "concept": "Asking for confirmation",
+      "expressions": {
+        "en": "Is that correct?",
+        "cn": "对吗？",
+        "bm_formal": "Adakah itu betul?",
+        "bm_casual": "Betul ke?"
+      }
+    },
+    {
+      "concept": "Expressing gratitude sincerely",
+      "expressions": {
+        "en": "Thank you very much.",
+        "cn": "非常感谢。",
+        "bm_formal": "Terima kasih banyak-banyak.",
+        "bm_casual": "Terima kasih banyak."
+      }
+    },
+    {
+      "concept": "Asking for permission to do something",
+      "expressions": {
+        "en": "May I ask a question?",
+        "cn": "我可以问一个问题吗？",
+        "bm_formal": "Bolehkah saya bertanya soalan?",
+        "bm_casual": "Boleh saya tanya?"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're working on a report and encounter an error in the software. You ask a colleague for help, understand their explanation, and then confirm if you've applied the fix correctly before submitting.",
+      "key_phrases": [
+        "Bolehkah anda membantu saya?",
+        "Saya faham.",
+        "Betul ke?"
+      ]
+    },
+    "life": {
+      "scenario": "You accidentally bump into someone at the grocery store, causing them to drop an item. You apologize, then politely ask if you can help pick it up or inquire about the situation. After resolving it, you thank them for their patience.",
+      "key_phrases": [
+        "Minta maaf.",
+        "Boleh saya tanya?",
+        "Terima kasih banyak."
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a software installation issue with a friend over a video call. You ask them for assistance, confirm a specific step they've suggested, express understanding of the next step, and thank them once the issue is finally resolved.",
+      "key_phrases": [
+        "Boleh tolong saya?",
+        "Betul ke?",
+        "Faham.",
+        "Terima kasih banyak."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'Could you help me?' formally in Malay?",
+      "answer": "Bolehkah anda membantu saya?"
+    },
+    {
+      "question": "What is the casual Malay expression for 'I understand.'?",
+      "answer": "Faham."
+    },
+    {
+      "question": "How would you formally say 'I'm sorry.' in Malay?",
+      "answer": "Saya minta maaf."
+    },
+    {
+      "question": "Translate 'Is that correct?' to casual Malay.",
+      "answer": "Betul ke?"
+    },
+    {
+      "question": "How do you express 'Thank you very much.' casually in Malay?",
+      "answer": "Terima kasih banyak."
+    },
+    {
+      "question": "What is the formal way to ask 'May I ask a question?' in Malay?",
+      "answer": "Bolehkah saya bertanya soalan?"
+    }
+  ]
+}
