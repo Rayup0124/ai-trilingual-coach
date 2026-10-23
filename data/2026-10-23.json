@@ -1,0 +1,114 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "Digital Transformation",
+      "expressions": {
+        "en": "Digital transformation",
+        "cn": "数字化转型 (Shùzìhuà zhuǎnxíng)",
+        "bm_formal": "Transformasi digital",
+        "bm_casual": "Tukar ke digital"
+      }
+    },
+    {
+      "concept": "Online Meeting",
+      "expressions": {
+        "en": "Online meeting / Virtual conference",
+        "cn": "在线会议 (Zàixiàn huìyì)",
+        "bm_formal": "Mesyuarat dalam talian",
+        "bm_casual": "Meeting online / Video call"
+      }
+    },
+    {
+      "concept": "Data Analysis",
+      "expressions": {
+        "en": "Data analysis / Analyzing data",
+        "cn": "数据分析 (Shùjù fēnxī)",
+        "bm_formal": "Analisis data",
+        "bm_casual": "Buat analisis data / Kaji data"
+      }
+    },
+    {
+      "concept": "System Upgrade / Update",
+      "expressions": {
+        "en": "System upgrade / Update",
+        "cn": "系统升级 (Xìtǒng shēngjí)",
+        "bm_formal": "Peningkatan sistem / Kemas kini sistem",
+        "bm_casual": "Update sistem / Upgrade"
+      }
+    },
+    {
+      "concept": "Cybersecurity / Data Protection",
+      "expressions": {
+        "en": "Cybersecurity / Data protection",
+        "cn": "网络安全 (Wǎngluò ānquán)",
+        "bm_formal": "Keselamatan siber / Perlindungan data",
+        "bm_casual": "Cyber security / Jaga data kita"
+      }
+    },
+    {
+      "concept": "Innovation / Creative Solutions",
+      "expressions": {
+        "en": "Innovation / Creative solutions",
+        "cn": "创新 (Chuàngxīn)",
+        "bm_formal": "Inovasi / Penyelesaian inovatif",
+        "bm_casual": "Idea inovatif / Cara kreatif"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Your team is discussing how to modernize company operations and improve decision-making.",
+      "key_phrases": [
+        "Syarikat kita perlu fokus kepada **transformasi digital** untuk kekal relevan.",
+        "Kita akan adakan **mesyuarat dalam talian** minggu depan untuk membincangkan strategi.",
+        "Penting untuk kita buat **analisis data** yang teliti untuk memahami pasaran.",
+        "Kita juga perlukan **inovasi** dalam perkhidmatan pelanggan kita."
+      ]
+    },
+    "life": {
+      "scenario": "You're chatting with a friend about using technology in daily life, from online learning to personal device management.",
+      "key_phrases": [
+        "Anak saya selalu ada **meeting online** dengan cikgu dia untuk kelas tambahan.",
+        "Kena selalu **update sistem** telefon ni, kalau tak nanti lembap.",
+        "Penting tau untuk **jaga data kita** bila pakai aplikasi media sosial.",
+        "Ada **idea inovatif** tak untuk jimatkan bil elektrik rumah?"
+      ]
+    },
+    "tech": {
+      "scenario": "Developers are discussing new system features, server maintenance, and security protocols.",
+      "key_phrases": [
+        "Kami sedang menjalankan **analisis data** dari pengguna beta untuk versi baru.",
+        "Server kita memerlukan **peningkatan sistem** yang besar bulan depan.",
+        "Aspek **keselamatan siber** adalah keutamaan dalam pembangunan aplikasi ini.",
+        "Perlu ada **penyelesaian inovatif** untuk masalah skalabiliti ini."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'digital transformation' in formal Malay?",
+      "answer": "Transformasi digital"
+    },
+    {
+      "question": "What's the casual Malay term for 'online meeting'?",
+      "answer": "Meeting online / Video call"
+    },
+    {
+      "question": "如何用正式马来语表达 'data analysis'？ (Rúhé yòng zhèngshì Mǎláiyǔ biǎodá 'data analysis'?)",
+      "answer": "Analisis data"
+    },
+    {
+      "question": "If your phone needs a 'system update', what's the casual Malay phrase you'd use?",
+      "answer": "Update sistem / Upgrade"
+    },
+    {
+      "question": "What is the formal Malay term for 'cybersecurity'?",
+      "answer": "Keselamatan siber / Perlindungan data"
+    },
+    {
+      "question": "How do you express 'innovation' informally in Malay?",
+      "answer": "Idea inovatif / Cara kreatif"
+    }
+  ]
+}
