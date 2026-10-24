@@ -1,0 +1,108 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for clarification/repetition",
+      "expressions": {
+        "en": "Could you please repeat that? / Could you clarify?",
+        "cn": "你能重复一遍吗？/ 你能澄清一下吗？",
+        "bm_formal": "Boleh tuan/puan ulang semula? / Boleh jelaskan dengan lebih lanjut?",
+        "bm_casual": "Boleh ulang balik? / Boleh terangkan lagi?"
+      }
+    },
+    {
+      "concept": "Expressing agreement",
+      "expressions": {
+        "en": "I agree with that. / That's right.",
+        "cn": "我同意。/ 对。",
+        "bm_formal": "Saya bersetuju dengan pandangan tersebut. / Betul itu.",
+        "bm_casual": "Saya setuju. / Betul tu."
+      }
+    },
+    {
+      "concept": "Asking for an update/status",
+      "expressions": {
+        "en": "What's the status of? / Any updates on?",
+        "cn": "的进展如何？/ 有什么最新进展吗？",
+        "bm_formal": "Apakah status terkini bagi? / Ada sebarang kemas kini mengenai?",
+        "bm_casual": "Macam mana projek? / Ada apa-apa update tak?"
+      }
+    },
+    {
+      "concept": "Offering help",
+      "expressions": {
+        "en": "How can I help? / Let me know if you need anything.",
+        "cn": "我能帮什么忙？/ 如果你需要什么，告诉我。",
+        "bm_formal": "Bagaimana saya boleh membantu? / Sila maklumkan jika ada apa-apa yang diperlukan.",
+        "bm_casual": "Nak saya tolong apa? / Bagitahu je kalau perlukan apa-apa."
+      }
+    },
+    {
+      "concept": "Apologizing for a delay/mistake",
+      "expressions": {
+        "en": "My apologies for the delay. / Sorry for the mistake.",
+        "cn": "抱歉耽搁了。/ 抱歉犯了错误。",
+        "bm_formal": "Saya mohon maaf atas kelewatan ini. / Saya minta maaf atas kesilapan tersebut.",
+        "bm_casual": "Sorry lambat. / Sorry silap."
+      }
+    },
+    {
+      "concept": "Suggesting a meeting/discussion",
+      "expressions": {
+        "en": "Shall we discuss this further? / Let's schedule a meeting.",
+        "cn": "我们要不要进一步讨论？/ 我们安排个会议吧。",
+        "bm_formal": "Adakah kita perlu membincangkan perkara ini dengan lebih lanjut? / Mari kita jadualkan satu mesyuarat.",
+        "bm_casual": "Nak bincang lagi tak? / Jomlah kita meeting."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Your colleague seems stuck on a task. You want to offer assistance and check on the progress of a report they are working on.",
+      "key_phrases": [
+        "Bagaimana saya boleh membantu?",
+        "Apakah status terkini bagi laporan tersebut?"
+      ]
+    },
+    "life": {
+      "scenario": "You're running late to meet a friend for coffee. You need to apologize and suggest discussing your weekend plans once you arrive.",
+      "key_phrases": [
+        "Sorry lambat.",
+        "Nak bincang lagi tak pasal plan hujung minggu?"
+      ]
+    },
+    "tech": {
+      "scenario": "During an online conference call, the speaker's audio is unclear. You need to politely ask them to repeat or clarify what they just said.",
+      "key_phrases": [
+        "Boleh tuan/puan ulang semula?",
+        "Boleh jelaskan dengan lebih lanjut?"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask 'Could you please repeat that?' in Malay?",
+      "answer": "Boleh tuan/puan ulang semula?"
+    },
+    {
+      "question": "How do you casually say 'I agree with that.' in Malay?",
+      "answer": "Saya setuju."
+    },
+    {
+      "question": "How do you formally ask 'What's the status of the project?' in Malay?",
+      "answer": "Apakah status terkini bagi projek tersebut?"
+    },
+    {
+      "question": "How do you casually offer help, 'How can I help?' in Malay?",
+      "answer": "Nak saya tolong apa?"
+    },
+    {
+      "question": "How do you formally apologize for a delay, 'My apologies for the delay.' in Malay?",
+      "answer": "Saya mohon maaf atas kelewatan ini."
+    },
+    {
+      "question": "How do you casually suggest 'Let's schedule a meeting.' in Malay?",
+      "answer": "Jomlah kita meeting."
+    }
+  ]
+}
