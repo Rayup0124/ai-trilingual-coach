@@ -1,0 +1,114 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for help",
+      "expressions": {
+        "en": "Can you help me?",
+        "cn": "你可以帮我吗？ (Nǐ kěyǐ bāng wǒ ma?)",
+        "bm_formal": "Boleh anda bantu saya?",
+        "bm_casual": "Boleh tolong saya?"
+      }
+    },
+    {
+      "concept": "Expressing agreement/acknowledgement",
+      "expressions": {
+        "en": "Okay / Alright / Understood",
+        "cn": "好的 / 明白 (Hǎo de / Míngbái)",
+        "bm_formal": "Baiklah / Saya faham",
+        "bm_casual": "Okey / Faham"
+      }
+    },
+    {
+      "concept": "Asking for clarification/repetition",
+      "expressions": {
+        "en": "Pardon? / Could you repeat that?",
+        "cn": "对不起，请再说一遍？ / 什么？ (Duìbuqǐ, qǐng zài shuō yī biàn? / Shénme?)",
+        "bm_formal": "Maaf, boleh ulang semula?",
+        "bm_casual": "Apa dia? / Boleh ulang?"
+      }
+    },
+    {
+      "concept": "Expressing welcome/response to thanks",
+      "expressions": {
+        "en": "You're welcome / No problem",
+        "cn": "不客气 / 没关系 (Bù kèqì / Méiguānxì)",
+        "bm_formal": "Sama-sama / Tiada masalah",
+        "bm_casual": "Sama-sama / Tak apa"
+      }
+    },
+    {
+      "concept": "Asking for permission/excuse me (to get attention/pass)",
+      "expressions": {
+        "en": "Excuse me / May I?",
+        "cn": "不好意思 / 借过 (Bù hǎoyìsi / Jièguò)",
+        "bm_formal": "Mohon maaf / Tumpang lalu (for passing)",
+        "bm_casual": "Excuse me (common loanword) / Tumpang (for passing)"
+      }
+    },
+    {
+      "concept": "Expressing need/must",
+      "expressions": {
+        "en": "I need to / Must do",
+        "cn": "我需要 / 我必须 (Wǒ xūyào / Wǒ bìxū)",
+        "bm_formal": "Saya perlu / Saya harus",
+        "bm_casual": "Saya kena / Kena buat"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're working on a new task and need assistance from a colleague. Later, your manager gives complex instructions.",
+      "key_phrases": [
+        "Boleh tolong saya?",
+        "Baiklah, saya faham.",
+        "Maaf, boleh ulang semula?",
+        "Saya perlu siapkan laporan ini."
+      ]
+    },
+    "life": {
+      "scenario": "Navigating a crowded market, you accidentally bump into someone, then ask for directions. After getting help, you thank the person.",
+      "key_phrases": [
+        "Tumpang lalu.",
+        "Boleh tolong saya cari",
+        "Apa dia? (when you didn't hear the direction clearly)",
+        "Sama-sama."
+      ]
+    },
+    "tech": {
+      "scenario": "Your computer freezes, and you call tech support. You need to explain the issue and understand their technical advice.",
+      "key_phrases": [
+        "Saya kena restart komputer saya.",
+        "Boleh jelaskan lagi apa maksud 'cache'?",
+        "Okey, saya faham.",
+        "Tiada masalah."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'Can you help me?' in casual Malay?",
+      "answer": "Boleh tolong saya?"
+    },
+    {
+      "question": "What is the formal Malay equivalent for '好的 (Hǎo de)'?",
+      "answer": "Baiklah"
+    },
+    {
+      "question": "How do you casually ask 'Pardon? / What did you say?' in Malay?",
+      "answer": "Apa dia?"
+    },
+    {
+      "question": "What is the casual Malay response for '不客气 (Bù kèqì)'?",
+      "answer": "Sama-sama"
+    },
+    {
+      "question": "How do you formally say 'Excuse me (to pass through a crowd)' in Malay?",
+      "answer": "Tumpang lalu"
+    },
+    {
+      "question": "What is the casual Malay expression for '我需要 (Wǒ xūyào)'?",
+      "answer": "Saya kena"
+    }
+  ]
+}
