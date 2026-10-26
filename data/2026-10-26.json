@@ -1,0 +1,111 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "Innovation / To innovate",
+      "expressions": {
+        "en": "Innovation / To innovate",
+        "cn": "创新 (chuàngxīn) / 创新 (chuàngxīn)",
+        "bm_formal": "Inovasi / Berinovasi",
+        "bm_casual": "Benda baru / Buat benda baru"
+      }
+    },
+    {
+      "concept": "Digital transformation / To digitalize",
+      "expressions": {
+        "en": "Digital transformation / To digitalize",
+        "cn": "数字化转型 (shùzìhuà zhuǎnxíng) / 数字化 (shùzìhuà)",
+        "bm_formal": "Transformasi digital / Mendigitalkan",
+        "bm_casual": "Tukar digital / Guna digital"
+      }
+    },
+    {
+      "concept": "To streamline processes / Efficiency",
+      "expressions": {
+        "en": "To streamline processes / Efficiency",
+        "cn": "优化流程 (yōuhuà liúchéng) / 效率 (xiàolǜ)",
+        "bm_formal": "Menyelaraskan proses / Kecekapan",
+        "bm_casual": "Mudahkan kerja / Cepatkan kerja"
+      }
+    },
+    {
+      "concept": "Data analysis / To analyze data",
+      "expressions": {
+        "en": "Data analysis / To analyze data",
+        "cn": "数据分析 (shùjù fēnxī) / 分析数据 (fēnxī shùjù)",
+        "bm_formal": "Analisis data / Menganalisis data",
+        "bm_casual": "Tengok data / Kaji data"
+      }
+    },
+    {
+      "concept": "User-friendly / Intuitive",
+      "expressions": {
+        "en": "User-friendly / Intuitive",
+        "cn": "用户友好 (yònghù yǒuhǎo) / 直观 (zhíguān)",
+        "bm_formal": "Mesra pengguna / Intuitif",
+        "bm_casual": "Senang guna / Tak pening kepala"
+      }
+    },
+    {
+      "concept": "To develop (a system/app) / Development",
+      "expressions": {
+        "en": "To develop (a system/app) / Development",
+        "cn": "开发 (kāifā) / 开发 (kāifā)",
+        "bm_formal": "Membangunkan (sistem/aplikasi) / Pembangunan",
+        "bm_casual": "Buat (sistem/app) / Cipta (sistem/app)"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "During a project planning meeting, your manager emphasizes the need for a more efficient workflow.",
+      "key_phrases": [
+        "Kita perlu **menyelaraskan proses** kerja untuk meningkatkan **kecekapan**.",
+        "We need to **streamline our work processes** to boost **efficiency**.",
+        "我们需要**优化流程**以提高**效率**。"
+      ]
+    },
+    "life": {
+      "scenario": "You're discussing the government's recent efforts to make public services more accessible online.",
+      "key_phrases": [
+        "Sekarang banyak perkhidmatan kerajaan dah **tukar digital**, lagi **senang guna**.",
+        "Many government services have now **digitalized**, making them more **user-friendly**.",
+        "现在很多政府服务都**数字化**了，更**用户友好**。"
+      ]
+    },
+    "tech": {
+      "scenario": "A startup founder is explaining their new AI-driven product to potential investors.",
+      "key_phrases": [
+        "Kami sedang **membangunkan** satu platform yang boleh melakukan **analisis data** dengan pantas. Ia direka agar sangat **intuitif**.",
+        "We are **developing** a platform that can perform rapid **data analysis**. It's designed to be very **intuitive**.",
+        "我们正在**开发**一个可以快速进行**数据分析**的平台。它被设计得非常**直观**。"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How would you formally say 'innovation' in Malay?",
+      "answer": "Inovasi"
+    },
+    {
+      "question": "What is a casual way to say 'to streamline processes' in Malay? (优化流程)",
+      "answer": "Mudahkan kerja"
+    },
+    {
+      "question": "How do you say 'digital transformation' in formal Malay?",
+      "answer": "Transformasi digital"
+    },
+    {
+      "question": "If an app is 'user-friendly', what's the casual Malay term? (用户友好)",
+      "answer": "Senang guna"
+    },
+    {
+      "question": "What is the formal Malay term for 'to analyze data'?",
+      "answer": "Menganalisis data"
+    },
+    {
+      "question": "How would a developer casually say 'to develop an app' in Malay? (开发一个应用程序)",
+      "answer": "Buat app"
+    }
+  ]
+}
