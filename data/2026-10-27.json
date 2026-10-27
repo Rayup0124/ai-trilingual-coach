@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for clarification/repetition",
+      "expressions": {
+        "en": "Could you elaborate/repeat that?",
+        "cn": "您能详细说明/再说一遍吗？",
+        "bm_formal": "Bolehkah anda huraikan/ulangi?",
+        "bm_casual": "Boleh cerita lebih sikit/ulang balik?"
+      }
+    },
+    {
+      "concept": "Confirming understanding",
+      "expressions": {
+        "en": "Am I understanding this correctly?",
+        "cn": "我这样理解对吗？",
+        "bm_formal": "Adakah pemahaman saya ini tepat?",
+        "bm_casual": "Betul ke saya faham ni?"
+      }
+    },
+    {
+      "concept": "Suggesting a meeting/discussion",
+      "expressions": {
+        "en": "Let's schedule a discussion/meeting.",
+        "cn": "我们约个讨论/会议吧。",
+        "bm_formal": "Mari kita jadualkan perbincangan/mesyuarat.",
+        "bm_casual": "Jomlah kita set bincang/meeting."
+      }
+    },
+    {
+      "concept": "Requesting an update/status",
+      "expressions": {
+        "en": "Could you provide an update?",
+        "cn": "您能提供一下最新进展吗？",
+        "bm_formal": "Bolehkah anda berikan kemas kini?",
+        "bm_casual": "Boleh update tak?"
+      }
+    },
+    {
+      "concept": "Politely expressing disagreement",
+      "expressions": {
+        "en": "I see your point, but",
+        "cn": "我明白您的观点，但是",
+        "bm_formal": "Saya faham maksud anda, namun",
+        "bm_casual": "Saya faham, tapi"
+      }
+    },
+    {
+      "concept": "Offering assistance",
+      "expressions": {
+        "en": "How can I assist you?",
+        "cn": "我能如何协助您？",
+        "bm_formal": "Bagaimana saya boleh membantu anda?",
+        "bm_casual": "Apa yang saya boleh tolong?"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Your manager needs a progress report on a crucial project. You need to ask for an update from a team member and then confirm your understanding of the next steps.",
+      "key_phrases": [
+        "Bolehkah anda berikan kemas kini?",
+        "Adakah pemahaman saya ini tepat?",
+        "Mari kita jadualkan mesyuarat."
+      ]
+    },
+    "life": {
+      "scenario": "You're planning a trip with friends and trying to finalize the details. One friend suggests something you're not entirely sure about, and you want to offer help with the planning.",
+      "key_phrases": [
+        "Betul ke saya faham ni?",
+        "Saya faham, tapi",
+        "Apa yang saya boleh tolong?"
+      ]
+    },
+    "tech": {
+      "scenario": "You're on a call with technical support trying to explain a complex software bug. You need to ask them to elaborate on a solution and suggest a follow-up discussion if the issue persists.",
+      "key_phrases": [
+        "Bolehkah anda huraikan?",
+        "Saya faham maksud anda, namun",
+        "Jomlah kita set bincang."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask someone to elaborate in Malay?",
+      "answer": "Bolehkah anda huraikan?"
+    },
+    {
+      "question": "What's a casual way to confirm your understanding in Malay?",
+      "answer": "Betul ke saya faham ni?"
+    },
+    {
+      "question": "How would you formally suggest scheduling a meeting in Malay?",
+      "answer": "Mari kita jadualkan mesyuarat."
+    },
+    {
+      "question": "What's a casual way to ask for an update on a task in Malay?",
+      "answer": "Boleh update tak?"
+    },
+    {
+      "question": "How do you politely express disagreement formally in Malay?",
+      "answer": "Saya faham maksud anda, namun"
+    },
+    {
+      "question": "What's a casual way to offer assistance to someone in Malay?",
+      "answer": "Apa yang saya boleh tolong?"
+    }
+  ]
+}
