@@ -1,0 +1,111 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To implement new technology / To adopt new methods",
+      "expressions": {
+        "en": "To implement new technology / To adopt new methods",
+        "cn": "实施新技术 / 采用新方法 (shíshī xīn jìshù / cǎiyòng xīn fāngfǎ)",
+        "bm_formal": "Melaksanakan teknologi baharu / Mengadaptasi kaedah baharu",
+        "bm_casual": "Pakai teknologi baru / Guna cara baru"
+      }
+    },
+    {
+      "concept": "To improve efficiency / To optimize workflow",
+      "expressions": {
+        "en": "To improve efficiency / To optimize workflow",
+        "cn": "提高效率 / 优化工作流程 (tígāo xiàolǜ / yōuhuà gōngzuò liúchéng)",
+        "bm_formal": "Meningkatkan kecekapan / Mengoptimumkan aliran kerja",
+        "bm_casual": "Bagi lagi cekap / Lancarkan kerja"
+      }
+    },
+    {
+      "concept": "Digital platform / Online system",
+      "expressions": {
+        "en": "Digital platform / Online system",
+        "cn": "数字平台 / 在线系统 (shùzì píngtái / zàixiàn xìtǒng)",
+        "bm_formal": "Platform digital / Sistem dalam talian",
+        "bm_casual": "Platform digital / Sistem online"
+      }
+    },
+    {
+      "concept": "User experience (UX) / User interface (UI)",
+      "expressions": {
+        "en": "User experience (UX) / User interface (UI)",
+        "cn": "用户体验 (yònghù tǐyàn) / 用户界面 (yònghù jièmiàn)",
+        "bm_formal": "Pengalaman pengguna (UX) / Antaramuka pengguna (UI)",
+        "bm_casual": "Pengalaman guna / Muka sistem"
+      }
+    },
+    {
+      "concept": "Data-driven decisions",
+      "expressions": {
+        "en": "Data-driven decisions",
+        "cn": "数据驱动的决策 (shùjù qūdòng de juécè)",
+        "bm_formal": "Keputusan berasaskan data",
+        "bm_casual": "Buat keputusan ikut data"
+      }
+    },
+    {
+      "concept": "Sustainable development / Long-term growth",
+      "expressions": {
+        "en": "Sustainable development / Long-term growth",
+        "cn": "可持续发展 / 长期增长 (kěchíxù fāzhǎn / chángqī zēngzhǎng)",
+        "bm_formal": "Pembangunan lestari / Pertumbuhan jangka panjang",
+        "bm_casual": "Pembangunan kekal / Maju lama-lama"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Your team is discussing how to improve productivity for an upcoming project. The manager suggests adopting new tools and processes to stay competitive.",
+      "key_phrases": [
+        "Kita perlu **melaksanakan teknologi baharu** untuk **meningkatkan kecekapan** operasi kita.",
+        "Bagaimana kita boleh **mengoptimumkan aliran kerja** ini?",
+        "Pastikan **keputusan berasaskan data** untuk strategi pemasaran kita."
+      ]
+    },
+    "life": {
+      "scenario": "You're talking to a friend about the new government online system for renewing licenses and its impact on citizens.",
+      "key_phrases": [
+        "**Platform digital** kerajaan yang baru tu memang memudahkan.",
+        "Saya harap **sistem dalam talian** ni ada **pengalaman pengguna** yang baik.",
+        "Penting untuk memastikan **pembangunan lestari** dalam setiap projek komuniti."
+      ]
+    },
+    "tech": {
+      "scenario": "You are a developer discussing the design of a new mobile application with your team, focusing on user interaction and future scalability.",
+      "key_phrases": [
+        "Kita perlu fokus pada **pengalaman pengguna (UX)** dan **antaramuka pengguna (UI)** yang intuitif.",
+        "Bagaimana kita boleh **melaksanakan teknologi baharu** untuk ciri-ciri AI?",
+        "Reka bentuk ini perlu menyokong **pertumbuhan jangka panjang** aplikasi kita."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'To implement new technology' in formal Malay?",
+      "answer": "Melaksanakan teknologi baharu"
+    },
+    {
+      "question": "What's the casual Malay for 'To improve efficiency'?",
+      "answer": "Bagi lagi cekap"
+    },
+    {
+      "question": "How would you refer to an 'Online system' in casual Malay?",
+      "answer": "Sistem online"
+    },
+    {
+      "question": "What is 'User experience (UX)' in formal Malay?",
+      "answer": "Pengalaman pengguna (UX)"
+    },
+    {
+      "question": "How do you say 'Data-driven decisions' in formal Malay?",
+      "answer": "Keputusan berasaskan data"
+    },
+    {
+      "question": "What's the casual Malay for 'Sustainable development'?",
+      "answer": "Pembangunan kekal"
+    }
+  ]
+}
