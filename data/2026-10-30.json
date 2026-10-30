@@ -1,0 +1,112 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for clarification",
+      "expressions": {
+        "en": "Could you clarify?",
+        "cn": "你能澄清一下吗？",
+        "bm_formal": "Bolehkah anda jelaskan/perincikan?",
+        "bm_casual": "Boleh terangkan sikit?"
+      }
+    },
+    {
+      "concept": "Expressing understanding",
+      "expressions": {
+        "en": "I understand.",
+        "cn": "我明白了。",
+        "bm_formal": "Saya faham./Saya mengerti.",
+        "bm_casual": "Faham./OK, cun."
+      }
+    },
+    {
+      "concept": "Asking for status update",
+      "expressions": {
+        "en": "What's the latest update?",
+        "cn": "有什么最新进展？",
+        "bm_formal": "Apakah kemas kini terkini?",
+        "bm_casual": "Apa latest?/Macam mana dah?"
+      }
+    },
+    {
+      "concept": "Offering help",
+      "expressions": {
+        "en": "How can I help?",
+        "cn": "我能怎么帮忙？",
+        "bm_formal": "Bagaimana saya boleh membantu?",
+        "bm_casual": "Nak saya tolong?/Roger kalau perlu bantuan."
+      }
+    },
+    {
+      "concept": "Suggesting a discussion",
+      "expressions": {
+        "en": "Shall we discuss this?",
+        "cn": "我们讨论一下吗？",
+        "bm_formal": "Wajarkah kita bincangkan perkara ini?",
+        "bm_casual": "Jom bincang?/Kita sembang kejap?"
+      }
+    },
+    {
+      "concept": "Apologizing for inconvenience/delay",
+      "expressions": {
+        "en": "Apologies for the inconvenience/delay.",
+        "cn": "抱歉造成不便/延误。",
+        "bm_formal": "Mohon maaf atas kesulitan/kelewatan ini.",
+        "bm_casual": "Sorry lambat/susahkan./Maaf, ada hal sikit."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're in a team meeting discussing a new project timeline. The project manager mentions a new requirement that's unclear. You also need to ask about the progress of a task you delegated and offer help to a struggling colleague.",
+      "key_phrases": [
+        "Bolehkah anda jelaskan/perincikan?",
+        "Apakah kemas kini terkini?",
+        "Bagaimana saya boleh membantu?"
+      ]
+    },
+    "life": {
+      "scenario": "Your friend is trying to fix their computer, and you're not sure what they mean by a certain technical term. Later, you check in on their progress and offer assistance. You also need to apologize for being late to meet them.",
+      "key_phrases": [
+        "Apa maksud tu?",
+        "Macam mana dah?",
+        "Nak saya tolong?",
+        "Sorry lambat."
+      ]
+    },
+    "tech": {
+      "scenario": "You're communicating with a tech support agent about an issue. They explain a complex solution, and you need to confirm you understand. You then ask for an update on the fix and suggest a follow-up call.",
+      "key_phrases": [
+        "Saya faham.",
+        "Apakah kemas kini terkini?",
+        "Wajarkah kita bincangkan perkara ini?"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask for clarification in Malay?",
+      "answer": "Bolehkah anda jelaskan?"
+    },
+    {
+      "question": "我明白了。(I understand.) How would you say this casually in Malay?",
+      "answer": "Faham./OK, cun."
+    },
+    {
+      "question": "How do you ask for a status update casually in Malay?",
+      "answer": "Apa latest?/Macam mana dah?"
+    },
+    {
+      "question": "我能怎么帮忙？(How can I help?) How would you offer help formally in Malay?",
+      "answer": "Bagaimana saya boleh membantu?"
+    },
+    {
+      "question": "How do you suggest a discussion casually in Malay?",
+      "answer": "Jom bincang?/Kita sembang kejap?"
+    },
+    {
+      "question": "抱歉造成不便。(Apologies for the inconvenience.) How do you say this casually in Malay?",
+      "answer": "Sorry susahkan./Maaf, ada hal sikit."
+    }
+  ]
+}
