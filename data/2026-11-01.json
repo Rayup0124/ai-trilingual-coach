@@ -1,0 +1,111 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Greeting/Checking in",
+      "expressions": {
+        "en": "How are you? / What's up?",
+        "cn": "你好吗？/ 近况如何？",
+        "bm_formal": "Apa khabar?",
+        "bm_casual": "Apa cerita? / Macam mana?"
+      }
+    },
+    {
+      "concept": "Politeness/Apology/Getting Attention",
+      "expressions": {
+        "en": "Excuse me / Sorry",
+        "cn": "不好意思 / 对不起",
+        "bm_formal": "Maafkan saya / Mohon maaf",
+        "bm_casual": "Maaf / Sorry lah"
+      }
+    },
+    {
+      "concept": "Expressing Gratitude",
+      "expressions": {
+        "en": "Thank you",
+        "cn": "谢谢",
+        "bm_formal": "Terima kasih",
+        "bm_casual": "Mekasih / TQ"
+      }
+    },
+    {
+      "concept": "Offering Assistance",
+      "expressions": {
+        "en": "Can I help you? / Need help?",
+        "cn": "我可以帮你吗？/ 需要帮忙吗？",
+        "bm_formal": "Boleh saya bantu?",
+        "bm_casual": "Nak saya tolong? / Ada apa-apa nak tolong?"
+      }
+    },
+    {
+      "concept": "Assurance/Acceptance",
+      "expressions": {
+        "en": "No problem / It's okay",
+        "cn": "没问题 / 没关系",
+        "bm_formal": "Tiada masalah / Tidak mengapa",
+        "bm_casual": "Takpe / Okay je"
+      }
+    },
+    {
+      "concept": "Asking for Location",
+      "expressions": {
+        "en": "Where is?",
+        "cn": "在哪里？",
+        "bm_formal": "Di manakah?",
+        "bm_casual": "Kat mana?"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're at the office. You see a new colleague looking a bit lost and later need to find the IT department.",
+      "key_phrases": [
+        "Apa khabar? Boleh saya bantu?",
+        "Di manakah Jabatan IT?",
+        "Terima kasih banyak!"
+      ]
+    },
+    "life": {
+      "scenario": "You're at a busy hawker centre. You accidentally bump into someone and then need to ask for the restroom.",
+      "key_phrases": [
+        "Maafkan saya!",
+        "Tandas kat mana, ya?",
+        "Mekasih!"
+      ]
+    },
+    "tech": {
+      "scenario": "Your internet is down. You call your internet service provider's support line and need to explain your issue.",
+      "key_phrases": [
+        "Apa cerita, internet saya tak berfungsi.",
+        "Nak saya tolong 'restart' router?",
+        "Takpe, saya cuba dulu."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask 'How are you?' in Malay?",
+      "answer": "Apa khabar?"
+    },
+    {
+      "question": "你撞到人了。你怎么随便地道歉？",
+      "answer": "Maaf!"
+    },
+    {
+      "question": "What is a casual way to say 'Thank you' in Malay?",
+      "answer": "Mekasih! / TQ!"
+    },
+    {
+      "question": "You see someone struggling with their laptop. How do you offer help formally in Malay?",
+      "answer": "Boleh saya bantu?"
+    },
+    {
+      "question": "Someone apologizes to you. How do you respond with 'No problem' casually?",
+      "answer": "Takpe! / Okay je!"
+    },
+    {
+      "question": "How do you ask 'Where is the nearest charging port?' casually in Malay?",
+      "answer": "Port pengecas terdekat kat mana?"
+    }
+  ]
+}
