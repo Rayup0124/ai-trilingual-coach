@@ -1,0 +1,111 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "Update",
+      "expressions": {
+        "en": "To update (software, information)",
+        "cn": "更新 (gēngxīn)",
+        "bm_formal": "Mengemaskini",
+        "bm_casual": "Update / Kemas kini"
+      }
+    },
+    {
+      "concept": "Troubleshoot / Fix",
+      "expressions": {
+        "en": "To troubleshoot / fix a problem",
+        "cn": "解决问题 (jiějué wèntí) / 修复 (xiūfù)",
+        "bm_formal": "Menyelesaikan masalah / Membaiki",
+        "bm_casual": "Betulkan / Settle masalah"
+      }
+    },
+    {
+      "concept": "Innovate / Develop",
+      "expressions": {
+        "en": "To innovate / develop new things",
+        "cn": "创新 (chuàngxīn) / 开发 (kāifā)",
+        "bm_formal": "Menginovasi / Membangunkan",
+        "bm_casual": "Buat benda baru / Kembangkan"
+      }
+    },
+    {
+      "concept": "Digital Transformation",
+      "expressions": {
+        "en": "Digital transformation",
+        "cn": "数字化转型 (shùzìhuà zhuǎnxíng)",
+        "bm_formal": "Transformasi digital",
+        "bm_casual": "Tukar jadi digital / Digitalisasi"
+      }
+    },
+    {
+      "concept": "User-friendly",
+      "expressions": {
+        "en": "User-friendly / easy to use",
+        "cn": "用户友好 (yònghù yǒuhǎo) / 易于使用 (yì yú shǐyòng)",
+        "bm_formal": "Mesra pengguna / Mudah digunakan",
+        "bm_casual": "Senang pakai / User-friendly"
+      }
+    },
+    {
+      "concept": "Launch",
+      "expressions": {
+        "en": "To launch (a product/project)",
+        "cn": "推出 (tuīchū) / 发布 (fābù)",
+        "bm_formal": "Melancarkan",
+        "bm_casual": "Launch / Keluarkan"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are in a team meeting discussing a new system implementation or project progress.",
+      "key_phrases": [
+        "Kita perlu **mengemaskini** data pelanggan kita setiap bulan.",
+        "Pasukan IT sedang cuba **menyelesaikan masalah** rangkaian yang berlaku semalam.",
+        "Syarikat kita sedang giat dalam **transformasi digital** untuk meningkatkan kecekapan."
+      ]
+    },
+    "life": {
+      "scenario": "You are dealing with personal gadgets or everyday tech issues at home.",
+      "key_phrases": [
+        "Tolong **update** aplikasi ni, dah lama tak buat.",
+        "Telefon saya rosak, kena **betulkan** ni cepat.",
+        "Aplikasi baru ni **senang pakai** betul, tak pening kepala."
+      ]
+    },
+    "tech": {
+      "scenario": "You are discussing tech development, product releases, or software features with colleagues or friends.",
+      "key_phrases": [
+        "Kita perlu **membangunkan** ciri-ciri baru untuk kekal relevan dalam pasaran.",
+        "Bila mereka akan **melancarkan** versi beta untuk ujian awam?",
+        "Antaramuka perisian ini sangat **mesra pengguna**, sesuai untuk semua peringkat umur."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'to update' (formal) in Malay?",
+      "answer": "Mengemaskini"
+    },
+    {
+      "question": "How do you say 'to fix a problem' (casual) in Malay?",
+      "answer": "Betulkan masalah"
+    },
+    {
+      "question": "What is 'Digital transformation' in formal Malay?",
+      "answer": "Transformasi digital"
+    },
+    {
+      "question": "How do you say 'user-friendly' (casual) in Malay?",
+      "answer": "Senang pakai"
+    },
+    {
+      "question": "What is 'To launch a product' (formal) in Malay?",
+      "answer": "Melancarkan produk"
+    },
+    {
+      "question": "How do you say '创新 (chuàngxīn) / 开发 (kāifā)' in formal Malay?",
+      "answer": "Menginovasi / Membangunkan"
+    }
+  ]
+}
