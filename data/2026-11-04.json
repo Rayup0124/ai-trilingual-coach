@@ -1,0 +1,114 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Requesting Assistance",
+      "expressions": {
+        "en": "Can you help me?",
+        "cn": "你能帮我吗？",
+        "bm_formal": "Bolehkah anda membantu saya?",
+        "bm_casual": "Boleh tolong saya tak?"
+      }
+    },
+    {
+      "concept": "Affirmation / Agreement",
+      "expressions": {
+        "en": "Okay / Got it",
+        "cn": "好的 / 明白了",
+        "bm_formal": "Baiklah. / Saya faham.",
+        "bm_casual": "Okay. / Faham."
+      }
+    },
+    {
+      "concept": "Requesting Repetition/Clarification",
+      "expressions": {
+        "en": "Could you repeat that?",
+        "cn": "你能重复一遍吗？",
+        "bm_formal": "Bolehkah anda mengulanginya?",
+        "bm_casual": "Boleh ulang balik?"
+      }
+    },
+    {
+      "concept": "Expressing Thanks",
+      "expressions": {
+        "en": "Thank you very much.",
+        "cn": "非常感谢。",
+        "bm_formal": "Terima kasih banyak-banyak.",
+        "bm_casual": "Terima kasih banyak."
+      }
+    },
+    {
+      "concept": "Asking if someone is available/present",
+      "expressions": {
+        "en": "Is [name] here?",
+        "cn": "[名字] 在吗？",
+        "bm_formal": "Adakah Encik/Puan [Nama] ada di sini?",
+        "bm_casual": "[Nama] ada?"
+      }
+    },
+    {
+      "concept": "Asking for permission / May I?",
+      "expressions": {
+        "en": "May I?",
+        "cn": "我可以吗？",
+        "bm_formal": "Bolehkah saya?",
+        "bm_casual": "Boleh saya?"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're a new team member and need help setting up new software. You also need to confirm instructions from your manager and find a colleague.",
+      "key_phrases": [
+        "Bolehkah anda membantu saya?",
+        "Baiklah, saya faham.",
+        "Bolehkah anda mengulanginya?",
+        "Adakah Puan Aida ada di sini?"
+      ]
+    },
+    "life": {
+      "scenario": "You're at a local market, buying groceries. You need help carrying bags, want to thank the vendor, and ask if you can try a sample of fruit.",
+      "key_phrases": [
+        "Boleh tolong saya tak angkat barang ni?",
+        "Terima kasih banyak!",
+        "Boleh saya rasa buah ni?",
+        "Faham, terima kasih."
+      ]
+    },
+    "tech": {
+      "scenario": "Your home internet isn't working, and you're on a call with tech support. You need to follow their instructions and confirm each step.",
+      "key_phrases": [
+        "Boleh tolong saya tak baiki internet ni?",
+        "Faham.",
+        "Boleh ulang balik langkah tadi?",
+        "Terima kasih banyak-banyak atas bantuan anda."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask 'Can you help me?' in Malay?",
+      "answer": "Bolehkah anda membantu saya?"
+    },
+    {
+      "question": "How do you casually say 'Got it' in Malay? (明白了)",
+      "answer": "Faham."
+    },
+    {
+      "question": "What's the formal Malay way to ask 'Could you repeat that?'",
+      "answer": "Bolehkah anda mengulanginya?"
+    },
+    {
+      "question": "How would you casually thank someone very much in Malay? (非常感谢)",
+      "answer": "Terima kasih banyak."
+    },
+    {
+      "question": "You want to know if your colleague, Ali, is in the office. How do you ask casually?",
+      "answer": "Ali ada?"
+    },
+    {
+      "question": "How do you formally ask for permission to enter a room? (我可以进去吗？)",
+      "answer": "Bolehkah saya masuk?"
+    }
+  ]
+}
