@@ -1,0 +1,111 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To innovate/develop something new",
+      "expressions": {
+        "en": "To develop/innovate something new",
+        "cn": "开发新东西 / 创新 (kāifā xīn dōngxi / chuàngxīn)",
+        "bm_formal": "Membangunkan inovasi baharu / Membangunkan teknologi baharu",
+        "bm_casual": "Buat benda baru / Develop benda baru"
+      }
+    },
+    {
+      "concept": "Digital transformation / Going digital",
+      "expressions": {
+        "en": "Digital transformation / Going digital",
+        "cn": "数字化转型 (shùzìhuà zhuǎnxíng)",
+        "bm_formal": "Transformasi digital / Pendigitalan",
+        "bm_casual": "Go digital / Tukar jadi digital"
+      }
+    },
+    {
+      "concept": "To streamline processes / Make things more efficient",
+      "expressions": {
+        "en": "To streamline processes / Make things more efficient",
+        "cn": "简化流程 / 提高效率 (jiǎnhuà liúchéng / tígāo xiàolǜ)",
+        "bm_formal": "Menyusun atur proses / Memperkemas proses",
+        "bm_casual": "Bagi proses lagi senang / Bagi kerja lagi cepat"
+      }
+    },
+    {
+      "concept": "User-friendly interface",
+      "expressions": {
+        "en": "User-friendly interface",
+        "cn": "用户友好界面 (yònghù yǒuhǎo jièmiàn)",
+        "bm_formal": "Antara muka mesra pengguna",
+        "bm_casual": "Apps senang guna / UI senang pakai"
+      }
+    },
+    {
+      "concept": "Data analysis / Analyze data",
+      "expressions": {
+        "en": "Data analysis / Analyze data",
+        "cn": "数据分析 (shùjù fēnxī)",
+        "bm_formal": "Analisis data / Menganalisis data",
+        "bm_casual": "Cek data / Tengok data"
+      }
+    },
+    {
+      "concept": "To implement a new system/technology",
+      "expressions": {
+        "en": "To implement a new system/technology",
+        "cn": "实施新系统/技术 (shíshī xīn xìtǒng/jìshù)",
+        "bm_formal": "Melaksanakan sistem/teknologi baharu",
+        "bm_casual": "Pasang sistem baru / Pakai teknologi baru"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Your team needs to propose a new digital solution to management to improve workflow efficiency and implement it.",
+      "key_phrases": [
+        "Kita perlu membangunkan inovasi baharu untuk menyelesaikan masalah ini.",
+        "Transformasi digital akan memperkemas proses kerja kita.",
+        "Melaksanakan sistem baharu ini akan meningkatkan kecekapan operasi."
+      ]
+    },
+    "life": {
+      "scenario": "You're discussing with a friend about a new smart home device or a new app that makes daily tasks easier and is user-friendly.",
+      "key_phrases": [
+        "Apps ni memang senang guna, antaramuka mesra pengguna.",
+        "Teknologi baru ni buat hidup kita lagi senang.",
+        "Dulu susah nak buat, sekarang dah go digital, semua jadi cepat."
+      ]
+    },
+    "tech": {
+      "scenario": "You are a developer presenting a new feature or system to a client, emphasizing its benefits in data analysis and usability.",
+      "key_phrases": [
+        "Kami telah membangunkan sistem dengan antara muka mesra pengguna.",
+        "Analisis data menunjukkan bahawa sistem ini akan memperkemas proses kerja anda.",
+        "Dengan melaksanakan teknologi baharu ini, anda akan mengalami transformasi digital yang signifikan."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you say 'Digital transformation' in formal Malay?",
+      "answer": "Transformasi digital"
+    },
+    {
+      "question": "Your boss asks you to 'streamline processes' at work. How would you say it casually in Malay?",
+      "answer": "Bagi proses lagi senang / Bagi kerja lagi cepat"
+    },
+    {
+      "question": "What is the formal Malay term for 'User-friendly interface'?",
+      "answer": "Antara muka mesra pengguna"
+    },
+    {
+      "question": "How would you tell a friend you want to 'develop something new' (casual Malay)?",
+      "answer": "Nak buat benda baru / Nak develop benda baru"
+    },
+    {
+      "question": "The company needs to 'implement a new system'. What's the formal Malay for that?",
+      "answer": "Melaksanakan sistem baharu"
+    },
+    {
+      "question": "You need to 'analyze data' for your project. How to say it in formal Malay?",
+      "answer": "Menganalisis data"
+    }
+  ]
+}
