@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Asking for clarification/repetition",
+      "expressions": {
+        "en": "Could you please elaborate/repeat that?",
+        "cn": "您能详细说明一下/重复一遍吗？",
+        "bm_formal": "Boleh tuan/puan huraikan/ulang semula? / Mohon pencerahan lanjut.",
+        "bm_casual": "Boleh terang lagi/ulang balik? / Tak berapa faham."
+      }
+    },
+    {
+      "concept": "Suggesting an idea/solution",
+      "expressions": {
+        "en": "How about we try? / My suggestion is",
+        "cn": "我们不如试试? / 我的建议是",
+        "bm_formal": "Bagaimana kalau kita cuba? / Cadangan saya adalah",
+        "bm_casual": "Apa kata kita cuba? / Saya rasa elok kita"
+      }
+    },
+    {
+      "concept": "Agreeing/Confirming",
+      "expressions": {
+        "en": "That sounds good. / Understood. / Confirmed.",
+        "cn": "听起来不错。 / 明白了。 / 确认。",
+        "bm_formal": "Kedengaran baik. / Maklum. / Disahkan.",
+        "bm_casual": "Okay je. / Faham. / Confirm."
+      }
+    },
+    {
+      "concept": "Disagreeing politely/Expressing reservation",
+      "expressions": {
+        "en": "I have a slight concern. / Perhaps we could consider",
+        "cn": "我有点顾虑。 / 也许我们可以考虑",
+        "bm_formal": "Saya mempunyai sedikit kebimbangan. / Mungkin kita boleh pertimbangkan",
+        "bm_casual": "Saya tak berapa setuju. / Rasanya elok kita fikirkan balik"
+      }
+    },
+    {
+      "concept": "Requesting an update/Follow-up",
+      "expressions": {
+        "en": "Any updates on? / Could you follow up on?",
+        "cn": "有关于的最新进展吗？ / 您能跟进一下吗？",
+        "bm_formal": "Ada perkembangan terkini tentang? / Boleh tuan/puan susulan tentang?",
+        "bm_casual": "Macam mana progress? / Boleh check balik pasal?"
+      }
+    },
+    {
+      "concept": "Offering help/Support",
+      "expressions": {
+        "en": "Let me know if you need help. / How can I assist you?",
+        "cn": "如果您需要帮助，请告诉我。 / 我能如何协助您？",
+        "bm_formal": "Maklumkan jika memerlukan bantuan. / Bagaimana saya boleh membantu tuan/puan?",
+        "bm_casual": "Bagitau je kalau perlukan tolong. / Nak saya tolong apa?"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "During a team meeting about a new project proposal, your colleague presents an idea you're not fully clear on, and you also have a suggestion to add.",
+      "key_phrases": [
+        "Mohon pencerahan lanjut.",
+        "Bagaimana kalau kita cuba",
+        "Kedengaran baik."
+      ]
+    },
+    "life": {
+      "scenario": "You're planning a weekend trip with friends. One friend suggests a destination you're not keen on, and you want to propose an alternative.",
+      "key_phrases": [
+        "Saya tak berapa setuju.",
+        "Apa kata kita cuba",
+        "Okay je."
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a network issue with a junior colleague. They've done some initial checks, but you need more details and want to offer further assistance.",
+      "key_phrases": [
+        "Boleh terang lagi?",
+        "Macam mana progress?",
+        "Nak saya tolong apa?"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How would you formally ask for more details on a project?",
+      "answer": "Mohon pencerahan lanjut."
+    },
+    {
+      "question": "你想建议一个新方案，你会怎么说？(How would you suggest a new solution?)",
+      "answer": "Apa kata kita cuba?"
+    },
+    {
+      "question": "How do you confirm understanding of a task informally?",
+      "answer": "Faham."
+    },
+    {
+      "question": "你对一个提议有点顾虑，你会怎么礼貌地说？(You have a slight concern about a proposal, how would you politely express it?)",
+      "answer": "Saya mempunyai sedikit kebimbangan."
+    },
+    {
+      "question": "How would you informally ask for an update on a task?",
+      "answer": "Macam mana progress?"
+    },
+    {
+      "question": "你想主动提供帮助，你会怎么说？(You want to proactively offer help, what would you say?)",
+      "answer": "Nak saya tolong apa?"
+    }
+  ]
+}
