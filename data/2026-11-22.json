@@ -1,0 +1,130 @@
+{
+  "theme": "Daily Life",
+  "vocabulary_focus": [
+    {
+      "concept": "Greeting / Checking in",
+      "expressions": {
+        "en": "How are you? / What's up?",
+        "cn": "你好吗？/ 怎么样？",
+        "bm_formal": "Apa khabar?",
+        "bm_casual": "Apa cerita? / Sihat?"
+      }
+    },
+    {
+      "concept": "Apology / Getting Attention",
+      "expressions": {
+        "en": "Excuse me / Sorry",
+        "cn": "不好意思 / 对不起",
+        "bm_formal": "Maafkan saya / Mohon maaf",
+        "bm_casual": "Maaf / Sorry"
+      }
+    },
+    {
+      "concept": "Expressing Gratitude",
+      "expressions": {
+        "en": "Thank you",
+        "cn": "谢谢",
+        "bm_formal": "Terima kasih",
+        "bm_casual": "Thanks / Mekasih"
+      }
+    },
+    {
+      "concept": "Offering Help",
+      "expressions": {
+        "en": "Can I help you? / Do you need help?",
+        "cn": "我可以帮你吗？/ 需要帮忙吗？",
+        "bm_formal": "Ada apa-apa yang boleh saya bantu? / Boleh saya bantu?",
+        "bm_casual": "Nak saya tolong? / Perlukan bantuan?"
+      }
+    },
+    {
+      "concept": "Understanding / Acknowledging",
+      "expressions": {
+        "en": "I understand / Got it",
+        "cn": "我明白了 / 我懂了",
+        "bm_formal": "Saya faham / Saya mengerti",
+        "bm_casual": "Faham / Ngerti / Okay"
+      }
+    },
+    {
+      "concept": "Reassurance / No trouble",
+      "expressions": {
+        "en": "No problem / It's okay",
+        "cn": "没问题 / 没关系",
+        "bm_formal": "Tiada masalah / Tidak mengapa",
+        "bm_casual": "Takpe / Okay je"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You're in a team meeting discussing a new project deadline. Your manager looks stressed, and you want to offer support. Later, a colleague thanks you for clarifying a task.",
+      "key_phrases": [
+        "Apa khabar semua?",
+        "Ada apa-apa yang boleh saya bantu?",
+        "Saya faham",
+        "Terima kasih"
+      ]
+    },
+    "life": {
+      "scenario": "You accidentally bump into someone at the supermarket. You then ask a shop assistant for help finding a specific item. Later, you meet a friend and ask how they're doing.",
+      "key_phrases": [
+        "Maaf",
+        "Nak saya tolong?",
+        "Takpe",
+        "Apa cerita?"
+      ]
+    },
+    "tech": {
+      "scenario": "Your friend asks for help setting up a new app on their phone. You explain the steps clearly, and they confirm they understand. You reassure them that it's a simple process.",
+      "key_phrases": [
+        "Perlukan bantuan?",
+        "Faham?",
+        "Tiada masalah",
+        "Mekasih"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How are you? (formal Malay)",
+      "answer": "Apa khabar?"
+    },
+    {
+      "question": "Sorry / Excuse me (casual Malay)",
+      "answer": "Maaf / Sorry"
+    },
+    {
+      "question": "Thank you (casual Malay)",
+      "answer": "Thanks / Mekasih"
+    },
+    {
+      "question": "Can I help you? (formal Malay)",
+      "answer": "Boleh saya bantu?"
+    },
+    {
+      "question": "I understand (casual Malay)",
+      "answer": "Faham / Okay"
+    },
+    {
+      "question": "No problem (casual Malay)",
+      "answer": "Takpe / Okay je"
+    },
+    {
+      "question": "What's up? (casual Malay)",
+      "answer": "Apa cerita?"
+    },
+    {
+      "question": "我明白了 (Malay casual)",
+      "answer": "Faham"
+    },
+    {
+      "question": "谢谢 (Malay formal)",
+      "answer": "Terima kasih"
+    },
+    {
+      "question": "你需要帮助吗？ (Malay casual)",
+      "answer": "Perlukan bantuan?"
+    }
+  ]
+}
