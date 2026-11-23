@@ -1,0 +1,111 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "Innovation / New Ideas",
+      "expressions": {
+        "en": "To innovate / To generate new ideas",
+        "cn": "创新 / 产生新想法 (chuàngxīn / chǎnshēng xīnfǎxiǎng)",
+        "bm_formal": "Menginovasi / Mencetuskan idea baharu",
+        "bm_casual": "Buat benda baru / Ada idea baru"
+      }
+    },
+    {
+      "concept": "Optimize / Improve Efficiency",
+      "expressions": {
+        "en": "To optimize / To improve efficiency",
+        "cn": "优化 / 提高效率 (yōuhuà / tígāo xiàolǜ)",
+        "bm_formal": "Mengoptimumkan / Meningkatkan kecekapan",
+        "bm_casual": "Bagi lagi bagus / Cepatkan kerja"
+      }
+    },
+    {
+      "concept": "Digitalization / Go Digital",
+      "expressions": {
+        "en": "To digitalize / To go digital",
+        "cn": "数字化 / 走向数字化 (shùzìhuà / zǒuxiàng shùzìhuà)",
+        "bm_formal": "Mendigitalkan / Melaksanakan pendigitalan",
+        "bm_casual": "Tukar ke digital / Pakai digital"
+      }
+    },
+    {
+      "concept": "Problem Solving",
+      "expressions": {
+        "en": "Problem-solving / To solve a problem",
+        "cn": "解决问题 / 解决难题 (jiějué wèntí / jiějué nántí)",
+        "bm_formal": "Menyelesaikan masalah / Mencari penyelesaian",
+        "bm_casual": "Selesaikan masalah / Cari jalan"
+      }
+    },
+    {
+      "concept": "Data Analysis",
+      "expressions": {
+        "en": "Data analysis / To analyze data",
+        "cn": "数据分析 / 分析数据 (shùjù fēnxī / fēnxī shùjù)",
+        "bm_formal": "Analisis data / Menganalisis data",
+        "bm_casual": "Kaji data / Tengok data"
+      }
+    },
+    {
+      "concept": "User-friendly",
+      "expressions": {
+        "en": "User-friendly / Easy to use",
+        "cn": "用户友好 / 易于使用 (yònghù yǒuhǎo / yìyú shǐyòng)",
+        "bm_formal": "Mesra pengguna / Mudah digunakan",
+        "bm_casual": "Senang guna / Mudah pakai"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Our team is tasked with improving productivity. We need to **menginovasi** our current workflow and **mendigitalkan** more processes to **meningkatkan kecekapan** overall.",
+      "key_phrases": [
+        "menginovasi",
+        "mendigitalkan",
+        "meningkatkan kecekapan"
+      ]
+    },
+    "life": {
+      "scenario": "I'm trying to **menyelesaikan masalah** with my smart home device. It's not very **mesra pengguna**. Maybe I need to find a way to **mengoptimumkan** its settings.",
+      "key_phrases": [
+        "menyelesaikan masalah",
+        "mesra pengguna",
+        "mengoptimumkan"
+      ]
+    },
+    "tech": {
+      "scenario": "The new software update aims to **mengoptimumkan** data processing. We're also implementing a new feature for **analisis data** to help users **mencetuskan idea baharu** based on insights.",
+      "key_phrases": [
+        "mengoptimumkan",
+        "analisis data",
+        "mencetuskan idea baharu"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "What is the formal Malay word for 'to innovate' or 'to generate new ideas'?",
+      "answer": "Menginovasi / Mencetuskan idea baharu"
+    },
+    {
+      "question": "How do you say 'to optimize' or 'to improve efficiency' in casual Malay?",
+      "answer": "Bagi lagi bagus / Cepatkan kerja"
+    },
+    {
+      "question": "If you want to say 'to go digital' (formal) in Malay, what phrase would you use?",
+      "answer": "Mendigitalkan / Melaksanakan pendigitalan"
+    },
+    {
+      "question": "What's the casual Malay way to express 'to solve a problem'?",
+      "answer": "Selesaikan masalah / Cari jalan"
+    },
+    {
+      "question": "What is the formal Malay term for 'data analysis'?",
+      "answer": "Analisis data"
+    },
+    {
+      "question": "How would you describe something as 'user-friendly' in casual Malay?",
+      "answer": "Senang guna / Mudah pakai"
+    }
+  ]
+}
