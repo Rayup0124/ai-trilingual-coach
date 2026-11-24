@@ -1,0 +1,111 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Please confirm",
+      "expressions": {
+        "en": "Please confirm. / Can you confirm?",
+        "cn": "请确认。(Qǐng quèrèn.)",
+        "bm_formal": "Mohon pengesahan. / Boleh tuan/puan sahkan?",
+        "bm_casual": "Boleh sahkan? / Tolong confirm."
+      }
+    },
+    {
+      "concept": "Let me check",
+      "expressions": {
+        "en": "Let me check. / I'll check.",
+        "cn": "我查一下。(Wǒ chá yīxià.)",
+        "bm_formal": "Biar saya semak dahulu.",
+        "bm_casual": "Saya check dulu. / Nak check kejap."
+      }
+    },
+    {
+      "concept": "I'll get back to you",
+      "expressions": {
+        "en": "I'll get back to you. / I'll revert.",
+        "cn": "我会回复你。(Wǒ huì huífù nǐ.)",
+        "bm_formal": "Saya akan maklumkan semula.",
+        "bm_casual": "Nanti saya reply. / Saya roger balik."
+      }
+    },
+    {
+      "concept": "What's the update?",
+      "expressions": {
+        "en": "What's the update? / Any updates?",
+        "cn": "有什么进展吗？(Yǒu shénme jìnzhǎn ma?)",
+        "bm_formal": "Apakah kemas kini terkini? / Ada sebarang perkembangan?",
+        "bm_casual": "Apa update? / Ada update tak?"
+      }
+    },
+    {
+      "concept": "Let's schedule a meeting",
+      "expressions": {
+        "en": "Let's schedule a meeting.",
+        "cn": "我们安排个会议吧。(Wǒmen ānpái gè huìyì ba.)",
+        "bm_formal": "Mari kita jadualkan mesyuarat.",
+        "bm_casual": "Jom arrange meeting. / Kita kena jumpa."
+      }
+    },
+    {
+      "concept": "I understand / Got it",
+      "expressions": {
+        "en": "I understand. / Got it.",
+        "cn": "我明白了。(Wǒ míngbái le.)",
+        "bm_formal": "Saya faham.",
+        "bm_casual": "Faham. / Okay, faham."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Your manager asks for an update on a client proposal that's due soon.",
+      "key_phrases": [
+        "Apakah kemas kini terkini?",
+        "Biar saya semak dahulu.",
+        "Saya akan maklumkan semula."
+      ]
+    },
+    "life": {
+      "scenario": "You're trying to coordinate a family dinner and need to confirm everyone's availability and preferences.",
+      "key_phrases": [
+        "Boleh sahkan?",
+        "Nanti saya reply.",
+        "Okay, faham."
+      ]
+    },
+    "tech": {
+      "scenario": "You're troubleshooting a software issue with a colleague over chat and need to confirm steps or get updates on their progress.",
+      "key_phrases": [
+        "Ada update tak?",
+        "Saya check dulu.",
+        "Jom arrange meeting."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally ask 'Please confirm' in Malay?",
+      "answer": "Mohon pengesahan."
+    },
+    {
+      "question": "What's a casual Malay way to say 'I'll get back to you'?",
+      "answer": "Nanti saya reply. / Saya roger balik."
+    },
+    {
+      "question": "Your colleague asks '有什么进展吗？' (Yǒu shénme jìnzhǎn ma?). How would you casually say 'Let me check first'?",
+      "answer": "Saya check dulu."
+    },
+    {
+      "question": "How would you formally express 'Let's schedule a meeting' in Malay?",
+      "answer": "Mari kita jadualkan mesyuarat."
+    },
+    {
+      "question": "To acknowledge 'I understand' casually in Malay, you could say",
+      "answer": "Faham. / Okay, faham."
+    },
+    {
+      "question": "Your boss asks for 'Any updates?' How do you formally respond with 'I'll get back to you'?",
+      "answer": "Saya akan maklumkan semula."
+    }
+  ]
+}
