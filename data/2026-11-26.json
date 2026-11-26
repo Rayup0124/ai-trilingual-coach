@@ -1,0 +1,111 @@
+{
+  "theme": "Technology & Development",
+  "vocabulary_focus": [
+    {
+      "concept": "To innovate / To develop something new",
+      "expressions": {
+        "en": "To innovate / To develop something new",
+        "cn": "创新 / 开发新东西 (chuàngxīn / kāifā xīn dōngxi)",
+        "bm_formal": "Menginovasi / Membangunkan sesuatu yang baharu",
+        "bm_casual": "Cipta benda baru / Buat inovasi"
+      }
+    },
+    {
+      "concept": "Digital transformation",
+      "expressions": {
+        "en": "Digital transformation",
+        "cn": "数字化转型 (shùzìhuà zhuǎnxíng)",
+        "bm_formal": "Transformasi digital",
+        "bm_casual": "Tukar jadi digital / Perubahan digital"
+      }
+    },
+    {
+      "concept": "To be tech-savvy / proficient in technology",
+      "expressions": {
+        "en": "To be tech-savvy / Proficient in technology",
+        "cn": "精通科技 (jīngtōng kējì) / 懂科技 (dǒng kējì)",
+        "bm_formal": "Mahir teknologi / Celik teknologi",
+        "bm_casual": "Pandai guna teknologi / Tahu IT"
+      }
+    },
+    {
+      "concept": "Sustainable development",
+      "expressions": {
+        "en": "Sustainable development",
+        "cn": "可持续发展 (kěchíxù fāzhǎn)",
+        "bm_formal": "Pembangunan lestari / Pembangunan mampan",
+        "bm_casual": "Pembangunan kekal / Pembangunan yang tahan lama"
+      }
+    },
+    {
+      "concept": "To troubleshoot / solve a technical issue",
+      "expressions": {
+        "en": "To troubleshoot / To solve a technical issue",
+        "cn": "排除故障 (páichú gùzhàng) / 解决技术问题 (jiějué jìshù wèntí)",
+        "bm_formal": "Menyelesaikan masalah teknikal / Mencari penyelesaian masalah",
+        "bm_casual": "Betulkan masalah teknikal / Selesaikan isu teknikal"
+      }
+    },
+    {
+      "concept": "User experience (UX)",
+      "expressions": {
+        "en": "User experience (UX)",
+        "cn": "用户体验 (yònghù tǐyàn)",
+        "bm_formal": "Pengalaman pengguna",
+        "bm_casual": "Pengalaman guna / Apa yang pengguna rasa"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are in a team meeting discussing the company's next steps. Your manager asks for ideas on how to stay competitive and improve efficiency.",
+      "key_phrases": [
+        "Kita perlu **menginovasi** produk sedia ada kita.",
+        "Proses **transformasi digital** syarikat mesti dipercepatkan.",
+        "Penting untuk semua staf **mahir teknologi** terkini."
+      ]
+    },
+    "life": {
+      "scenario": "You're chatting with a friend about community efforts and dealing with everyday tech problems at home.",
+      "key_phrases": [
+        "Program **pembangunan lestari** di kawasan kita sangat penting untuk masa depan.",
+        "Anak saya memang **pandai guna teknologi**, lagi cepat belajar daripada saya!",
+        "Saya tak tahu macam mana nak **betulkan masalah teknikal** pada WiFi rumah."
+      ]
+    },
+    "tech": {
+      "scenario": "You are a product manager discussing the development of a new mobile application with your design and engineering team.",
+      "key_phrases": [
+        "Fokus utama kita adalah **pengalaman pengguna** yang lancar.",
+        "Bagaimana kita boleh **membangunkan sesuatu yang baharu** yang menarik perhatian?",
+        "Kita perlu cepat **menyelesaikan masalah teknikal** yang dilaporkan pengguna."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "What is the formal Malay term for 'to innovate'?",
+      "answer": "Menginovasi"
+    },
+    {
+      "question": "How do you say 'digital transformation' in Malay?",
+      "answer": "Transformasi digital"
+    },
+    {
+      "question": "Provide a formal Malay phrase for 'to be tech-savvy'.",
+      "answer": "Mahir teknologi / Celik teknologi"
+    },
+    {
+      "question": "What is 'sustainable development' in formal Malay?",
+      "answer": "Pembangunan lestari / Pembangunan mampan"
+    },
+    {
+      "question": "How would you casually say 'to troubleshoot a technical issue' in Malay?",
+      "answer": "Betulkan masalah teknikal / Selesaikan isu teknikal"
+    },
+    {
+      "question": "What is the formal Malay equivalent for 'user experience (UX)'?",
+      "answer": "Pengalaman pengguna"
+    }
+  ]
+}
