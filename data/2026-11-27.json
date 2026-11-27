@@ -1,0 +1,114 @@
+{
+  "theme": "Office Communication",
+  "vocabulary_focus": [
+    {
+      "concept": "Let's discuss this / Let's talk about it",
+      "expressions": {
+        "en": "Let's discuss this.",
+        "cn": "我们来讨论一下。",
+        "bm_formal": "Mari kita bincangkan perkara ini.",
+        "bm_casual": "Jom bincang pasal ni."
+      }
+    },
+    {
+      "concept": "Please send me the report",
+      "expressions": {
+        "en": "Please send me the report.",
+        "cn": "请把报告发给我。",
+        "bm_formal": "Sila hantar laporan itu kepada saya.",
+        "bm_casual": "Boleh tak hantar report tu kat saya?"
+      }
+    },
+    {
+      "concept": "I'll get back to you / I'll update you",
+      "expressions": {
+        "en": "I'll get back to you / I'll update you.",
+        "cn": "我会回复你 / 我会通知你最新进展。",
+        "bm_formal": "Saya akan maklumkan semula kepada anda.",
+        "bm_casual": "Nanti saya update awak."
+      }
+    },
+    {
+      "concept": "Could you please clarify? / Can you explain again?",
+      "expressions": {
+        "en": "Could you please clarify?",
+        "cn": "你能再解释一下吗？",
+        "bm_formal": "Boleh anda jelaskan dengan lebih lanjut?",
+        "bm_casual": "Boleh tak terang lagi?"
+      }
+    },
+    {
+      "concept": "Thank you for your cooperation / Thanks for helping",
+      "expressions": {
+        "en": "Thank you for your cooperation.",
+        "cn": "谢谢你的合作。",
+        "bm_formal": "Terima kasih atas kerjasama anda.",
+        "bm_casual": "Thanks sebab tolong."
+      }
+    },
+    {
+      "concept": "Let's schedule a meeting",
+      "expressions": {
+        "en": "Let's schedule a meeting.",
+        "cn": "我们安排个会议吧。",
+        "bm_formal": "Mari kita aturkan satu mesyuarat.",
+        "bm_casual": "Jom set meeting."
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "Your team needs to discuss a new project proposal and define roles. The manager initiates the discussion and assigns tasks.",
+      "key_phrases": [
+        "Mari kita bincangkan perkara ini.",
+        "Sila hantar laporan itu kepada saya.",
+        "Saya akan maklumkan semula kepada anda.",
+        "Terima kasih atas kerjasama anda.",
+        "Mari kita aturkan satu mesyuarat."
+      ]
+    },
+    "life": {
+      "scenario": "You're planning a trip with friends or family, and there are some details that need clarification or follow-up regarding activities or timings.",
+      "key_phrases": [
+        "Jom bincang pasal ni.",
+        "Boleh tak terang lagi?",
+        "Nanti saya update awak.",
+        "Thanks sebab tolong."
+      ]
+    },
+    "tech": {
+      "scenario": "You're collaborating on a new app feature or troubleshooting a software bug with a colleague online, requiring data or a follow-up call.",
+      "key_phrases": [
+        "Boleh tak hantar report tu kat saya?",
+        "Nanti saya update awak.",
+        "Jom set meeting."
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you formally say 'Let's discuss this' in Malay?",
+      "answer": "Mari kita bincangkan perkara ini."
+    },
+    {
+      "question": "How would you casually ask someone to 'send the report' in Malay?",
+      "answer": "Boleh tak hantar report tu kat saya?"
+    },
+    {
+      "question": "What's the formal Malay way to say 'I'll update you'?",
+      "answer": "Saya akan maklumkan semula kepada anda."
+    },
+    {
+      "question": "How do you casually ask 'Can you explain again?' in Malay?",
+      "answer": "Boleh tak terang lagi?"
+    },
+    {
+      "question": "Your colleague helped you a lot. How do you casually thank them for their help in Malay?",
+      "answer": "Thanks sebab tolong."
+    },
+    {
+      "question": "How do you say 'Let's schedule a meeting' in casual Malay?",
+      "answer": "Jom set meeting."
+    }
+  ]
+}
