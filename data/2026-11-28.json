@@ -1,0 +1,110 @@
+{
+  "theme": "Daily Life: Essential Interactions",
+  "vocabulary_focus": [
+    {
+      "concept": "Checking understanding",
+      "expressions": {
+        "en": "Do you understand? / Is it clear?",
+        "cn": "明白吗？/ 清楚吗？",
+        "bm_formal": "Adakah anda faham? / Adakah ini jelas?",
+        "bm_casual": "Faham tak? / Jelas tak?"
+      }
+    },
+    {
+      "concept": "Confirming understanding / Agreement",
+      "expressions": {
+        "en": "Understood. / Got it. / Okay.",
+        "cn": "明白了。/ 好的。",
+        "bm_formal": "Saya faham. / Baiklah.",
+        "bm_casual": "Faham. / Okay."
+      }
+    },
+    {
+      "concept": "Requesting assistance",
+      "expressions": {
+        "en": "Could you help me? / I need help.",
+        "cn": "你能帮我吗？/ 我需要帮助。",
+        "bm_formal": "Bolehkah anda membantu saya? / Saya memerlukan bantuan.",
+        "bm_casual": "Boleh tolong saya? / Nak mintak tolong."
+      }
+    },
+    {
+      "concept": "Expressing strong gratitude",
+      "expressions": {
+        "en": "Thank you very much. / Many thanks.",
+        "cn": "非常感谢。",
+        "bm_formal": "Terima kasih banyak-banyak.",
+        "bm_casual": "Terima kasih banyak."
+      }
+    },
+    {
+      "concept": "Apologizing / Excuse me (for interruption)",
+      "expressions": {
+        "en": "I'm sorry. / Excuse me.",
+        "cn": "对不起。/ 不好意思。",
+        "bm_formal": "Saya minta maaf. / Harap maaf.",
+        "bm_casual": "Maaf. / Sorry."
+      }
+    },
+    {
+      "concept": "Asking for permission to do something",
+      "expressions": {
+        "en": "May I? / Can I?",
+        "cn": "我可以吗？",
+        "bm_formal": "Bolehkah saya? / Izinkan saya?",
+        "bm_casual": "Boleh saya?"
+      }
+    }
+  ],
+  "practice_scenarios": {
+    "work": {
+      "scenario": "You are conducting a quick briefing for your team on a new task, ensuring everyone is on the same page.",
+      "key_phrases": [
+        "Okay, **jelas tak** tentang tugasan baru ini?",
+        "Ada apa-apa soalan? Semua **faham**?",
+        "Baiklah, kalau ada masalah, **boleh tolong saya** nanti ya."
+      ]
+    },
+    "life": {
+      "scenario": "You are at a local market, asking a vendor about a specific item and then thanking them after purchasing.",
+      "key_phrases": [
+        "**Maaf**, **boleh saya tanya** harga durian ini?",
+        "Oh, **faham**. **Terima kasih banyak**!"
+      ]
+    },
+    "tech": {
+      "scenario": "You are trying to troubleshoot a software issue with a friend over the phone, guiding them through steps.",
+      "key_phrases": [
+        "Okay, dah cuba 'restart' app tu? **Faham tak** langkah-langkahnya?",
+        "Cuba ikut arahan ni, **boleh saya** lihat skrin awak?",
+        "Kalau dah okay, **terima kasih banyak**!"
+      ]
+    }
+  },
+  "quiz_toggle": [
+    {
+      "question": "How do you ask 'Do you understand?' casually in Malay?",
+      "answer": "Faham tak?"
+    },
+    {
+      "question": "What's a casual way to say 'Understood' or 'Got it' in Malay?",
+      "answer": "Faham."
+    },
+    {
+      "question": "How do you politely ask 'Can you help me?' in casual Malay?",
+      "answer": "Boleh tolong saya?"
+    },
+    {
+      "question": "How do you say 'Thank you very much' in casual Malay?",
+      "answer": "Terima kasih banyak."
+    },
+    {
+      "question": "What's the casual Malay word for 'Sorry' or 'Excuse me' (for interruption)?",
+      "answer": "Maaf."
+    },
+    {
+      "question": "How do you ask 'May I ask?' in casual Malay?",
+      "answer": "Boleh saya tanya?"
+    }
+  ]
+}
